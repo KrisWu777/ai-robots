@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-01",
+  "featured": {
+    "id": "featured-0401",
+    "title": "Amazon Acquires Two Robotics Startups in One Month — Rivr and Fauna Robotics",
+    "summary": "Amazon has completed acquisitions of both Rivr (stair-climbing delivery robot) and Fauna Robotics (child-size social humanoid Sprout) within the same month, signaling an aggressive expansion from pure warehouse automation into homes and last-mile delivery. Analysts estimate combined deal value at over $400 million.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+    "tags": ["Amazon", "Acquisition", "Strategy", "Humanoid"],
+    "timestamp": "2026-03-25T00:53:39Z"
+  },
+  "articles": [
+    {
+      "id": "0401-001",
+      "title": "Researchers Build Robotic Swarm With No Electronics, No Batteries, No Brains",
+      "summary": "Georgia Tech's new purely mechanical swarm achieves collective behavior emergent from physical shape interactions alone. The research challenges core assumptions about swarm intelligence and opens a path to ultra-cheap, mass-deployable robotic collectives for environmental monitoring.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["Swarm", "Georgia Tech", "Mechanical", "Emergent"],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0401-002",
+      "title": "LLM + ROS: Natural Language Robot Control Is Now a Reality for Non-Expert Operators",
+      "summary": "A new ROS middleware bridge to large language models allows anyone to command industrial robots using plain English — no programming required. The system interprets ambiguous instructions, asks clarifying questions, and generates safe action sequences in real time.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html",
+      "tags": ["LLM", "ROS", "Natural Language", "Human-Robot"],
+      "timestamp": "2026-04-01T08:10:01Z"
+    },
+    {
+      "id": "0401-003",
+      "title": "Flexible Robot Control Framework Cuts Path-Planning Math by 80% for Pipe Inspection",
+      "summary": "A new kinematic control framework for soft and continuum robots reduces computation by 80%, enabling real-time navigation inside narrow pipes, blood vessels, and irregular cavities. The approach has been validated in endoscopy robot prototypes and gas pipeline inspection systems.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": ["Soft Robotics", "Pipeline", "Control", "Medical"],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0401-004",
+      "title": "DNA Nanorobots: Molecular Machines That Hunt Viruses and Deliver Cancer Drugs",
+      "summary": "Engineering teams at MIT and Caltech are developing programmable DNA nanobots capable of identifying specific cell types, attaching to them, and releasing therapeutic payloads with sub-cellular precision. Animal trials show 10x better drug delivery efficiency compared to nanoparticle approaches.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["Nanorobots", "Medical", "Cancer", "Drug Delivery"],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0401-005",
+      "title": "FedEx Bets Big on Partner Robots: Berkshire Gray Deal Covers All 650 US Facilities",
+      "summary": "Instead of building its own robotics division, FedEx has signed Berkshire Gray to provide AI-powered sorting, picking, and parcel handling robots to every US facility. The multi-year partnership is projected to eliminate 12,000 repetitive manual roles while reducing package mis-sorts by 95%.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+      "tags": ["FedEx", "Logistics", "Berkshire Gray", "Automation"],
+      "timestamp": "2026-03-31T15:46:50Z"
+    },
+    {
+      "id": "0401-006",
+      "title": "Nomadic Turns AV and Robot Video Into Clean Training Datasets — Raises $8.4M",
+      "summary": "With $8.4 million in new funding, Nomadic is building the data infrastructure layer for the physical AI era: converting raw robot and autonomous vehicle footage into clean, labeled, queryable datasets that teams can use to train and evaluate models without manual annotation.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": ["Startup", "Data", "Training", "Physical AI"],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0401-007",
+      "title": "Physical Intelligence Reportedly in Talks for $1B Round to Double Its Valuation",
+      "summary": "π (Physical Intelligence) is in talks with Thrive Capital, Founders Fund, and Lachy Groom for a $1 billion round that would push its valuation to $11.2 billion in less than a year. The round would fund commercialization of the π0 model across partner robot OEMs.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "tags": ["Physical Intelligence", "Funding", "Foundation Model"],
+      "timestamp": "2026-03-27T23:59:40Z"
+    },
+    {
+      "id": "0401-008",
+      "title": "Video Friday: Roadrunner Bipedal Bot Achieves 5m/s With Hybrid Wheel-Leg System",
+      "summary": "Roadrunner is a bipedal robot with retractable wheels in its feet, allowing it to switch between walking and wheeled rolling depending on terrain. In flat environments it hits 5m/s — among the fastest legged robots ever demonstrated — while retaining full stair-climbing capability.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/roadrunner-bipedal-robot",
+      "video": "https://www.youtube.com/watch?v=tF4DML7FIWk",
+      "tags": ["Bipedal", "Speed", "Wheeled", "Locomotion"],
+      "timestamp": "2026-03-27T16:30:03Z"
+    },
+    {
+      "id": "0401-009",
+      "title": "Tiny 3D-Printed Robots Navigate Without Sensors or Software — Pure Physics",
+      "summary": "Leiden University has demonstrated microscopic 3D-printed robots that achieve directional swimming and navigation using only the physical properties of their shape and material — zero electronics, zero code. The work could enable billions of cheap, disposable environmental sensor bots.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": ["Microrobots", "3D Print", "Passive", "Leiden"],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0401-010",
+      "title": "Disaster Robots Get Faster Maps: Real-Time 3D Point Cloud Processing Breakthrough",
+      "summary": "New algorithms built on sparse tensor convolutions and learned feature matching allow rescue robots to build accurate 3D maps of disaster environments 10x faster than previous SLAM approaches. The system runs in real time on edge hardware already available in commercial robot platforms.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": ["SLAM", "3D Mapping", "Disaster", "Edge Computing"],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0401-011",
+      "title": "Harvard's Imagination AI: Robots Plan by Generating Videos of Their Own Futures",
+      "summary": "Harvard's new video diffusion world model allows robots to plan multi-step tasks by generating a mental video of each possible action sequence. The robot picks the plan whose imagined outcome best matches its goal — achieving state-of-the-art performance on 23 manipulation benchmarks.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-video-based-ai-robots-visual.html",
+      "tags": ["World Model", "Planning", "Harvard", "Diffusion"],
+      "timestamp": "2026-03-26T10:20:03Z"
+    },
+    {
+      "id": "0401-012",
+      "title": "Warehouse Robot Traffic Jam Solution Boosts Amazon Throughput 25% in Simulation",
+      "summary": "A multi-agent reinforcement learning controller trained in a high-fidelity Amazon warehouse simulation learned to proactively prevent robot congestion by predicting traffic bottlenecks 30 seconds in advance. Amazon plans to begin real-world pilots in Q3 2026.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": ["Warehouse", "Amazon", "MARL", "Efficiency"],
+      "timestamp": "2026-03-26T09:30:01Z"
+    },
+    {
+      "id": "0401-013",
+      "title": "Lucid Bots Raises $20M: Demand Explodes for Window-Washing and Power-Washing Drones",
+      "summary": "Commercial building owners are rapidly adopting Lucid Bots' cleaning drones as labor costs and safety regulations make manual high-altitude cleaning increasingly impractical. The $20M Series B will fund manufacturing expansion and development of a new facade repair drone.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "tags": ["Drones", "Cleaning", "Commercial", "Funding"],
+      "timestamp": "2026-03-25T11:00:00Z"
+    },
+    {
+      "id": "0401-014",
+      "title": "Air-Powered Robots Lift 100x Their Weight: Arizona State's Pneumatic Breakthrough",
+      "summary": "Arizona State University's new pneumatic 'super-muscles' use compressed air and bio-inspired geometry to achieve force-to-weight ratios 100x better than human muscle. The actuators survive boiling water, acid, and abrasives — making them candidates for harsh industrial and space environments.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": ["Actuator", "Pneumatic", "Arizona State", "Strength"],
+      "timestamp": "2026-04-02T11:20:06Z"
+    },
+    {
+      "id": "0401-015",
+      "title": "Tomato-Harvesting Robot Learns to Prioritize Easy Picks, Boosts Yield 35%",
+      "summary": "A difficulty-aware harvesting algorithm transforms agricultural robot performance by predicting which fruits will be easiest to pick before committing to an approach. The technique generalizes beyond tomatoes and has been successfully tested on strawberries and bell peppers.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["AgriRobotics", "Harvest", "Planning", "Food"],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0401-016",
+      "title": "Gecko Robotics' Navy Deal: Wall-Climbing Robots to Inspect Every US Warship",
+      "summary": "Gecko Robotics' magnetically-adhesive wall-climbing robots will inspect the hull and structural integrity of every US Navy vessel class under a new five-year contract. The bots collect ultrasound thickness readings 10x faster than human divers, enabling predictive rather than reactive maintenance.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Navy", "Military", "Inspection", "Climbing Robot"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0401-017",
+      "title": "Fraunhofer's 5-Level Humanoid Standard: The SAE Levels for Robot Autonomy",
+      "summary": "Germany's Fraunhofer HNFIZ has published the first standardized five-level capability classification for humanoid robots, covering mobility, manipulation, and cognitive autonomy. Level 5 — full cognitive autonomy — currently has zero commercial robots, providing a clear roadmap target for the industry.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["Humanoid", "Standards", "Autonomy", "Fraunhofer"],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0401-018",
+      "title": "Neural Network Gait Model Replicates Horse, Dog, and Cat Movement — Boosting Quadruped Robots",
+      "summary": "A bio-inspired neural network that accurately models quadruped animal locomotion across walking, trotting, and galloping gaits is being used to improve the motion quality of legged robots. The model also handles automatic gait transitions — a long-standing challenge in legged robot control.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-artificial-neural-network-gait-patterns.html",
+      "tags": ["Quadruped", "Locomotion", "Bio-Inspired", "Gait"],
+      "timestamp": "2026-03-23T17:20:08Z"
+    },
+    {
+      "id": "0401-019",
+      "title": "Insect-Inspired Odor-Tracking Robot Works Even With Sensor Damage",
+      "summary": "A fault-tolerant odor-tracking robot inspired by insect olfaction can locate gas leaks and explosives reliably even when operating with one of its two sensor arrays disabled. Field tests in industrial environments show consistent accuracy under real-world conditions.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": ["Olfactory", "Gas Detection", "Fault Tolerance", "Bio-Inspired"],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0401-020",
+      "title": "Military Drone Lessons From Ukraine Are Reshaping Self-Driving Car Safety Standards",
+      "summary": "IEEE Spectrum analysis shows how the adversarial AI navigation techniques pioneered in Ukrainian drone warfare — spoofing resistance, jamming-resilient navigation, autonomous threat assessment — are being adapted for civilian self-driving car systems to handle GPS denial and sensor attacks.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/military-drones-self-driving-cars",
+      "tags": ["Military", "Self-Driving", "Security", "Navigation"],
+      "timestamp": "2026-03-02T12:00:02Z"
+    },
+    {
+      "id": "0401-021",
+      "title": "Bird-Like Ornithopter Drone Is 3x More Efficient Than a Quadrotor at Low Speed",
+      "summary": "Rutgers University's flapping-wing ornithopter robot achieves three times the energy efficiency of a quadrotor at speeds under 5m/s, making it ideal for long-duration wildlife monitoring missions. The wing design is inspired by peregrine falcon anatomy and optimized through 10,000 hours of CFD simulation.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["Ornithopter", "Bio-Inspired", "Efficiency", "Wildlife"],
+      "timestamp": "2026-03-23T13:20:02Z"
+    }
+  ]
+}

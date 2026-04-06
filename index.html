@@ -1,44 +1,133 @@
-﻿<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="zh-CN">
 <head>
-<meta charset="utf-8">
-<meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="HandheldFriendly" content="True">
-<meta name="apple-touch-fullscreen" content="yes" />
-<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.01, minimal-ui" />
-<title>Gogo Cars</title>
-<meta name="keywords" content="HTML5,Cars,games" />
-<style>
-		body {
-			margin: 0px;
-			padding: 0px;
-			width: 100%;
-			background-color:black;
-		}	
-
-		canvas {	
-			-ms-touch-action: none;
-			image-rendering: -o-crisp-edges;           
-			image-rendering: optimize-contrast;        
-			-ms-interpolation-mode: nearest-neighbor;  
-			-webkit-tap-highlight-color: rgba(0,0,0,0);
-			-moz-tap-highlight-color: rgba(0,0,0,0);
-			tap-highlight-color: rgba(0,0,0,0);
-			user-select: none;
-			-webkit-touch-callout: none;
-			-webkit-user-select: none;
-			-moz-user-select: none;
-			-ms-user-select: none;
-		} 
-	</style>
-<script src="viewporter.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ROBO//NEWS — Global Robotics Intelligence Feed</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,500;0,700;1,400&family=Share+Tech+Mono&display=swap" rel="stylesheet">
 </head>
 <body>
-<div id="viewporter">
-<canvas id="canvas" moz-opaque></canvas>
-</div>
+  <!-- Terminal scanline overlay -->
+  <div class="scanlines" aria-hidden="true"></div>
+
+  <!-- Header / Navigation -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo-block">
+        <span class="logo-prompt">$</span>
+        <span class="logo-text">ROBO<span class="logo-sep">//</span>NEWS</span>
+        <span class="logo-cursor">█</span>
+      </div>
+      <nav class="nav-bar" id="navBar">
+        <a href="index.html" class="nav-link active" data-cmd="--home">HOME</a>
+        <a href="archive.html" class="nav-link" data-cmd="--archive">ARCHIVE</a>
+        <a href="about.html" class="nav-link" data-cmd="--about">ABOUT</a>
+      </nav>
+      <div class="header-meta">
+        <span class="status-dot"></span>
+        <span id="headerDate" class="header-date">LOADING...</span>
+        <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+    <!-- Terminal command bar -->
+    <div class="cmd-bar">
+      <span class="cmd-prefix">robo-news@feed:~$</span>
+      <span class="cmd-text" id="cmdText">loading latest intelligence...</span>
+      <span class="cmd-blink">_</span>
+    </div>
+  </header>
+
+  <!-- Main content -->
+  <main class="main-content" id="mainContent">
+
+    <!-- Date selector -->
+    <div class="date-selector-bar">
+      <span class="ds-label">// FEED_DATE:</span>
+      <div class="date-tabs" id="dateTabs"></div>
+    </div>
+
+    <!-- Featured article -->
+    <section class="featured-section" id="featuredSection">
+      <div class="section-header">
+        <span class="section-tag">[ FEATURED ]</span>
+        <span class="section-line"></span>
+        <span class="section-badge">HOT</span>
+      </div>
+      <article class="featured-card" id="featuredCard">
+        <div class="featured-skeleton">
+          <div class="sk-line sk-title"></div>
+          <div class="sk-line sk-body"></div>
+          <div class="sk-line sk-body sk-short"></div>
+        </div>
+      </article>
+    </section>
+
+    <!-- News feed -->
+    <section class="feed-section">
+      <div class="section-header">
+        <span class="section-tag">[ FEED ]</span>
+        <span class="section-line"></span>
+        <span class="feed-count" id="feedCount">-- articles</span>
+      </div>
+
+      <div class="news-list" id="newsList">
+        <!-- Populated by JS -->
+      </div>
+
+      <!-- Pagination -->
+      <div class="pagination" id="pagination">
+        <button class="page-btn" id="prevBtn" disabled>
+          <span class="btn-prefix">&lt;&lt;</span> PREV
+        </button>
+        <div class="page-info">
+          <span class="page-current" id="pageNum">01</span>
+          <span class="page-sep">/</span>
+          <span class="page-total" id="pageTotal">01</span>
+        </div>
+        <button class="page-btn" id="nextBtn">
+          NEXT <span class="btn-suffix">&gt;&gt;</span>
+        </button>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span class="footer-txt">// ROBO//NEWS v2.6.0</span>
+      <span class="footer-status">
+        <span class="status-dot"></span> FEED ACTIVE
+      </span>
+    </div>
+  </footer>
+
+  <!-- Detail modal -->
+  <div class="modal-overlay" id="modalOverlay" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-panel" id="modalPanel">
+      <div class="modal-header">
+        <div class="modal-drag-bar" aria-hidden="true"></div>
+        <div class="modal-controls">
+          <button class="modal-close btn-close" id="modalClose" aria-label="Close">✕ CLOSE</button>
+        </div>
+        <div class="modal-cmd-bar">
+          <span class="cmd-prefix">robo-news@article:~$</span>
+          <span class="cmd-text" id="modalCmd">cat article.md</span>
+        </div>
+      </div>
+      <div class="modal-body" id="modalBody">
+        <!-- Content injected by JS -->
+      </div>
+    </div>
+  </div>
+
+  <script src="js/news-data-bundle.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
 </body>
-<script src="TweenMax.min.js"></script>
-<script src="howler.js"></script>
-<script src="app.js"></script>
 </html>

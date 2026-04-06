@@ -1,0 +1,236 @@
+{
+  "date": "2026-04-05",
+  "featured": {
+    "id": "featured-0405",
+    "title": "Studying Human Attitudes Towards Robots Through Real-World Experience With Boston Dynamics Spot",
+    "summary": "A landmark study at the Robotics & AI Institute tracked how hundreds of families interacted with Boston Dynamics' Spot over six months, uncovering patterns in trust, fear, and anthropomorphization. The data is reshaping how designers approach robot aesthetics and social behavior.",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+    "tags": ["Boston Dynamics", "HRI", "User Research"],
+    "timestamp": "2026-04-05T13:00:01Z"
+  },
+  "articles": [
+    {
+      "id": "0405-001",
+      "title": "Gill Pratt Says Humanoid Robots' Moment Is Finally Here",
+      "summary": "Toyota Research Institute CEO Gill Pratt — the former DARPA robotics program manager — argues in a new IEEE Spectrum interview that the confluence of better AI, cheaper actuators, and improved batteries has created conditions for humanoid robots to deliver real economic value for the first time.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": ["Humanoid", "Toyota", "DARPA", "Industry Analysis"],
+      "timestamp": "2026-04-02T15:00:02Z"
+    },
+    {
+      "id": "0405-002",
+      "title": "Scientists Build Living Robots With Nervous Systems",
+      "summary": "Researchers have created 'NeuroBot' — living robots assembled from biological cells that include functional nervous system-like structures capable of sensing and generating coordinated movement. The findings were published in Nature and blur the line between engineered robot and living organism.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/neurobot-living-robot-nervous-system",
+      "tags": ["Living Robots", "Biohybrid", "Nature"],
+      "timestamp": "2026-04-02T13:00:01Z"
+    },
+    {
+      "id": "0405-003",
+      "title": "Physical Intelligence Is Reportedly in Talks to Raise $1B Again",
+      "summary": "Physical Intelligence (π), the general-purpose robot learning startup, is in advanced talks to raise a $1 billion round that would effectively double its $5.6 billion valuation in just four months. The company's π0 foundation model has been licensed to multiple robotics OEMs.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "tags": ["Physical Intelligence", "Funding", "Foundation Model"],
+      "timestamp": "2026-03-27T23:59:40Z"
+    },
+    {
+      "id": "0405-004",
+      "title": "Alive or Not? Tiny 3D-Printed Robots That Swim and Navigate Just Like Animals",
+      "summary": "Leiden University researchers Professor Daniela Kraft and Mengshi Wei have created microscopic robots that move without sensors, software, or external control. Their behavior emerges entirely from physical geometry and material properties, mimicking how simple aquatic organisms navigate.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": ["Microrobots", "3D Printing", "Leiden University"],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0405-005",
+      "title": "Video Friday: Roadrunner Bipedal Bot Breaks the Mold",
+      "summary": "This week's Video Friday highlights Roadrunner, a novel bipedal robot that uses a wheeled hybrid locomotion system to achieve speeds of up to 5m/s on flat terrain while maintaining stability on stairs and rough ground — a fundamental departure from classic walking robot design.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/roadrunner-bipedal-robot",
+      "video": "https://www.youtube.com/watch?v=tF4DML7FIWk",
+      "tags": ["Bipedal", "Locomotion", "Speed"],
+      "timestamp": "2026-03-27T16:30:03Z"
+    },
+    {
+      "id": "0405-006",
+      "title": "Digital Twins to Rescue Robots: What Faster 3D Point Cloud Processing Enables",
+      "summary": "New algorithms cut 3D point cloud processing time from seconds to milliseconds, enabling robots to build and update digital twin maps of their environment in real time. The breakthrough is critical for rescue robots navigating collapsed structures where conditions change dynamically.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": ["Digital Twin", "3D Mapping", "Search and Rescue"],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0405-007",
+      "title": "Melania Trump Wants a Robot to Homeschool Your Child",
+      "summary": "The First Lady has endorsed Figure AI's humanoid robot as a potential AI-powered homeschool tutor, envisioning robots that personalize curriculum and provide one-on-one instruction. The comments have sparked widespread debate about robots in education and child development.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "tags": ["Figure AI", "Education", "Humanoid"],
+      "timestamp": "2026-03-25T18:55:41Z"
+    },
+    {
+      "id": "0405-008",
+      "title": "Lucid Bots Raises $20M to Keep Up With Demand for Its Window-Washing Drones",
+      "summary": "Lucid Bots, maker of autonomous drones that clean skyscraper windows and power-wash building exteriors, has raised a $20 million Series B to scale production. Demand has accelerated as building owners face rising labor costs for dangerous high-altitude maintenance work.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "tags": ["Drones", "Startup", "Funding", "Cleaning"],
+      "timestamp": "2026-03-25T11:00:00Z"
+    },
+    {
+      "id": "0405-009",
+      "title": "Amazon Buys Fauna Robotics, Maker of the Sprout Humanoid Robot",
+      "summary": "Amazon has acquired Fauna Robotics, the startup behind Sprout — a friendly, child-sized humanoid designed for social spaces like homes and hospitals. The acquisition, Amazon's second robotics purchase this month, signals the company's push into domestic and healthcare robotics.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": ["Amazon", "Acquisition", "Humanoid", "Fauna Robotics"],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0405-010",
+      "title": "Agile Robots Partners With Google DeepMind for Foundation Model Integration",
+      "summary": "German-Chinese robotics company Agile Robots has signed a partnership with Google DeepMind to integrate robotics foundation models into its humanoid platforms. In return, Agile Robots will contribute real-world task demonstration data to DeepMind's training datasets.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": ["Agile Robots", "Google DeepMind", "Foundation Model"],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0405-011",
+      "title": "Drones Paired With AI Could Help Search-and-Rescue Teams Find Missing Persons Faster",
+      "summary": "A multi-sensor drone system combining infrared, thermal, and color cameras with an AI analysis system can dramatically accelerate search and rescue operations. Field tests showed the system locating missing persons up to 4x faster than ground teams alone.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["Drones", "Search and Rescue", "Thermal Imaging"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0405-012",
+      "title": "Five-Level Model Rates Humanoid Robots Across Mobility, Manipulation and Cognition",
+      "summary": "Fraunhofer HNFIZ researchers have published a new standardized evaluation framework that classifies humanoid robots into five capability levels across mobility, manipulation dexterity, and cognitive autonomy — similar to SAE's levels for autonomous vehicles.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["Humanoid", "Fraunhofer", "Standards", "Evaluation"],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0405-013",
+      "title": "Bird-Like Robots Promise Greater Flexibility and Control Than Drones",
+      "summary": "Rutgers University engineers have created a bird-inspired flapping-wing robot whose wings flex and twist in real time to handle crosswinds and turbulence. The design achieves 3x better energy efficiency than equivalent quadrotor drones at low speeds.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["Flapping Wing", "Bio-Inspired", "Rutgers", "Drones"],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0405-014",
+      "title": "Insect-Inspired Robot Tracks Odors Even With Only One Working 'Antenna'",
+      "summary": "A bio-inspired robot modeled on insect olfactory systems can locate odor sources — gas leaks, explosives, missing persons — both indoors and outdoors. The system maintains consistent accuracy even when one of its two sensor units fails, a critical feature for real-world deployment.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": ["Olfactory", "Bio-Inspired", "Search Robot"],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0405-015",
+      "title": "Radiation-Hardened Wi-Fi Chip Survives 500 kGy for Nuclear Decommissioning Robots",
+      "summary": "A new radiation-hardened Wi-Fi chip designed for nuclear plant decommissioning robots can survive 500 kilogray of ionizing radiation — equivalent to 250 million dental X-rays. The chip enables wireless robot control inside active reactors, replacing dangerous tethered cable systems.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": ["Nuclear", "Radiation", "Wi-Fi", "Decommissioning"],
+      "timestamp": "2026-03-23T13:00:09Z"
+    },
+    {
+      "id": "0405-016",
+      "title": "How Chicago Robot Tutors Are Teaching Social-Emotional Learning Without Pretending to Be Human",
+      "summary": "In Chicago fourth-grade classrooms, robots are teaching empathy and conflict resolution while being transparent about being machines. The approach avoids the 'uncanny valley' of overly humanoid interactions and achieves better learning outcomes by maintaining clear robot-student boundaries.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": ["Education", "Social Robots", "SEL", "Chicago"],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0405-017",
+      "title": "Smarter, Faster, More Human: AI System Helps Robots Outpace Their Human Teachers",
+      "summary": "A new imitation learning framework allows robots to not only replicate demonstrated tasks but improve on them — executing learned motions up to 30% faster than the human demonstrator after just 10 practice trials. The key is an AI system that identifies and eliminates inefficiencies in human demonstrations.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": ["Imitation Learning", "Robot Learning", "AI"],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0405-018",
+      "title": "Wind-Powered Robot Enables Long-Term Exploration of Hostile Environments",
+      "summary": "Cranfield University's WANDER-bot is a low-cost, 3D-printed robot powered entirely by wind energy, designed for long-duration autonomous monitoring in deserts, tundra, and volcanic regions. Without batteries or solar panels, WANDER-bot can operate indefinitely in windy environments.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["Wind Power", "Exploration", "Cranfield", "Energy"],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0405-019",
+      "title": "30 Years Ago, Robots Learned to Walk Without Falling — Honda's P2 Named IEEE Milestone",
+      "summary": "IEEE has designated Honda's P2 humanoid robot — unveiled in 1996 — as an official IEEE Milestone, recognizing it as the first self-contained biped to demonstrate reliable dynamic walking. The P2 laid the technical foundation for virtually every walking robot that followed.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": ["Honda", "History", "IEEE", "Bipedal"],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0405-020",
+      "title": "AI-Powered Robot Learns to Harvest Tomatoes More Efficiently by Predicting Difficulty",
+      "summary": "A new tomato-harvesting robot doesn't just identify ripe fruit — it predicts how hard each tomato will be to pick based on stem angle, cluster density, and leaf occlusion, then prioritizes the easiest targets. This 'difficulty-aware' strategy increased harvest throughput by 35% in greenhouse trials.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["AgriRobotics", "Harvest", "AI Planning"],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0405-021",
+      "title": "DNA Robots Could Deliver Drugs and Hunt Viruses Inside Your Body",
+      "summary": "Researchers are engineering DNA-based nanoscale robots that can navigate the bloodstream, identify target cells, and deliver therapeutic payloads. The programmable machines borrow concepts from traditional robotics — locomotion, sensing, actuation — but operate at the molecular scale.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["Nanorobots", "Medical", "DNA", "Drug Delivery"],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0405-022",
+      "title": "Gecko Robotics Lands the Largest US Navy Robotics Contract Yet",
+      "summary": "Gecko Robotics has signed a five-year contract with the US Navy to monitor and predict maintenance needs across the Navy's entire fleet using wall-climbing inspection robots equipped with ultrasound sensors. The deal is the largest robotics contract in US Navy history.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Military", "Navy", "Inspection", "Gecko Robotics"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    }
+  ]
+}

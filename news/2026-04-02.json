@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-02",
+  "featured": {
+    "id": "featured-0402",
+    "title": "Physical Intelligence's π0 Foundation Model: The Most Capable General-Purpose Robot Brain Yet",
+    "summary": "Physical Intelligence's π0 foundation model, which can control diverse robot types without task-specific fine-tuning, is reportedly being licensed by six major robotics OEMs as the company prepares a $1 billion fundraise. Early results show the model generalizes to new tasks with fewer than 100 demonstrations.",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+    "tags": ["Physical Intelligence", "Foundation Model", "Funding"],
+    "timestamp": "2026-03-27T23:59:40Z"
+  },
+  "articles": [
+    {
+      "id": "0402-001",
+      "title": "Amazon Just Bought Fauna Robotics — Maker of the Sprout Kid-Size Humanoid",
+      "summary": "Amazon's second robotics acquisition in a month brings Fauna Robotics and its Sprout humanoid into the fold. Sprout is designed to be a social companion in homes and hospitals, operating safely around children and the elderly with advanced collision-avoidance and expressive communication.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": ["Amazon", "Fauna Robotics", "Acquisition", "Humanoid"],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0402-002",
+      "title": "Agile Robots Teams With Google DeepMind: Data for Foundation Models, Models for Hardware",
+      "summary": "In a mutually beneficial partnership, Agile Robots will collect millions of task demonstration data points using its humanoid platforms and share them with Google DeepMind. In return, DeepMind's robotics foundation models will be integrated into Agile's next-generation robot platform.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": ["Agile Robots", "Google DeepMind", "Partnership"],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0402-003",
+      "title": "Autonomous Drone Warfare in Ukraine Is Changing What Military Conflict Looks Like",
+      "summary": "Both sides in the Ukraine conflict are deploying thousands of AI-enabled autonomous drones weekly. The pace of technological evolution has outstripped international law, with experts warning that meaningful human control is being eroded as autonomous engagement ranges shrink to seconds.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["Military", "Drones", "Ukraine", "AI Ethics"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0402-004",
+      "title": "Search-and-Rescue Drone With Thermal AI Finds Missing Hikers 4x Faster",
+      "summary": "In partnership with Swiss mountain rescue teams, a new multi-sensor drone combining thermal, infrared, and color cameras with an AI detection engine located missing hikers four times faster than traditional ground searches in simulated Alpine conditions.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["SAR", "Drones", "Mountain Rescue", "Thermal"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0402-005",
+      "title": "Fraunhofer Humanoid Capability Levels: A New Standard for Rating Robot Autonomy",
+      "summary": "The Fraunhofer HNFIZ institute has published a five-level classification system for humanoid robot capabilities, covering mobility, manipulation, and cognitive autonomy. The framework provides manufacturers, regulators, and customers a common language for comparing humanoid systems.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["Humanoid", "Standards", "Fraunhofer", "Autonomy"],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0402-006",
+      "title": "Rutgers Bird-Robot Uses Flexible Wings to Beat Drones on Energy Efficiency",
+      "summary": "Rutgers' ornithopter robot achieves 3x better energy efficiency than equivalent quadrotor drones at speeds below 5m/s by using articulated flapping wings that adapt to wind in real time. The design's unique aerodynamic properties make it particularly effective for wildlife monitoring in dense forests.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["Ornithopter", "Rutgers", "Bio-Inspired", "Energy Efficiency"],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0402-007",
+      "title": "Odor-Tracking Robot Locates Gas Leaks and Explosives With One Broken Sensor",
+      "summary": "A bio-inspired olfactory robot designed for gas leak detection and explosive localization maintains reliable operation even when one of its two sensor arrays fails. The fault-tolerant design is inspired by how insects continue hunting odors after losing one antenna.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": ["Olfactory", "Safety", "Gas Detection", "Fault Tolerance"],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0402-008",
+      "title": "Chicago School Robot Tutors Teach Empathy Without Pretending to Be Human",
+      "summary": "An experiment in 12 Chicago elementary schools uses socially assistive robots to teach social-emotional learning skills. Critically, the robots are transparent about being machines — and research shows this honesty actually improves learning outcomes compared to anthropomorphic robot tutors.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": ["Education", "SEL", "Social Robots", "Ethics"],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0402-009",
+      "title": "WANDER-Bot: A Wind-Powered Robot for Perpetual Extreme-Environment Monitoring",
+      "summary": "Cranfield University's WANDER-bot harvests wind energy to power its locomotion and sensors, enabling indefinite autonomous operation in deserts, tundra, and volcanic terrain. The 3D-printed, $200 design could enable continent-scale environmental monitoring networks.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["Wind Power", "Environment", "Exploration", "Cranfield"],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0402-010",
+      "title": "Robots That Learn Faster Than Their Human Teachers — New Imitation Learning Breakthrough",
+      "summary": "A new 'accelerated imitation learning' framework identifies inefficiencies in human demonstrations and optimizes around them, allowing robots to perform learned tasks up to 30% faster than the demonstrating human after just 10 practice trials.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": ["Imitation Learning", "Robot Learning", "Efficiency"],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0402-011",
+      "title": "Gecko Robotics Wins Largest US Navy Robotics Deal to Inspect Entire Ship Fleet",
+      "summary": "The Navy has awarded Gecko Robotics a five-year contract to deploy wall-climbing inspection robots across every vessel class. The robots use ultrasound, infrared, and visual sensors to continuously monitor hull integrity, weld quality, and corrosion — creating predictive maintenance models.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Navy", "Inspection", "Military", "Gecko Robotics"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0402-012",
+      "title": "Haidilao Restaurant Robot Meltdown Goes Viral: AgiBot Dances Uncontrollably",
+      "summary": "Video of an AgiBot humanoid waiter losing control and dancing erratically at a Haidilao hot pot restaurant in Cupertino has garnered over 40 million views. The company attributed the malfunction to a software update edge case and has since deployed a system-wide patch.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "Restaurant", "Viral", "Failure"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0402-013",
+      "title": "Rivian's RJ Scaringe: Stop Building Humanoid Robots, Build Purpose-Built Machines",
+      "summary": "Rivian CEO and Mind Robotics founder RJ Scaringe argues the robotics industry is making a fundamental mistake by chasing human-shaped robots for factory tasks. His new venture specifically designs robots to match their intended tasks, not human anatomy.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "Industrial", "Opinion"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0402-014",
+      "title": "Mind Robotics Raises $500M for Factory Robots That Learn From Rivian's Own Production Line",
+      "summary": "Rivian spin-out Mind Robotics has raised $500 million to build and deploy AI-powered industrial robots trained directly in Rivian's Gigafactory. The startup has exclusive access to terabytes of factory demonstration data — a significant competitive moat.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "Startup", "Industrial", "Funding"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0402-015",
+      "title": "Qualcomm IQ10 Chips Power Neura Robotics' Next-Generation Humanoid Brain",
+      "summary": "Neura Robotics is building its new humanoid platform around Qualcomm's IQ10 AI processor, which provides 40 TOPS of on-device inference power at under 20 watts. The partnership challenges Nvidia's dominance in the robot computing platform market.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "Chips", "Hardware"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0402-016",
+      "title": "Canopii's Autonomous Robotic Farm Grows 40,000 lbs of Herbs Per Year in a Basketball Court",
+      "summary": "Canopii uses a vertically integrated stack of custom robots — seeding, watering, monitoring, and harvesting — to operate a fully autonomous indoor farm. Unlike previous players who failed on labor costs, Canopii's fully robotic approach achieves profitability at half the price of traditional indoor farms.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["AgriRobotics", "Indoor Farming", "Autonomous"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0402-017",
+      "title": "Intrinsic Joins Google: Alphabet Consolidates Its Robotics Software Platform",
+      "summary": "After five years as an independent Alphabet company, robotics software firm Intrinsic is being absorbed into Google. The move consolidates Alphabet's robotics assets under one roof and signals Google's intent to build a unified robotics platform combining software, AI models, and hardware partnerships.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "Software"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0402-018",
+      "title": "China's Humanoid Robotics Industry Is Outpacing the West in Commercial Deployments",
+      "summary": "A detailed TechCrunch analysis finds Chinese humanoid manufacturers have shipped more units commercially in the past 12 months than all Western companies combined, driven by lower manufacturing costs, faster iteration cycles, and aggressive government subsidies.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["China", "Humanoid", "Market", "Competition"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0402-019",
+      "title": "Anduril's $60B Valuation Push: Defense Robot Startup Grows Faster Than Any Weapons Firm in History",
+      "summary": "Anduril Industries is targeting a $60 billion valuation in its next funding round, which would make it the most valuable defense technology company in history by valuation growth speed. Revenue from autonomous drone swarms, undersea vehicles, and AI surveillance systems has tripled in 18 months.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "Defense", "Funding", "Drones"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0402-020",
+      "title": "30 Years of Walking Robots: How Honda's P2 Changed Everything",
+      "summary": "IEEE has designated Honda's P2 — the first truly self-contained bipedal robot — as an official IEEE Milestone, 30 years after its unveiling. The P2's dynamic walking algorithm, developed by engineer Masato Hirose, is the direct ancestor of nearly every walking robot developed since.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": ["Honda", "History", "Bipedal", "IEEE"],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0402-021",
+      "title": "Amazon Rivr Acquisition: Stair-Climbing Robot Brings Last-Meter Doorstep Delivery Closer",
+      "summary": "Amazon's acquisition of Rivr, maker of a wheeled robot that can autonomously climb stairs and navigate building lobbies, marks the company's first serious investment in final-meter delivery. The technology could eventually enable package delivery to any floor of any building.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "Delivery", "Acquisition", "Last Mile"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    }
+  ]
+}

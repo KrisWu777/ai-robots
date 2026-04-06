@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ABOUT — ROBO//NEWS</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,500;0,700;1,400&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <style>
+    .about-page {
+      min-height: calc(100vh - 120px);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 24px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Animated grid bg */
+    .grid-bg {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background-image:
+        linear-gradient(rgba(0,255,65,0.04) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0,255,65,0.04) 1px, transparent 1px);
+      background-size: 40px 40px;
+      animation: grid-scroll 20s linear infinite;
+    }
+    @keyframes grid-scroll {
+      0%   { background-position: 0 0; }
+      100% { background-position: 40px 40px; }
+    }
+
+    /* Floating particles */
+    .particles { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
+    .particle {
+      position: absolute;
+      width: 2px; height: 2px;
+      background: var(--green);
+      border-radius: 50%;
+      opacity: 0;
+      animation: float-up var(--dur) ease-in var(--delay) infinite;
+    }
+    @keyframes float-up {
+      0%   { opacity: 0; transform: translateY(0) scale(1); }
+      20%  { opacity: 0.8; }
+      80%  { opacity: 0.4; }
+      100% { opacity: 0; transform: translateY(-80vh) scale(0.5); }
+    }
+
+    .about-inner {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      max-width: 640px;
+      width: 100%;
+    }
+
+    .ab-tag {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      letter-spacing: 0.2em;
+      margin-bottom: 20px;
+    }
+
+    /* ASCII robot */
+    .ascii-robot {
+      font-family: var(--font-mono);
+      font-size: clamp(0.48rem, 1.6vw, 0.72rem);
+      line-height: 1.35;
+      color: var(--green-dim);
+      text-shadow: 0 0 8px rgba(0,255,65,0.3);
+      letter-spacing: 0.05em;
+      white-space: pre;
+      display: inline-block;
+      animation: robot-glow 2.5s ease-in-out infinite alternate;
+    }
+    @keyframes robot-glow {
+      0%   { text-shadow: 0 0 8px rgba(0,255,65,0.2), 0 0 20px rgba(0,255,65,0.1); color: var(--green-dim); }
+      100% { text-shadow: 0 0 16px rgba(0,255,65,0.6), 0 0 40px rgba(0,255,65,0.2); color: var(--green); }
+    }
+
+    .ab-title {
+      font-size: clamp(2rem, 7vw, 4rem);
+      font-weight: 700;
+      color: var(--cyan);
+      letter-spacing: 0.1em;
+      margin: 20px 0 8px;
+      text-shadow: 0 0 24px rgba(0,212,255,0.4);
+      animation: flicker 6s ease-in-out infinite;
+    }
+    @keyframes flicker {
+      0%,95%,100% { opacity: 1; }
+      96% { opacity: 0.6; }
+      97% { opacity: 1; }
+      98% { opacity: 0.3; }
+      99% { opacity: 1; }
+    }
+
+    .ab-sub {
+      font-size: clamp(1rem, 3vw, 1.6rem);
+      font-weight: 700;
+      color: var(--green);
+      letter-spacing: 0.2em;
+      text-shadow: 0 0 16px rgba(0,255,65,0.5);
+    }
+
+    /* Countdown style boxes */
+    .ab-stats {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+      margin-top: 36px;
+    }
+    .ab-stat-box {
+      background: var(--bg-panel);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 16px 20px;
+      text-align: center;
+      min-width: 90px;
+      position: relative;
+      overflow: hidden;
+      transition: border-color 0.2s;
+    }
+    .ab-stat-box::after {
+      content: '';
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 2px;
+      background: var(--green);
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform 0.4s ease;
+      animation: scan-line var(--sd, 3s) ease-in-out infinite var(--sdelay, 0s);
+    }
+    @keyframes scan-line {
+      0%,100% { transform: scaleX(0); transform-origin: left; }
+      40%     { transform: scaleX(1); transform-origin: left; }
+      41%     { transform: scaleX(1); transform-origin: right; }
+      80%     { transform: scaleX(0); transform-origin: right; }
+    }
+    .ab-stat-box:hover { border-color: var(--border-hi); }
+    .ab-stat-num {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: var(--green);
+      line-height: 1;
+      text-shadow: 0 0 12px rgba(0,255,65,0.4);
+    }
+    .ab-stat-num.cyan { color: var(--cyan); text-shadow: 0 0 12px rgba(0,212,255,0.4); }
+    .ab-stat-num.yellow { color: var(--yellow); text-shadow: 0 0 12px rgba(255,224,102,0.4); }
+    .ab-stat-label { font-size: 0.6rem; color: var(--text-muted); letter-spacing: 0.12em; margin-top: 4px; }
+
+    /* Boot sequence */
+    .ab-boot {
+      margin-top: 32px;
+      background: var(--bg-panel);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 18px 22px;
+      text-align: left;
+      width: 100%;
+    }
+    .boot-line {
+      font-size: 0.74rem;
+      color: var(--text-muted);
+      line-height: 2;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      opacity: 0;
+      transform: translateX(-8px);
+      transition: opacity 0.3s, transform 0.3s;
+    }
+    .boot-line.visible { opacity: 1; transform: translateX(0); }
+    .boot-ok   { color: var(--green); font-size: 0.65rem; }
+    .boot-load { color: var(--cyan);  font-size: 0.65rem; }
+    .boot-warn { color: var(--yellow);font-size: 0.65rem; }
+    .boot-txt  { color: var(--text-dim); }
+
+    .ab-back-btn {
+      margin-top: 36px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 24px;
+      border: 1px solid var(--border-hi);
+      background: transparent;
+      color: var(--green);
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      letter-spacing: 0.1em;
+      cursor: pointer;
+      border-radius: var(--radius);
+      text-decoration: none;
+      transition: all 0.15s;
+    }
+    .ab-back-btn:hover {
+      background: rgba(0,255,65,0.08);
+      box-shadow: 0 0 16px rgba(0,255,65,0.2);
+    }
+  </style>
+</head>
+<body>
+  <div class="scanlines" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo-block">
+        <span class="logo-prompt">$</span>
+        <span class="logo-text">ROBO<span class="logo-sep">//</span>NEWS</span>
+        <span class="logo-cursor">█</span>
+      </div>
+      <nav class="nav-bar" id="navBar">
+        <a href="index.html" class="nav-link" data-cmd="--home">HOME</a>
+        <a href="archive.html" class="nav-link" data-cmd="--archive">ARCHIVE</a>
+        <a href="about.html" class="nav-link active" data-cmd="--about">ABOUT</a>
+      </nav>
+      <div class="header-meta">
+        <span class="status-dot"></span>
+        <span id="headerDate" class="header-date">LOADING...</span>
+        <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+    <div class="cmd-bar">
+      <span class="cmd-prefix">robo-news@feed:~$</span>
+      <span class="cmd-text">cat ./about/README.md</span>
+      <span class="cmd-blink">_</span>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <div class="grid-bg"></div>
+    <div class="particles" id="particles"></div>
+
+    <div class="about-page">
+      <div class="about-inner">
+        <div class="ab-tag">// MODULE: ABOUT</div>
+
+        <div class="ascii-robot" id="asciiRobot"></div>
+
+        <div class="ab-title">ABOUT</div>
+        <div class="ab-sub">COMING SOON</div>
+
+        <div class="ab-stats">
+          <div class="ab-stat-box" style="--sd:2.8s;--sdelay:0s">
+            <div class="ab-stat-num" id="statDays">0</div>
+            <div class="ab-stat-label">DAYS_RUNNING</div>
+          </div>
+          <div class="ab-stat-box" style="--sd:3.2s;--sdelay:0.5s">
+            <div class="ab-stat-num cyan">7</div>
+            <div class="ab-stat-label">NEWS_SOURCES</div>
+          </div>
+          <div class="ab-stat-box" style="--sd:2.5s;--sdelay:1s">
+            <div class="ab-stat-num yellow" id="statArts">0</div>
+            <div class="ab-stat-label">ARTICLES_INDEXED</div>
+          </div>
+          <div class="ab-stat-box" style="--sd:3.5s;--sdelay:0.3s">
+            <div class="ab-stat-num">24/7</div>
+            <div class="ab-stat-label">FEED_UPTIME</div>
+          </div>
+        </div>
+
+        <div class="ab-boot" id="bootSeq">
+          <div class="boot-line" data-delay="0">
+            <span class="boot-ok">[ OK ]</span>
+            <span class="boot-txt">Initializing ROBO//NEWS core...</span>
+          </div>
+          <div class="boot-line" data-delay="300">
+            <span class="boot-ok">[ OK ]</span>
+            <span class="boot-txt">Loading robotics intelligence module</span>
+          </div>
+          <div class="boot-line" data-delay="600">
+            <span class="boot-load">[ .. ]</span>
+            <span class="boot-txt">Compiling about page assets...</span>
+          </div>
+          <div class="boot-line" data-delay="900">
+            <span class="boot-load">[ .. ]</span>
+            <span class="boot-txt">Connecting to data streams: IEEE, TechCrunch, Wired</span>
+          </div>
+          <div class="boot-line" data-delay="1200">
+            <span class="boot-warn">[WAIT]</span>
+            <span class="boot-txt">About page under active development</span>
+          </div>
+          <div class="boot-line" data-delay="1500">
+            <span class="boot-warn">[WAIT]</span>
+            <span class="boot-txt">ETA: coming soon™</span>
+          </div>
+        </div>
+
+        <a href="index.html" class="ab-back-btn">← RETURN_HOME</a>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span class="footer-txt">// ROBO//NEWS v2.6.0</span>
+      <span class="footer-status"><span class="status-dot"></span> FEED ACTIVE</span>
+    </div>
+  </footer>
+
+  <script>
+    // Header date
+    const hd = document.getElementById('headerDate');
+    function tick() {
+      const d = new Date();
+      hd.textContent = d.toISOString().slice(0,10) + ' ' + d.toTimeString().slice(0,8);
+    }
+    tick(); setInterval(tick, 1000);
+
+    // Menu toggle
+    const nav = document.getElementById('navBar');
+    document.getElementById('menuToggle').addEventListener('click', e => {
+      e.stopPropagation(); nav.classList.toggle('open');
+    });
+    document.addEventListener('click', e => {
+      if (nav.classList.contains('open') && !nav.contains(e.target)) nav.classList.remove('open');
+    });
+
+    // ASCII Robot
+    const robot = [
+      '     ___________     ',
+      '    |  _______  |    ',
+      '    | | o   o | |    ',
+      '    | |___^___| |    ',
+      '    |___________|    ',
+      '   /  ___   ___  \\   ',
+      '  /  / _ \\ / _ \\  \\  ',
+      ' |  | [_] | [_] |  | ',
+      '  \\  \\___/ \\___/  /  ',
+      '   \\___________/     ',
+      '    |     |     |    ',
+      '   _|_   _|_   _|_   ',
+      '  [___] [___] [___]  ',
+    ];
+    const robotEl = document.getElementById('asciiRobot');
+    let robotFrame = 0;
+    const eyeFrames = [
+      ['o   o', '0   0', 'o   o', '>   <'],
+    ];
+    function animRobot() {
+      robotFrame = (robotFrame + 1) % 4;
+      const eyes = eyeFrames[0][robotFrame];
+      const lines = robot.map((l, i) => i === 2 ? `    | | ${eyes} | |    ` : l);
+      robotEl.textContent = lines.join('\n');
+    }
+    robotEl.textContent = robot.join('\n');
+    setInterval(animRobot, 600);
+
+    // Boot sequence
+    const bootLines = document.querySelectorAll('.boot-line');
+    bootLines.forEach(line => {
+      const delay = parseInt(line.dataset.delay) + 400;
+      setTimeout(() => line.classList.add('visible'), delay);
+    });
+
+    // Stats counters
+    function countUp(el, target, duration) {
+      let start = 0;
+      const step = target / (duration / 16);
+      const iv = setInterval(() => {
+        start = Math.min(start + step, target);
+        el.textContent = Math.floor(start);
+        if (start >= target) clearInterval(iv);
+      }, 16);
+    }
+    // Days since Jan 1 2026
+    const launchDate = new Date('2026-01-01');
+    const days = Math.floor((new Date() - launchDate) / 86400000);
+    setTimeout(() => countUp(document.getElementById('statDays'), Math.max(days, 1), 1200), 500);
+    setTimeout(() => countUp(document.getElementById('statArts'), 156, 1400), 600);
+
+    // Floating particles
+    const container = document.getElementById('particles');
+    for (let i = 0; i < 40; i++) {
+      const p = document.createElement('div');
+      p.className = 'particle';
+      p.style.cssText = `
+        left: ${Math.random() * 100}%;
+        bottom: ${Math.random() * 20}%;
+        --dur: ${4 + Math.random() * 8}s;
+        --delay: ${Math.random() * 6}s;
+        width: ${1 + Math.random() * 3}px;
+        height: ${1 + Math.random() * 3}px;
+        opacity: ${0.3 + Math.random() * 0.5};
+      `;
+      container.appendChild(p);
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ARCHIVE — ROBO//NEWS</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,500;0,700;1,400&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <style>
+    .coming-soon-page {
+      min-height: calc(100vh - 120px);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 40px 24px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Matrix rain canvas */
+    #matrixCanvas {
+      position: absolute;
+      inset: 0;
+      opacity: 0.18;
+      pointer-events: none;
+    }
+
+    .cs-inner {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      max-width: 600px;
+    }
+
+    /* Glitch title */
+    .cs-tag {
+      font-size: 0.72rem;
+      color: var(--text-muted);
+      letter-spacing: 0.2em;
+      margin-bottom: 20px;
+    }
+
+    .cs-title {
+      font-family: var(--font-mono);
+      font-size: clamp(2.4rem, 8vw, 5rem);
+      font-weight: 700;
+      color: var(--green);
+      letter-spacing: 0.05em;
+      line-height: 1;
+      position: relative;
+      display: inline-block;
+      text-shadow: 0 0 30px rgba(0,255,65,0.5);
+    }
+    .cs-title::before,
+    .cs-title::after {
+      content: attr(data-text);
+      position: absolute;
+      inset: 0;
+    }
+    .cs-title::before {
+      color: var(--cyan);
+      clip-path: polygon(0 30%, 100% 30%, 100% 50%, 0 50%);
+      animation: glitch-top 3.5s infinite;
+      opacity: 0.8;
+    }
+    .cs-title::after {
+      color: var(--red);
+      clip-path: polygon(0 60%, 100% 60%, 100% 80%, 0 80%);
+      animation: glitch-bot 3.5s infinite 0.2s;
+      opacity: 0.8;
+    }
+    @keyframes glitch-top {
+      0%,88%,90%,100% { transform: translate(0); opacity: 0; }
+      89% { transform: translate(-4px, -2px); opacity: 0.9; }
+    }
+    @keyframes glitch-bot {
+      0%,85%,88%,100% { transform: translate(0); opacity: 0; }
+      86% { transform: translate(4px, 2px); opacity: 0.9; }
+      87% { transform: translate(-3px, 0); opacity: 0.9; }
+    }
+
+    .cs-sub {
+      font-size: clamp(1.2rem, 4vw, 2rem);
+      font-weight: 700;
+      color: var(--cyan);
+      letter-spacing: 0.15em;
+      margin-top: 12px;
+      text-shadow: 0 0 20px rgba(0,212,255,0.4);
+    }
+
+    /* Typewriter block */
+    .cs-terminal {
+      margin-top: 40px;
+      background: var(--bg-panel);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      padding: 20px 24px;
+      text-align: left;
+      width: 100%;
+      max-width: 480px;
+    }
+    .cs-terminal-bar {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 14px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+    .tb-dot { width: 10px; height: 10px; border-radius: 50%; }
+    .tb-dot.red   { background: #ff5f57; }
+    .tb-dot.yellow{ background: #febc2e; }
+    .tb-dot.green { background: #28c840; }
+    .tb-title { font-size: 0.65rem; color: var(--text-muted); margin-left: auto; margin-right: auto; letter-spacing: 0.1em; }
+
+    .cs-term-line {
+      font-size: 0.78rem;
+      color: var(--text-dim);
+      line-height: 1.7;
+      min-height: 1.2em;
+    }
+    .cs-term-line .prompt { color: var(--green); }
+    .cs-term-line .out    { color: var(--text); }
+    .cs-term-line .warn   { color: var(--yellow); }
+    .cs-term-line .err    { color: var(--red); }
+    .cs-cursor {
+      display: inline-block;
+      width: 8px;
+      height: 14px;
+      background: var(--green);
+      vertical-align: middle;
+      animation: blink 1s step-end infinite;
+      margin-left: 2px;
+    }
+
+    /* Progress bar */
+    .cs-progress {
+      margin-top: 32px;
+      width: 100%;
+      max-width: 480px;
+    }
+    .cs-progress-label {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.68rem;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+    .cs-progress-track {
+      height: 6px;
+      background: var(--bg-panel);
+      border: 1px solid var(--border);
+      border-radius: 2px;
+      overflow: hidden;
+    }
+    .cs-progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, var(--green-dk), var(--green), var(--cyan));
+      width: 0%;
+      animation: fill-bar 3s cubic-bezier(0.4,0,0.2,1) 0.5s forwards;
+      box-shadow: 0 0 8px var(--green);
+    }
+    @keyframes fill-bar {
+      0%   { width: 0%; }
+      60%  { width: 72%; }
+      80%  { width: 72%; }
+      100% { width: 72%; }
+    }
+
+    /* Scan pulse ring */
+    .cs-radar {
+      position: relative;
+      width: 120px;
+      height: 120px;
+      margin: 40px auto 0;
+    }
+    .cs-radar-ring {
+      position: absolute;
+      border-radius: 50%;
+      border: 1px solid var(--green);
+      top: 50%; left: 50%;
+      transform: translate(-50%,-50%) scale(0);
+      opacity: 0;
+      animation: radar-pulse 2.4s ease-out infinite;
+    }
+    .cs-radar-ring:nth-child(2) { animation-delay: 0.8s; }
+    .cs-radar-ring:nth-child(3) { animation-delay: 1.6s; }
+    @keyframes radar-pulse {
+      0%   { width: 20px; height: 20px; opacity: 0.9; transform: translate(-50%,-50%) scale(1); }
+      100% { width: 120px; height: 120px; opacity: 0; transform: translate(-50%,-50%) scale(1); }
+    }
+    .cs-radar-core {
+      position: absolute;
+      top: 50%; left: 50%;
+      transform: translate(-50%,-50%);
+      width: 14px; height: 14px;
+      border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 12px var(--green), 0 0 30px rgba(0,255,65,0.3);
+    }
+
+    .cs-back-btn {
+      margin-top: 40px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 24px;
+      border: 1px solid var(--border-hi);
+      background: transparent;
+      color: var(--green);
+      font-family: var(--font-mono);
+      font-size: 0.78rem;
+      letter-spacing: 0.1em;
+      cursor: pointer;
+      border-radius: var(--radius);
+      text-decoration: none;
+      transition: all 0.15s;
+    }
+    .cs-back-btn:hover {
+      background: rgba(0,255,65,0.08);
+      box-shadow: 0 0 16px rgba(0,255,65,0.2);
+    }
+  </style>
+</head>
+<body>
+  <div class="scanlines" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo-block">
+        <span class="logo-prompt">$</span>
+        <span class="logo-text">ROBO<span class="logo-sep">//</span>NEWS</span>
+        <span class="logo-cursor">█</span>
+      </div>
+      <nav class="nav-bar" id="navBar">
+        <a href="index.html" class="nav-link" data-cmd="--home">HOME</a>
+        <a href="archive.html" class="nav-link active" data-cmd="--archive">ARCHIVE</a>
+        <a href="about.html" class="nav-link" data-cmd="--about">ABOUT</a>
+      </nav>
+      <div class="header-meta">
+        <span class="status-dot"></span>
+        <span id="headerDate" class="header-date">LOADING...</span>
+        <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+    <div class="cmd-bar">
+      <span class="cmd-prefix">robo-news@feed:~$</span>
+      <span class="cmd-text">cd ./archive</span>
+      <span class="cmd-blink">_</span>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <canvas id="matrixCanvas"></canvas>
+    <div class="coming-soon-page">
+      <div class="cs-inner">
+        <div class="cs-tag">// MODULE: ARCHIVE</div>
+        <div class="cs-title" data-text="ARCHIVE">ARCHIVE</div>
+        <div class="cs-sub">COMING SOON</div>
+
+        <div class="cs-terminal">
+          <div class="cs-terminal-bar">
+            <div class="tb-dot red"></div>
+            <div class="tb-dot yellow"></div>
+            <div class="tb-dot green"></div>
+            <div class="tb-title">archive.sh</div>
+          </div>
+          <div id="termOutput"></div>
+          <span class="cs-cursor" id="termCursor"></span>
+        </div>
+
+        <div class="cs-progress">
+          <div class="cs-progress-label">
+            <span>BUILD_PROGRESS</span>
+            <span id="progressPct">0%</span>
+          </div>
+          <div class="cs-progress-track">
+            <div class="cs-progress-fill" id="progressFill"></div>
+          </div>
+        </div>
+
+        <div class="cs-radar">
+          <div class="cs-radar-ring"></div>
+          <div class="cs-radar-ring"></div>
+          <div class="cs-radar-ring"></div>
+          <div class="cs-radar-core"></div>
+        </div>
+
+        <a href="index.html" class="cs-back-btn">← RETURN_HOME</a>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <span class="footer-txt">// ROBO//NEWS v2.6.0</span>
+      <span class="footer-status"><span class="status-dot"></span> FEED ACTIVE</span>
+    </div>
+  </footer>
+
+  <script>
+    // Header date
+    const hd = document.getElementById('headerDate');
+    function tick() {
+      const d = new Date();
+      hd.textContent = d.toISOString().slice(0,10) + ' ' + d.toTimeString().slice(0,8);
+    }
+    tick(); setInterval(tick, 1000);
+
+    // Menu toggle
+    const nav = document.getElementById('navBar');
+    document.getElementById('menuToggle').addEventListener('click', e => {
+      e.stopPropagation(); nav.classList.toggle('open');
+    });
+    document.addEventListener('click', e => {
+      if (nav.classList.contains('open') && !nav.contains(e.target)) nav.classList.remove('open');
+    });
+
+    // Typewriter terminal
+    const lines = [
+      { type: 'prompt', text: 'ls ./archive --all' },
+      { type: 'out',   text: 'Scanning index...' },
+      { type: 'out',   text: 'Loading 2026-Q1 database...' },
+      { type: 'warn',  text: '[WARN] Archive module not yet compiled.' },
+      { type: 'out',   text: 'Estimated completion: Q3 2026' },
+      { type: 'err',   text: '[STATUS] UNDER CONSTRUCTION' },
+    ];
+    const output = document.getElementById('termOutput');
+    const cursor = document.getElementById('termCursor');
+    let li = 0, ci = 0;
+
+    function typeLine() {
+      if (li >= lines.length) { cursor.style.display = 'inline-block'; return; }
+      const { type, text } = lines[li];
+      if (ci === 0) {
+        const div = document.createElement('div');
+        div.className = 'cs-term-line';
+        if (type === 'prompt') div.innerHTML = '<span class="prompt">$ </span><span class="typed"></span>';
+        else div.innerHTML = `<span class="${type} typed"></span>`;
+        output.appendChild(div);
+        cursor.style.display = 'none';
+      }
+      const span = output.lastChild.querySelector('.typed');
+      span.textContent = text.slice(0, ci + 1);
+      ci++;
+      if (ci < text.length) {
+        setTimeout(typeLine, 28 + Math.random() * 30);
+      } else {
+        li++; ci = 0;
+        setTimeout(typeLine, 260);
+      }
+    }
+    setTimeout(typeLine, 600);
+
+    // Progress counter
+    const pct = document.getElementById('progressPct');
+    let p = 0;
+    const target = 72;
+    const iv = setInterval(() => {
+      if (p < target) { p++; pct.textContent = p + '%'; }
+      else clearInterval(iv);
+    }, 3000 / target);
+
+    // Matrix rain
+    const canvas = document.getElementById('matrixCanvas');
+    const ctx = canvas.getContext('2d');
+    function resize() { canvas.width = window.innerWidth; canvas.height = window.innerHeight; }
+    resize(); window.addEventListener('resize', resize);
+    const cols = () => Math.floor(canvas.width / 16);
+    let drops = Array(cols()).fill(1);
+    const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789アイウエオカキクケコ#$%@&*';
+    function draw() {
+      ctx.fillStyle = 'rgba(10,14,10,0.05)';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+      ctx.fillStyle = '#00ff41';
+      ctx.font = '13px JetBrains Mono, monospace';
+      drops = Array(cols()).fill(0).map((_, i) => drops[i] ?? 1);
+      for (let i = 0; i < drops.length; i++) {
+        const ch = chars[Math.floor(Math.random() * chars.length)];
+        ctx.fillStyle = drops[i] === 1 ? '#ffffff' : `rgba(0,255,65,${0.3 + Math.random()*0.4})`;
+        ctx.fillText(ch, i * 16, drops[i] * 16);
+        if (drops[i] * 16 > canvas.height && Math.random() > 0.975) drops[i] = 0;
+        drops[i]++;
+      }
+    }
+    setInterval(draw, 60);
+  </script>
+</body>
+</html>

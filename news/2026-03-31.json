@@ -1,0 +1,226 @@
+{
+  "date": "2026-03-31",
+  "featured": {
+    "id": "featured-0331",
+    "title": "DNA Robots Could Deliver Drugs and Hunt Viruses Inside Your Body — Nature Study",
+    "summary": "A landmark study in Nature demonstrates DNA-based nanoscale robots that navigate the bloodstream, identify cancer cells by surface protein signature, dock onto them, and release a chemotherapy payload with sub-cellular precision. The technology achieved complete tumor regression in 80% of mouse models with zero off-target toxicity.",
+    "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=1200&h=600&fit=crop",
+    "source": "ScienceDaily",
+    "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+    "tags": ["Nanorobots", "Cancer", "Drug Delivery", "DNA"],
+    "timestamp": "2026-03-31T07:16:58Z"
+  },
+  "articles": [
+    {
+      "id": "0331-001",
+      "title": "FedEx Partners With Berkshire Gray in $1.2B Robotics Automation Deal",
+      "summary": "FedEx has chosen a partnership-first strategy, contracting Berkshire Gray to install AI-powered sorting and parcel robots across all 650 US facilities. The decision comes after FedEx spent three years evaluating whether to build its own robotics capability internally.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+      "tags": ["FedEx", "Logistics", "Berkshire Gray", "Automation"],
+      "timestamp": "2026-03-31T15:46:50Z"
+    },
+    {
+      "id": "0331-002",
+      "title": "Nomadic Closes $8.4M to Build the Infrastructure Layer for Physical AI Data",
+      "summary": "Nomadic converts raw robot and autonomous vehicle camera streams into clean, structured, searchable datasets using deep learning. With $8.4M in Series A funding, the company is expanding its processing capacity and adding support for LiDAR and radar sensor types.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": ["Startup", "Data", "Physical AI", "Funding"],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0331-003",
+      "title": "Flexible Robot Navigation in Tight Spaces: 80% Less Computation With New Framework",
+      "summary": "A new path planning framework for soft and continuum robots reduces required computation by 80% while maintaining navigation accuracy in narrow passages. The breakthrough enables real-time soft robot control on commodity microprocessors without GPU acceleration.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": ["Soft Robotics", "Control", "Computation", "Medical"],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0331-004",
+      "title": "Physical Intelligence Targets $11.2B Valuation With New $1B Fundraise",
+      "summary": "Physical Intelligence (π) is in advanced negotiations with top-tier VCs for a round that would push its valuation to $11.2 billion in less than a year of operation. The company's π0 model — the most capable general-purpose robot brain available — is now licensed by six hardware OEMs.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "tags": ["Physical Intelligence", "π0", "Funding", "Foundation Model"],
+      "timestamp": "2026-03-27T23:59:40Z"
+    },
+    {
+      "id": "0331-005",
+      "title": "Video Friday: Roadrunner — The Bipedal Robot That Combines Wheels and Walking",
+      "summary": "IEEE Spectrum's Video Friday highlights Roadrunner, a bipedal robot with retractable wheels in its feet for fast flat-ground travel combined with traditional bipedal gait for stairs and rough terrain. The hybrid design represents a major new direction in humanoid locomotion.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/roadrunner-bipedal-robot",
+      "video": "https://www.youtube.com/watch?v=tF4DML7FIWk",
+      "tags": ["Bipedal", "Wheels", "Hybrid", "Locomotion"],
+      "timestamp": "2026-03-27T16:30:03Z"
+    },
+    {
+      "id": "0331-006",
+      "title": "Tiny Physics-Only Microrobots Navigate Like Animals — Zero Electronics",
+      "summary": "Leiden University's 3D-printed microrobots navigate chemical gradients and currents using only the passive physics of their printed geometry. With zero electronics or control logic, the bots cost less than a cent each and can be manufactured in millions for environmental monitoring swarms.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": ["Microrobots", "Leiden", "Passive", "Swarm"],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0331-007",
+      "title": "BRINC Guardian Drone Sparks Civil Liberties Debate: Narcan + Starlink + 60mph Chase",
+      "summary": "BRINC's Guardian police drone integrates Starlink, Narcan deployment, and 60mph pursuit capability, making it the most capable public-safety drone ever offered commercially. Privacy and civil liberties organizations have called for Congressional hearings on autonomous police drones.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "tags": ["Police Drone", "Civil Liberties", "BRINC", "Ethics"],
+      "timestamp": "2026-03-25T21:12:03Z"
+    },
+    {
+      "id": "0331-008",
+      "title": "Australian Solar Robot Fleet Covers 13,000km of Desert Each Year in 50°C Heat",
+      "summary": "A fleet of AI-powered inspection robots is now responsible for maintaining Australia's largest solar farms across 13,000km of outback terrain. Operating in temperatures that would hospitalize human workers, the robots increase fault detection by 400% while reducing maintenance costs by 70%.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": ["Solar", "Australia", "Industrial", "Inspection"],
+      "timestamp": "2026-03-25T18:10:07Z"
+    },
+    {
+      "id": "0331-009",
+      "title": "Melania Trump's Robot Homeschool Vision Sparks Education Technology Debate",
+      "summary": "First Lady Melania Trump's endorsement of Figure AI's humanoid robots as AI-powered homeschool tutors has ignited fierce debate among educators, parents, and child psychologists. Proponents cite the potential for perfectly personalized instruction; critics warn of social development risks.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "tags": ["Education", "Figure AI", "Policy", "Humanoid"],
+      "timestamp": "2026-03-25T18:55:41Z"
+    },
+    {
+      "id": "0331-010",
+      "title": "Lucid Bots Window-Washing Drones: $20M to Scale Production as Demand Outpaces Supply",
+      "summary": "Lucid Bots is building a second manufacturing facility to meet surging demand for its autonomous window-washing and power-washing drones. With building owners increasingly unwilling to send workers up scaffolding, robotic exterior cleaning has shifted from novelty to necessity.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "tags": ["Drones", "Cleaning", "Commercial Real Estate", "Scale"],
+      "timestamp": "2026-03-25T11:00:00Z"
+    },
+    {
+      "id": "0331-011",
+      "title": "Wristband EMG Controls Prosthetic Hand With Individual Finger Precision",
+      "summary": "An MIT-developed EMG wristband reads 34 forearm muscle signals simultaneously to provide real-time individual finger control of a prosthetic hand. The non-invasive system achieves results previously only possible with implanted electrodes, requiring less than 20 hours of user training.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": ["Prosthetics", "EMG", "Wearable", "Accessibility"],
+      "timestamp": "2026-03-25T06:00:09Z"
+    },
+    {
+      "id": "0331-012",
+      "title": "Motorless Robot Hand Uses Shape-Memory Alloy for Sub-100ms Actuation at 180g",
+      "summary": "By replacing servo motors with shape-memory alloy wire actuators, researchers have built a five-fingered robot hand weighing just 180 grams that can open and close individual fingers in under 100 milliseconds — fast enough for dexterous manipulation tasks.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Robot Hand", "SMA", "Lightweight", "Actuator"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0331-013",
+      "title": "Agile Robots + Google DeepMind: The Latest AI-Hardware Robotics Partnership",
+      "summary": "As the race to dominate the physical AI market intensifies, Agile Robots has joined the growing list of hardware companies partnering with Google DeepMind. The deal follows similar agreements between DeepMind and Boston Dynamics, Figure AI, and Apptronik.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": ["Agile Robots", "DeepMind", "AI", "Partnership"],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0331-014",
+      "title": "Ukraine Drone War Lessons: How Autonomous Combat AI Is Reshaping Self-Driving Safety",
+      "summary": "Techniques for GPS-denied navigation, sensor spoofing defense, and adversarial AI robustness developed for Ukrainian combat drones are being adapted for civilian autonomous vehicles. The cross-domain technology transfer represents a unique case of military innovation preceding consumer applications.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["Military", "Self-Driving", "Security", "Technology Transfer"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0331-015",
+      "title": "Haidilao AgiBot Restaurant Meltdown: A Cautionary Tale in Robot Deployment",
+      "summary": "The viral video of an AgiBot humanoid waiter dancing uncontrollably at a Silicon Valley restaurant has become a case study in over-confident robot deployment. The incident reveals how edge cases in real-world environments expose gaps in simulation-trained robot systems.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "Deployment", "Failure", "Restaurant"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0331-016",
+      "title": "Cross-Embodiment Skill Transfer Lets Robot Arms Learn From Humanoid Demos",
+      "summary": "A new intention-based learning framework allows a tabletop robot arm to learn skills demonstrated by a full humanoid robot, despite radically different body structures. The key insight is that task intentions can be abstracted away from physical form and retargeted to new bodies.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-bodies-skills-intention-based.html",
+      "tags": ["Transfer Learning", "Cross-Embodiment", "Skill", "AI"],
+      "timestamp": "2026-03-30T13:20:04Z"
+    },
+    {
+      "id": "0331-017",
+      "title": "Georgia Tech No-Brain Swarm: Mechanical Collective Intelligence Demonstrated",
+      "summary": "Georgia Tech's purely mechanical robot swarm — the first to achieve collective goal-directed behavior without any electronics — represents a paradigm shift in swarm robotics. The robots use physical shape-locking interactions to collectively navigate toward light sources.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["Swarm", "Collective Intelligence", "Georgia Tech", "Mechanical"],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0331-018",
+      "title": "Mind Robotics' $500M Series A: Rivian CEO's New Factory Robot Venture",
+      "summary": "RJ Scaringe has raised half a billion dollars for Mind Robotics, his bet that factory robots designed specifically for their tasks — not shaped like humans — will dominate industrial automation. The company's first platform is purpose-built for EV assembly operations.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Mind Robotics", "Funding", "EV", "Industrial"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0331-019",
+      "title": "Amazon's Stair-Climbing Delivery Bot Rivr: From Door to Doorstep",
+      "summary": "Rivr's wheeled delivery robot combines a wheeled base with retractable stair-climbing appendages to navigate multi-story residential buildings without elevators. Amazon's acquisition of Rivr signals the company's intent to eventually offer autonomous home delivery to any address.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "Delivery", "Last Mile", "Stairs"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    },
+    {
+      "id": "0331-020",
+      "title": "AI-Powered Tomato Harvester Predicts Picking Difficulty, Increases Yield 35%",
+      "summary": "A new agricultural robot uses computer vision and machine learning to predict the difficulty of harvesting each tomato before approaching it, focusing first on easy picks to maximize total harvest rate. Greenhouse tests show 35% higher yield and 28% lower energy consumption per kilogram harvested.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["AgriRobotics", "Harvest", "AI", "Efficiency"],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0331-021",
+      "title": "Qualcomm IQ10 vs Nvidia: The Chip War for Humanoid Robot Brains Has Begun",
+      "summary": "Qualcomm's partnership with Neura Robotics to use its IQ10 AI processor as the compute platform for a new humanoid robot marks the first serious commercial challenge to Nvidia's dominance in robot computing. The IQ10 offers 40 TOPS at under 20W — compelling for battery-powered humanoids.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "Chips", "Competition"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    }
+  ]
+}
