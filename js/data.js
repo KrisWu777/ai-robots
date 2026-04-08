@@ -13,6 +13,8 @@ const NewsData = (() => {
 
   // ── 注册可用日期（最新在前）──
   const AVAILABLE_DATES = [
+    '2026-04-08',
+    '2026-04-07',
     '2026-04-06',
     '2026-04-05',
     '2026-04-04',
@@ -214,30 +216,79 @@ const NewsData = (() => {
   const _cache = {};
 
   /**
-   * 获取指定日期的新闻数据。
-   * 优先级：window.__NEWS_DATA__ (bundle) → NEWS_DB (inline) → fetch (HTTP server)
+   * 获取指定日期的新闻数据（支持多语言）。
+   * 优先级：
+   *   1. window.__NEWS_DATA_LOCALES__[locale][dateStr]   ← per-locale bundle
+   *   2. fallback chain for locale                       ← 逐级 fallback
+   *   3. window.__NEWS_DATA__[dateStr]                   ← legacy en-US bundle
+   *   4. NEWS_DB[dateStr]                                ← inline data
+   *   5. fetch news/<dateStr>/<locale>.json              ← HTTP server mode
+   *   6. fetch news/<dateStr>.json                       ← legacy flat file
+   *
+   * @param {string} dateStr  'YYYY-MM-DD'
+   * @param {string} [locale] BCP47 locale code; defaults to I18n.getLocale()
    */
-  async function fetchDate(dateStr) {
-    // 1. 从 bundle JS 文件读取（file:// 和 HTTP 均可用）
+  async function fetchDate(dateStr, locale) {
+    if (!locale) {
+      locale = (typeof I18n !== 'undefined') ? I18n.getLocale() : 'en-US';
+    }
+
+    // Build locale fallback chain to try in order
+    const FALLBACKS = {
+      'en-GB':   ['en-XX', 'en-US'],
+      'en-IN':   ['en-XX', 'en-US'],
+      'en-XX':   ['en-US'],
+      'zh-HK':   ['zh-TW', 'zh-XX', 'en-US'],
+      'zh-TW':   ['zh-XX', 'en-US'],
+      'zh-XX':   ['en-US'],
+      'es-MX':   ['es-ES', 'es-XX', 'en-US'],
+      'es-LA':   ['es-XX', 'en-US'],
+      'es-XX':   ['en-US'],
+      'fr-AF':   ['fr-FR', 'en-US'],
+      'pt-PT':   ['pt-BR', 'en-US'],
+      'ar-EG':   ['ar-SA', 'en-US'],
+      'hi-IN-S': ['hi-IN', 'en-US'],
+      'sw-KE':   ['sw-TZ', 'en-US'],
+    };
+    const localeChain = [locale, ...(FALLBACKS[locale] || []), 'en-US'];
+
+    // 1 & 2. per-locale bundle (window.__NEWS_DATA_LOCALES__)
+    if (window.__NEWS_DATA_LOCALES__) {
+      for (const loc of localeChain) {
+        const locData = window.__NEWS_DATA_LOCALES__[loc];
+        if (locData && locData[dateStr]) return locData[dateStr];
+      }
+    }
+
+    // 3. Legacy en-US bundle
     if (window.__NEWS_DATA__ && window.__NEWS_DATA__[dateStr]) {
       return window.__NEWS_DATA__[dateStr];
     }
-    // 2. 从内嵌数据库读取（兼容旧数据）
+
+    // 4. Inline data (existing NEWS_DB, English only)
     if (NEWS_DB[dateStr]) return NEWS_DB[dateStr];
-    // 3. 再查缓存
-    if (_cache[dateStr]) return _cache[dateStr];
-    // 4. HTTP 服务器模式 fetch 兜底
-    const url = `news/${dateStr}.json`;
-    try {
-      const res = await fetch(url);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data = await res.json();
-      _cache[dateStr] = data;
-      return data;
-    } catch (err) {
-      console.error(`[NewsData] Failed to load ${url}:`, err);
-      return null;
+
+    // 5. Cache
+    const cacheKey = `${dateStr}/${locale}`;
+    if (_cache[cacheKey]) return _cache[cacheKey];
+
+    // 6. HTTP server mode: try locale-specific then flat fallback
+    const urlsToTry = [
+      `news/${dateStr}/${locale}.json`,
+      `news/${dateStr}.json`,
+    ];
+    for (const url of urlsToTry) {
+      try {
+        const res = await fetch(url);
+        if (!res.ok) continue;
+        const data = await res.json();
+        _cache[cacheKey] = data;
+        return data;
+      } catch (_) {}
     }
+
+    console.error(`[NewsData] Failed to load data for ${dateStr}/${locale}`);
+    return null;
   }
 
   function getAvailableDates() {
@@ -245,21 +296,38 @@ const NewsData = (() => {
   }
 
   function formatDateLabel(dateStr) {
-    const d = new Date(dateStr + 'T00:00:00');
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
-    const diff = Math.round((today - d) / 86400000);
-    if (diff === 0) return 'TODAY';
-    if (diff === 1) return 'YESTERDAY';
-    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }).toUpperCase();
+    // Parse YYYY-MM-DD parts directly to avoid UTC/local-midnight ambiguity.
+    const [y, m, day] = dateStr.split('-').map(Number);
+    const now = new Date();
+    const [ty, tm, td] = [now.getFullYear(), now.getMonth() + 1, now.getDate()];
+
+    const diff = Math.round(
+      (new Date(y, m - 1, day) - new Date(ty, tm - 1, td)) / 86400000
+    );
+
+    const i18n = (typeof I18n !== 'undefined') ? I18n : null;
+    if (diff === 0)  return i18n ? i18n.t('TODAY')     : 'TODAY';
+    if (diff === -1) return i18n ? i18n.t('YESTERDAY') : 'YESTERDAY';
+
+    const dateLocale = i18n ? i18n.getDateLocale() : 'en-US';
+    return new Date(y, m - 1, day)
+      .toLocaleDateString(dateLocale, { month: 'short', day: 'numeric' })
+      .toUpperCase();
   }
 
   function relativeTime(isoStr) {
     const diff = (Date.now() - new Date(isoStr).getTime()) / 1000;
-    if (diff < 60)    return `${Math.floor(diff)}s ago`;
-    if (diff < 3600)  return `${Math.floor(diff / 60)}m ago`;
-    if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
-    return `${Math.floor(diff / 86400)}d ago`;
+    const i18n = (typeof I18n !== 'undefined') ? I18n : null;
+    if (!i18n) {
+      if (diff < 60)    return `${Math.floor(diff)}s ago`;
+      if (diff < 3600)  return `${Math.floor(diff / 60)}m ago`;
+      if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+      return `${Math.floor(diff / 86400)}d ago`;
+    }
+    if (diff < 60)    return i18n.t('N_SECONDS_AGO', { n: Math.floor(diff) });
+    if (diff < 3600)  return i18n.t('N_MINUTES_AGO', { n: Math.floor(diff / 60) });
+    if (diff < 86400) return i18n.t('N_HOURS_AGO',   { n: Math.floor(diff / 3600) });
+    return i18n.t('N_DAYS_AGO', { n: Math.floor(diff / 86400) });
   }
 
   return { fetchDate, getAvailableDates, formatDateLabel, relativeTime };

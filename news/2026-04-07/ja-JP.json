@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-07",
+  "featured": {
+    "id": "featured-20260407",
+    "title": "AmazonがSproutヒューマノイドロボットのメーカー・Fauna Roboticsを買収",
+    "summary": "Amazonが、Sproutヒューマノイドロボットを生み出したスタートアップFauna Roboticsを買収した。この取引により、eコマース大手による倉庫自動化向け具現化AIへの進出が劇的に加速する。今回の買収はヒューマノイドロボティクス分野で過去最大規模の企業買収のひとつとなり、Big Techがパートナーシップの枠を超えてロボティクス企業の完全所有へと踏み出していることを示している。Sproutはフルフィルメントセンターにおける柔軟なピックアンドプレース作業向けに専用設計されており、従来の産業用ロボットが長年苦戦してきた領域だ。Amazonのロジスティクス規模とAIインフラを活かすことで、Sproutは数年以内にパイロット段階から同社の広大なグローバル倉庫ネットワーク全体への大規模展開に移行できる可能性がある。",
+    "image": "https://scx1.b-cdn.net/csz/news/800a/2026/amazon-buys-fauna-robo.jpg",
+    "source": "TechXplore",
+    "url": "https://techxplore.com/news/2026-03-amazon-buys-fauna-robotics-maker.html",
+    "tags": ["Amazon", "Humanoid", "Acquisition", "Warehouse"],
+    "timestamp": "2026-04-07T02:29:52Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260407-01",
+      "title": "モーターなしのロボットハンドが形状変化アクチュエーターで1秒以内の把持を実現",
+      "summary": "研究者たちが、従来の電動モーターを使わずに動作するロボットハンドを発表した。代わりに1秒未満で形状を再構成できる新型双方向形状記憶合金アクチュエーターを採用している。従来のロボットグリッパーは数十個のモーターとケーブルを必要とするが、この設計はそうした機械的複雑さを大幅に簡素化しつつ、信頼性の高いマニピュレーションを維持している。材料レベルのアクチュエーションを活用することで、非構造化環境においてもリアルタイムで把持形状を適応させる。この進歩は、義肢用および産業用グリッパーシステム双方のコスト低減につながる可能性がある。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/twoway-shape-memory-al.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Actuator", "Gripper", "Soft Robotics", "Manipulation"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-02",
+      "title": "ヒューマノイドロボット開発における根本的な工学的障壁を克服する",
+      "summary": "IEEE Spectrumの新しいホワイトペーパーが、ヒューマノイドロボットをプロトタイプから量産スケールへと移行させる妨げとなっている、根深いハードウェアおよびソフトウェア上の障壁を分析している。主な課題はバッテリーのエネルギー密度、実験室での器用さベンチマークと実世界での信頼性のギャップ、そして標準化されたコンポーネントエコシステムの欠如だ。同ペーパーは、アクチュエーターとセンサー標準に関する企業横断的な協力によって開発期間を数年短縮できると主張している。一方、Boston DynamicsからFigure AIに至る主要プレイヤーたちは商業展開に向けてしのぎを削っている。",
+      "image": "https://assets.rbl.ms/65106483/origin.png",
+      "source": "IEEE Spectrum",
+      "url": "https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/",
+      "tags": ["Humanoid", "Engineering", "Industry", "Roadmap"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-03",
+      "title": "電子部品・バッテリー・頭脳なしのロボット群が創発的行動を実証",
+      "summary": "科学者たちが、電子機器・バッテリー・オンボード演算を一切使わず、純粋に機械的相互作用と環境エネルギーだけで動作するロボット群を開発した。ロボットたちはアリのコロニーや粘菌からヒントを得て、物理的接触と受動バネ機構を通じて創発的行動を協調させる。このアプローチは、電子機器が機能しない場所でのがれき調査や環境モニタリング向けに超低コストの群れシステムを生み出す可能性がある。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-smartest-robots-ma.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["Swarm Robotics", "Soft Robotics", "Research", "Bioinspired"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-04",
+      "title": "耐久性アクチュエーターが宇宙対応ソフトロボットへの道を開く",
+      "summary": "ソフトロボティクス向けに新開発されたアクチュエーターが、宇宙環境での動作に必要な放射線耐性と熱的耐久性を実証した。剛性システムとは異なり、ソフトロボットは不規則な地形に適応し繊細な物体を扱えるため、惑星探査に適している。このアクチュエーターは真空、200℃を超える温度変動、そして月面・火星ミッションに関連する放射線量に耐えることができ、宇宙科学向けの展開可能なソフトロボットシステムをさらに一歩近づけた。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-actuator-could-boo.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": ["Space Robotics", "Soft Robotics", "Actuator", "Exploration"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-05",
+      "title": "鳥型ロボットが従来ドローンより高い機動性を実現",
+      "summary": "鳥にインスパイアされた新型ロボットが、飛行中に翼を動的に変形させる鳥の仕組みを模倣し、クアッドローターよりも複雑で障害物の多い環境をはるかに効果的にナビゲートする。受動的に形状変化する翼構造と尾羽を組み込むことで、追加センサーやアクチュエーターなしに急なターン半径と障害物近傍での安定したホバリングを実現した。デモでは密生した森林の樹冠や倒壊した建物の内部を飛行する様子が示され、これらは標準的なドローンが通常失敗する環境だ。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/birdlike-robots-that-p.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["Drones", "Bioinspired", "Aerial Robotics", "Search & Rescue"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-06",
+      "title": "5段階フレームワークがヒューマノイドロボットを移動性・操作性・認知能力で評価",
+      "summary": "研究者たちが、SAEの自動運転レベルに類似したヒューマノイドロボット向けの標準化された5段階能力モデルを提案した。このフレームワークはロボットを移動性、巧みなマニピュレーション、認知的意思決定の3軸で評価し、競合他社の製品を比較するための共通言語を提供する。現時点では、市販のヒューマノイドで3軸すべてを同時にレベル2以上達成しているものはなく、マーケティング上の主張と実際の能力の乖離が浮き彫りになっている。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/which-technical-capabi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["Humanoid", "Standards", "Benchmarking", "Industry"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-07",
+      "title": "リストバンドが切断者の自然な動作でロボットハンドの操作を可能に",
+      "summary": "非侵襲的なリストバンドが表面筋電図（EMG）と機械学習を用いて残存筋信号から意図した手の動きをデコードし、切断者がリアルタイムで義肢ロボットハンドを操作できるようにした。埋込型ソリューションと異なり手術不要で、新しいユーザーへの校正が10分以内に完了する。試験では参加者が初回セッションで標準的な巧緻性課題において90%超の精度を達成し、2年以内の商業化が計画されている。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wristband-enables-wear.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": ["Prosthetics", "Wearables", "EMG", "Rehabilitation"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-08",
+      "title": "Gill Pratt：ヒューマノイドロボットの商業的瞬間がついに到来した",
+      "summary": "Toyota Research Institute CEOのGill Prattは、ロボティクスチャレンジを手がけた元DARPAプログラムマネージャーであり、基盤モデル・改良アクチュエーター・センサーコストの低下が収束し、ヒューマノイドロボットが真の商業的転換点に到達したと語る。IEEE Spectrumの幅広いインタビューの中でPrattは、残る主要障壁はハードウェアではなくデータ、特に多様な非構造化環境における人間のマニピュレーションの大規模データセットだと主張する。家庭用ヒューマノイドは5年以内に商業的に実現可能になると予測している。",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-bespectacled-bearded-man-kneels-posed-behind-a-robotic-torso.jpg?id=65446567&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": ["Humanoid", "AI", "Industry", "DARPA"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-09",
+      "title": "AIが倉庫ロボットの渋滞を解消し、スループットを25%向上",
+      "summary": "大型フルフィルメントセンターでのマルチロボット調整を管理するよう訓練された強化学習システムが、混雑を避けてロボットを動的に迂回させることで注文スループットを25%改善した。従来の倉庫管理システムはロボット密度が高まるにつれ劣化する静的ルーティングルールを使用しているが、AIシステムは変化する現場環境にリアルタイムで適応する。この技術はシミュレーションで検証された後、200台以上の自律移動ロボットを有する稼働中の施設に導入された。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/warehouse-robots.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": ["Warehouse Robots", "Reinforcement Learning", "Logistics", "AI"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-10",
+      "title": "自律型倉庫ロボットが工場フロアの実務経験から直接学習",
+      "summary": "欧州の自動車部品メーカーでの導入事例から、自律型ロボットが事前プログラムされたルーティンではなく実務経験から学習してタスク性能を向上させていることが示されている。このシステムは継続的学習アーキテクチャを採用し、人間の再訓練なしに1日の運用データをもとに毎夜ロボットの行動を更新する。6ヶ月間で在庫変化に適応するにつれてビンピッキングのエラー率が40%低下し、工場フロアでの大規模継続学習の展開として初めて記録された事例のひとつとなった。",
+      "image": "https://spectrum.ieee.org/media-library/robotic-arms-on-mobile-bases-sort-crates-on-a-conveyor-belt-in-a-warehouse.png?id=63907821&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
+      "tags": ["Warehouse Robots", "Continual Learning", "Manufacturing", "AI"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-11",
+      "title": "超小型ロボットが水面を歩いて表層生態系を調査",
+      "summary": "研究者たちが、アメンボにインスパイアされたミリメートルスケールのロボットを開発した。このロボットは水の表面張力の上を歩き、水域表面生態系の非侵襲的なサンプリングを可能にする。ロボットは疎水性の脚と精密に調整された重量配分を利用して、ミニチュアセンサーを搭載しながら水面を破らずに移動する。水質モニタリング、油流出検知、そして空気と水の境界面に生息する生物群集であるノイストン層の研究への応用が期待される。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033930.htm",
+      "tags": ["Soft Robotics", "Research", "Environmental", "Bioinspired"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-12",
+      "title": "Cornellの科学者が塩粒より小さく「考える」マイクロロボットを作製",
+      "summary": "Cornellの研究者たちが、塩粒より小さなマイクロロボットを作製した。これらには単純な論理演算が可能なオンボード光起電回路が組み込まれており、外部制御なしに環境の手がかりに応答できる。ロボットは光学的に操縦でき、化学勾配に向かって移動するなどの基本的な意思決定を周囲の光エネルギーだけで行える。この成果は、生体医工学・環境センシング向けのテザーなしマイクロロボットシステムの実用化を大幅に近づけるものだ。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": ["Microrobotics", "Research", "Biomedical", "Nanotechnology"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-13",
+      "title": "不気味の谷のブレークスルー：ロボットの顔を不気味でなくする",
+      "summary": "科学者たちが、ヒューマノイドロボットの顔が「不気味の谷」効果を引き起こす正確な知覚的手がかりを特定し、皮膚の質感・微表情のタイミング・眼球運動パターンへの的を絞った調整によって不快感反応をほぼ完全に消去できることを示した。この知見はソーシャルロボット、テレプレゼンスアバター、そしてユーザー受容が普及に不可欠なヒューマノイドロボット設計に即座の意味合いをもつ。研究には実物とシミュレートされたロボットの顔と相互作用する被験者の神経画像研究が含まれた。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": ["Social Robotics", "Human-Robot Interaction", "Research", "Design"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-14",
+      "title": "AIを搭載したロボットが時間をかけてトマト収穫をより効率的に学習",
+      "summary": "視覚言語モデルと強化学習を組み合わせた農業ロボットが、6週間の温室試験を通じてトマト収穫効率の継続的な向上を示した。当初ロボットは約8%の果実を傷つけていたが、試験終了時までにカメラの熟度推定をもとに把持力を調節することを学び、破損率は1%未満に低下した。この研究は農業を、高度に変動する実世界環境における適応型ロボットシステムの試験場として位置づける。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["Agricultural Robotics", "Reinforcement Learning", "AI", "Harvesting"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-15",
+      "title": "DNAロボットが人体内で薬を届けウイルスを追跡できる",
+      "summary": "科学者たちがDNAベースのナノロボットを設計した。これらは生体内環境をナビゲートし、特定の分子標的を認識して、細胞レベルの精度で治療ペイロードを送達する。ロボットはワトソン・クリック塩基対合を誘導機構として活用し、がんマーカーやウイルスタンパク質を探し出して薬剤を放出する。マウスモデルでは、全身投与と比較して腫瘍負荷を60%低減し、標的ナノ医療における大きな飛躍を示した。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["Nanorobotics", "Medical", "Drug Delivery", "Biotech"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-16",
+      "title": "風力ロボットが過酷な環境の長期探査向けに設計される",
+      "summary": "新しい風力ロボットのプロトタイプが、バッテリーや燃料なしに受動的なセイルアンドスプリング機構で周囲の気流からエネルギーを回収しながら、数ヶ月間困難な地形を移動できる。この設計は、補給が不可能な極地の氷床・乾燥した砂漠・災害後の地域など、従来のロボットには過酷な環境を対象としている。初期フィールドテストでは48時間にわたり人間の介入なしに岩場の砂漠コースを継続移動することが示された。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wind-powered-robot-cou.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["Energy Harvesting", "Field Robotics", "Research", "Exploration"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-17",
+      "title": "放射線耐性Wi-Fiチップが原子炉廃炉ロボットへの道を開く",
+      "summary": "エンジニアたちが、500キログレイまでの放射線量に耐えられるWi-Fiチップを設計した。これは一般的な民生電子機器を破壊する線量の約500倍に相当し、核廃炉ロボットの堅牢な無線制御を初めて実現可能にする。現在、福島や英セラフィールドなどの施設のロボットは、有線または大量の遮蔽を要する通信を使わざるを得ず、行動範囲と機動性が制限されている。新チップは放射線耐性トランジスタ構造と誤り訂正ハードウェアを使用して、高放射線環境での信頼性の高いデータリンクを維持する。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/radiation-resistant-wi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": ["Nuclear", "Sensors", "Electronics", "Decommissioning"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-18",
+      "title": "ロボットが大規模太陽光発電所の過酷なメンテナンスを引き受ける",
+      "summary": "専門の検査・清掃ロボットが、砂漠の地点で50℃超の気温下で作業していた作業員に代わり、大型太陽光発電所での危険なメンテナンス作業を担うようになっている。ロボットはコンピュータビジョンで損傷パネルを特定し、塵埃を清掃し、軽微なケーブル修理を行う。中東とアリゾナでの初期導入では年間パネル出力が15〜20%改善し、1チームのロボットが年間コスト4分の1で4名の技術者を代替している。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-take-the-heat-f.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": ["Solar Energy", "Industrial Robots", "Inspection", "Climate"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-19",
+      "title": "空気圧人工筋肉がロボットに自重の100倍の物体を持ち上げさせる",
+      "summary": "新しい空気圧人工筋肉設計が、ロボットに自重の100倍の荷物を持ち上げさせる力重量比を達成し、同等スケールのほとんどの電動システムを大幅に上回る。筋肉は圧縮時にエネルギーを蓄え素早く放出する高強度ポリマー製のアコーディオン折り構造を採用している。この設計は脚型ロボットやエクソスケルトンに特に有望で、エネルギー効率とパワー密度が重要な役割を果たす分野だ。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/air-powered-artificial.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": ["Actuator", "Soft Robotics", "Exoskeleton", "Pneumatics"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-20",
+      "title": "DARPA Triage Challengeがロボットチームを大量犠牲者シナリオで競わせる",
+      "summary": "DARPAのTriage Challengeが、シミュレートされた戦場で人間の指揮なしに傷者を発見・評価・優先順位付けする自律ロボットチームを集結させた。競技システムはサーマルカメラ・地中レーダー・AIトリアージアルゴリズムを使用して傷者を特定・報告した。優勝チームは40名の傷者シナリオを12分以内に処理した。これは通常、人間の医療チームが1時間以上かける作業であり、DARPAは2030年までに完全自律型前線救護システムの実現を目指している。",
+      "image": "https://spectrum.ieee.org/media-library/aerial-drone-robotic-arm-explosion-and-medical-cross-on-abstract-background.jpg?id=62605094&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/darpa-triage-challenge-robots",
+      "tags": ["DARPA", "Medical Robots", "Autonomous", "Defense"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    }
+  ]
+}

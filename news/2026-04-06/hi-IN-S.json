@@ -1,0 +1,339 @@
+{
+  "date": "2026-04-06",
+  "featured": {
+    "id": "featured-0406",
+    "title": "Boston Dynamics Spot research का subject बना: scientists human-robot social interaction study कर रहे हैं",
+    "summary": "Researchers study कर रहे हैं कि families और visitors Robotics & AI Institute में Boston Dynamics के Spot robot के साथ कैसे interact करते हैं, जिससे quadruped machines के प्रति human comfort और trust के बारे में surprising insights मिल रहे हैं। Study बताती है कि बच्चे adults से faster adapt करते हैं और robot body पर visual cues perceived friendliness को significantly affect करते हैं।",
+    "image": "https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+    "tags": [
+      "Boston Dynamics",
+      "HRI",
+      "Social Robotics"
+    ],
+    "timestamp": "2026-04-06T13:00:01Z"
+  },
+  "articles": [
+    {
+      "id": "0406-001",
+      "title": "Resilient Actuator space-ready soft robots के लिए potential दिखाता है",
+      "summary": "एक नया actuator design extreme pressure, temperature, और radiation सहन कर सकता है, जिससे यह outer space, deep ocean, और nuclear environments में soft robots deploy करने के लिए suitable बन जाता है। यह research conventional rigid machines के लिए previously inaccessible जगहों पर robots operate करने के pathways खोलती है।",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": [
+        "Soft Robotics",
+        "Space",
+        "Actuator"
+      ],
+      "timestamp": "2026-04-05T10:00:03Z"
+    },
+    {
+      "id": "0406-002",
+      "title": "Video Friday: Digit ने practically रात भर में dance सीख लिया",
+      "summary": "इस हफ्ते के Video Friday में, Agility Robotics का Digit humanoid robot नए dance moves demonstrate करता है जो simulation में सीखे गए और 24 घंटे से भी कम समय में real world में transfer हुए — यह rapidly maturing sim-to-real transfer techniques का sign है।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-humanoid-dancing",
+      "video": "https://www.youtube.com/watch?v=29ECwExc-_M",
+      "tags": [
+        "Agility Robotics",
+        "Digit",
+        "Dance",
+        "Sim-to-Real"
+      ],
+      "timestamp": "2026-04-03T16:30:01Z"
+    },
+    {
+      "id": "0406-003",
+      "title": "MirrorBot: human connection foster करने के लिए design किया गया robot",
+      "summary": "Cornell University के researchers ने MirrorBot unveil किया है, एक ऐसा robot जो empathy और connection की feeling create करने के लिए human body language और emotional cues mirror करता है। Early trials में participants ने MirrorBot के साथ interact करने के बाद ज़्यादा understood और कम isolated feel किया।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-mirrorbot-robot-foster-human.html",
+      "tags": [
+        "Social Robots",
+        "Cornell",
+        "HRI"
+      ],
+      "timestamp": "2026-04-02T17:00:10Z"
+    },
+    {
+      "id": "0406-004",
+      "title": "Air-Powered Artificial Muscles robots को अपने weight का 100 गुना उठाने में help कर सकती हैं",
+      "summary": "Arizona State University के researchers pneumatic bio-inspired robotic muscles develop कर रहे हैं जो robots को boiling water और highly abrasive surfaces सहित extreme environments में operate करते हुए अपने weight का 100 गुना तक objects उठाने में enable करती हैं।",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": [
+        "Artificial Muscles",
+        "Soft Robotics",
+        "Arizona State"
+      ],
+      "timestamp": "2026-04-02T11:20:06Z"
+    },
+    {
+      "id": "0406-005",
+      "title": "Researchers ने बिना Electronics, बिना Batteries और बिना Brains के Robotic Swarm बनाया",
+      "summary": "Georgia Tech की एक team ने एक mechanical robotic swarm create किया है जो purely physical interactions से coordinated collective behavior achieve करता है — कोई sensors नहीं, कोई processors नहीं, कोई batteries नहीं। LEGO-inspired design demonstrate करता है कि intelligent group behavior simple mechanical rules से emerge हो सकता है।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": [
+        "Swarm Robotics",
+        "Georgia Tech",
+        "Mechanical"
+      ],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0406-006",
+      "title": "Natural-Language Robot Control के लिए Robot Operating System को LLMs के साथ combine करना",
+      "summary": "नई research Large Language Models को directly ROS (Robot Operating System) के साथ integrate करती है, जिससे operators plain English sentences से robots को command दे सकते हैं। System real time में natural language instructions को ROS action sequences में translate करता है, robot programming की barrier dramatically कम करता है।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html",
+      "tags": [
+        "ROS",
+        "LLM",
+        "Natural Language",
+        "Control"
+      ],
+      "timestamp": "2026-04-01T08:10:01Z"
+    },
+    {
+      "id": "0406-007",
+      "title": "Gill Pratt का कहना है कि humanoid robots का moment finally आ गया है",
+      "summary": "Toyota Research Institute के CEO Gill Pratt — पूर्व DARPA robotics program manager — एक नए IEEE Spectrum interview में argue करते हैं कि better AI, cheaper actuators, और improved batteries का confluence finally ऐसी conditions create करता है जहाँ humanoid robots real economic value deliver कर सकते हैं।",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": [
+        "Humanoid",
+        "DARPA",
+        "Toyota",
+        "Industry Analysis"
+      ],
+      "timestamp": "2026-04-02T15:00:02Z"
+    },
+    {
+      "id": "0406-008",
+      "title": "Nuclear Reactor झेलने वाला Wi-Fi — Decommissioning Robots के लिए",
+      "summary": "500 kGy radiation survive करने में capable एक radiation-hardened Wi-Fi chip specially nuclear plant decommissioning में use होने वाले robots के लिए develop किया गया है। यह chip active reactor cores के अंदर भी real-time wireless communication enable करता है, tethered cables की need eliminate करता है।",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robotics-in-nuclear-industry",
+      "tags": [
+        "Nuclear",
+        "Radiation",
+        "Wi-Fi",
+        "Industrial"
+      ],
+      "timestamp": "2026-04-02T14:00:02Z"
+    },
+    {
+      "id": "0406-009",
+      "title": "Scientists ने Nervous Systems वाले Living Robots build किए",
+      "summary": "Researchers ने 'NeuroBot' create किया है — biological cells से assembled living robots जिनमें functional nervous system-like structures include हैं। ये organisms अपना environment sense कर सकते हैं और coordinated locomotion patterns generate कर सकते हैं, robot और organism के बीच की line blur करते हुए।",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/neurobot-living-robot-nervous-system",
+      "tags": [
+        "Biohybrid",
+        "Living Robots",
+        "Neuroscience"
+      ],
+      "timestamp": "2026-04-02T13:00:01Z"
+    },
+    {
+      "id": "0406-010",
+      "title": "Control Framework flexible robots को tight spaces में कम math के साथ move करने देता है",
+      "summary": "एक नया control framework pipes, blood vessels, और collapsed buildings जैसे confined spaces में operate करने वाले continuum और flexible robots के लिए path planning dramatically simplify करता है। यह approach current methods की तुलना में navigation accuracy maintain करते हुए computation time 80% reduce करता है।",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": [
+        "Continuum Robots",
+        "Path Planning",
+        "Control"
+      ],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0406-011",
+      "title": "Q&A: Robots feel नहीं कर सकते — लेकिन novel pressure sensors यह change कर सकते हैं",
+      "summary": "Penn State researcher Huanyu Cheng explain करते हैं कि flexible pressure sensors की एक नई class robots को human skin के comparable touch का sense कैसे दे सकती है। ये sensors simultaneously textures, temperatures, और force levels detect कर सकते हैं — truly tactile robotic hands की दिशा में एक step।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-qa-robots-sensors.html",
+      "tags": [
+        "Tactile Sensing",
+        "Penn State",
+        "Robot Hands"
+      ],
+      "timestamp": "2026-03-30T17:00:04Z"
+    },
+    {
+      "id": "0406-012",
+      "title": "अलग-अलग bodies वाले Robots अब Intention-Based Learning के ज़रिए skills share कर सकते हैं",
+      "summary": "एक नया machine learning framework completely different physical bodies वाले robots को motor commands के बजाय skills को 'intentions' में abstract करके task knowledge share करने की allow करता है। एक robot arm और एक humanoid दोनों body-specific re-training के बिना same demonstration से learn कर सकते हैं।",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-bodies-skills-intention-based.html",
+      "tags": [
+        "Transfer Learning",
+        "Cross-Embodiment",
+        "AI"
+      ],
+      "timestamp": "2026-03-30T13:20:04Z"
+    },
+    {
+      "id": "0406-013",
+      "title": "HEAPGrasp: Robots के लिए Tricky Objects handle करने का faster, smarter तरीका",
+      "summary": "HEAPGrasp एक नया grasping algorithm है जो robots को irregularly shaped, slippery, या deformable objects reliably grasp करने में enable करने के लिए hierarchical planning को real-time haptic feedback के साथ combine करता है। Warehouse tests में इसने previously unseen items पर 97.3% success rate achieve की।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-heapgrasp-faster-smarter-robots-tricky.html",
+      "tags": [
+        "Grasping",
+        "Manipulation",
+        "Warehouse"
+      ],
+      "timestamp": "2026-03-30T11:20:03Z"
+    },
+    {
+      "id": "0406-014",
+      "title": "AI Benchmark robots को real world में chores plan और complete करने में help करता है",
+      "summary": "HomeTask-3000 नामक एक नया standardized benchmark evaluate करता है कि household robots realistic home environments में multi-step chores कितनी अच्छी तरह plan और execute कर सकते हैं। इस suite में 47 home layouts में 3,000 task scenarios हैं, जो अब तक का सबसे rigorous real-world robot evaluation offer करता है।",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html",
+      "tags": [
+        "Benchmark",
+        "Home Robots",
+        "AI Planning"
+      ],
+      "timestamp": "2026-03-29T11:30:02Z"
+    },
+    {
+      "id": "0406-015",
+      "title": "Video-Based AI robots को visual imagination देता है",
+      "summary": "Harvard Kempner Institute के Yilun Du एक ऐसा system unveil करते हैं जो robots को उनके actions execute करने से पहले video generation model को world model के रूप में use करके actions के visual outcome 'imagine' करने में enable करता है। इस visual imagination से trained robots manipulation tasks 40% अधिक efficiently solve करते हैं।",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-video-based-ai-robots-visual.html",
+      "tags": [
+        "World Model",
+        "Visual AI",
+        "Harvard",
+        "Manipulation"
+      ],
+      "timestamp": "2026-03-26T10:20:03Z"
+    },
+    {
+      "id": "0406-016",
+      "title": "AI System warehouse robot traffic jams prevent करता है, throughput 25% boost करता है",
+      "summary": "एक नया multi-agent reinforcement learning system congestion hotspots avoid करने के लिए warehouse robots के fleets को dynamically reroute करता है, order throughput में 25% increase achieve करता है। System को 500-robot Amazon fulfillment center simulation में validate किया गया था।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": [
+        "Warehouse",
+        "Multi-Agent",
+        "Reinforcement Learning"
+      ],
+      "timestamp": "2026-03-26T09:30:01Z"
+    },
+    {
+      "id": "0406-017",
+      "title": "Bat-Inspired Ultrasound palm-sized drones को fog और smoke में navigate करने में help करता है",
+      "summary": "WPI researchers ने palm-sized drones को bat-inspired ultrasound sensors और एक AI system से equip किया है जो zero-visibility conditions में autonomous navigation allow करता है। Smoke-filled environments में यह system camera-based navigation से outperform करता है, fire rescue drones के लिए applications opening करता है।",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ultrasound-palm-sized-drones-fog.html",
+      "tags": [
+        "Drones",
+        "Ultrasound",
+        "Navigation",
+        "WPI"
+      ],
+      "timestamp": "2026-03-26T09:06:49Z"
+    },
+    {
+      "id": "0406-018",
+      "title": "BRINC का नया police drone Starlink use करता है, Narcan carry करता है, 100 km/h पर vehicles chase करता है",
+      "summary": "Defense robotics company BRINC ने Guardian reveal किया है, जिसे 'अब तक का सबसे capable 911 response drone' describe किया गया है। यह nationwide coverage के लिए Starlink के via connect होता है, overdose responses के लिए Narcan dispenser deploy कर सकता है, और fleeing vehicles को 100 km/h तक chase करता है।",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "tags": [
+        "Police",
+        "Drone",
+        "Starlink",
+        "BRINC"
+      ],
+      "timestamp": "2026-03-25T21:12:03Z"
+    },
+    {
+      "id": "0406-019",
+      "title": "Robots Australia के biggest solar farms maintain करने में humans की जगह heat सह रहे हैं",
+      "summary": "AI-powered inspection robots Australia के large-scale solar farms में deploy हो रहे हैं ताकि extreme outback heat में dangerous human maintenance work replace किया जा सके। Robots autonomously kilometers के uneven desert terrain traverse करते हैं panels clean करने, faults detect करने, और minor repairs perform करने के लिए।",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": [
+        "Solar",
+        "Inspection",
+        "Australia",
+        "Industrial"
+      ],
+      "timestamp": "2026-03-25T18:10:07Z"
+    },
+    {
+      "id": "0406-020",
+      "title": "FedEx ने अपनी automation strategy के लिए proprietary tech की जगह partnerships choose कीं",
+      "summary": "FedEx ने अपने network में AI-powered sorting और manipulation robots deploy करने के लिए Berkshire Gray के साथ एक major partnership announce की, जो in-house robotics build करने से best-of-breed ecosystem approach की तरफ company के strategic pivot का signal देती है।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+      "tags": [
+        "FedEx",
+        "Logistics",
+        "Automation",
+        "Berkshire Gray"
+      ],
+      "timestamp": "2026-03-31T15:46:50Z"
+    },
+    {
+      "id": "0406-021",
+      "title": "Nomadic ने autonomous vehicles से निकल रहे data को manage करने के लिए $8.4M raise किए",
+      "summary": "Startup Nomadic ने deep learning use करके robot और AV sensor footage को structured, searchable datasets में convert करने के लिए infrastructure build करने हेतु $8.4 million raise किए हैं। Company autonomous systems development में एक major bottleneck target करती है: scale पर data processing और labeling।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": [
+        "Startup",
+        "Funding",
+        "Autonomous Vehicles",
+        "Data"
+      ],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0406-022",
+      "title": "Wristband wearers को अपनी movements से robotic hand control करने में enable करता है",
+      "summary": "MIT researchers का एक नया EMG wristband robotic prosthetic hand का intuitive real-time control provide करने के लिए forearm से muscle signals read करता है। Users 20 घंटे से कम training के साथ individual finger movements control कर सकते हैं, existing myoelectric prosthetics पर एक dramatic improvement।",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": [
+        "Prosthetics",
+        "EMG",
+        "MIT",
+        "Wearable"
+      ],
+      "timestamp": "2026-03-25T06:00:09Z"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "date": "2026-04-04",
+  "featured": {
+    "id": "featured-0404",
+    "title": "影片星期五：Digit 機器人「幾乎一夜之間」學會了跳舞",
+    "summary": "Agility Robotics 的 Digit 人形機器人透過全新的模擬到現實遷移流程，在數小時內完成了原本需要數週的訓練，學會了複雜的同步舞蹈動作。演示展示了流暢且與音樂同步的動作，將人形機器人運動控制的邊界推向了新高度。",
+    "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&h=600&fit=crop",
+    "video": "https://www.youtube.com/watch?v=29ECwExc-_M",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/video-humanoid-dancing",
+    "tags": ["Agility Robotics", "Digit", "運動控制"],
+    "timestamp": "2026-04-03T16:30:01Z"
+  },
+  "articles": [
+    {
+      "id": "0404-001",
+      "title": "你信任我嗎？一種讓機器人與車輛網路更安全的框架",
+      "summary": "一種新的計算信任框架，使機器人與自動駕駛車輛的異質網路能夠動態評估各節點的可靠性，並相應調整協調策略。在模擬環境中，該系統將多機器人場景下的碰撞風險降低了 62%。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-framework-networks-robots-vehicles-safer.html",
+      "tags": ["信任", "多機器人", "安全", "自動駕駛車輛"],
+      "timestamp": "2026-04-02T14:20:01Z"
+    },
+    {
+      "id": "0404-002",
+      "title": "加州一家餐廳的人形服務機器人失控狂舞，員工不得不出手制止",
+      "summary": "庫比蒂諾的海底撈火鍋店因其 AgiBot 人形服務員機器人突然失控亂舞而爆紅網路，需要員工介入處置。這一事件被多支智慧型手機拍下，再度引發了關於 AI 系統穩健性以及在公眾場所過度依賴自動化的討論。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "餐飲", "事故", "病毒式傳播"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0404-003",
+      "title": "毅力號火星車打破自動駕駛紀錄",
+      "summary": "NASA 的 Perseverance 火星車利用其 AutoNav 系統，在單個火星日內自主行駛了 699 公尺，創下新紀錄。這一成就展示了改進後的 AI 路徑規劃能力，無需等待地球指令即可繞過障礙物自主導航。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/perseverance-mars-rover-autonomous-driving",
+      "tags": ["NASA", "火星", "自動駕駛", "Perseverance"],
+      "timestamp": "2026-02-25T15:00:02Z"
+    },
+    {
+      "id": "0404-004",
+      "title": "無馬達的機械手：亞秒級形狀記憶致動器的工作原理",
+      "summary": "研究人員開發了一種完全由形狀記憶合金絲驅動的無馬達機械手，可在不到一秒內完成形態變換。該設計比馬達驅動版本輕 70%，是義肢與輕量化太空機械臂領域的重要突破。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["形狀記憶合金", "義肢", "致動器"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0404-005",
+      "title": "Rivian 分拆的 Mind Robotics 為 AI 工業機器人募資 5 億美元",
+      "summary": "由 Rivian 創辦人 RJ Scaringe 創立的衍生公司 Mind Robotics 完成了 5 億美元 A 輪融資。該公司正在研發從 Rivian 工廠環境中學習的 AI 工業機器人，目標是在 2027 年前實現商業化。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "新創公司", "融資", "工業"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0404-006",
+      "title": "人工神經網路成功複現四足動物的步態模式",
+      "summary": "瑞士研究人員構建了一種神經網路，能夠精確複製馬、狗和貓的行走、小跑和奔跑模式，包括根據速度變化自動切換步態。該模型目前正被用於改善四足機器人的運動能力。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-artificial-neural-network-gait-patterns.html",
+      "tags": ["四足機器人", "運動控制", "神經網路", "仿生"],
+      "timestamp": "2026-03-23T17:20:08Z"
+    },
+    {
+      "id": "0404-007",
+      "title": "Rivian CEO RJ Scaringe：我們對機器人的理解方向全錯了",
+      "summary": "在一次獨家專訪中，Rivian CEO RJ Scaringe 認為機器人產業過度關注模仿人類形態，而非針對特定任務工程化定制機器。他的新創業公司 Mind Robotics 採用了截然不同的工廠自動化路徑。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "觀點", "產業"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0404-008",
+      "title": "為何中國人形機器人產業正贏得早期市場",
+      "summary": "TechCrunch 分析顯示，中國人形機器人製造商的出貨量更多、迭代速度更快，超越美國競爭對手。Unitree、UBTech、Fourier Intelligence 和 Engine AI 等公司商業化部署的人形機器人數量，合計超過所有西方公司之和。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["中國", "人形機器人", "市場分析", "Unitree"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0404-009",
+      "title": "Qualcomm 與 Neura Robotics 合作，晶片製造商強勢進軍人形機器人領域",
+      "summary": "Qualcomm 與德國人形機器人新創公司 Neura Robotics 達成合作，將使用其 IQ10 AI 處理器打造新一代機器人。此次合作標誌著 Qualcomm 在具身 AI 和人形硬體領域最重要的布局，與 Nvidia 的機器人平台展開競爭。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "晶片", "人形機器人"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0404-010",
+      "title": "影片星期五：人形機器人透過與人類對打學會網球技能",
+      "summary": "一款人形機器人透過動作捕捉學習與即時生物力學建模的結合，經訓練後能夠與人類對手進行休閒網球比賽。在與人類球員完成 500 場比賽後，機器人調整了揮拍方式，以應對每位對手獨特的打球風格。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/tennis-playing-robot",
+      "video": "https://www.youtube.com/watch?v=fRj34o4hN4I",
+      "tags": ["人形機器人", "運動", "學習", "網球"],
+      "timestamp": "2026-03-21T16:30:04Z"
+    },
+    {
+      "id": "0404-011",
+      "title": "Amazon 收購樓梯攀爬配送機器人製造商 Rivr",
+      "summary": "Amazon 收購了能夠自主爬樓梯的輪式配送機器人製造商 Rivr，顯示出這家電商巨頭將配送服務延伸至門口的意圖。此次交易是 Amazon 首次專注於「最後一公尺」到門口配送的收購。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "配送", "收購", "Rivr"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    },
+    {
+      "id": "0404-012",
+      "title": "Alphabet 旗下機器人軟體公司 Intrinsic 併入 Google",
+      "summary": "2021 年從 Alphabet X 實驗室獨立的機器人軟體公司 Intrinsic 將轉歸 Google 直接管轄。此次整合表明 Google 有意將 Intrinsic 的機器人程式設計工具與其 DeepMind AI 研究相結合，打造端到端機器人平台。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "收購"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0404-013",
+      "title": "Canopii 要用機器人實現前人未竟的室內農場夢",
+      "summary": "Canopii 的全自主機器人室內農場在籃球場大小的空間內，每年可種植 4 萬磅香草和葉菜。與以往的室內農場新創公司不同，Canopii 使用專有機器人完成所有種植任務，從而消除了拖垮競爭對手的人工成本。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["農業機器人", "室內農業", "新創公司"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0404-014",
+      "title": "烏克蘭戰場上無人機戰爭的轉捩點——自主 UAV 如何改變戰爭形態",
+      "summary": "IEEE Spectrum 分析了烏克蘭衝突如何成為自主無人機戰爭的試驗場，雙方均大規模部署 AI 賦能的游蕩彈藥與反無人機系統。軍事分析人士警告，從中汲取的經驗教訓將定義未來的常規戰爭形態。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["軍用無人機", "烏克蘭", "自主武器"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0404-015",
+      "title": "Anduril 新一輪融資目標估值 600 億美元",
+      "summary": "國防科技公司 Anduril Industries 正尋求新一輪融資，估值目標為 600 億美元，是其 2025 年 6 月 300 億美元估值的兩倍。Anduril 的自主無人機及自主水下載具計畫正推動其營收快速成長。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "國防", "無人機", "融資"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0404-016",
+      "title": "Gecko Robotics 與美國海軍合作：爬牆機器人現已檢查整支美國艦隊",
+      "summary": "簽下創紀錄的美國海軍合約後，Gecko Robotics 正將其磁吸附爬牆機器人部署至美國海軍每一類艦艇，檢查船體完整性、焊縫品質和腐蝕狀況。機器人採集超音波測厚資料的速度比人工潛水員快 10 倍。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Gecko Robotics", "海軍", "檢測", "軍事"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0404-017",
+      "title": "讓機器人面孔不再令人毛骨悚然的突破性研究",
+      "summary": "哥倫比亞大學工程學院的研究人員訓練機器人僅用一個小型神經網路即可產生與語音同步的逼真唇部動作。人類觀察者對該機器人語音理解的評分顯著高於以往設計，表明唇同步對於跨越「恐怖谷」至關重要。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": ["社交機器人", "恐怖谷", "Columbia", "面部表情"],
+      "timestamp": "2026-01-16T10:28:30Z"
+    },
+    {
+      "id": "0404-018",
+      "title": "NASA 毅力號完成火星首次全 AI 規劃駕駛",
+      "summary": "Perseverance 完成了火星首次全 AI 規劃駕駛——搭載於探測車上的視覺神經網路在無需地球任務控制人員介入的情況下自主規劃路線。這次 112 公尺的自主行駛開啟了行星探索的新紀元。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260131084555.htm",
+      "tags": ["NASA", "火星", "AI 導航", "自動駕駛"],
+      "timestamp": "2026-01-31T08:45:55Z"
+    },
+    {
+      "id": "0404-019",
+      "title": "科學家製造出比鹽粒還小、能夠「思考」的微型機器人",
+      "summary": "康乃爾大學研究人員製造出比鹽粒還小的微型機器人，能夠利用光驅動電子裝置感知環境、做出決策並自主移動。這些機器人是有史以來最小的自主機器，在醫療和材料領域具有廣闊的應用前景。",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": ["微型機器人", "Cornell", "奈米技術"],
+      "timestamp": "2026-01-06T07:33:12Z"
+    },
+    {
+      "id": "0404-020",
+      "title": "影片星期五：天生奔跑者——腿式模組化運動機器人",
+      "summary": "一種新型模組化腿式機器人架構允許各組件自組裝成不同形態，並實現驚人的奔跑速度。該系統能針對每種組裝形態自動最佳化步態，使其適應不同地形和任務需求。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/legged-modular-robot",
+      "tags": ["模組化機器人", "運動控制", "腿式機器人"],
+      "timestamp": "2026-03-13T16:00:04Z"
+    },
+    {
+      "id": "0404-021",
+      "title": "影片星期五：擁有人工肌肉與肌腱的機器手",
+      "summary": "本週 IEEE Spectrum 重點介紹一款新型機器手，以順應性人工肌肉和類肌腱線纜取代了剛性伺服馬達。最終成品能夠僅憑被動順應性抓取易碎物品——從生雞蛋到酥脆薯片——而不會損壞它們。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-robot-hand-artificial-muscles",
+      "video": "https://www.youtube.com/watch?v=LikxFZZO2sk",
+      "tags": ["機器手", "人工肌肉", "抓取"],
+      "timestamp": "2026-03-06T16:00:05Z"
+    }
+  ]
+}

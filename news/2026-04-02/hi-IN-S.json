@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-02",
+  "featured": {
+    "id": "featured-0402",
+    "title": "Physical Intelligence का π0 Foundation Model: अब तक का सबसे capable general-purpose robot brain",
+    "summary": "Physical Intelligence का π0 foundation model, जो task-specific fine-tuning के बिना diverse robot types को control कर सकता है, reportedly छह major robotics OEMs द्वारा license किया जा रहा है जबकि company एक billion dollar का fundraise prepare कर रही है। Early results दिखाते हैं कि model 100 से कम demonstrations के साथ नए tasks पर generalize हो जाता है।",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+    "tags": ["Physical Intelligence", "Foundation Model", "Funding"],
+    "timestamp": "2026-03-27T23:59:40Z"
+  },
+  "articles": [
+    {
+      "id": "0402-001",
+      "title": "Amazon ने Fauna Robotics को acquire किया — kid-size humanoid Sprout के maker",
+      "summary": "Amazon का एक महीने में दूसरा robotics acquisition Fauna Robotics और उसके Sprout humanoid को fold में लाता है। Sprout को homes और hospitals में social companion के रूप में design किया गया है, जो advanced collision-avoidance और expressive communication के साथ बच्चों और बुजुर्गों के आसपास safely operate करता है।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": ["Amazon", "Fauna Robotics", "Acquisition", "Humanoid"],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0402-002",
+      "title": "Agile Robots ने Google DeepMind के साथ partnership की: foundation models के लिए data, hardware के लिए models",
+      "summary": "Mutually beneficial partnership में, Agile Robots अपने humanoid platforms का use करके millions of task demonstration data points collect करेगा और उन्हें Google DeepMind के साथ share करेगा। इसके बदले में, DeepMind के robotics foundation models Agile के next-generation robot platform में integrate किए जाएंगे।",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": ["Agile Robots", "Google DeepMind", "Partnership"],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0402-003",
+      "title": "Ukraine में autonomous drone warfare बदल रहा है military conflict का स्वरूप",
+      "summary": "Ukraine conflict में दोनों sides weekly हजारों AI-enabled autonomous drones deploy कर रहे हैं। Technological evolution की pace international law से आगे निकल गई है, experts warning दे रहे हैं कि meaningful human control erode हो रहा है जैसे autonomous engagement ranges सेकंडों तक shrink हो रही हैं।",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["Military", "Drones", "Ukraine", "AI Ethics"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0402-004",
+      "title": "Thermal AI वाले search-and-rescue drone ने लापता hikers को 4x faster ढूंढा",
+      "summary": "Swiss mountain rescue teams के साथ partnership में, thermal, infrared और color cameras को AI detection engine के साथ combine करने वाले एक new multi-sensor drone ने simulated Alpine conditions में traditional ground searches की तुलना में missing hikers को चार गुना faster locate किया।",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["SAR", "Drones", "Mountain Rescue", "Thermal"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0402-005",
+      "title": "Fraunhofer Humanoid Capability Levels: robot autonomy rate करने का नया standard",
+      "summary": "Fraunhofer HNFIZ institute ने humanoid robot capabilities के लिए five-level classification system publish किया है, जो mobility, manipulation और cognitive autonomy को cover करता है। यह framework manufacturers, regulators और customers को humanoid systems compare करने के लिए एक common language देता है।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["Humanoid", "Standards", "Fraunhofer", "Autonomy"],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0402-006",
+      "title": "Rutgers का bird-robot flexible wings से drones को energy efficiency में हराया",
+      "summary": "Rutgers का ornithopter robot 5m/s से कम speeds पर real-time में wind के अनुसार adapt होने वाले articulated flapping wings का use करके equivalent quadrotor drones से 3x बेहतर energy efficiency achieve करता है। Design के unique aerodynamic properties इसे dense forests में wildlife monitoring के लिए particularly effective बनाते हैं।",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["Ornithopter", "Rutgers", "Bio-Inspired", "Energy Efficiency"],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0402-007",
+      "title": "Odor-tracking robot एक broken sensor के साथ gas leaks और explosives locate करता है",
+      "summary": "Gas leak detection और explosive localization के लिए design किया गया एक bio-inspired olfactory robot reliable operation maintain करता है, यहां तक कि जब उसके दो sensor arrays में से एक fail हो जाए। यह fault-tolerant design उस तरीके से inspired है जैसे insects एक antenna खोने के बाद भी odors hunt करते रहते हैं।",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": ["Olfactory", "Safety", "Gas Detection", "Fault Tolerance"],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0402-008",
+      "title": "Chicago school के robot tutors human होने का pretend किए बिना empathy सिखाते हैं",
+      "summary": "Chicago के 12 elementary schools में एक experiment socially assistive robots का use करता है social-emotional learning skills सिखाने के लिए। Critically, robots machine होने के बारे में transparent हैं — और research दिखाती है कि यह honesty anthropomorphic robot tutors की तुलना में learning outcomes को actually improve करती है।",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": ["Education", "SEL", "Social Robots", "Ethics"],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0402-009",
+      "title": "WANDER-Bot: extreme environments की perpetual monitoring के लिए wind-powered robot",
+      "summary": "Cranfield University का WANDER-bot wind energy harvest करता है अपनी locomotion और sensors को power देने के लिए, जो deserts, tundra और volcanic terrain में indefinite autonomous operation enable करता है। 3D-printed, 200 dollar design continent-scale environmental monitoring networks enable कर सकता है।",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["Wind Power", "Environment", "Exploration", "Cranfield"],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0402-010",
+      "title": "Robots जो अपने human teachers से faster सीखते हैं — imitation learning में नई breakthrough",
+      "summary": "एक नया 'accelerated imitation learning' framework human demonstrations में inefficiencies identify करता है और उनके around optimize करता है, जिससे robots केवल 10 practice trials के बाद demonstrating human से 30% faster learned tasks perform कर सकते हैं।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": ["Imitation Learning", "Robot Learning", "Efficiency"],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0402-011",
+      "title": "Gecko Robotics ने पूरे ship fleet inspect करने के लिए US Navy का सबसे बड़ा robotics deal जीता",
+      "summary": "Navy ने Gecko Robotics को हर vessel class में wall-climbing inspection robots deploy करने का पांच साल का contract दिया है। Robots ultrasound, infrared और visual sensors का use करते हैं hull integrity, weld quality और corrosion को continuously monitor करने के लिए — predictive maintenance models बनाते हैं।",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Navy", "Inspection", "Military", "Gecko Robotics"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0402-012",
+      "title": "Haidilao restaurant robot meltdown viral हुआ: AgiBot uncontrollably dance करने लगा",
+      "summary": "Cupertino के एक Haidilao hot pot restaurant में एक AgiBot humanoid waiter का control खोकर erratically dance करने का video 40 million से ज़्यादा views पा चुका है। Company ने malfunction को एक software update के edge case के लिए attribute किया और तब से system-wide patch deploy कर दिया है।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "Restaurant", "Viral", "Failure"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0402-013",
+      "title": "Rivian के RJ Scaringe: humanoid robots बनाना बंद करो, purpose-built machines बनाओ",
+      "summary": "Rivian के CEO और Mind Robotics के founder RJ Scaringe argue करते हैं कि robotics industry factory tasks के लिए human-shaped robots chase करके fundamental mistake कर रही है। उनका नया venture specifically robots को उनके intended tasks से match करने के लिए design करता है, human anatomy से नहीं।",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "Industrial", "Opinion"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0402-014",
+      "title": "Mind Robotics ने Rivian की अपनी production line से सीखने वाले factory robots के लिए 500 million dollar raise किए",
+      "summary": "Rivian की spin-out Mind Robotics ने Rivian के Gigafactory में directly trained AI-powered industrial robots build और deploy करने के लिए 500 million dollar raise किए हैं। Startup को factory demonstration data के terabytes तक exclusive access है — एक significant competitive moat।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "Startup", "Industrial", "Funding"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0402-015",
+      "title": "Qualcomm IQ10 chips Neura Robotics के next-generation humanoid brain को power देते हैं",
+      "summary": "Neura Robotics अपना नया humanoid platform Qualcomm के IQ10 AI processor के around build कर रहा है, जो 20 watts से कम में 40 TOPS का on-device inference power provide करता है। यह partnership robot computing platform market में Nvidia की dominance को challenge करती है।",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "Chips", "Hardware"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0402-016",
+      "title": "Canopii का autonomous robotic farm basketball court में per year 40,000 pounds herbs उगाता है",
+      "summary": "Canopii fully autonomous indoor farm operate करने के लिए custom robots का vertically integrated stack — seeding, watering, monitoring और harvesting — use करता है। Previous players के विपरीत जो labor costs पर fail हुए, Canopii का fully robotic approach traditional indoor farms की आधी price पर profitability achieve करता है।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["AgriRobotics", "Indoor Farming", "Autonomous"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0402-017",
+      "title": "Intrinsic ने Google join किया: Alphabet ने अपना robotics software platform consolidate किया",
+      "summary": "एक independent Alphabet company के रूप में पांच साल बाद, robotics software firm Intrinsic को Google में absorb किया जा रहा है। यह move Alphabet के robotics assets को एक roof के नीचे consolidate करता है और Google के intent को signal करता है कि वह software, AI models और hardware partnerships को combine करने वाला unified robotics platform build करे।",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "Software"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0402-018",
+      "title": "China का humanoid robotics industry commercial deployments में West को outpace कर रहा है",
+      "summary": "TechCrunch के एक detailed analysis में पाया गया है कि Chinese humanoid manufacturers ने पिछले 12 महीनों में सभी Western companies combined से commercially अधिक units ship की हैं, जो lower manufacturing costs, faster iteration cycles और aggressive government subsidies से driven हैं।",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["China", "Humanoid", "Market", "Competition"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0402-019",
+      "title": "Anduril का 60 billion dollar valuation push: defense robot startup history में किसी भी weapons firm से faster grow कर रही है",
+      "summary": "Anduril Industries अपने next funding round में 60 billion dollar valuation target कर रही है, जो इसे valuation growth speed से history में सबसे valuable defense technology company बना देगी। Autonomous drone swarms, undersea vehicles और AI surveillance systems से revenue 18 महीनों में triple हो गया है।",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "Defense", "Funding", "Drones"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0402-020",
+      "title": "Walking robots के 30 साल: Honda P2 ने कैसे सब कुछ change किया",
+      "summary": "IEEE ने Honda P2 — पहले truly self-contained bipedal robot — को official IEEE Milestone designate किया है, इसके unveiling के 30 साल बाद। P2 का dynamic walking algorithm, engineer Masato Hirose द्वारा developed, तब से develop किए गए लगभग हर walking robot का direct ancestor है।",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": ["Honda", "History", "Bipedal", "IEEE"],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0402-021",
+      "title": "Amazon का Rivr acquisition: stair-climbing robot last-meter doorstep delivery को करीब लाया",
+      "summary": "Amazon का Rivr का acquisition — एक wheeled robot maker जो autonomously stairs climb कर सकता है और building lobbies navigate कर सकता है — final-meter delivery में company का पहला serious investment है। Technology eventually किसी भी building के किसी भी floor पर package delivery enable कर सकती है।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "Delivery", "Acquisition", "Last Mile"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    }
+  ]
+}

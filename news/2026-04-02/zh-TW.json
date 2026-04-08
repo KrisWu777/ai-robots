@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-02",
+  "featured": {
+    "id": "featured-0402",
+    "title": "Physical Intelligence 的 π0 基礎模型：迄今最強大的通用機器人大腦",
+    "summary": "Physical Intelligence 的 π0 基礎模型無需針對特定任務進行微調即可控制多種機器人類型，據報導已有六家主要機器人OEM廠商正在授權使用，同時該公司正準備進行10億美元的募資。早期結果顯示，該模型僅需不到100次示範即可泛化至新任務。",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+    "tags": ["Physical Intelligence", "基礎模型", "募資"],
+    "timestamp": "2026-03-27T23:59:40Z"
+  },
+  "articles": [
+    {
+      "id": "0402-001",
+      "title": "Amazon 收購 Fauna Robotics —— Sprout 兒童尺寸人形機器人的製造商",
+      "summary": "Amazon 在一個月內的第二次機器人收購，將 Fauna Robotics 及其 Sprout 人形機器人納入旗下。Sprout 被設計為家庭和醫院的社交伴侶，憑藉先進的避碰技術和富有表現力的溝通方式，能在兒童和老人身邊安全運作。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": ["Amazon", "Fauna Robotics", "收購", "人形機器人"],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0402-002",
+      "title": "Agile Robots 與 Google DeepMind 合作：以資料換基礎模型，以模型換硬體",
+      "summary": "在互利合作中，Agile Robots 將利用其人形平台收集數百萬任務示範資料點並與 Google DeepMind 共享。作為回報，DeepMind 的機器人基礎模型將被整合至 Agile 的下一代機器人平台。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": ["Agile Robots", "Google DeepMind", "合作夥伴關係"],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0402-003",
+      "title": "烏克蘭自主無人機戰爭正在改變軍事衝突的面貌",
+      "summary": "烏克蘭衝突雙方每週部署數千架AI驅動的自主無人機。技術演進的速度已超越國際法，專家警告稱，隨著自主交戰範圍縮短至數秒，有意義的人類控制正在被侵蝕。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["軍事", "無人機", "烏克蘭", "AI倫理"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0402-004",
+      "title": "配備熱成像AI的搜救無人機找到失蹤登山者的速度提升4倍",
+      "summary": "與瑞士山地救援隊合作，一款融合熱成像、紅外線和彩色攝影機與AI偵測引擎的新型多感測器無人機，在模擬阿爾卑斯山條件下定位失蹤登山者的速度比傳統地面搜索快四倍。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["搜救", "無人機", "山地救援", "熱成像"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0402-005",
+      "title": "Fraunhofer 人形機器人能力等級：機器人自主性評級新標準",
+      "summary": "Fraunhofer HNFIZ 研究所發布了一套五級人形機器人能力分類體系，涵蓋移動性、操作能力和認知自主性。該框架為製造商、監管機構和客戶提供了比較人形系統的共同語言。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["人形機器人", "標準", "Fraunhofer", "自主性"],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0402-006",
+      "title": "Rutgers 仿鳥機器人用柔性翅膀在能效上擊敗無人機",
+      "summary": "Rutgers 的撲翼機器人在5m/s以下速度時，透過使用能即時適應風力的鉸接撲翼，實現了比同類四旋翼無人機高3倍的能效。其獨特的氣動特性使其在茂密森林的野生動物監測中尤為有效。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["撲翼機器人", "Rutgers", "仿生", "能效"],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0402-007",
+      "title": "氣味追蹤機器人在一個感測器損壞時仍能定位氣體洩漏和爆炸物",
+      "summary": "一款專為氣體洩漏偵測和爆炸物定位設計的仿生嗅覺機器人，即使兩個感測器陣列之一發生故障也能保持可靠運作。這種容錯設計的靈感來自昆蟲失去一根觸角後仍能繼續追蹤氣味的能力。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": ["嗅覺", "安全", "氣體偵測", "容錯"],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0402-008",
+      "title": "芝加哥學校機器人導師在不假裝是人類的情況下教授同理心",
+      "summary": "一項在芝加哥12所小學進行的實驗使用社交輔助機器人來教授社會情感學習技能。關鍵是，這些機器人對自身是機器保持透明——研究顯示，與擬人化機器人導師相比，這種誠實實際上能提高學習成效。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": ["教育", "社會情感學習", "社交機器人", "倫理"],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0402-009",
+      "title": "WANDER-Bot：用於持續極端環境監測的風力驅動機器人",
+      "summary": "Cranfield University 的 WANDER-bot 利用風能為其移動和感測器供電，能在沙漠、凍原和火山地形中無限期自主運作。這款3D列印、造價200美元的設計有望實現大陸規模的環境監測網路。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["風能", "環境", "探索", "Cranfield"],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0402-010",
+      "title": "學習速度超越人類教師的機器人——模仿學習新突破",
+      "summary": "一種新的「加速模仿學習」框架能識別人類示範中的低效之處並加以優化，使機器人在僅經過10次練習後，執行所學任務的速度比示範的人類快30%。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": ["模仿學習", "機器人學習", "效率"],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0402-011",
+      "title": "Gecko Robotics 贏得美國海軍最大機器人合約，負責檢查整個艦隊",
+      "summary": "海軍授予 Gecko Robotics 一份為期五年的合約，在每艘艦艇上部署爬牆檢測機器人。這些機器人使用超音波、紅外線和視覺感測器持續監測船體完整性、焊接品質和腐蝕情況，從而建立預測性維護模型。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["海軍", "檢測", "軍事", "Gecko Robotics"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0402-012",
+      "title": "海底撈餐廳機器人失控事件病毒式傳播：AgiBot 機器人失控跳舞",
+      "summary": "一段 AgiBot 人形服務員機器人在庫比蒂諾一家海底撈火鍋餐廳失控亂舞的影片已獲超過4000萬次播放。該公司將此故障歸因於軟體更新的邊緣情況，並已部署全系統修補程式。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "餐廳", "病毒傳播", "故障"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0402-013",
+      "title": "Rivian 的 RJ Scaringe：停止製造人形機器人，製造專用機器",
+      "summary": "Rivian CEO 兼 Mind Robotics 創辦人 RJ Scaringe 認為，機器人行業在為工廠任務追求人形機器人方面犯了根本性錯誤。他的新公司專門將機器人設計得與其預定任務相匹配，而非人體解剖學。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "工業", "觀點"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0402-014",
+      "title": "Mind Robotics 募資5億美元，打造在 Rivian 生產線上訓練的工廠機器人",
+      "summary": "Rivian 分拆出來的 Mind Robotics 已募資5億美元，用於建造和部署直接在 Rivian 超級工廠中訓練的AI驅動工業機器人。該新創公司獨享海量工廠示範資料，構築了顯著的競爭護城河。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "新創企業", "工業", "募資"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0402-015",
+      "title": "Qualcomm IQ10 晶片為 Neura Robotics 下一代人形機器人大腦提供動力",
+      "summary": "Neura Robotics 正圍繞 Qualcomm 的 IQ10 AI處理器構建其新型人形平台，該處理器在20瓦以下功耗提供40 TOPS的裝置端推理能力。此次合作挑戰了 Nvidia 在機器人運算平台市場的主導地位。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "晶片", "硬體"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0402-016",
+      "title": "Canopii 的自主機器人農場在籃球場大小的空間裡每年種植4萬磅香草",
+      "summary": "Canopii 使用垂直整合的定製機器人堆疊——播種、澆水、監測和收割——運營完全自主的室內農場。與以往因勞動力成本失敗的同業不同，Canopii 的全機器人化方案以傳統室內農場一半的價格實現獲利。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["農業機器人", "室內農業", "自主"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0402-017",
+      "title": "Intrinsic 加入 Google：Alphabet 整合其機器人軟體平台",
+      "summary": "在作為獨立 Alphabet 公司運營五年後，機器人軟體公司 Intrinsic 被併入 Google。此舉將 Alphabet 的機器人資產整合在同一屋簷下，並表明 Google 有意打造結合軟體、AI模型和硬體合作的統一機器人平台。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "軟體"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0402-018",
+      "title": "中國人形機器人行業在商業部署方面正在超越西方",
+      "summary": "TechCrunch 的詳細分析發現，在過去12個月中，中國人形機器人製造商的商業出貨量超過了所有西方公司的總和，驅動因素包括更低的製造成本、更快的迭代週期以及積極的政府補貼。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["中國", "人形機器人", "市場", "競爭"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0402-019",
+      "title": "Anduril 600億美元估值衝刺：這家國防機器人新創公司是史上增速最快的武器公司",
+      "summary": "Anduril Industries 正尋求在下一輪融資中達到600億美元估值，這將使其成為按估值增速計算史上最有價值的國防科技公司。來自自主無人機蜂群、水下載具和AI監控系統的收入在18個月內增長了三倍。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "國防", "募資", "無人機"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0402-020",
+      "title": "行走機器人30年：Honda P2 如何改變了一切",
+      "summary": "IEEE 在 Honda P2——第一款真正自給自足的雙足機器人——亮相30年後，將其列為官方 IEEE 里程碑。P2 的動態行走演算法由工程師 Masato Hirose 開發，是此後幾乎所有行走機器人的直接始祖。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": ["Honda", "歷史", "雙足機器人", "IEEE"],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0402-021",
+      "title": "Amazon 收購 Rivr：爬樓梯機器人讓最後一米門口配送更近一步",
+      "summary": "Amazon 收購了 Rivr——一款能自主爬樓梯和穿越樓宇大廳的輪式機器人製造商，標誌著該公司對最後一米配送的首次重大投資。這項技術最終有望實現向任何樓宇任意樓層的包裹配送。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "配送", "收購", "最後一公里"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    }
+  ]
+}

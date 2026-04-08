@@ -1,0 +1,228 @@
+{
+  "date": "2026-04-04",
+  "featured": {
+    "id": "featured-0404",
+    "title": "Vidéo du Vendredi : Digit apprend à danser, presque du jour au lendemain",
+    "summary": "L'humanoïde Digit d'Agility Robotics a appris des chorégraphies synchronisées complexes grâce à un nouveau pipeline de transfert simulation-réalité qui compresse l'entraînement de plusieurs semaines à quelques heures. La démo met en valeur des mouvements fluides et synchronisés avec la musique, repoussant les limites actuelles du contrôle de locomotion des robots humanoïdes.",
+    "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&h=600&fit=crop",
+    "video": "https://www.youtube.com/watch?v=29ECwExc-_M",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/video-humanoid-dancing",
+    "tags": ["Agility Robotics", "Digit", "Locomotion"],
+    "timestamp": "2026-04-03T16:30:01Z"
+  },
+  "articles": [
+    {
+      "id": "0404-001",
+      "title": "Avez-vous confiance en moi ? Un cadre pour sécuriser les réseaux de robots et de véhicules",
+      "summary": "Un nouveau cadre de confiance computationnel permet à des réseaux hétérogènes de robots et de véhicules autonomes d'évaluer dynamiquement la fiabilité de leurs pairs et d'ajuster leurs stratégies de coordination. Le système réduit le risque de collision dans les environnements multi-robots de 62 % en simulation.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-framework-networks-robots-vehicles-safer.html",
+      "tags": ["Confiance", "Multi-Robot", "Sécurité", "Véhicules Autonomes"],
+      "timestamp": "2026-04-02T14:20:01Z"
+    },
+    {
+      "id": "0404-002",
+      "title": "Des employés ont dû maîtriser un robot humanoïde dansant qui s'est emballé dans un restaurant californien",
+      "summary": "Un restaurant de hot pot Haidilao à Cupertino est devenu viral après que son serveur humanoïde AgiBot a commencé à danser de manière incontrôlée, nécessitant l'intervention du personnel. L'incident, filmé par plusieurs smartphones, a relancé le débat sur la robustesse des systèmes d'IA et la dépendance excessive à l'automatisation dans les lieux accueillant du public.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "Restaurant", "Incident", "Viral"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0404-003",
+      "title": "Le rover martien Perseverance pulvérise le record de conduite autonome",
+      "summary": "Le rover Perseverance de la NASA a établi un nouveau record de conduite autonome sur Mars en parcourant 699 mètres en un seul sol grâce à son système AutoNav. L'exploit démontre une planification de trajets par IA améliorée qui contourne les obstacles sans attendre les instructions depuis la Terre.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/perseverance-mars-rover-autonomous-driving",
+      "tags": ["NASA", "Mars", "Autonome", "Perseverance"],
+      "timestamp": "2026-02-25T15:00:02Z"
+    },
+    {
+      "id": "0404-004",
+      "title": "Une main robotique sans moteur : comment fonctionne un actionneur à changement de forme en moins d'une seconde",
+      "summary": "Des chercheurs ont développé une main robotique sans moteur actionnée entièrement par des fils en alliage à mémoire de forme qui changent de configuration en moins d'une seconde. La conception est 70 % plus légère que les équivalents motorisés, une avancée pour les prothèses et les bras robotiques spatiaux légers.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Alliage à Mémoire de Forme", "Prothèses", "Actionneur"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0404-005",
+      "title": "Mind Robotics, l'entreprise issue de Rivian, lève 500 millions de dollars pour des robots industriels à IA",
+      "summary": "Mind Robotics, la startup créée par le fondateur de Rivian, RJ Scaringe, a bouclé une Série A de 500 millions de dollars. L'entreprise développe des robots industriels pilotés par IA qui apprennent de l'environnement d'usine de Rivian et vise une disponibilité commerciale d'ici 2027.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "Startup", "Financement", "Industriel"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0404-006",
+      "title": "Un réseau de neurones artificiel reproduit les allures de marche des animaux à quatre pattes",
+      "summary": "Des chercheurs suisses ont conçu un réseau de neurones qui reproduit fidèlement les allures de marche, de trot et de galop des chevaux, des chiens et des chats, y compris les transitions automatiques d'allure en fonction de la vitesse. Le modèle est désormais utilisé pour améliorer la locomotion des robots quadrupèdes.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-artificial-neural-network-gait-patterns.html",
+      "tags": ["Quadrupède", "Locomotion", "Réseau de Neurones", "Bio-Inspiré"],
+      "timestamp": "2026-03-23T17:20:08Z"
+    },
+    {
+      "id": "0404-007",
+      "title": "RJ Scaringe de Rivian pense que nous faisons tout faux avec les robots",
+      "summary": "Dans une interview exclusive, le PDG de Rivian, RJ Scaringe, soutient que l'industrie de la robotique est trop focalisée sur la réplication de la forme humaine plutôt que sur la conception de machines dédiées à des tâches précises. Sa nouvelle startup Mind Robotics adopte une approche fondamentalement différente pour l'automatisation industrielle.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "Opinion", "Industrie"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0404-008",
+      "title": "Pourquoi l'industrie chinoise des robots humanoïdes domine le marché naissant",
+      "summary": "Une analyse de TechCrunch révèle que les fabricants chinois de robots humanoïdes expédient davantage d'unités et itèrent plus rapidement que leurs concurrents américains. Des entreprises comme Unitree, UBTech, Fourier Intelligence et Engine AI ont déployé commercialement plus d'humanoïdes que toutes les entreprises occidentales réunies.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["Chine", "Humanoïde", "Analyse de Marché", "Unitree"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0404-009",
+      "title": "Le partenariat de Qualcomm avec Neura Robotics signale l'entrée des fabricants de puces dans les humanoïdes",
+      "summary": "Qualcomm s'est associé à la startup allemande d'humanoïdes Neura Robotics pour construire des robots de nouvelle génération avec ses processeurs IA IQ10. Ce partenariat marque l'engagement le plus significatif de Qualcomm dans l'IA incarnée et le matériel humanoïde, en concurrence avec la plateforme robotique de Nvidia.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "Puces", "Humanoïde"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0404-010",
+      "title": "Vidéo du Vendredi : Un robot humanoïde apprend le tennis en jouant contre des humains",
+      "summary": "Un robot humanoïde a été entraîné à jouer au tennis de loisir contre des adversaires humains en combinant l'apprentissage par capture de mouvement et la modélisation biomécanique en temps réel. Après 500 matchs contre des joueurs humains, le robot a adapté son swing au style de jeu unique de chaque adversaire.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/tennis-playing-robot",
+      "video": "https://www.youtube.com/watch?v=fRj34o4hN4I",
+      "tags": ["Humanoïde", "Sport", "Apprentissage", "Tennis"],
+      "timestamp": "2026-03-21T16:30:04Z"
+    },
+    {
+      "id": "0404-011",
+      "title": "Amazon acquiert Rivr, fabricant d'un robot de livraison grimpeur d'escaliers",
+      "summary": "Amazon a acquis Rivr, une startup qui fabrique un robot de livraison à roues capable de monter des escaliers de façon autonome, signalant l'intention du géant du e-commerce de porter les livraisons jusqu'à la porte d'entrée. L'accord est la première acquisition d'Amazon centrée sur la livraison au pas de porte.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "Livraison", "Acquisition", "Rivr"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    },
+    {
+      "id": "0404-012",
+      "title": "Intrinsic, société de logiciels robotiques appartenant à Alphabet, rejoint Google",
+      "summary": "Intrinsic, la société de logiciels robotiques issue du laboratoire X d'Alphabet en 2021, passe sous le contrôle direct de Google. La consolidation traduit l'intention de Google d'intégrer les outils de programmation robotique d'Intrinsic à la recherche IA de DeepMind pour créer une plateforme robotique de bout en bout.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "Acquisition"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0404-013",
+      "title": "Canopii veut réussir là où les fermes intérieures précédentes ont échoué, grâce aux robots",
+      "summary": "Les fermes intérieures robotiques entièrement autonomes de Canopii peuvent produire 18 000 kg d'herbes et de légumes feuillus par an dans un espace de la taille d'un terrain de basket. Contrairement aux startups d'agriculture intérieure précédentes, Canopii utilise des robots propriétaires pour toutes les tâches de culture, supprimant les coûts de main-d'œuvre qui ont coulé ses concurrents.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["AgriRobotique", "Agriculture Intérieure", "Startup"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0404-014",
+      "title": "Le point d'inflexion de la guerre des drones en Ukraine : comment les UAV autonomes transforment les conflits",
+      "summary": "Une analyse d'IEEE Spectrum examine comment le conflit en Ukraine est devenu un terrain d'essai pour la guerre par drones autonomes, les deux parties déployant à grande échelle des munitions rôdeuses activées par IA et des systèmes anti-drones. Des analystes militaires avertissent que les leçons tirées définiront les futurs conflits conventionnels.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["Drones Militaires", "Ukraine", "Armes Autonomes"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0404-015",
+      "title": "Anduril vise une valorisation de 60 milliards de dollars lors d'une nouvelle levée de fonds",
+      "summary": "La société de technologie de défense Anduril Industries cherche à réaliser une nouvelle levée de fonds qui porterait sa valorisation à 60 milliards de dollars, soit le double de ses 30 milliards de juin 2025. Les programmes de drones autonomes et de véhicules sous-marins autonomes d'Anduril alimentent une croissance rapide du chiffre d'affaires.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "Défense", "Drones", "Financement"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0404-016",
+      "title": "Le contrat marine de Gecko Robotics : des robots grimpeurs de parois inspectent désormais toute la flotte américaine",
+      "summary": "Après son contrat record avec la Marine, Gecko Robotics déploie des robots grimpeurs de parois à adhérence magnétique pour inspecter l'intégrité des coques, la qualité des soudures et la corrosion sur chaque classe de bâtiments de la Marine américaine. Les robots collectent des données d'épaisseur par ultrasons 10 fois plus vite que des plongeurs humains.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Gecko Robotics", "Marine", "Inspection", "Militaire"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0404-017",
+      "title": "La percée qui rend les visages de robots moins inquiétants",
+      "summary": "Des chercheurs de Columbia Engineering ont entraîné un robot à produire des mouvements labiaux réalistes synchronisés à la parole en utilisant uniquement un petit réseau de neurones. Les observateurs humains ont attribué des scores de compréhension vocale du robot significativement plus élevés que pour les conceptions précédentes, suggérant que la synchronisation labiale est cruciale pour franchir la vallée de l'étrange.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": ["Robots Sociaux", "Vallée de l'Étrange", "Columbia", "Visage"],
+      "timestamp": "2026-01-16T10:28:30Z"
+    },
+    {
+      "id": "0404-018",
+      "title": "Le rover Perseverance de la NASA réalise le premier trajet entièrement planifié par IA sur Mars",
+      "summary": "Perseverance a effectué le premier trajet entièrement planifié par IA sur Mars, où un réseau de neurones à vision, tournant sur le rover lui-même, a choisi le parcours sans aucune intervention des contrôleurs de mission depuis la Terre. La traversée autonome de 112 mètres a ouvert une nouvelle ère d'exploration planétaire.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260131084555.htm",
+      "tags": ["NASA", "Mars", "Navigation IA", "Autonome"],
+      "timestamp": "2026-01-31T08:45:55Z"
+    },
+    {
+      "id": "0404-019",
+      "title": "Des scientifiques créent des robots plus petits qu'un grain de sel capables de penser",
+      "summary": "Des chercheurs de Cornell ont fabriqué des robots microscopiques, plus petits qu'un grain de sel, capables de percevoir leur environnement, de prendre des décisions et de se déplacer de façon autonome grâce à des composants électroniques alimentés par la lumière. Ces robots représentent les machines autonomes les plus petites jamais créées, avec des applications potentielles en médecine et en science des matériaux.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": ["Microrobots", "Cornell", "Nanotechnologie"],
+      "timestamp": "2026-01-06T07:33:12Z"
+    },
+    {
+      "id": "0404-020",
+      "title": "Vidéo du Vendredi : Ces robots sont nés pour courir — locomotion modulaire sur pattes",
+      "summary": "Une nouvelle architecture de robot modulaire sur pattes permet aux composants de s'assembler automatiquement en différentes configurations et d'atteindre des vitesses de course remarquables. Le système optimise automatiquement son allure pour chaque configuration assemblée, le rendant adaptable à différents terrains et exigences de tâches.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/legged-modular-robot",
+      "tags": ["Robots Modulaires", "Locomotion", "Sur Pattes"],
+      "timestamp": "2026-03-13T16:00:04Z"
+    },
+    {
+      "id": "0404-021",
+      "title": "Vidéo du Vendredi : Une main robotique avec des muscles et des tendons artificiels",
+      "summary": "Cette semaine, IEEE Spectrum met en lumière une nouvelle main robotique qui remplace les servomoteurs rigides par des muscles artificiels souples et des câbles de type tendon. Le résultat est une main qui saisit des objets délicats — des œufs crus aux chips croustillantes — sans les briser, grâce à la seule compliance passive.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-robot-hand-artificial-muscles",
+      "video": "https://www.youtube.com/watch?v=LikxFZZO2sk",
+      "tags": ["Main Robotique", "Muscles Artificiels", "Préhension"],
+      "timestamp": "2026-03-06T16:00:05Z"
+    }
+  ]
+}

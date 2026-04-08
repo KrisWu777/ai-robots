@@ -1,0 +1,228 @@
+{
+  "date": "2026-04-04",
+  "featured": {
+    "id": "featured-0404",
+    "title": "Video Friday: Digit ने लगभग एक रात में dancing सीख ली",
+    "summary": "Agility Robotics का Digit humanoid robot एक नए sim-to-real transfer pipeline की मदद से complex synchronized dance routines सीख गया है, जो training को हफ्तों से घटाकर घंटों में कर देता है। इस demo में music के साथ sync fluid movements दिखाए गए हैं जो humanoid locomotion control की current limits को नई heights पर ले जाते हैं।",
+    "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&h=600&fit=crop",
+    "video": "https://www.youtube.com/watch?v=29ECwExc-_M",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/video-humanoid-dancing",
+    "tags": ["Agility Robotics", "Digit", "Locomotion"],
+    "timestamp": "2026-04-03T16:30:01Z"
+  },
+  "articles": [
+    {
+      "id": "0404-001",
+      "title": "क्या आप मुझ पर trust करते हैं? Robots और vehicles के networks को safer बनाने का एक framework",
+      "summary": "एक नया computational trust framework robots और autonomous vehicles के heterogeneous networks को अपने peers की reliability dynamically assess करने और coordination strategies accordingly adjust करने की facility देता है। यह system multi-robot environments में collision risk को simulation में 62% तक reduce करता है।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-framework-networks-robots-vehicles-safer.html",
+      "tags": ["Trust", "Multi-Robot", "Safety", "Autonomous Vehicles"],
+      "timestamp": "2026-04-02T14:20:01Z"
+    },
+    {
+      "id": "0404-002",
+      "title": "California के एक restaurant में dancing humanoid robot बेकाबू हो गया, employees को रोकना पड़ा",
+      "summary": "Cupertino के Haidilao hot pot restaurant में AgiBot humanoid waiter के uncontrollably dance करने लगने के बाद यह viral हो गया, जिसे staff को intervene करके रोकना पड़ा। कई smartphones पर capture हुई इस incident ने AI system की robustness और public-facing settings में automation पर over-reliance की बहस को फिर से शुरू कर दिया।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "Restaurant", "Incident", "Viral"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0404-003",
+      "title": "Perseverance Mars Rover ने autonomous driving का record तोड़ा",
+      "summary": "NASA के Perseverance rover ने अपने AutoNav system से एक sol में 699 meters cover करके Mars पर autonomous driving का नया record बनाया है। यह achievement improved AI path planning को demonstrate करती है जो Earth-based commands का wait किए बिना obstacles navigate करती है।",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/perseverance-mars-rover-autonomous-driving",
+      "tags": ["NASA", "Mars", "Autonomous", "Perseverance"],
+      "timestamp": "2026-02-25T15:00:02Z"
+    },
+    {
+      "id": "0404-004",
+      "title": "Motors के बिना robotic hand: sub-second shape-shifting actuator कैसे काम करता है",
+      "summary": "Researchers ने एक motorless robotic hand develop की है जो पूरी तरह shape-memory alloy wires से actuate होती है और एक second से कम में configuration change कर लेती है। यह design motor-driven equivalents से 70% lighter है, जो prosthetics और lightweight space robotic arms के लिए एक breakthrough है।",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Shape-Memory Alloy", "Prosthetics", "Actuator"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0404-005",
+      "title": "Rivian की spinout Mind Robotics ने industrial AI-powered robots के लिए $500M raise किए",
+      "summary": "Rivian के founder RJ Scaringe द्वारा spinout की गई startup Mind Robotics ने $500 million Series A close की है। यह company AI-powered industrial robots बना रही है जो Rivian के factory environment से learn करते हैं और 2027 तक commercial availability target करती है।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "Startup", "Funding", "Industrial"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0404-006",
+      "title": "Artificial neural network ने चार पैरों वाले जानवरों के gait patterns reproduce किए",
+      "summary": "Swiss researchers ने एक neural network बनाया है जो horses, dogs और cats के walking, trotting और galloping patterns accurately replicate करता है — speed changes के response में automatic gait transitions सहित। यह model अब quadruped robots की locomotion improve करने के लिए use हो रहा है।",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-artificial-neural-network-gait-patterns.html",
+      "tags": ["Quadruped", "Locomotion", "Neural Network", "Bio-Inspired"],
+      "timestamp": "2026-03-23T17:20:08Z"
+    },
+    {
+      "id": "0404-007",
+      "title": "Rivian के RJ Scaringe को लगता है कि हम robots के साथ पूरी तरह गलत approach ले रहे हैं",
+      "summary": "एक exclusive interview में, Rivian के CEO RJ Scaringe का argument है कि robotics industry human form replicate करने पर बहुत ज़्यादा focus कर रही है बजाय specific tasks के लिए purpose-built machines engineer करने के। उनकी नई startup Mind Robotics factory automation के लिए fundamentally different approach लेती है।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "Opinion", "Industry"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0404-008",
+      "title": "China का humanoid robot industry early market क्यों जीत रहा है",
+      "summary": "TechCrunch analysis से पता चलता है कि Chinese humanoid robot manufacturers US competitors से ज़्यादा units ship कर रहे हैं और faster iterate कर रहे हैं। Unitree, UBTech, Fourier Intelligence और Engine AI जैसी companies ने collectively सभी Western companies को मिलाकर भी ज़्यादा humanoids commercially deploy किए हैं।",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["China", "Humanoid", "Market Analysis", "Unitree"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0404-009",
+      "title": "Qualcomm की Neura Robotics के साथ partnership chipmakers का humanoids में push signal करती है",
+      "summary": "Qualcomm ने German humanoid startup Neura Robotics के साथ company के IQ10 AI processors use करके next-generation robots build करने के लिए partnership की है। यह partnership embodied AI और humanoid hardware में Qualcomm का सबसे significant push है, जो Nvidia के robotics platform से compete करती है।",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "Chips", "Humanoid"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0404-010",
+      "title": "Video Friday: Humanoid Robot ने humans के against खेलकर tennis skills सीखे",
+      "summary": "एक humanoid robot को motion capture learning और real-time biomechanical modeling के combination से human opponents के against recreational tennis खेलने के लिए train किया गया है। Human players के against 500 matches के बाद, robot ने हर opponent के unique playing style handle करने के लिए अपना swing adapt कर लिया।",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/tennis-playing-robot",
+      "video": "https://www.youtube.com/watch?v=fRj34o4hN4I",
+      "tags": ["Humanoid", "Sport", "Learning", "Tennis"],
+      "timestamp": "2026-03-21T16:30:04Z"
+    },
+    {
+      "id": "0404-011",
+      "title": "Amazon ने stair-climbing delivery robot बनाने वाली Rivr को acquire किया",
+      "summary": "Amazon ने Rivr को acquire किया है, एक startup जो autonomously सीढ़ियाँ चढ़ने में capable wheeled delivery robot बनाती है, जो e-commerce giant की deliveries सीधे front door तक पहुँचाने की intent signal करती है। यह deal Amazon का पहला acquisition है जो last-meter doorstep delivery पर focused है।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "Delivery", "Acquisition", "Rivr"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    },
+    {
+      "id": "0404-012",
+      "title": "Alphabet की robotics software company Intrinsic Google में join हुई",
+      "summary": "Intrinsic, जो robotics software company 2021 में Alphabet के X lab से graduate हुई थी, Google के direct control में जा रही है। यह consolidation Google की intent signal करती है कि वह Intrinsic के robot programming tools को उसके DeepMind AI research के साथ integrate करे और end-to-end robotics platform बनाए।",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "Acquisition"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0404-013",
+      "title": "Canopii वहाँ succeed करना चाहती है जहाँ past indoor farms fail हुए — robots के साथ",
+      "summary": "Canopii के fully autonomous robotic indoor farms basketball court के size की space में सालाना 40,000 pounds herbs और leafy greens grow कर सकते हैं। पिछले indoor farm startups के unlike, Canopii सभी grow tasks के लिए proprietary robots use करती है, जिससे वो labor costs eliminate हो जाती हैं जिन्होंने competitors को डुबो दिया।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["AgriRobotics", "Indoor Farming", "Startup"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0404-014",
+      "title": "Ukraine में drone war का inflection point — Autonomous UAVs warfare कैसे बदल रहे हैं",
+      "summary": "IEEE Spectrum analysis examine करता है कि Ukraine conflict autonomous drone warfare का proving ground कैसे बन गया है, जिसमें दोनों sides AI-enabled loitering munitions और counterdrone systems बड़े scale पर deploy कर रही हैं। Military analysts warn करते हैं कि इससे learned lessons future conventional conflicts को define करेंगे।",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["Military Drones", "Ukraine", "Autonomous Weapons"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0404-015",
+      "title": "Anduril नई funding round में $60 billion valuation aim कर रही है",
+      "summary": "Defense technology company Anduril Industries एक नई funding round seek कर रही है जो उसकी valuation $60 billion तक push करेगी — June 2025 की $30 billion valuation का double। Anduril के autonomous drone और autonomous underwater vehicle programs rapid revenue growth drive कर रहे हैं।",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "Defense", "Drones", "Funding"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0404-016",
+      "title": "Gecko Robotics की Navy deal: wall-climbing robots अब पूरी US fleet inspect करते हैं",
+      "summary": "अपने record Navy contract के बाद, Gecko Robotics magnetically-adhesive wall-climbing robots deploy कर रही है जो हर class के US Navy vessel पर hull integrity, weld quality और corrosion inspect करते हैं। Robots human divers से 10x faster ultrasound thickness data collect करते हैं।",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Gecko Robotics", "Navy", "Inspection", "Military"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0404-017",
+      "title": "वो breakthrough जो robot faces को कम creepy बनाता है",
+      "summary": "Columbia Engineering के researchers ने एक robot को train किया जो केवल एक small neural network use करके speech के साथ synchronized realistic lip movements produce करता है। Human observers ने previous designs की तुलना में robot की speech comprehension scores काफी higher rate किए, जो suggest करता है कि uncanny valley cross करने के लिए lip sync crucial है।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": ["Social Robots", "Uncanny Valley", "Columbia", "Face"],
+      "timestamp": "2026-01-16T10:28:30Z"
+    },
+    {
+      "id": "0404-018",
+      "title": "NASA का Perseverance Rover Mars पर पहली AI-planned drive complete करता है",
+      "summary": "Perseverance ने Mars की पहली fully AI-planned drive complete की, जहाँ rover पर ही run हो रहे एक vision-capable neural network ने Earth-based mission controllers के किसी भी input के बिना route choose किया। 112-meter autonomous traverse ने planetary exploration में एक नए era की शुरुआत की।",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260131084555.htm",
+      "tags": ["NASA", "Mars", "AI Navigation", "Autonomous"],
+      "timestamp": "2026-01-31T08:45:55Z"
+    },
+    {
+      "id": "0404-019",
+      "title": "Scientists ने नमक के दाने से भी छोटे robots बनाए जो think कर सकते हैं",
+      "summary": "Cornell के researchers ने microscopic robots fabricate किए हैं — नमक के दाने से भी छोटे — जो light-powered electronics use करके अपने environment sense कर सकते हैं, decisions ले सकते हैं और autonomously move कर सकते हैं। ये robots अब तक created smallest autonomous machines हैं, जिनमें medical और materials applications की potential है।",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": ["Microrobots", "Cornell", "Nanotechnology"],
+      "timestamp": "2026-01-06T07:33:12Z"
+    },
+    {
+      "id": "0404-020",
+      "title": "Video Friday: ये robots दौड़ने के लिए born हुए हैं — Legged Modular Locomotion",
+      "summary": "एक नई modular legged robot architecture components को different configurations में self-assemble करने और remarkable running speeds achieve करने की allow देती है। System automatically प्रत्येक assembled configuration के लिए अपना gait optimize करता है, जिससे यह different terrain और task requirements के लिए adaptable बनता है।",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/legged-modular-robot",
+      "tags": ["Modular Robots", "Locomotion", "Legged"],
+      "timestamp": "2026-03-13T16:00:04Z"
+    },
+    {
+      "id": "0404-021",
+      "title": "Video Friday: Artificial muscles और tendons वाला एक robot hand",
+      "summary": "इस हफ्ते IEEE Spectrum एक नए robotic hand को highlight करता है जो rigid servo motors को compliant artificial muscles और tendon-like cables से replace करता है। Result एक ऐसा hand है जो केवल passive compliance use करके delicate objects — raw eggs से लेकर crunchy chips तक — को बिना तोड़े grasp करता है।",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-robot-hand-artificial-muscles",
+      "video": "https://www.youtube.com/watch?v=LikxFZZO2sk",
+      "tags": ["Robot Hand", "Artificial Muscles", "Grasping"],
+      "timestamp": "2026-03-06T16:00:05Z"
+    }
+  ]
+}

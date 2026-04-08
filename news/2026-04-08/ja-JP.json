@@ -1,0 +1,317 @@
+{
+  "date": "2026-04-08",
+  "featured": {
+    "id": "featured-20260408",
+    "title": "WSJがアメリカのヒューマノイドロボット内部に中国製部品を暴露――議会が対応へ",
+    "summary": "ウォール・ストリート・ジャーナルは、米国製ヒューマノイドロボットの主要部品の多くが中国のサプライヤーから調達されていることを明らかにし、同技術が商業展開に近づく中で安全保障上の懸念が高まっている。議会はDJIドローン禁止令をモデルにした法案の準備を進めているとされ、Figure AI、Apptronikなどの企業のサプライチェーンに影響を及ぼす可能性がある。この情報開示により、米国のヒューマノイドロボット産業全体に警告が発せられた形となり、各社は規制圧力が強まる前に部品調達の国内回帰や多様化を急ぐ必要に迫られている。",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "DroneXL / WSJ",
+    "url": "https://dronexl.co/2026/04/07/wsj-exposes-chinese-parts-inside-americas-humanoid-robots-congress-responds/",
+    "tags": [
+      "政策",
+      "サプライチェーン",
+      "ヒューマノイド",
+      "米中関係"
+    ],
+    "timestamp": "2026-04-07T12:29:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260408-01",
+      "title": "Torobo：東京ロボティクスがAtlasに匹敵する二足歩行ヒューマノイドを発表",
+      "summary": "東京ロボティクスは二足歩行ヒューマノイドToroboをデビューさせ、そのフォルムと動作の質においてBoston Dynamicsのいずれも即座に比較の対象となっている。同社は最近、Toroboを車輪型プラットフォームから完全な二足歩行設計へと移行させており、これは日本がヒューマノイドロボット競争において野望を高めていることを示す重要な技術的ステップだ。r/roboticsで拡散しているデモ動画は、世界中のロボット工学コミュニティから広範な注目を集めている。",
+      "image": "https://external-preview.redd.it/NzVzaGlndWx4dHRnMYyLeldNXgLZBPv3d6qOutVa1HJXQyQ5d_cw4XkQ-nxZ.png?width=640&crop=smart&auto=webp&s=94d9ee42cddc77b76519588267d9f810a811be98",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1sf806y/torobo_humanoid_robot_by_tokyo_robotics/",
+      "tags": [
+        "ヒューマノイド",
+        "日本",
+        "二足歩行"
+      ],
+      "timestamp": "2026-04-07T20:39:12Z"
+    },
+    {
+      "id": "art-20260408-02",
+      "title": "UBTECHとHondaトレーディングがヒューマノイドロボットと自律走行車の発展に向けてパートナーシップ締結",
+      "summary": "UBTECH RoboticsはHonda Tradingと戦略的パートナーシップを締結し、ヒューマノイドロボットと自律物流車両の商業化を加速する。この契約はUBTECHのWalker XプラットフォームとHonda Tradingのアジアを中心とした広範な流通・サプライチェーンネットワークを組み合わせるものだ。自動車メーカーとロボットメーカーが製造ノウハウの共有とスケール化を模索する中、また一つの重要な異業種連携が実現した。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "Pandaily",
+      "url": "https://pandaily.com/",
+      "tags": [
+        "UBTECH",
+        "Honda",
+        "ヒューマノイド",
+        "パートナーシップ"
+      ],
+      "timestamp": "2026-04-08T02:38:00Z"
+    },
+    {
+      "id": "art-20260408-03",
+      "title": "ロボット工学の未来：AI、ヒューマノイド、そして「物理的知能」の台頭",
+      "summary": "Assembly Magazineの包括的な業界分析は、大規模言語モデルと物理ロボット工学が「物理的知能」と呼ばれる新たな分野へと収束しつつある状況を概説している。同レポートは、2026年がロボットが単一タスクマシンから新しい環境への適応が可能な汎用ワーカーへと移行する変曲点であると論じており、Physical Intelligence (Pi)やGoogle DeepMindを含む主要研究機関からの知見を引用している。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com/",
+      "tags": [
+        "物理的知能",
+        "AI",
+        "業界分析"
+      ],
+      "timestamp": "2026-04-06T16:00:00Z"
+    },
+    {
+      "id": "art-20260408-04",
+      "title": "中国のロボットスタートアップがTesla Optimusに対抗するため年俸1800万ドルでチーフサイエンティストを募集",
+      "summary": "Business Insiderによると、Tesla のOptimusと直接競合するヒューマノイドロボットを開発している中国のスタートアップが、世界トップクラスのチーフサイエンティストを獲得するために年俸1800万ドルを提示している。この破格の報酬パッケージは、中国企業が米国勢との差を縮めようと競争を激化させる中、AI・ロボット工学人材の争奪戦が熾烈化していることを反映している。この社名非公開の企業は国家系の主要投資家から支援を受けているとされる。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/",
+      "tags": [
+        "中国",
+        "Tesla Optimus",
+        "人材",
+        "資金調達"
+      ],
+      "timestamp": "2026-04-06T10:20:00Z"
+    },
+    {
+      "id": "art-20260408-05",
+      "title": "耐久性アクチュエータの突破口が宇宙でのソフトロボット実現を可能にするかもしれない",
+      "summary": "研究者たちは、真空・放射線・温度変動などの宇宙空間の過酷な環境に機械的破損なく耐えられる新たなアクチュエータを開発した。このシステムには、従来のソフトロボットアクチュエータよりも広い温度域で性能を維持する新しいエラストマー複合材料が採用されており、将来の月面・火星探査ミッションにおける展開可能なロボットシステムへの道を開くものだ。この研究成果は査読付きの材料科学誌に掲載された。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-actuator-could-boo.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": [
+        "ソフトロボティクス",
+        "宇宙",
+        "アクチュエータ",
+        "研究"
+      ],
+      "timestamp": "2026-04-05T14:00:00Z"
+    },
+    {
+      "id": "art-20260408-06",
+      "title": "AmazonがFauna Roboticsのヒューマノイド戦略に見出したもの",
+      "summary": "The Robot Reportは、AmazonがSproutヒューマノイドのメーカーであるFauna Roboticsを買収した戦略的理由についての情報を入手した。Amazonが引き付けられたのは、Faunaの非構造化環境における器用で人間サイズの操作への独自の注力姿勢であり、Amazonの既存の倉庫ロボットでは埋めることのできない能力上のギャップだ。この買収は、Amazonが固定自動化を超え、フルフィルメントネットワーク全体で柔軟な汎用ワーカーとしてヒューマノイドを展開する意図を示している。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/what-amazon-saw-in-fauna-robotics-humanoid-strategy/",
+      "tags": [
+        "Amazon",
+        "Fauna Robotics",
+        "ヒューマノイド",
+        "買収"
+      ],
+      "timestamp": "2026-04-07T15:08:00Z"
+    },
+    {
+      "id": "art-20260408-07",
+      "title": "建設ロボットにおける自律的なタスク順序決定とエラー回復",
+      "summary": "AZoBuildは、建設ロボットの自律的なタスク順序決定とリアルタイムエラー回復を実証する新たな研究について報告している。このシステムは、部品の位置がずれたりツールが故障したりした際に即座に計画を立て直すことができ、真の意味で自律的な建設現場オペレーションに向けた大きな一歩だ。フィールドトライアルでは、人間の介入なしにロボットが複数ステップの石工作業を91%の成功率で完了した。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "AZoBuild",
+      "url": "https://www.azobuild.com/",
+      "tags": [
+        "建設",
+        "自律",
+        "研究"
+      ],
+      "timestamp": "2026-04-07T15:18:00Z"
+    },
+    {
+      "id": "art-20260408-08",
+      "title": "Big-D建設がFieldAIとの自律ロボット導入を拡大",
+      "summary": "米国の建設大手Big-D ConstructionはFieldAIとのパートナーシップを深め、複数の建設現場で自律ロボットを展開している。これらのロボットはAIによるコンピュータービジョンを用いて現場調査・進捗監視・安全点検を行い、手動巡回の必要性を減らしている。この展開は、米国建設業界における最大規模の商業ロボット導入事例の一つだ。",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/field-ai-bid-d-1.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/07/big-d-expands-construction-operations-with-fieldai-as-robotics-adoption-accelerates/100362/",
+      "tags": [
+        "建設",
+        "FieldAI",
+        "自律",
+        "商業"
+      ],
+      "timestamp": "2026-04-07T07:42:00Z"
+    },
+    {
+      "id": "art-20260408-09",
+      "title": "MaximoのAIロボットがNVIDIAの技術を使って100MW超の太陽光パネルを設置",
+      "summary": "AIを活用した建設ロボットのスタートアップMaximoは、自律ロボットによる太陽光パネル設置量で100メガワットのマイルストーンを突破した。NVIDIAのNational Robotics Week特集で紹介されたMaximoのロボットは、NVIDIA Isaacを使用して知覚と計画を行い、現場の変動や天候条件に対応できる。この成果は、物理AIが再生可能エネルギーインフラを確実にスケールできることを実証するものだ。",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg",
+      "source": "NVIDIA / Reddit r/robotics",
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo",
+      "tags": [
+        "NVIDIA",
+        "太陽エネルギー",
+        "建設ロボット",
+        "AI"
+      ],
+      "timestamp": "2026-04-07T09:55:13Z"
+    },
+    {
+      "id": "art-20260408-10",
+      "title": "MITの超音波リストバンドがロボットに人間レベルの器用さをもたらす",
+      "summary": "MITの研究者たちは、人間の前腕の細かな筋肉の動きをミリ秒単位の精度で捉える超音波ベースのリストバンドを開発した。これにより、それらの動きをロボットハンドに直接マッピングできる。テストでは、このリストバンドで制御されたロボットグローブが、標準化された操作タスクで初めて人間の器用さスコアと同等の結果を達成した。この非侵襲型ウェアラブルは、遠隔操作とロボットトレーニングデータ収集における主要なインターフェースとなる可能性を秘めている。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "MIT / Tech Xplore",
+      "url": "https://techxplore.com/",
+      "tags": [
+        "MIT",
+        "器用さ",
+        "ウェアラブル",
+        "研究"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-11",
+      "title": "ForSight Roboticsが世界初の完全ロボット白内障手術を実施",
+      "summary": "ForSight Roboticsは、JASPERプラットフォームを使用した世界初の完全自律ロボット白内障手術の実施を発表した。この手術は医師の監督下で行われ、手術中に手動介入は一切なかった。白内障手術はサブミリメートルの精度を要求し、世界で最も件数の多い外科手術のひとつであるため、このマイルストーンは医療ロボティクスにとって巨大なアドレッサブル市場を意味する重要な成果と見なされている。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "ForSight Robotics",
+      "url": "https://www.forsight-robotics.com/",
+      "tags": [
+        "医療",
+        "外科手術",
+        "自律",
+        "マイルストーン"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-12",
+      "title": "Microsoft、NVIDIA、ワシントン大学がロボットAI向けOmniResetを発表",
+      "summary": "Microsoft、NVIDIA、ワシントン大学の共同チームが、ロボットシステムが障害から自動的に回復してトレーニングと展開中に安全な状態にリセットできるオープンソースフレームワーク「OmniReset」を公開した。OmniResetは、ロボットがスタックした際の人間によるリセットの必要性というシミュレーションから実世界への転移における主要なボトルネックに対処するもので、大規模な強化学習を劇的に加速させる可能性がある。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "ETIH / EdTech Innovation Hub",
+      "url": "https://www.edtechinnovationhub.com/",
+      "tags": [
+        "Microsoft",
+        "NVIDIA",
+        "オープンソース",
+        "強化学習"
+      ],
+      "timestamp": "2026-04-07T23:06:00Z"
+    },
+    {
+      "id": "art-20260408-13",
+      "title": "韓国、2030年をヒューマノイドロボット市場リーダーシップ確立の重要な窓と見定める",
+      "summary": "韓国政府当局者と業界アナリストは、2026〜2030年の期間をヒューマノイドロボット市場でリーダーシップを確立するための決定的な機会と位置づけている。韓国の戦略は、Samsung、Hyundai、LGグループの製造能力と積極的なR&D投資を組み合わせ、中国と米国に対抗することを目指している。DongA Scienceによると、政府は数十億ドル規模のロボット競争力ファンドの準備を進めているという。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "DongA Science",
+      "url": "https://www.dongascience.com/",
+      "tags": [
+        "韓国",
+        "政策",
+        "ヒューマノイド",
+        "市場"
+      ],
+      "timestamp": "2026-04-08T01:38:00Z"
+    },
+    {
+      "id": "art-20260408-14",
+      "title": "中国がベトナムとの国境管理タスクにヒューマノイドロボットを試験導入",
+      "summary": "ECOticiasByによると、中国はベトナムとの国境沿いの国境警備・管理業務にヒューマノイドロボットのパイロット展開を開始した。このロボットは熱画像カメラ・顔認識・地形適応型歩行機能を備えており、検問所の監視と周辺警戒のための評価が行われている。この展開は、国家国境安全保障業務にヒューマノイド型ロボットが使用される初めての既知の事例に含まれる。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "ECOticias",
+      "url": "https://www.ecoticias.com/",
+      "tags": [
+        "中国",
+        "国境安全保障",
+        "ヒューマノイド",
+        "防衛"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-15",
+      "title": "米国最大の造船会社がGrayMatter Roboticsと物理AIで提携",
+      "summary": "米海軍最大の造船会社であるHuntington Ingalls IndustriesはGrayMatter Roboticsと提携し、艦艇の複雑な溶接・組立作業に物理AIシステムを導入する。GrayMatterのロボットは3Dビジョンと適応型AIを使用して、歴史的に自動化が困難だった造船の非構造的で変動的な環境に対応する。この契約は、防衛産業製造分野におけるロボット工学への関心の高まりを裏付けるものだ。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Manufacturing.net",
+      "url": "https://www.manufacturing.net/",
+      "tags": [
+        "防衛",
+        "GrayMatter",
+        "造船",
+        "物理AI"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-16",
+      "title": "BASFとSevnce Roboticsがスマートな化学品生産自動化で提携",
+      "summary": "化学品大手のBASFはSevnce Roboticsとパートナーシップを締結し、化学品製造施設内に自律点検・サンプリングロボットを導入する。このロボットは人間作業者にとって危険な腐食性・有害環境に対応でき、定期点検や異常検知を24時間体制で行う。この契約はBASFの広範なデジタル化戦略の一環であり、高リスク産業セクターにおけるロボット活用の拡大を示している。",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "NovusLight",
+      "url": "https://www.novuslight.com/",
+      "tags": [
+        "BASF",
+        "産業",
+        "点検ロボット",
+        "化学"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-17",
+      "title": "台湾企業が競争する中、ヒューマノイドロボットが触覚センサー開発を牽引",
+      "summary": "台湾の半導体・電子機器サプライチェーンは、世界のヒューマノイドロボットメーカーからの需要急増に押されて、触覚センサー開発へと軸足を移している。Digitimesによると、Merry Electronicsなどの企業がロボットハンド用の高密度皮膚様圧力センサーの開発を競っている。精密製造における台湾の優位性は、この新興コンポーネントカテゴリーを供給する上での構造的な強みとなっている。",
+      "image": "https://img.digitimes.com/newsshow/20260407vl200_files/1_b.jpg",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com/news/a20260407VL200/humanoid-robot-tactile-sensor-taiwan.html",
+      "tags": [
+        "台湾",
+        "触覚センサー",
+        "ヒューマノイド",
+        "サプライチェーン"
+      ],
+      "timestamp": "2026-04-08T00:04:00Z"
+    },
+    {
+      "id": "art-20260408-18",
+      "title": "光駆動ナノロボットが水中の細菌を捕捉・除去",
+      "summary": "科学者たちは、可視光で駆動するナノロボットが水サンプル中の有害細菌を高効率で探し出して捕捉できることを実証した。このロボットは光触媒化学を利用して自己推進し、接触した病原体を破壊するため、周囲光以外の外部電源を必要としない。この突破口は水の浄化・標的型ドラッグデリバリー・感染症治療への応用可能性を秘めている。",
+      "image": "https://www.azorobotics.com/images/news/ImageForNews_15432_17304078587295526.jpg",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com/News.aspx?newsID=15432",
+      "tags": [
+        "ナノロボティクス",
+        "医療",
+        "水",
+        "研究"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-19",
+      "title": "Serve RoboticsがNVIDIA GTCで会話型AI配送ロボットをデビュー",
+      "summary": "Serve Roboticsは、NVIDIA GTC 2026で会話型AIを搭載した次世代歩道配送ロボットを披露した。このロボットはエッジAI処理を使用して通行人とコミュニケーションを取り、配送状況に関するリアルタイムの質問に応答し、複雑な歩行者とのインタラクションに対応する。ロサンゼルスでUber Eatsの配送を運営するServeは、会話機能によって密集した都市環境での安全性と顧客体験が向上すると述べている。",
+      "image": "https://cdn.sanity.io/images/dh33lj7y/production/ba522acc2978502c9d69447015fb70bd295bc95b-1200x630.jpg",
+      "source": "Serve Robotics / NVIDIA",
+      "url": "https://www.serverobotics.com/blog",
+      "tags": [
+        "Serve Robotics",
+        "配送",
+        "会話型AI",
+        "NVIDIA"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-20",
+      "title": "POSCOグループがロボット自動化企業Brilsに70億ウォンを投資",
+      "summary": "韓国の鉄鋼大手POSCOグループは、重工業分野に特化したロボット自動化スタートアップのBrilsに70億韓国ウォン（約500万米ドル）を投資することを決定した。この投資は、極端な高温環境と高精度要件が長年にわたり自動化の壁となっていた製鉄所向けAI駆動ロボットシステムの開発資金に充てられる。これは従来型の重工業が次世代ロボティクスの導入を加速させていることを示すものだ。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "BusinessKorea",
+      "url": "https://www.businesskorea.co.kr/",
+      "tags": [
+        "POSCO",
+        "韓国",
+        "資金調達",
+        "産業"
+      ],
+      "timestamp": "2026-04-07T11:00:00Z"
+    }
+  ]
+}

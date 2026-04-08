@@ -1,0 +1,339 @@
+{
+  "date": "2026-04-06",
+  "featured": {
+    "id": "featured-0406",
+    "title": "Boston Dynamics Spot 成为研究对象：科学家研究人机社会互动",
+    "summary": "研究人员正在研究家庭成员和访客如何与 Boston Dynamics 的 Spot 机器人在 Robotics & AI Institute 互动，揭示了人类对四足机器的舒适感和信任度方面的惊人洞见。研究表明，儿童比成人适应更快，机器人身上的视觉提示会显著影响其感知友好度。",
+    "image": "https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+    "tags": [
+      "Boston Dynamics",
+      "HRI",
+      "社交机器人"
+    ],
+    "timestamp": "2026-04-06T13:00:01Z"
+  },
+  "articles": [
+    {
+      "id": "0406-001",
+      "title": "弹性执行器展现太空级软体机器人潜力",
+      "summary": "一种新型执行器设计能够承受极端压力、温度和辐射，使其适合在外太空、深海和核环境中部署软体机器人。该研究为机器人进入此前传统刚性机器无法到达的场所开辟了新路径。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": [
+        "软体机器人",
+        "太空",
+        "执行器"
+      ],
+      "timestamp": "2026-04-05T10:00:03Z"
+    },
+    {
+      "id": "0406-002",
+      "title": "视频星期五：Digit 几乎一夜之间学会了跳舞",
+      "summary": "在本周的视频星期五中，Agility Robotics 的 Digit 人形机器人展示了在模拟环境中习得、并在不到24小时内迁移到现实世界的全新舞蹈动作——这标志着 sim-to-real 迁移技术正快速走向成熟。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-humanoid-dancing",
+      "video": "https://www.youtube.com/watch?v=29ECwExc-_M",
+      "tags": [
+        "Agility Robotics",
+        "Digit",
+        "舞蹈",
+        "Sim-to-Real"
+      ],
+      "timestamp": "2026-04-03T16:30:01Z"
+    },
+    {
+      "id": "0406-003",
+      "title": "MirrorBot：旨在促进人际连接的机器人",
+      "summary": "Cornell University 研究人员发布了 MirrorBot，这款机器人能够镜像人类的肢体语言和情感信号，从而营造同理心与连接感。早期试验显示，参与者在与 MirrorBot 互动后，表示感觉更被理解、孤独感减少。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-mirrorbot-robot-foster-human.html",
+      "tags": [
+        "社交机器人",
+        "Cornell",
+        "HRI"
+      ],
+      "timestamp": "2026-04-02T17:00:10Z"
+    },
+    {
+      "id": "0406-004",
+      "title": "气动人工肌肉有望帮助机器人举起自身重量100倍的物体",
+      "summary": "Arizona State University 研究人员正在开发仿生气动机器人肌肉，使机器人能够在极端环境（包括沸水和高度磨蚀性表面）中举起自身重量最多100倍的物体。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": [
+        "人工肌肉",
+        "软体机器人",
+        "Arizona State"
+      ],
+      "timestamp": "2026-04-02T11:20:06Z"
+    },
+    {
+      "id": "0406-005",
+      "title": "研究人员打造无电子元件、无电池、无大脑的机器人群",
+      "summary": "Georgia Tech 团队创造了一种纯粹依靠物理交互实现协调集体行为的机械机器人群——无传感器、无处理器、无电池。该 LEGO 启发式设计证明，智能群体行为可以从简单的机械规则中涌现。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": [
+        "群体机器人",
+        "Georgia Tech",
+        "机械"
+      ],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0406-006",
+      "title": "将 Robot Operating System 与 LLM 结合，实现自然语言机器人控制",
+      "summary": "新研究将大型语言模型直接集成到 ROS（Robot Operating System）中，使操作员能够用普通英语句子指挥机器人。该系统实时将自然语言指令转化为 ROS 动作序列，大幅降低了机器人编程门槛。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html",
+      "tags": [
+        "ROS",
+        "LLM",
+        "自然语言",
+        "控制"
+      ],
+      "timestamp": "2026-04-01T08:10:01Z"
+    },
+    {
+      "id": "0406-007",
+      "title": "Gill Pratt 表示：人形机器人的时代终于来临",
+      "summary": "Toyota Research Institute CEO Gill Pratt——前 DARPA 机器人项目负责人——在 IEEE Spectrum 最新专访中指出，更好的 AI、更廉价的执行器以及更优的电池共同汇聚，终于为人形机器人创造了能够真正创造经济价值的条件。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": [
+        "人形机器人",
+        "DARPA",
+        "Toyota",
+        "行业分析"
+      ],
+      "timestamp": "2026-04-02T15:00:02Z"
+    },
+    {
+      "id": "0406-008",
+      "title": "能抵抗核反应堆辐射的 Wi-Fi——专为退役机器人设计",
+      "summary": "一款能够承受 500 kGy 辐射的抗辐射 Wi-Fi 芯片被专门开发用于核电站退役机器人。该芯片支持在活跃反应堆堆芯内进行实时无线通信，消除了对有线电缆的依赖。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robotics-in-nuclear-industry",
+      "tags": [
+        "核能",
+        "辐射",
+        "Wi-Fi",
+        "工业"
+      ],
+      "timestamp": "2026-04-02T14:00:02Z"
+    },
+    {
+      "id": "0406-009",
+      "title": "科学家打造拥有神经系统的活体机器人",
+      "summary": "研究人员创造了「NeuroBot」——由包含功能性神经系统类结构的生物细胞组装而成的活体机器人。这些有机体能够感知环境并产生协调的运动模式，模糊了机器人与有机生命体之间的界限。",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/neurobot-living-robot-nervous-system",
+      "tags": [
+        "生物混合",
+        "活体机器人",
+        "神经科学"
+      ],
+      "timestamp": "2026-04-02T13:00:01Z"
+    },
+    {
+      "id": "0406-010",
+      "title": "新控制框架让柔性机器人在狭小空间中以更少计算量运动",
+      "summary": "一种新型控制框架大幅简化了连续体和柔性机器人在管道、血管及倒塌建筑等受限空间中的路径规划。与现有方法相比，该方案在保持导航精度的同时，将计算时间缩短了80%。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": [
+        "连续体机器人",
+        "路径规划",
+        "控制"
+      ],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0406-011",
+      "title": "问答：机器人无法感知——但新型压力传感器或将改变这一切",
+      "summary": "Penn State 研究员 Huanyu Cheng 解释了一类新型柔性压力传感器如何赋予机器人与人类皮肤相当的触觉。这些传感器能够同时检测纹理、温度和力度——迈向真正触觉机器人手的重要一步。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-qa-robots-sensors.html",
+      "tags": [
+        "触觉传感",
+        "Penn State",
+        "机器人手"
+      ],
+      "timestamp": "2026-03-30T17:00:04Z"
+    },
+    {
+      "id": "0406-012",
+      "title": "不同形态的机器人现可通过意图学习共享技能",
+      "summary": "一种新型机器学习框架允许拥有完全不同物理形态的机器人通过将技能抽象为「意图」而非电机指令来共享任务知识。机械臂和人形机器人都可以从同一次示范中学习，无需针对各自形态重新训练。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-bodies-skills-intention-based.html",
+      "tags": [
+        "迁移学习",
+        "跨形态",
+        "AI"
+      ],
+      "timestamp": "2026-03-30T13:20:04Z"
+    },
+    {
+      "id": "0406-013",
+      "title": "HEAPGrasp：机器人处理复杂物体的更快、更智能方式",
+      "summary": "HEAPGrasp 是一种新型抓取算法，将分层规划与实时触觉反馈相结合，使机器人能够可靠地抓取形状不规则、表面光滑或可变形的物体。仓库测试中，对此前未见过的物品达到了97.3%的成功率。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-heapgrasp-faster-smarter-robots-tricky.html",
+      "tags": [
+        "抓取",
+        "操控",
+        "仓储"
+      ],
+      "timestamp": "2026-03-30T11:20:03Z"
+    },
+    {
+      "id": "0406-014",
+      "title": "AI 基准测试帮助机器人在真实世界规划和完成家务",
+      "summary": "一项名为 HomeTask-3000 的新标准化基准测试评估家用机器人在现实家庭环境中规划和执行多步家务的能力。该套件包含47种家居布局中的3000个任务场景，是迄今最严格的真实世界机器人评估。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html",
+      "tags": [
+        "基准测试",
+        "家用机器人",
+        "AI规划"
+      ],
+      "timestamp": "2026-03-29T11:30:02Z"
+    },
+    {
+      "id": "0406-015",
+      "title": "基于视频的 AI 赋予机器人视觉想象力",
+      "summary": "Harvard Kempner Institute 的 Yilun Du 发布了一套系统，使机器人能够在执行动作前利用视频生成模型作为世界模型来「想象」行动的视觉结果。经视觉想象训练的机器人解决操控任务的效率提升了40%。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-video-based-ai-robots-visual.html",
+      "tags": [
+        "世界模型",
+        "视觉AI",
+        "Harvard",
+        "操控"
+      ],
+      "timestamp": "2026-03-26T10:20:03Z"
+    },
+    {
+      "id": "0406-016",
+      "title": "AI 系统防止仓储机器人交通拥堵，提升吞吐量25%",
+      "summary": "一种新型多智能体强化学习系统动态重新规划仓储机器人机群路线，以避开拥堵热点，实现订单吞吐量提升25%。该系统已在500台机器人的 Amazon 配送中心模拟中得到验证。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": [
+        "仓储",
+        "多智能体",
+        "强化学习"
+      ],
+      "timestamp": "2026-03-26T09:30:01Z"
+    },
+    {
+      "id": "0406-017",
+      "title": "仿蝙蝠超声波助手掌大小无人机在雾和烟中导航",
+      "summary": "WPI 研究人员为手掌大小的无人机配备了仿蝙蝠超声波传感器和 AI 系统，实现在零能见度条件下的自主导航。在烟雾环境中，该系统性能优于基于摄像头的导航，为消防救援无人机开辟了应用前景。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ultrasound-palm-sized-drones-fog.html",
+      "tags": [
+        "无人机",
+        "超声波",
+        "导航",
+        "WPI"
+      ],
+      "timestamp": "2026-03-26T09:06:49Z"
+    },
+    {
+      "id": "0406-018",
+      "title": "BRINC 新型警用无人机使用 Starlink、携带 Narcan、以60英里时速追车",
+      "summary": "防务机器人公司 BRINC 发布了 Guardian，被描述为「有史以来最强大的911响应无人机」。它通过 Starlink 实现全国覆盖，可部署 Narcan 分发器响应药物过量事件，并可以高达60英里时速追逐逃逸车辆。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "tags": [
+        "警务",
+        "无人机",
+        "Starlink",
+        "BRINC"
+      ],
+      "timestamp": "2026-03-25T21:12:03Z"
+    },
+    {
+      "id": "0406-019",
+      "title": "机器人替人类承担澳大利亚最大太阳能农场的维护工作",
+      "summary": "AI 驱动的巡检机器人正在澳大利亚大规模太阳能农场中部署，以替代在极端内陆高温中从事危险维护工作的人类。机器人自主穿越数公里的崎岖沙漠地形，执行清洁面板、检测故障和进行小修的任务。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": [
+        "太阳能",
+        "巡检",
+        "澳大利亚",
+        "工业"
+      ],
+      "timestamp": "2026-03-25T18:10:07Z"
+    },
+    {
+      "id": "0406-020",
+      "title": "FedEx 选择合作伙伴而非自有技术推进自动化战略",
+      "summary": "FedEx 宣布与 Berkshire Gray 建立重大合作关系，在其网络中部署 AI 驱动的分拣和操控机器人，标志着公司战略从自建内部机器人技术转向最优生态系统方式。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+      "tags": [
+        "FedEx",
+        "物流",
+        "自动化",
+        "Berkshire Gray"
+      ],
+      "timestamp": "2026-03-31T15:46:50Z"
+    },
+    {
+      "id": "0406-021",
+      "title": "Nomadic 融资840万美元，整理自动驾驶汽车产生的海量数据",
+      "summary": "初创公司 Nomadic 已融资840万美元，旨在利用深度学习将机器人和自动驾驶汽车传感器录像转化为结构化、可搜索的数据集。该公司针对自主系统开发中的主要瓶颈：大规模数据处理和标注。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": [
+        "初创公司",
+        "融资",
+        "自动驾驶汽车",
+        "数据"
+      ],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0406-022",
+      "title": "腕带让佩戴者用自身动作控制机器人手",
+      "summary": "MIT 研究人员开发的新型 EMG 腕带通过读取前臂肌肉信号，实现对机器人假肢手的直觉式实时控制。用户只需不到20小时的训练即可控制单根手指动作，相比现有肌电假肢有了显著进步。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": [
+        "假肢",
+        "EMG",
+        "MIT",
+        "可穿戴"
+      ],
+      "timestamp": "2026-03-25T06:00:09Z"
+    }
+  ]
+}

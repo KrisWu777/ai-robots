@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-03",
+  "featured": {
+    "id": "featured-0403",
+    "title": "FedEx e Berkshire Gray firmam parceria para implantar robôs classificadores com IA em toda a rede americana",
+    "summary": "A FedEx anunciou uma ampla parceria com a Berkshire Gray para implantar robôs de classificação e manipulação alimentados por IA em todas as suas 650 instalações nos EUA ao longo dos próximos três anos. O acordo, estimado em 1,2 bilhão de dólares, é o maior contrato de automação robótica da história da logística.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+    "tags": ["FedEx", "Logística", "Automação", "Berkshire Gray"],
+    "timestamp": "2026-03-31T15:46:50Z"
+  },
+  "articles": [
+    {
+      "id": "0403-001",
+      "title": "Robôs de DNA podem administrar remédios e caçar vírus dentro do corpo humano",
+      "summary": "Nanobots de DNA programáveis surgem como a próxima fronteira da medicina dirigida. Ao incorporar conceitos de locomoção, detecção e carga útil da robótica em macroescala, pesquisadores criaram máquinas moleculares capazes de navegar pela corrente sanguínea e entregar medicamentos diretamente a células tumorais.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["Nanorobôs", "Entrega de medicamentos", "DNA", "Medicina"],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0403-002",
+      "title": "Estrutura de controle permite que robôs flexíveis naveguem em espaços estreitos com menos processamento",
+      "summary": "Uma nova estrutura de controle cinemático reduz em 80% o processamento de planejamento de trajetória para robôs macios e contínuos, viabilizando a navegação em tempo real dentro de tubos, dutos e passagens biológicas. O trabalho é um passo importante para o uso de robôs flexíveis em cirurgia e inspeção de infraestrutura.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": ["Robótica macia", "Planejamento de rotas", "Cirurgia"],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0403-003",
+      "title": "Nomadic capta R$ 8,4 milhões para transformar imagens de robôs em dados de treinamento de IA pesquisáveis",
+      "summary": "A Nomadic captou 8,4 milhões de dólares para construir uma infraestrutura que converte fluxos brutos de sensores de robôs e veículos autônomos em conjuntos de dados limpos, rotulados e pesquisáveis. O pipeline de aprendizado profundo da empresa processa imagens brutas 50 vezes mais rápido do que equipes de anotação manual.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": ["Startup", "Dados", "Treinamento", "Veículos autônomos"],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0403-004",
+      "title": "Sensores robóticos podem dar aos robôs um sentido do toque semelhante ao humano — Pesquisa de Penn State",
+      "summary": "Pesquisadores de Penn State desenvolvem sensores de pressão flexíveis capazes de detectar simultaneamente textura, temperatura e força com sensibilidade comparável à das pontas dos dedos humanos. Os sensores utilizam um novo material composto piezoresistivo que permanece funcional após milhares de ciclos de flexão.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-qa-robots-sensors.html",
+      "tags": ["Sensores táteis", "Penn State", "Robótica macia"],
+      "timestamp": "2026-03-30T17:00:04Z"
+    },
+    {
+      "id": "0403-005",
+      "title": "Transferência de habilidades entre morfologias: robôs com corpos diferentes já podem compartilhar conhecimento",
+      "summary": "Pesquisadores de Stanford desenvolveram uma estrutura que permite a robôs com planos corporais fundamentalmente diferentes — braços, pernas, rodas — compartilhar habilidades de manipulação codificando-as como 'vetores de intenção' abstratos, independentes de qualquer forma física particular.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-bodies-skills-intention-based.html",
+      "tags": ["Aprendizado por transferência", "Cross-Embodiment", "Stanford"],
+      "timestamp": "2026-03-30T13:20:04Z"
+    },
+    {
+      "id": "0403-006",
+      "title": "HEAPGrasp alcança 97,3% de sucesso em objetos desconhecidos em testes de armazém",
+      "summary": "O sistema HEAPGrasp combina preensão hierárquica com feedback háptico em tempo real e atinge 97,3% de sucesso em objetos nunca vistos antes, incluindo embalagens altamente deformáveis, produtos escorregadios e peças industriais de formas irregulares.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-heapgrasp-faster-smarter-robots-tricky.html",
+      "tags": ["Preensão", "Logística", "Manipulação"],
+      "timestamp": "2026-03-30T11:20:03Z"
+    },
+    {
+      "id": "0403-007",
+      "title": "HomeTask-3000: o benchmark de robôs domésticos mais rigoroso até hoje",
+      "summary": "Um consórcio de 12 universidades lançou o HomeTask-3000, um benchmark com 3.000 cenários de tarefas domésticas de múltiplas etapas em 47 layouts residenciais realistas. O benchmark expõe lacunas significativas no desempenho atual dos robôs domésticos, especialmente em tarefas que exigem retenção de contexto por vários dias.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html",
+      "tags": ["Benchmark", "Robôs domésticos", "Pesquisa"],
+      "timestamp": "2026-03-29T11:30:02Z"
+    },
+    {
+      "id": "0403-008",
+      "title": "Minúsculos microrrobôs impressos em 3D nadam como animais usando apenas sua forma física",
+      "summary": "Microrrobôs impressos em 3D em escala microscópica desenvolvidos na Leiden University navegam e respondem a gradientes ambientais sem sensores, processadores ou baterias, baseando-se exclusivamente na geometria física de seus corpos ao interagir com o fluido ao redor. A abordagem viabiliza classes inteiramente novas de microrrobôs baratos e descartáveis.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": ["Microrrobôs", "Impressão 3D", "Locomoção passiva"],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0403-009",
+      "title": "Gêmeos digitais ajudam robôs de resgate a mapear locais de desastre 10 vezes mais rápido",
+      "summary": "Algoritmos de processamento de nuvens de pontos 3D em tempo real permitem agora que robôs de resposta a desastres construam mapas precisos de gêmeos digitais de edifícios desabados em segundos, permitindo planejar rotas seguras para sobreviventes presos muito mais rapidamente do que as abordagens anteriores baseadas em SLAM.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": ["Resposta a desastres", "Mapeamento 3D", "SLAM"],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0403-010",
+      "title": "O modelo de mundo de difusão de vídeo de Harvard permite que robôs imaginem antes de agir",
+      "summary": "Uma nova arquitetura de IA de Harvard utiliza um modelo de difusão de vídeo como 'motor de imaginação' interno, permitindo que robôs simulem mentalmente o resultado de centenas de ações possíveis antes de executar a melhor. A abordagem atinge desempenho humano em 23 dos 30 benchmarks padrão de manipulação.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-video-based-ai-robots-visual.html",
+      "tags": ["Modelo de mundo", "Difusão", "Harvard", "Planejamento"],
+      "timestamp": "2026-03-26T10:20:03Z"
+    },
+    {
+      "id": "0403-011",
+      "title": "Aprendizado por reforço multiagente reduz congestionamentos de robôs em armazéns e aumenta a produtividade em 25%",
+      "summary": "Um sistema dinâmico de aprendizado por reforço multiagente implantado em um centro de distribuição simulado da Amazon com 500 robôs aumentou a produtividade de pedidos em 25% ao redirecionar proativamente os robôs ao redor de pontos de congestionamento previstos antes que os bloqueios se formem, em vez de reagir depois que ocorrem.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": ["Armazém", "MARL", "Amazon", "Produtividade"],
+      "timestamp": "2026-03-26T09:30:01Z"
+    },
+    {
+      "id": "0403-012",
+      "title": "Drones inspirados em morcegos navegam em incêndios com visibilidade zero usando ultrassom",
+      "summary": "O drone inspirado em morcegos da WPI navega em ambientes com fumaça densa e visibilidade zero usando um sistema de ecolocalização por ultrassom e uma IA personalizada que interpreta os sinais refletidos como um mapa 3D. Corpos de bombeiros estão pilotando o sistema para reconhecimento de primeiros socorristas.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ultrasound-palm-sized-drones-fog.html",
+      "tags": ["Drones", "Combate a incêndios", "Ultrassom", "Navegação"],
+      "timestamp": "2026-03-26T09:06:49Z"
+    },
+    {
+      "id": "0403-013",
+      "title": "Mão robótica de liga com memória de forma sem motor é 70% mais leve que designs com servos",
+      "summary": "Ao substituir servomotores elétricos por fios de liga com memória de forma e uma transmissão mecânica engenhosa, pesquisadores construíram uma mão robótica de cinco dedos que pesa apenas 180 gramas — 70% mais leve que designs comparáveis com servos — mantendo velocidades de atuação abaixo de 100 ms.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Mão robótica", "SMA", "Leveza", "Próteses"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0403-014",
+      "title": "Mão protética controlada por pulseira dá aos amputados controle individual de cada dedo",
+      "summary": "Uma pulseira EMG do MIT lê sinais musculares para fornecer controle em tempo real de cada dedo de uma mão protética. Os usuários obtêm controle independente e confiável dos dedos em menos de 20 horas de treinamento, em comparação com mais de 200 horas exigidas por próteses mioeléctricas convencionais.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": ["Próteses", "EMG", "MIT", "Acessibilidade"],
+      "timestamp": "2026-03-25T06:00:09Z"
+    },
+    {
+      "id": "0403-015",
+      "title": "Robô colhedor de tomates aprende a colher por dificuldade e melhora o rendimento em 35%",
+      "summary": "Em vez de colher tomates na ordem em que os encontra, um novo robô agrícola prevê a dificuldade de colheita com base na posição do fruto, na oclusão e na orientação do caule, priorizando os alvos mais fáceis. A estratégia melhorou o rendimento total da colheita em 35% em ensaios controlados em estufa.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["AgriRobotics", "Tomate", "Planejamento com IA"],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0403-016",
+      "title": "Drone BRINC Guardian: respondedor policial de emergência que carrega Narcan e persegue carros",
+      "summary": "A BRINC revelou o Guardian, um drone policial projetado para resposta rápida ao 911. Ele integra conectividade Starlink para cobertura nacional, pode distribuir Narcan em chamadas de overdose e persegue suspeitos a 96 km/h. Defensores das liberdades civis levantaram preocupações significativas sobre o sistema.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "tags": ["Polícia", "Drone", "BRINC", "Emergência"],
+      "timestamp": "2026-03-25T21:12:03Z"
+    },
+    {
+      "id": "0403-017",
+      "title": "Austrália implanta robôs para inspecionar fazendas solares no calor extremo do interior",
+      "summary": "Robôs de inspeção movidos a IA estão substituindo o perigoso trabalho humano de manutenção nas maiores fazendas solares da Austrália, percorrendo quilômetros de terreno desértico acidentado a 50 °C para limpar painéis, medir eficiência e detectar falhas com câmeras termográficas.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": ["Solar", "Austrália", "Inspeção", "Industrial"],
+      "timestamp": "2026-03-25T18:10:07Z"
+    },
+    {
+      "id": "0403-018",
+      "title": "Drones de busca e resgate com IA localizam desaparecidos 4 vezes mais rápido que equipes terrestres",
+      "summary": "Uma plataforma de drones multissensor integrando câmeras térmicas, infravermelhas e visuais com um sistema de detecção por IA encontrou pessoas desaparecidas em áreas silvestres quatro vezes mais rápido do que equipes de busca terrestres sozinhas. A tecnologia está sendo adotada por organizações de resgate em montanha na Suíça e no Colorado.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["SAR", "Drones", "Térmico", "Emergência"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0403-019",
+      "title": "Amazon adquire Fauna Robotics: humanoide Sprout projetado para lares e hospitais",
+      "summary": "A aquisição da Fauna Robotics pela Amazon incorpora à família Amazon o Sprout da empresa — um humanoide do tamanho de uma criança com foco social. O Sprout foi projetado para funcionar em ambientes não estruturados como salas de estar e corredores de hospital, complementando a frota de robôs de armazém existente da Amazon.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-amazon-buys-fauna-robotics-maker.html",
+      "tags": ["Amazon", "Humanoide", "Robôs domésticos", "Saúde"],
+      "timestamp": "2026-03-25T05:30:01Z"
+    },
+    {
+      "id": "0403-020",
+      "title": "O enxame sem eletrônica de Georgia Tech: robôs mecânicos que se auto-organizam",
+      "summary": "Pesquisadores de Georgia Tech demonstraram um enxame de robôs puramente mecânicos — sem sensores, processadores nem baterias — que alcançam comportamento coletivo auto-organizado por meio de interações físicas de forma. O trabalho desafia suposições fundamentais sobre o que é necessário para a inteligência de enxame.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["Enxame", "Georgia Tech", "Mecânico", "Auto-organização"],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0403-021",
+      "title": "Robôs ROS controlados por LLM respondem a comandos em inglês comum em tempo real",
+      "summary": "Uma nova camada de middleware integra modelos de linguagem de nível GPT-4 ao Robot Operating System, permitindo que engenheiros e não especialistas comandem comportamentos robóticos complexos de múltiplas etapas usando linguagem natural. O sistema foi validado em cinco plataformas robóticas diferentes.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html",
+      "tags": ["LLM", "ROS", "Linguagem natural", "Controle"],
+      "timestamp": "2026-04-01T08:10:01Z"
+    }
+  ]
+}

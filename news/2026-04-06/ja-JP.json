@@ -1,0 +1,339 @@
+{
+  "date": "2026-04-06",
+  "featured": {
+    "id": "featured-0406",
+    "title": "Boston Dynamics の Spot が研究対象に：科学者が人間とロボットの社会的相互作用を調査",
+    "summary": "研究者たちが Robotics & AI Institute において、家族や訪問者が Boston Dynamics の Spot ロボットとどのように関わるかを研究しており、四足機械に対する人間の快適さと信頼についての驚くべき洞察が明らかになっています。子どもは大人よりも早く適応し、ロボットの身体に施された視覚的手がかりが友好感の印象に大きく影響することが示されました。",
+    "image": "https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+    "tags": [
+      "Boston Dynamics",
+      "HRI",
+      "ソーシャルロボティクス"
+    ],
+    "timestamp": "2026-04-06T13:00:01Z"
+  },
+  "articles": [
+    {
+      "id": "0406-001",
+      "title": "耐久性アクチュエータが宇宙対応ソフトロボットの可能性を示す",
+      "summary": "新しいアクチュエータ設計は極端な圧力・温度・放射線に耐えられるため、宇宙空間・深海・核環境へのソフトロボット展開に適しています。この研究により、従来の剛体機械では到達できなかった場所でのロボット運用への道が開かれます。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": [
+        "ソフトロボティクス",
+        "宇宙",
+        "アクチュエータ"
+      ],
+      "timestamp": "2026-04-05T10:00:03Z"
+    },
+    {
+      "id": "0406-002",
+      "title": "ビデオ金曜日：Digit がほぼ一夜にしてダンスを習得",
+      "summary": "今週のビデオ金曜日では、Agility Robotics の Digit ヒューマノイドロボットがシミュレーションで学び、24時間以内に現実世界へ転移した新しいダンスの動きを披露しています。これは sim-to-real 転移技術の急速な成熟を示すものです。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-humanoid-dancing",
+      "video": "https://www.youtube.com/watch?v=29ECwExc-_M",
+      "tags": [
+        "Agility Robotics",
+        "Digit",
+        "ダンス",
+        "Sim-to-Real"
+      ],
+      "timestamp": "2026-04-03T16:30:01Z"
+    },
+    {
+      "id": "0406-003",
+      "title": "MirrorBot：人間のつながりを育むために設計されたロボット",
+      "summary": "Cornell University の研究者が MirrorBot を発表しました。このロボットは共感とつながりを生み出すために人間のボディランゲージや感情的手がかりを映し出します。初期試験では、MirrorBot と対話した後に参加者がより理解されていると感じ、孤立感が低下したことが報告されました。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-mirrorbot-robot-foster-human.html",
+      "tags": [
+        "ソーシャルロボット",
+        "Cornell",
+        "HRI"
+      ],
+      "timestamp": "2026-04-02T17:00:10Z"
+    },
+    {
+      "id": "0406-004",
+      "title": "空気圧式人工筋肉がロボットに自重の100倍を持ち上げる能力をもたらす可能性",
+      "summary": "Arizona State University の研究者が、ロボットを沸騰水や高研磨性表面を含む極端な環境下で自重の最大100倍の物体を持ち上げられるようにする空気圧式の生体模倣ロボット筋肉を開発しています。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": [
+        "人工筋肉",
+        "ソフトロボティクス",
+        "Arizona State"
+      ],
+      "timestamp": "2026-04-02T11:20:06Z"
+    },
+    {
+      "id": "0406-005",
+      "title": "研究者が電子部品なし・バッテリーなし・頭脳なしのロボット群を構築",
+      "summary": "Georgia Tech のチームが、センサーも処理装置もバッテリーも使わず、純粋に物理的な相互作用だけで協調した集団行動を実現する機械式ロボット群を作製しました。LEGO にヒントを得たこの設計は、単純な機械的ルールから知的な群れ行動が出現できることを示しています。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": [
+        "群ロボティクス",
+        "Georgia Tech",
+        "機械"
+      ],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0406-006",
+      "title": "自然言語によるロボット制御のために Robot Operating System と LLM を組み合わせる",
+      "summary": "新しい研究により、大規模言語モデルが ROS（Robot Operating System）に直接統合され、オペレーターが普通の英語の文でロボットに命令できるようになりました。このシステムは自然言語の指示をリアルタイムで ROS のアクションシーケンスに変換し、ロボットプログラミングの障壁を劇的に低下させます。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html",
+      "tags": [
+        "ROS",
+        "LLM",
+        "自然言語",
+        "制御"
+      ],
+      "timestamp": "2026-04-01T08:10:01Z"
+    },
+    {
+      "id": "0406-007",
+      "title": "Gill Pratt 「ヒューマノイドロボットの時代がついに来た」と語る",
+      "summary": "Toyota Research Institute の CEO であり元 DARPA ロボットプログラムマネージャーの Gill Pratt は、IEEE Spectrum の新しいインタビューで、より優れた AI・低コスト化したアクチュエータ・改良されたバッテリーの収束により、ヒューマノイドロボットが真の経済的価値を生み出せる条件がついに整ったと主張しています。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": [
+        "ヒューマノイド",
+        "DARPA",
+        "Toyota",
+        "産業分析"
+      ],
+      "timestamp": "2026-04-02T15:00:02Z"
+    },
+    {
+      "id": "0406-008",
+      "title": "原子炉に耐えられる Wi-Fi — 廃炉ロボット向け",
+      "summary": "500 kGy の放射線に耐えられる耐放射線 Wi-Fi チップが、原子力発電所の廃炉に使用されるロボット専用に開発されました。このチップにより、稼働中の原子炉コア内でもリアルタイムの無線通信が可能となり、ケーブル接続の必要がなくなります。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robotics-in-nuclear-industry",
+      "tags": [
+        "原子力",
+        "放射線",
+        "Wi-Fi",
+        "産業"
+      ],
+      "timestamp": "2026-04-02T14:00:02Z"
+    },
+    {
+      "id": "0406-009",
+      "title": "科学者が神経系を持つ生体ロボットを構築",
+      "summary": "研究者たちが「NeuroBot」を作製しました。これは機能的な神経系に似た構造を含む生体細胞から組み立てられた生体ロボットです。これらの生物は環境を感知し、協調した運動パターンを生成することができ、ロボットと生物の境界線を曖昧にしています。",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/neurobot-living-robot-nervous-system",
+      "tags": [
+        "バイオハイブリッド",
+        "生体ロボット",
+        "神経科学"
+      ],
+      "timestamp": "2026-04-02T13:00:01Z"
+    },
+    {
+      "id": "0406-010",
+      "title": "制御フレームワークで柔軟ロボットが少ない計算量で狭い空間を移動可能に",
+      "summary": "新しい制御フレームワークにより、パイプ・血管・倒壊した建物などの狭い空間で動作する連続体ロボットや柔軟ロボットの経路計画が大幅に簡素化されます。このアプローチは現在の手法と比較してナビゲーション精度を維持しながら計算時間を80%削減します。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": [
+        "連続体ロボット",
+        "経路計画",
+        "制御"
+      ],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0406-011",
+      "title": "Q&A：ロボットは感じられない — しかし新型圧力センサーがそれを変えるかもしれない",
+      "summary": "Penn State の研究者 Huanyu Cheng が、新型柔軟圧力センサーのクラスがどのようにして人間の皮膚に匹敵する触覚をロボットに与えられるかを説明しています。これらのセンサーは質感・温度・力の大きさを同時に検出できます — 真に触覚を持つロボットハンドへの一歩です。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-qa-robots-sensors.html",
+      "tags": [
+        "触覚センシング",
+        "Penn State",
+        "ロボットハンド"
+      ],
+      "timestamp": "2026-03-30T17:00:04Z"
+    },
+    {
+      "id": "0406-012",
+      "title": "異なる身体を持つロボットが意図ベース学習でスキルを共有できるように",
+      "summary": "新しい機械学習フレームワークにより、まったく異なる物理的な身体を持つロボットが、運動コマンドではなく「意図」にスキルを抽象化することでタスク知識を共有できます。ロボットアームとヒューマノイドは、身体固有の再訓練なしに同じデモンストレーションから学習できます。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-bodies-skills-intention-based.html",
+      "tags": [
+        "転移学習",
+        "クロスエンボディメント",
+        "AI"
+      ],
+      "timestamp": "2026-03-30T13:20:04Z"
+    },
+    {
+      "id": "0406-013",
+      "title": "HEAPGrasp：ロボットが扱いにくい物体を処理するより速くスマートな方法",
+      "summary": "HEAPGrasp は階層的計画とリアルタイムの触覚フィードバックを組み合わせた新しい把持アルゴリズムで、不規則な形状・滑りやすい・変形しやすい物体を確実に把持できるようにします。倉庫テストでは、これまで見たことのないアイテムに対して97.3%の成功率を達成しました。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-heapgrasp-faster-smarter-robots-tricky.html",
+      "tags": [
+        "把持",
+        "マニピュレーション",
+        "倉庫"
+      ],
+      "timestamp": "2026-03-30T11:20:03Z"
+    },
+    {
+      "id": "0406-014",
+      "title": "AI ベンチマークがロボットの現実世界での家事計画と遂行を支援",
+      "summary": "HomeTask-3000 と呼ばれる新しい標準化ベンチマークが、家庭用ロボットが現実的な家庭環境で複数ステップの家事をどれほどうまく計画・実行できるかを評価します。このスイートには47種の住宅レイアウトにわたる3,000のタスクシナリオが含まれ、これまでで最も厳格な現実世界ロボット評価を提供しています。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html",
+      "tags": [
+        "ベンチマーク",
+        "家庭用ロボット",
+        "AI計画"
+      ],
+      "timestamp": "2026-03-29T11:30:02Z"
+    },
+    {
+      "id": "0406-015",
+      "title": "ビデオベース AI がロボットに視覚的想像力を与える",
+      "summary": "Harvard Kempner Institute の Yilun Du が、ロボットが行動を実行する前にビデオ生成モデルをワールドモデルとして使用して行動の視覚的結果を「想像」できるようにするシステムを発表しました。この視覚的想像で訓練されたロボットは、マニピュレーションタスクを40%効率よく解決します。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-video-based-ai-robots-visual.html",
+      "tags": [
+        "ワールドモデル",
+        "視覚AI",
+        "Harvard",
+        "マニピュレーション"
+      ],
+      "timestamp": "2026-03-26T10:20:03Z"
+    },
+    {
+      "id": "0406-016",
+      "title": "AI システムが倉庫ロボットの渋滞を防ぎ、スループットを25%向上",
+      "summary": "新しいマルチエージェント強化学習システムが倉庫ロボットの車列を動的に再ルーティングして渋滞スポットを回避し、注文スループットを25%向上させます。このシステムは500台のロボットを持つ Amazon フルフィルメントセンターのシミュレーションで検証されました。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": [
+        "倉庫",
+        "マルチエージェント",
+        "強化学習"
+      ],
+      "timestamp": "2026-03-26T09:30:01Z"
+    },
+    {
+      "id": "0406-017",
+      "title": "コウモリ模倣超音波が手のひらサイズのドローンを霧と煙の中でナビゲート可能に",
+      "summary": "WPI の研究者が手のひらサイズのドローンにコウモリ模倣超音波センサーと AI システムを搭載し、視界ゼロの条件下での自律ナビゲーションを実現しました。このシステムは煙が充満した環境ではカメラベースのナビゲーションを上回り、火災救助ドローンへの応用が開かれます。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ultrasound-palm-sized-drones-fog.html",
+      "tags": [
+        "ドローン",
+        "超音波",
+        "ナビゲーション",
+        "WPI"
+      ],
+      "timestamp": "2026-03-26T09:06:49Z"
+    },
+    {
+      "id": "0406-018",
+      "title": "BRINC の新型警察ドローンは Starlink を使用し、Narcan を搭載し、時速100kmで車を追跡",
+      "summary": "防衛ロボティクス企業 BRINC が Guardian を発表しました。これは「史上最も高性能な911緊急対応ドローン」と説明されています。Starlink を通じて全国的なカバレッジを持ち、過剰摂取対応のために Narcan ディスペンサーを展開でき、逃走車両を時速100kmまで追跡します。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "tags": [
+        "警察",
+        "ドローン",
+        "Starlink",
+        "BRINC"
+      ],
+      "timestamp": "2026-03-25T21:12:03Z"
+    },
+    {
+      "id": "0406-019",
+      "title": "ロボットがオーストラリア最大の太陽光発電所の整備で人間の代わりに猛暑に対処",
+      "summary": "AI 搭載の点検ロボットがオーストラリアの大規模太陽光発電所に展開され、過酷なアウトバックの暑さの中での危険な人間による保守作業を代替しています。ロボットはパネルの清掃、故障の検出、軽微な修理を行うために何キロメートルにもわたる起伏の多い砂漠地形を自律的に走行します。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": [
+        "太陽光",
+        "点検",
+        "オーストラリア",
+        "産業"
+      ],
+      "timestamp": "2026-03-25T18:10:07Z"
+    },
+    {
+      "id": "0406-020",
+      "title": "FedEx が自動化戦略に独自技術よりもパートナーシップを選択",
+      "summary": "FedEx が Berkshire Gray との大規模パートナーシップを発表し、ネットワーク全体に AI 搭載の仕分け・マニピュレーションロボットを展開します。これは自社ロボティクスの内製化からベスト・オブ・ブリード・エコシステム戦略への戦略的転換を示しています。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+      "tags": [
+        "FedEx",
+        "ロジスティクス",
+        "自動化",
+        "Berkshire Gray"
+      ],
+      "timestamp": "2026-03-31T15:46:50Z"
+    },
+    {
+      "id": "0406-021",
+      "title": "Nomadic が自律走行車から流れ込むデータを整理するために840万ドルを調達",
+      "summary": "スタートアップ Nomadic が深層学習を使用してロボットや自律走行車のセンサー映像を構造化された検索可能なデータセットに変換するインフラ構築のために840万ドルを調達しました。同社は自律システム開発における主要なボトルネックである大規模なデータ処理とラベリングを標的にしています。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": [
+        "スタートアップ",
+        "資金調達",
+        "自律走行車",
+        "データ"
+      ],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0406-022",
+      "title": "リストバンドで装着者が自分の動きでロボットハンドを制御可能に",
+      "summary": "MIT の研究者が開発した新しい EMG リストバンドが前腕の筋肉信号を読み取り、ロボット義手の直感的なリアルタイム制御を提供します。ユーザーは20時間未満の訓練で個々の指の動きを制御でき、既存の筋電義手から大幅に改善されています。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": [
+        "義肢",
+        "EMG",
+        "MIT",
+        "ウェアラブル"
+      ],
+      "timestamp": "2026-03-25T06:00:09Z"
+    }
+  ]
+}

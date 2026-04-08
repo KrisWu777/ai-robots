@@ -1,0 +1,339 @@
+{
+  "date": "2026-04-05",
+  "featured": {
+    "id": "featured-20260405",
+    "title": "Scientists ने nervous systems वाले living robots build किए",
+    "summary": "Researchers ने 'NeuroBot' create किया है — biological cells से assemble किए गए living robots जिनमें functional nervous system जैसी structures हैं जो sensing और coordinated movement generate करने में capable हैं। Findings Nature में publish हुई हैं और engineered robot और living organism के बीच की line blur हो गई है।",
+    "image": "https://spectrum.ieee.org/media-library/close-up-of-a-neuro-robot-that-has-been-stained-to-highlight-multi-ciliated-cells-around-its-periphery.jpg?id=65444408&width=1200",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/neurobot-living-robot-nervous-system",
+    "tags": [
+      "Living Robots",
+      "Biohybrid",
+      "Nature"
+    ],
+    "timestamp": "2026-04-02T13:00:01Z"
+  },
+  "articles": [
+    {
+      "id": "0405-001",
+      "title": "Gill Pratt का कहना है कि humanoid robots का moment finally आ गया है",
+      "summary": "Toyota Research Institute के CEO Gill Pratt — जो पहले DARPA robotics program manager थे — ने एक नए IEEE Spectrum interview में argue किया है कि better AI, cheaper actuators और improved batteries का confluence पहली बार humanoid robots को real economic value deliver करने की conditions बनाता है।",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": [
+        "Humanoid",
+        "Toyota",
+        "DARPA",
+        "Industry Analysis"
+      ],
+      "timestamp": "2026-04-02T15:00:02Z"
+    },
+    {
+      "id": "featured-0405",
+      "title": "Boston Dynamics Spot के साथ real-world experience के through robots के बारे में human attitudes का study",
+      "summary": "Robotics & AI Institute में एक landmark study ने track किया कि सैकड़ों families ने छह महीनों में Boston Dynamics के Spot के साथ कैसे interact किया, trust, fear और anthropomorphization के patterns उजागर हुए। यह data designers के robot aesthetics और social behavior के approach को reshape कर रहा है।",
+      "image": "https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+      "tags": [
+        "Boston Dynamics",
+        "HRI",
+        "User Research"
+      ],
+      "timestamp": "2026-04-05T13:00:01Z"
+    },
+    {
+      "id": "0405-003",
+      "title": "Reports के अनुसार Physical Intelligence फिर से $1B raise करने की talks में है",
+      "summary": "General-purpose robot learning startup Physical Intelligence (π) advanced talks में है $1 billion raise करने के लिए जिससे effectively सिर्फ चार महीनों में इसकी $5.6 billion valuation double हो जाएगी। Company का π0 foundation model multiple robotics OEMs को license किया जा चुका है।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "tags": [
+        "Physical Intelligence",
+        "Funding",
+        "Foundation Model"
+      ],
+      "timestamp": "2026-03-27T23:59:40Z"
+    },
+    {
+      "id": "0405-004",
+      "title": "Alive है या नहीं? Tiny 3D-printed robots जो animals की तरह swim और navigate करते हैं",
+      "summary": "Leiden University की Professor Daniela Kraft और Mengshi Wei ने microscopic robots create किए हैं जो बिना sensors, software या external control के move करते हैं। उनका behavior entirely physical geometry और material properties से emerge होता है, simple aquatic organisms की navigation को mimic करते हुए।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": [
+        "Microrobots",
+        "3D Printing",
+        "Leiden University"
+      ],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0405-005",
+      "title": "Video Friday: Bipedal bot Roadrunner ने mold break किया",
+      "summary": "इस हफ्ते का Video Friday Roadrunner को highlight करता है — एक novel bipedal robot जो wheeled hybrid locomotion system use करता है flat terrain पर 5m/s तक की speed achieve करने के लिए, जबकि stairs और rough ground पर stability maintain करता है — यह classic walking robot design से एक fundamental departure है।",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/roadrunner-bipedal-robot",
+      "video": "https://www.youtube.com/watch?v=tF4DML7FIWk",
+      "tags": [
+        "Bipedal",
+        "Locomotion",
+        "Speed"
+      ],
+      "timestamp": "2026-03-27T16:30:03Z"
+    },
+    {
+      "id": "0405-006",
+      "title": "Rescue robots के लिए Digital Twins: Faster 3D Point Cloud Processing क्या enable करती है",
+      "summary": "नए algorithms 3D point cloud processing time को seconds से milliseconds में cut कर देते हैं, जिससे robots real time में अपने environment के digital twin maps build और update कर सकते हैं। यह breakthrough rescue robots के लिए critical है जो collapsed structures में navigate करते हैं जहाँ conditions dynamically change होती हैं।",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": [
+        "Digital Twin",
+        "3D Mapping",
+        "Search and Rescue"
+      ],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0405-007",
+      "title": "Melania Trump चाहती हैं कि एक robot आपके बच्चे को homeschool करे",
+      "summary": "First Lady ने Figure AI के humanoid robot को एक potential AI-powered homeschool tutor के रूप में endorse किया है, जो curriculum personalize करे और one-on-one instruction दे। इन comments ने education और child development में robots के बारे में widespread debate spark किया है।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "tags": [
+        "Figure AI",
+        "Education",
+        "Humanoid"
+      ],
+      "timestamp": "2026-03-25T18:55:41Z"
+    },
+    {
+      "id": "0405-008",
+      "title": "Lucid Bots ने अपने window-washing drones की demand के साथ keep up करने के लिए $20M raise किए",
+      "summary": "Lucid Bots, जो skyscraper windows clean करने और building exteriors power-wash करने वाले autonomous drones बनाती है, ने production scale करने के लिए $20 million Series B raise किया है। Building owners को dangerous high-altitude maintenance work के लिए rising labor costs face करनी पड़ रही है, इसलिए demand accelerate हुई है।",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "tags": [
+        "Drones",
+        "Startup",
+        "Funding",
+        "Cleaning"
+      ],
+      "timestamp": "2026-03-25T11:00:00Z"
+    },
+    {
+      "id": "0405-009",
+      "title": "Amazon ने Fauna Robotics को buy किया, जो Sprout humanoid robot की maker है",
+      "summary": "Amazon ने Fauna Robotics acquire किया है, जो Sprout की startup है — एक friendly, child-sized humanoid जो homes और hospitals जैसी social spaces के लिए design किया गया है। यह acquisition Amazon की इस month की दूसरी robotics purchase है और company के domestic और healthcare robotics में push का signal देती है।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": [
+        "Amazon",
+        "Acquisition",
+        "Humanoid",
+        "Fauna Robotics"
+      ],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0405-010",
+      "title": "Agile Robots ने Foundation Model Integration के लिए Google DeepMind के साथ partner किया",
+      "summary": "German-Chinese robotics company Agile Robots ने Google DeepMind के साथ partnership sign की है अपने humanoid platforms में robotics foundation models integrate करने के लिए। बदले में, Agile Robots DeepMind के training datasets में real-world task demonstration data contribute करेगी।",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": [
+        "Agile Robots",
+        "Google DeepMind",
+        "Foundation Model"
+      ],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0405-011",
+      "title": "AI के साथ Drones search-and-rescue teams को missing persons faster find करने में help कर सकते हैं",
+      "summary": "एक multi-sensor drone system जो infrared, thermal और color cameras को AI analysis system के साथ combine करता है, search and rescue operations को dramatically accelerate कर सकता है। Field tests ने दिखाया कि system ground teams alone से 4x faster missing persons locate करता है।",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": [
+        "Drones",
+        "Search and Rescue",
+        "Thermal Imaging"
+      ],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0405-012",
+      "title": "Five-level model humanoid robots को mobility, manipulation और cognition across rate करता है",
+      "summary": "Fraunhofer HNFIZ के researchers ने एक नया standardized evaluation framework publish किया है जो humanoid robots को mobility, manipulation dexterity और cognitive autonomy के पाँच capability levels में classify करता है — autonomous vehicles के लिए SAE के levels जैसा।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": [
+        "Humanoid",
+        "Fraunhofer",
+        "Standards",
+        "Evaluation"
+      ],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0405-013",
+      "title": "Bird-like robots drones से greater flexibility और control का promise करते हैं",
+      "summary": "Rutgers University के engineers ने bird-inspired flapping-wing robot create किया है जिसके wings real time में flex और twist करते हैं crosswinds और turbulence handle करने के लिए। Design कम speeds पर equivalent quadrotor drones से 3x better energy efficiency achieve करता है।",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": [
+        "Flapping Wing",
+        "Bio-Inspired",
+        "Rutgers",
+        "Drones"
+      ],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0405-014",
+      "title": "Insect-inspired robot केवल एक working 'antenna' से भी odors track करता है",
+      "summary": "Insect olfactory systems पर model किया गया एक bio-inspired robot odor sources — gas leaks, explosives, missing persons — दोनों indoors और outdoors locate कर सकता है। System consistent accuracy maintain करता है even जब इसकी दो sensor units में से एक fail हो जाती है, जो real-world deployment के लिए critical feature है।",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": [
+        "Olfactory",
+        "Bio-Inspired",
+        "Search Robot"
+      ],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0405-015",
+      "title": "Radiation-hardened Wi-Fi chip nuclear decommissioning robots के लिए 500 kGy survive करती है",
+      "summary": "Nuclear plant decommissioning robots के लिए design की गई एक नई radiation-hardened Wi-Fi chip 500 kilogray ionizing radiation survive कर सकती है — 250 million dental X-rays के equivalent। Chip active reactors के अंदर wireless robot control enable करती है, dangerous tethered cable systems replace करते हुए।",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": [
+        "Nuclear",
+        "Radiation",
+        "Wi-Fi",
+        "Decommissioning"
+      ],
+      "timestamp": "2026-03-23T13:00:09Z"
+    },
+    {
+      "id": "0405-016",
+      "title": "Chicago के robot tutors human होने का pretend किए बिना social-emotional learning कैसे teach कर रहे हैं",
+      "summary": "Chicago की fourth-grade classrooms में, robots empathy और conflict resolution teach कर रहे हैं while being transparent कि वे machines हैं। यह approach overly humanoid interactions के 'uncanny valley' से बचती है और clear robot-student boundaries maintain करके better learning outcomes achieve करती है।",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": [
+        "Education",
+        "Social Robots",
+        "SEL",
+        "Chicago"
+      ],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0405-017",
+      "title": "Smarter, Faster, More Human: AI system robots को उनके human teachers से outpace करने में help करता है",
+      "summary": "एक नया imitation learning framework robots को केवल demonstrated tasks replicate नहीं बल्कि उन पर improve करने देता है — केवल 10 practice trials के बाद learned motions human demonstrator से 30% faster execute होती हैं। Key है एक AI system जो human demonstrations में inefficiencies identify और eliminate करता है।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": [
+        "Imitation Learning",
+        "Robot Learning",
+        "AI"
+      ],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0405-018",
+      "title": "Wind-powered robot hostile environments की long-term exploration enable करता है",
+      "summary": "Cranfield University का WANDER-bot एक low-cost, 3D-printed robot है जो entirely wind energy से powered है, deserts, tundra और volcanic regions में long-duration autonomous monitoring के लिए designed है। बिना batteries या solar panels के, WANDER-bot windy environments में indefinitely operate कर सकता है।",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": [
+        "Wind Power",
+        "Exploration",
+        "Cranfield",
+        "Energy"
+      ],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0405-019",
+      "title": "30 साल पहले, robots बिना गिरे चलना सीखे — Honda का P2 IEEE Milestone नामित हुआ",
+      "summary": "IEEE ने Honda के P2 humanoid robot — जो 1996 में unveil हुआ था — को official IEEE Milestone designate किया है, इसे पहला self-contained biped recognize करते हुए जिसने reliable dynamic walking demonstrate की। P2 ने practically every walking robot की technical foundation रखी जो बाद में आया।",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": [
+        "Honda",
+        "History",
+        "IEEE",
+        "Bipedal"
+      ],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0405-020",
+      "title": "AI-powered robot difficulty predict करके tomatoes ज़्यादा efficiently harvest करना सीखता है",
+      "summary": "एक नया tomato-harvesting robot केवल ripe fruit identify नहीं करता — यह stem angle, cluster density और leaf occlusion के based पर हर tomato को pick करने में कितनी difficulty होगी predict करता है, फिर easiest targets prioritize करता है। यह 'difficulty-aware' strategy ने greenhouse trials में harvest throughput 35% बढ़ाई।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": [
+        "AgriRobotics",
+        "Harvest",
+        "AI Planning"
+      ],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0405-021",
+      "title": "DNA robots आपके body के अंदर drugs deliver और viruses hunt कर सकते हैं",
+      "summary": "Researchers DNA-based nanoscale robots engineer कर रहे हैं जो bloodstream में navigate कर सकते हैं, target cells identify कर सकते हैं और therapeutic payloads deliver कर सकते हैं। ये programmable machines traditional robotics — locomotion, sensing, actuation — से concepts borrow करती हैं लेकिन molecular scale पर operate करती हैं।",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": [
+        "Nanorobots",
+        "Medical",
+        "DNA",
+        "Drug Delivery"
+      ],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0405-022",
+      "title": "Gecko Robotics ने अब तक का सबसे बड़ा US Navy robotics contract land किया",
+      "summary": "Gecko Robotics ने US Navy के साथ पाँच साल का contract sign किया है Navy के entire fleet में ultrasound sensors से equipped wall-climbing inspection robots use करके maintenance needs monitor और predict करने के लिए। यह deal US Navy history में सबसे बड़ा robotics contract है।",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": [
+        "Military",
+        "Navy",
+        "Inspection",
+        "Gecko Robotics"
+      ],
+      "timestamp": "2026-03-17T10:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "date": "2026-04-08",
+  "featured": {
+    "id": "featured-20260408",
+    "title": "《华尔街日报》揭露美国人形机器人内藏中国零件——国会作出回应",
+    "summary": "《华尔街日报》披露，许多美国制造的人形机器人的关键零部件源自中国供应商，在该技术即将商业化之际引发了国家安全方面的担忧。据报道，国会正在准备效仿DJI无人机禁令的立法，可能限制Figure AI、Apptronik等企业的供应链。此次披露让整个美国人形机器人行业面临警示：企业可能需要在监管压力到来之前，迅速推进零部件生产的本土化或供应来源多元化。",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "DroneXL / WSJ",
+    "url": "https://dronexl.co/2026/04/07/wsj-exposes-chinese-parts-inside-americas-humanoid-robots-congress-responds/",
+    "tags": [
+      "政策",
+      "供应链",
+      "人形机器人",
+      "中美关系"
+    ],
+    "timestamp": "2026-04-07T12:29:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260408-01",
+      "title": "Torobo：东京机器人公司发布可媲美Atlas的双足人形机器人",
+      "summary": "东京机器人公司推出了双足人形机器人Torobo，其外形与动作质量立即令人联想到Boston Dynamics的Atlas。该公司近期将Torobo从轮式平台升级为完全双足设计，这一重大工程突破彰显了日本在人形机器人竞赛中日益增长的野心。在r/robotics上流传的演示视频已在全球机器人社区引发广泛关注。",
+      "image": "https://external-preview.redd.it/NzVzaGlndWx4dHRnMYyLeldNXgLZBPv3d6qOutVa1HJXQyQ5d_cw4XkQ-nxZ.png?width=640&crop=smart&auto=webp&s=94d9ee42cddc77b76519588267d9f810a811be98",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1sf806y/torobo_humanoid_robot_by_tokyo_robotics/",
+      "tags": [
+        "人形机器人",
+        "日本",
+        "双足"
+      ],
+      "timestamp": "2026-04-07T20:39:12Z"
+    },
+    {
+      "id": "art-20260408-02",
+      "title": "UBTECH与本田贸易合作，共同推进人形机器人与自动驾驶车辆发展",
+      "summary": "UBTECH机器人公司与本田贸易签署战略合作协议，旨在加速人形机器人和自动物流车辆的商业化进程。此次合作将UBTECH的Walker X平台与本田贸易遍布亚洲及全球的广泛分销和供应链网络相结合。在汽车制造商与机器人制造商寻求共享制造经验与规模化之际，这标志着又一重要的跨行业联盟的形成。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "Pandaily",
+      "url": "https://pandaily.com/",
+      "tags": [
+        "UBTECH",
+        "本田",
+        "人形机器人",
+        "合作"
+      ],
+      "timestamp": "2026-04-08T02:38:00Z"
+    },
+    {
+      "id": "art-20260408-03",
+      "title": "机器人行业走向何方：AI、人形机器人与“具身智能”的崛起",
+      "summary": "《Assembly Magazine》的行业深度分析阐述了大语言模型与物理机器人技术的融合，催生出一门名为“具身智能”的新学科。报告认为，2026年是机器人从单任务机器向能够适应全新环境的通用型工人转变的拐点，并援引了Physical Intelligence (Pi)、Google DeepMind等顶尖实验室的最新洞见。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com/",
+      "tags": [
+        "具身智能",
+        "AI",
+        "行业分析"
+      ],
+      "timestamp": "2026-04-06T16:00:00Z"
+    },
+    {
+      "id": "art-20260408-04",
+      "title": "中国机器人初创公司开出1800万美元年薪招募首席科学家，剑指Tesla Optimus",
+      "summary": "据《商业内幕》报道，一家正在开发Tesla Optimus直接竞品的中国人形机器人初创公司，正以1800万美元的年薪招募世界级首席科学家。这一惊人的薪酬待遇折射出中国企业争相追赶美国对手、AI机器人顶尖人才竞争愈演愈烈的行业态势。据悉，这家名称未披露的公司背后有主要国有背景投资机构的支持。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/",
+      "tags": [
+        "中国",
+        "Tesla Optimus",
+        "人才",
+        "融资"
+      ],
+      "timestamp": "2026-04-06T10:20:00Z"
+    },
+    {
+      "id": "art-20260408-05",
+      "title": "弹性执行器重大突破或将使太空软体机器人成为现实",
+      "summary": "研究人员开发出一种全新类别的执行器，能够承受外太空极端环境——包括真空、辐射和温度剧烈波动——而不发生机械故障。该系统采用新型弹性体复合材料，在比以往软体机器人执行器更宽泛的温度范围内保持性能，为未来月球和火星任务中可展开机器人系统开辟了新路径。相关成果已发表于同行评审材料科学期刊。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-actuator-could-boo.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": [
+        "软体机器人",
+        "太空",
+        "执行器",
+        "研究"
+      ],
+      "timestamp": "2026-04-05T14:00:00Z"
+    },
+    {
+      "id": "art-20260408-06",
+      "title": "Amazon为何相中Fauna Robotics的人形机器人战略",
+      "summary": "《The Robot Report》深入解析了Amazon收购Sprout人形机器人制造商Fauna Robotics的战略逻辑。Amazon看中的是Fauna专注于非结构化环境中人体尺度精细操作的独特定位——这一能力缺口正是Amazon现有仓储机器人无法填补的。此次收购预示着Amazon意欲超越固定自动化，在整个履约网络中部署人形机器人作为灵活的通用型工人。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/what-amazon-saw-in-fauna-robotics-humanoid-strategy/",
+      "tags": [
+        "Amazon",
+        "Fauna Robotics",
+        "人形机器人",
+        "收购"
+      ],
+      "timestamp": "2026-04-07T15:08:00Z"
+    },
+    {
+      "id": "art-20260408-07",
+      "title": "建筑机器人实现自主任务排序与错误自动恢复",
+      "summary": "AZoBuild报道了一项新研究，展示了建筑机器人的自主任务排序和实时错误恢复能力。该系统可在零部件错位或工具故障时即时重新规划，是迈向真正自主施工现场操作的重要一步。现场试验显示，机器人在无人干预的情况下，以91%的成功率完成了多步骤砌砖任务。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "AZoBuild",
+      "url": "https://www.azobuild.com/",
+      "tags": [
+        "建筑",
+        "自主",
+        "研究"
+      ],
+      "timestamp": "2026-04-07T15:18:00Z"
+    },
+    {
+      "id": "art-20260408-08",
+      "title": "Big-D建筑公司与FieldAI合作扩大自主机器人部署规模",
+      "summary": "美国建筑巨头Big-D Construction深化与FieldAI的合作，在多个在建工地部署自主机器人。这些机器人利用AI驱动的计算机视觉执行现场勘测、进度监控和安全检查，大幅减少了人工巡检的需求。此次大规模部署是美国建筑行业迄今最大规模的商业机器人应用之一。",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/field-ai-bid-d-1.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/07/big-d-expands-construction-operations-with-fieldai-as-robotics-adoption-accelerates/100362/",
+      "tags": [
+        "建筑",
+        "FieldAI",
+        "自主",
+        "商业"
+      ],
+      "timestamp": "2026-04-07T07:42:00Z"
+    },
+    {
+      "id": "art-20260408-09",
+      "title": "Maximo的AI机器人借助NVIDIA技术完成逾100MW太阳能电池板安装",
+      "summary": "AI驱动的建筑机器人初创公司Maximo宣布，其自主机器人完成的太阳能电池板安装量已突破100兆瓦里程碑。在NVIDIA全国机器人周报道中，Maximo的机器人借助NVIDIA Isaac进行感知与规划，从容应对施工现场的变化和天气条件。这一成就证明，具身AI已能可靠地推动可再生能源基础设施规模化建设。",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg",
+      "source": "NVIDIA / Reddit r/robotics",
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo",
+      "tags": [
+        "NVIDIA",
+        "太阳能",
+        "建筑机器人",
+        "AI"
+      ],
+      "timestamp": "2026-04-07T09:55:13Z"
+    },
+    {
+      "id": "art-20260408-10",
+      "title": "MIT超声波腕带赋予机器人人类级别的灵巧性",
+      "summary": "MIT研究人员开发出一款基于超声波的腕带，可以毫秒级精度捕捉人类前臂的细微肌肉运动，并将这些运动直接映射到机器人手上。测试中，由腕带控制的机器人手套在标准化操作任务中首次达到了人类的灵巧性评分。这款非侵入式可穿戴设备有望成为远程操控和机器人训练数据采集的关键接口。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "MIT / Tech Xplore",
+      "url": "https://techxplore.com/",
+      "tags": [
+        "MIT",
+        "灵巧性",
+        "可穿戴",
+        "研究"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-11",
+      "title": "ForSight Robotics完成全球首例全自主机器人白内障手术",
+      "summary": "ForSight Robotics宣布，其JASPER平台完成了全球首例完全自主的机器人白内障手术。整个手术过程在医生监督下进行，无需任何人工干预。白内障手术对亚毫米级精度的要求极高，且是全球手术量最大的外科手术之一，因此这一里程碑被认为是医疗机器人领域的重大突破，代表着巨大的市场机遇。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "ForSight Robotics",
+      "url": "https://www.forsight-robotics.com/",
+      "tags": [
+        "医疗",
+        "外科手术",
+        "自主",
+        "里程碑"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-12",
+      "title": "微软、NVIDIA与华盛顿大学联合发布机器人AI框架OmniReset",
+      "summary": "来自微软、NVIDIA和华盛顿大学的联合团队发布了OmniReset——一个开源框架，可使机器人系统在训练和部署过程中自动从故障中恢复并重置到安全状态。OmniReset解决了仿真到真实世界迁移的关键瓶颈之一——机器人卡住时需要人工干预复位，有望大幅加速强化学习的规模化应用。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "ETIH / EdTech Innovation Hub",
+      "url": "https://www.edtechinnovationhub.com/",
+      "tags": [
+        "微软",
+        "NVIDIA",
+        "开源",
+        "强化学习"
+      ],
+      "timestamp": "2026-04-07T23:06:00Z"
+    },
+    {
+      "id": "art-20260408-13",
+      "title": "韩国将2030年视为人形机器人市场领导地位的关键窗口期",
+      "summary": "韩国政府官员和行业分析师将2026年至2030年这一窗口期定性为该国在人形机器人市场建立领导地位的决定性时刻。韩国战略将三星、现代和LG集团的制造实力与大力度研发投入相结合，剑指中国和美国。据DongA Science报道，韩国政府正在筹备一项数十亿美元规模的机器人竞争力基金。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "DongA Science",
+      "url": "https://www.dongascience.com/",
+      "tags": [
+        "韩国",
+        "政策",
+        "人形机器人",
+        "市场"
+      ],
+      "timestamp": "2026-04-08T01:38:00Z"
+    },
+    {
+      "id": "art-20260408-14",
+      "title": "中国在越南边境试验人形机器人执行边境管控任务",
+      "summary": "据ECOticias报道，中国已开始在中越边境试点部署人形机器人执行边境巡逻和管控任务。这些机器人配备了热成像摄像头、人脸识别和地形自适应行走功能，目前正在接受检查站监控和周界警戒任务的评估。此次部署是人形机器人首次被用于国家边境安全行动的已知案例之一。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "ECOticias",
+      "url": "https://www.ecoticias.com/",
+      "tags": [
+        "中国",
+        "边境安全",
+        "人形机器人",
+        "国防"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-15",
+      "title": "美国最大造船商与GrayMatter Robotics携手布局具身AI",
+      "summary": "美国海军最大造船商Huntington Ingalls Industries与GrayMatter Robotics合作，在舰船复杂焊接和装配任务中部署具身AI系统。GrayMatter的机器人利用3D视觉和自适应AI应对造船业历史上难以自动化的非结构化、多变环境。这一合作凸显了国防工业制造领域对机器人技术的持续升温。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Manufacturing.net",
+      "url": "https://www.manufacturing.net/",
+      "tags": [
+        "国防",
+        "GrayMatter",
+        "造船",
+        "具身AI"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-16",
+      "title": "BASF与Sevnce Robotics合作推动化工生产智能自动化",
+      "summary": "化工巨头BASF与Sevnce Robotics签署合作协议，在其化工生产设施内部署自主巡检和采样机器人。这些机器人可在对人类工人构成危险的腐蚀性和有害环境中作业，全天候执行例行检查和异常检测。此次合作是BASF更广泛数字化战略的组成部分，也彰显了机器人技术在高风险工业领域的持续扩张。",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "NovusLight",
+      "url": "https://www.novuslight.com/",
+      "tags": [
+        "BASF",
+        "工业",
+        "巡检机器人",
+        "化工"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-17",
+      "title": "人形机器人驱动触觉传感器需求爆发，台湾企业竞相布局",
+      "summary": "受全球人形机器人制造商需求激增推动，台湾半导体和电子供应链正加速向触觉传感器领域转型。据Digitimes报道，包括美律电子在内的多家企业正争相研发用于机器人手的高密度仿皮肤压力传感器。台湾在精密制造领域的优势，使其在供应这一新兴元器件类别方面具有结构性竞争优势。",
+      "image": "https://img.digitimes.com/newsshow/20260407vl200_files/1_b.jpg",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com/news/a20260407VL200/humanoid-robot-tactile-sensor-taiwan.html",
+      "tags": [
+        "台湾",
+        "触觉传感器",
+        "人形机器人",
+        "供应链"
+      ],
+      "timestamp": "2026-04-08T00:04:00Z"
+    },
+    {
+      "id": "art-20260408-18",
+      "title": "光驱动纳米机器人可捕获并清除水中有害细菌",
+      "summary": "科学家演示了由可见光驱动的纳米机器人，能够高效捕获水样中的有害细菌。这些机器人利用光催化化学实现自主推进，并在接触时摧毁病原体，除环境光外无需额外能源。这一突破在水净化、靶向药物递送和感染治疗领域具有广阔的应用前景。",
+      "image": "https://www.azorobotics.com/images/news/ImageForNews_15432_17304078587295526.jpg",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com/News.aspx?newsID=15432",
+      "tags": [
+        "纳米机器人",
+        "医疗",
+        "水处理",
+        "研究"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-19",
+      "title": "Serve Robotics在NVIDIA GTC亮相搭载对话式AI的配送机器人",
+      "summary": "Serve Robotics在NVIDIA GTC 2026上展示了搭载对话式AI的下一代人行道配送机器人。该机器人可利用边缘AI处理与路人交流，实时回答有关配送状态的问题，并妥善处理复杂的行人互动。在洛杉矶运营Uber Eats配送业务的Serve表示，对话功能将提升密集城市环境中的安全性和用户体验。",
+      "image": "https://cdn.sanity.io/images/dh33lj7y/production/ba522acc2978502c9d69447015fb70bd295bc95b-1200x630.jpg",
+      "source": "Serve Robotics / NVIDIA",
+      "url": "https://www.serverobotics.com/blog",
+      "tags": [
+        "Serve Robotics",
+        "配送",
+        "对话式AI",
+        "NVIDIA"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-20",
+      "title": "POSCO集团向机器人自动化企业Brils投资70亿韩元",
+      "summary": "韩国钢铁巨头POSCO集团向专注重工业领域的机器人自动化初创公司Brils承诺投资70亿韩元（约合500万美元）。此次投资将用于支持Brils研发应用于钢铁厂的AI驱动机器人系统——极端高温与精密要求历来是钢铁厂自动化的难题。这一举措标志着传统重工业正在加速拥抱下一代机器人技术。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "BusinessKorea",
+      "url": "https://www.businesskorea.co.kr/",
+      "tags": [
+        "POSCO",
+        "韩国",
+        "融资",
+        "工业"
+      ],
+      "timestamp": "2026-04-07T11:00:00Z"
+    }
+  ]
+}

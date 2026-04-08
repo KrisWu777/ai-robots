@@ -1,0 +1,339 @@
+{
+  "date": "2026-04-05",
+  "featured": {
+    "id": "featured-20260405",
+    "title": "Des scientifiques créent des robots vivants dotés de systèmes nerveux",
+    "summary": "Des chercheurs ont créé « NeuroBot » — des robots vivants assemblés à partir de cellules biologiques incluant des structures fonctionnelles semblables à un système nerveux capables de percevoir et de générer des mouvements coordonnés. Les résultats, publiés dans Nature, brouillent la frontière entre le robot d'ingénierie et l'organisme vivant.",
+    "image": "https://spectrum.ieee.org/media-library/close-up-of-a-neuro-robot-that-has-been-stained-to-highlight-multi-ciliated-cells-around-its-periphery.jpg?id=65444408&width=1200",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/neurobot-living-robot-nervous-system",
+    "tags": [
+      "Robots vivants",
+      "Biohybride",
+      "Nature"
+    ],
+    "timestamp": "2026-04-02T13:00:01Z"
+  },
+  "articles": [
+    {
+      "id": "0405-001",
+      "title": "Gill Pratt affirme que le moment des robots humanoïdes est enfin arrivé",
+      "summary": "Gill Pratt, directeur général du Toyota Research Institute et ancien responsable du programme de robotique de DARPA, soutient dans un nouvel entretien accordé à IEEE Spectrum que la convergence d'une meilleure IA, d'actionneurs moins coûteux et de batteries améliorées a créé les conditions pour que les robots humanoïdes génèrent une valeur économique réelle pour la première fois.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": [
+        "Humanoïde",
+        "Toyota",
+        "DARPA",
+        "Analyse sectorielle"
+      ],
+      "timestamp": "2026-04-02T15:00:02Z"
+    },
+    {
+      "id": "featured-0405",
+      "title": "Étude des attitudes humaines envers les robots à travers l'expérience réelle avec Boston Dynamics Spot",
+      "summary": "Une étude phare menée au Robotics & AI Institute a suivi pendant six mois la façon dont des centaines de familles ont interagi avec Spot de Boston Dynamics, mettant en évidence des schémas de confiance, de peur et d'anthropomorphisation. Les données remodèlent l'approche des concepteurs en matière d'esthétique et de comportement social des robots.",
+      "image": "https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+      "tags": [
+        "Boston Dynamics",
+        "HRI",
+        "Recherche utilisateur"
+      ],
+      "timestamp": "2026-04-05T13:00:01Z"
+    },
+    {
+      "id": "0405-003",
+      "title": "Physical Intelligence serait en négociations pour lever à nouveau 1 milliard de dollars",
+      "summary": "Physical Intelligence (π), la start-up spécialisée dans l'apprentissage robotique polyvalent, serait en négociations avancées pour lever 1 milliard de dollars, ce qui doublerait effectivement sa valorisation de 5,6 milliards en seulement quatre mois. Le modèle fondamental π0 de la société a été licencié à plusieurs fabricants de robots OEM.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "tags": [
+        "Physical Intelligence",
+        "Financement",
+        "Modèle fondamental"
+      ],
+      "timestamp": "2026-03-27T23:59:40Z"
+    },
+    {
+      "id": "0405-004",
+      "title": "Vivants ou non ? De minuscules robots imprimés en 3D qui nagent et naviguent comme des animaux",
+      "summary": "La professeure Daniela Kraft et Mengshi Wei de la Leiden University ont créé des robots microscopiques se déplaçant sans capteurs, logiciels ni contrôle externe. Leur comportement émerge entièrement de la géométrie physique et des propriétés des matériaux, imitant la navigation des organismes aquatiques simples.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": [
+        "Microrobots",
+        "Impression 3D",
+        "Leiden University"
+      ],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0405-005",
+      "title": "Vidéo du vendredi : le robot bipède Roadrunner sort des sentiers battus",
+      "summary": "La Vidéo du Vendredi de cette semaine met en avant Roadrunner, un robot bipède novateur utilisant un système de locomotion hybride à roues pour atteindre des vitesses allant jusqu'à 5 m/s sur terrain plat tout en maintenant sa stabilité dans les escaliers et sur terrain accidenté — une rupture fondamentale avec le design classique des robots marcheurs.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/roadrunner-bipedal-robot",
+      "video": "https://www.youtube.com/watch?v=tF4DML7FIWk",
+      "tags": [
+        "Bipède",
+        "Locomotion",
+        "Vitesse"
+      ],
+      "timestamp": "2026-03-27T16:30:03Z"
+    },
+    {
+      "id": "0405-006",
+      "title": "Jumeaux numériques pour robots de sauvetage : ce que permet un traitement plus rapide des nuages de points 3D",
+      "summary": "De nouveaux algorithmes réduisent le temps de traitement des nuages de points 3D de quelques secondes à quelques millisecondes, permettant aux robots de construire et de mettre à jour en temps réel des cartes en jumeau numérique de leur environnement. Cette avancée est essentielle pour les robots de sauvetage naviguant dans des structures effondrées où les conditions évoluent dynamiquement.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": [
+        "Jumeau numérique",
+        "Cartographie 3D",
+        "Recherche et sauvetage"
+      ],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0405-007",
+      "title": "Melania Trump veut un robot pour éduquer votre enfant à la maison",
+      "summary": "La Première Dame a soutenu le robot humanoïde de Figure AI en tant que tuteur potentiel alimenté par l'IA pour l'instruction à domicile, imaginant des robots personnalisant le programme et assurant un enseignement individualisé. Ces déclarations ont suscité un vaste débat sur la place des robots dans l'éducation et le développement de l'enfant.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "tags": [
+        "Figure AI",
+        "Éducation",
+        "Humanoïde"
+      ],
+      "timestamp": "2026-03-25T18:55:41Z"
+    },
+    {
+      "id": "0405-008",
+      "title": "Lucid Bots lève 20 millions de dollars pour répondre à la demande de ses drones lave-vitres",
+      "summary": "Lucid Bots, fabricant de drones autonomes qui nettoient les vitres des gratte-ciels et lavent les façades d'immeubles à haute pression, a levé 20 millions de dollars en Série B pour augmenter sa production. La demande s'est accélérée alors que les propriétaires de bâtiments font face à la hausse des coûts de main-d'œuvre pour les travaux de maintenance dangereux en hauteur.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "tags": [
+        "Drones",
+        "Start-up",
+        "Financement",
+        "Nettoyage"
+      ],
+      "timestamp": "2026-03-25T11:00:00Z"
+    },
+    {
+      "id": "0405-009",
+      "title": "Amazon acquiert Fauna Robotics, fabricant du robot humanoïde Sprout",
+      "summary": "Amazon a acquis Fauna Robotics, la start-up à l'origine de Sprout — un humanoïde convivial de taille enfant conçu pour les espaces sociaux comme les maisons et les hôpitaux. Cette acquisition, le deuxième rachat robotique d'Amazon ce mois-ci, traduit la volonté de l'entreprise de s'imposer dans la robotique domestique et de santé.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": [
+        "Amazon",
+        "Acquisition",
+        "Humanoïde",
+        "Fauna Robotics"
+      ],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0405-010",
+      "title": "Agile Robots s'associe à Google DeepMind pour intégrer des modèles fondamentaux",
+      "summary": "La société de robotique germano-chinoise Agile Robots a signé un partenariat avec Google DeepMind pour intégrer des modèles fondamentaux de robotique dans ses plateformes humanoïdes. En contrepartie, Agile Robots contribuera des données de démonstration de tâches réelles aux ensembles d'entraînement de DeepMind.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": [
+        "Agile Robots",
+        "Google DeepMind",
+        "Modèle fondamental"
+      ],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0405-011",
+      "title": "Des drones couplés à l'IA pourraient aider les équipes de recherche et de sauvetage à localiser les disparus plus vite",
+      "summary": "Un système de drones multisenseurs combinant des caméras infrarouge, thermiques et couleur avec un système d'analyse par IA peut accélérer considérablement les opérations de recherche et de sauvetage. Les tests sur le terrain ont montré que le système localise les personnes disparues jusqu'à 4 fois plus vite que les équipes terrestres seules.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": [
+        "Drones",
+        "Recherche et sauvetage",
+        "Imagerie thermique"
+      ],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0405-012",
+      "title": "Un modèle à cinq niveaux évalue les robots humanoïdes selon la mobilité, la manipulation et la cognition",
+      "summary": "Des chercheurs de Fraunhofer HNFIZ ont publié un nouveau cadre d'évaluation standardisé qui classe les robots humanoïdes en cinq niveaux de capacité selon la mobilité, la dextérité de manipulation et l'autonomie cognitive — similaire aux niveaux SAE pour les véhicules autonomes.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": [
+        "Humanoïde",
+        "Fraunhofer",
+        "Normes",
+        "Évaluation"
+      ],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0405-013",
+      "title": "Les robots inspirés des oiseaux promettent plus de flexibilité et de contrôle que les drones",
+      "summary": "Des ingénieurs de Rutgers University ont créé un robot à ailes battantes inspiré des oiseaux dont les ailes se plient et se tordent en temps réel pour faire face aux vents de travers et aux turbulences. Le design atteint une efficacité énergétique 3 fois supérieure à celle des drones quadrirotors équivalents à basse vitesse.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": [
+        "Ailes battantes",
+        "Bio-inspiré",
+        "Rutgers",
+        "Drones"
+      ],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0405-014",
+      "title": "Un robot inspiré des insectes piste les odeurs même avec une seule « antenne » fonctionnelle",
+      "summary": "Un robot bio-inspiré modélisé sur les systèmes olfactifs des insectes peut localiser des sources d'odeurs — fuites de gaz, explosifs, personnes disparues — aussi bien en intérieur qu'en extérieur. Le système maintient une précision constante même lorsqu'une de ses deux unités de capteurs tombe en panne, une caractéristique critique pour le déploiement en conditions réelles.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": [
+        "Olfactif",
+        "Bio-inspiré",
+        "Robot de recherche"
+      ],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0405-015",
+      "title": "Une puce Wi-Fi résistante aux rayonnements survit à 500 kGy pour les robots de démantèlement nucléaire",
+      "summary": "Une nouvelle puce Wi-Fi résistante aux rayonnements, conçue pour les robots de démantèlement de centrales nucléaires, peut survivre à 500 kilogray de rayonnements ionisants — l'équivalent de 250 millions de radiographies dentaires. La puce permet le contrôle sans fil de robots à l'intérieur de réacteurs actifs, remplaçant les dangereux systèmes câblés.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": [
+        "Nucléaire",
+        "Rayonnement",
+        "Wi-Fi",
+        "Démantèlement"
+      ],
+      "timestamp": "2026-03-23T13:00:09Z"
+    },
+    {
+      "id": "0405-016",
+      "title": "Comment les tuteurs robots de Chicago enseignent l'apprentissage socio-émotionnel sans prétendre être humains",
+      "summary": "Dans des classes de quatrième année à Chicago, des robots enseignent l'empathie et la résolution de conflits tout en restant transparents sur leur nature de machines. L'approche évite la « vallée de l'étrange » des interactions trop humanoïdes et obtient de meilleurs résultats d'apprentissage en maintenant des frontières claires entre le robot et l'élève.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": [
+        "Éducation",
+        "Robots sociaux",
+        "SEL",
+        "Chicago"
+      ],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0405-017",
+      "title": "Plus intelligent, plus rapide, plus humain : un système d'IA aide les robots à dépasser leurs enseignants humains",
+      "summary": "Un nouveau cadre d'apprentissage par imitation permet aux robots non seulement de reproduire des tâches démontrées, mais de les améliorer — en exécutant les mouvements appris jusqu'à 30 % plus vite que le démonstrateur humain après seulement 10 essais d'entraînement. La clé réside dans un système d'IA qui identifie et élimine les inefficacités des démonstrations humaines.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": [
+        "Apprentissage par imitation",
+        "Apprentissage robotique",
+        "AI"
+      ],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0405-018",
+      "title": "Un robot à énergie éolienne permet l'exploration à long terme d'environnements hostiles",
+      "summary": "Le WANDER-bot de Cranfield University est un robot de faible coût imprimé en 3D entièrement alimenté par l'énergie éolienne, conçu pour la surveillance autonome de longue durée dans les déserts, les toundras et les régions volcaniques. Sans batteries ni panneaux solaires, WANDER-bot peut fonctionner indéfiniment dans des environnements venteux.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": [
+        "Énergie éolienne",
+        "Exploration",
+        "Cranfield",
+        "Énergie"
+      ],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0405-019",
+      "title": "Il y a 30 ans, les robots ont appris à marcher sans tomber — le P2 de Honda désigné jalon IEEE",
+      "summary": "L'IEEE a désigné le robot humanoïde P2 de Honda — dévoilé en 1996 — comme jalon officiel de l'IEEE, le reconnaissant comme le premier bipède autonome à avoir démontré une marche dynamique fiable. Le P2 a posé les bases techniques de pratiquement tous les robots marcheurs qui ont suivi.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": [
+        "Honda",
+        "Histoire",
+        "IEEE",
+        "Bipède"
+      ],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0405-020",
+      "title": "Un robot alimenté par l'IA apprend à récolter des tomates plus efficacement en prédisant la difficulté",
+      "summary": "Un nouveau robot cueilleur de tomates ne se contente pas d'identifier les fruits mûrs : il prédit la difficulté de cueillette de chaque tomate en fonction de l'angle de la tige, de la densité des grappes et de l'occlusion des feuilles, puis priorise les cibles les plus accessibles. Cette stratégie « consciente de la difficulté » a augmenté le débit de récolte de 35 % lors d'essais en serre.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": [
+        "AgriRobotique",
+        "Récolte",
+        "Planification par AI"
+      ],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0405-021",
+      "title": "Des robots à ADN pourraient administrer des médicaments et traquer les virus dans votre corps",
+      "summary": "Des chercheurs conçoivent des robots nanométriques à base d'ADN capables de naviguer dans la circulation sanguine, d'identifier des cellules cibles et d'y libérer des charges thérapeutiques. Ces machines programmables empruntent des concepts à la robotique classique — locomotion, détection, actionnement — mais opèrent à l'échelle moléculaire.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": [
+        "Nanorobots",
+        "Médical",
+        "ADN",
+        "Délivrance de médicaments"
+      ],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0405-022",
+      "title": "Gecko Robotics décroche le plus grand contrat robotique de la Marine américaine à ce jour",
+      "summary": "Gecko Robotics a signé un contrat de cinq ans avec la Marine américaine pour surveiller et anticiper les besoins de maintenance de l'ensemble de la flotte navale grâce à des robots d'inspection grimpeurs équipés de capteurs à ultrasons. Ce contrat est le plus important de l'histoire de la Marine américaine dans le domaine de la robotique.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": [
+        "Militaire",
+        "Marine",
+        "Inspection",
+        "Gecko Robotics"
+      ],
+      "timestamp": "2026-03-17T10:00:00Z"
+    }
+  ]
+}

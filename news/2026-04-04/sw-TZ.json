@@ -1,0 +1,228 @@
+{
+  "date": "2026-04-04",
+  "featured": {
+    "id": "featured-0404",
+    "title": "Video ya Ijumaa: Digit Anajifunza Kucheza Dansi — Karibu Usiku Mmoja",
+    "summary": "Roboti ya binadamu Digit ya Agility Robotics imejifunza mipangilio changamano ya dansi iliyosawazishwa kwa kutumia mfumo mpya wa uhamishaji wa mafunzo kutoka uhalisi wa kielelezo hadi ulimwengu halisi, ambao unapunguza muda wa mafunzo kutoka wiki hadi masaa. Maonyesho yanaonyesha mwendo laini uliosawazishwa na muziki, ukivunja mipaka ya sasa ya udhibiti wa mwendo wa roboti za binadamu.",
+    "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&h=600&fit=crop",
+    "video": "https://www.youtube.com/watch?v=29ECwExc-_M",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/video-humanoid-dancing",
+    "tags": ["Agility Robotics", "Digit", "Mwendo"],
+    "timestamp": "2026-04-03T16:30:01Z"
+  },
+  "articles": [
+    {
+      "id": "0404-001",
+      "title": "Je, Unaniamini? Mfumo wa Kufanya Mitandao ya Roboti na Magari Kuwa Salama Zaidi",
+      "summary": "Mfumo mpya wa uaminifu wa kompyuta unaruhusu mitandao tofauti ya roboti na magari yanayojiendesha yenyewe kutathmini kwa nguvu uaminifu wa wenzao na kurekebisha mikakati ya uratibu. Mfumo huo unapunguza hatari ya mgongano katika mazingira ya roboti nyingi kwa asilimia 62 katika uigaji.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-framework-networks-robots-vehicles-safer.html",
+      "tags": ["Uaminifu", "Roboti Nyingi", "Usalama", "Magari Yanayojiendesha"],
+      "timestamp": "2026-04-02T14:20:01Z"
+    },
+    {
+      "id": "0404-002",
+      "title": "Wafanyakazi Walilazimika Kusimamisha Roboti ya Binadamu Iliyoanza Kucheza Dansi Bila Kudhibitiwa Kwenye Mkahawa California",
+      "summary": "Mkahawa wa hot pot wa Haidilao huko Cupertino ukawa maarufu baada ya mhudumu wake wa roboti AgiBot kuanza kucheza bila kudhibitiwa, na kuhitaji uingiliaji kati wa wafanyakazi. Tukio hilo, lililonaswa kwenye simu nyingi za kisasa, lilichochea tena majadiliano kuhusu uthabiti wa mifumo ya AI na utegemezi mkubwa mno kwa automatisering mahali ambapo watu hukutana.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "Mkahawa", "Tukio", "Virali"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0404-003",
+      "title": "Gari la Uchunguzi la Mirihi Perseverance Lavunja Rekodi ya Uendeshaji wa Kujitegemea",
+      "summary": "Gari la uchunguzi la NASA Perseverance limeweka rekodi mpya ya uendeshaji wa kujitegemea kwenye Mirihi, likisafiri mita 699 kwa soli moja kwa kutumia mfumo wake wa AutoNav. Mafanikio hayo yanaonyesha mipango bora ya njia kwa AI inayozunguka vizuizi bila kusubiri amri kutoka Duniani.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/perseverance-mars-rover-autonomous-driving",
+      "tags": ["NASA", "Mirihi", "Kujitegemea", "Perseverance"],
+      "timestamp": "2026-02-25T15:00:02Z"
+    },
+    {
+      "id": "0404-004",
+      "title": "Mkono wa Roboti Bila Motors: Jinsi Actuator ya Kubadilisha Umbo Chini ya Sekunde Inavyofanya Kazi",
+      "summary": "Watafiti wamebuni mkono wa roboti usio na motor unaosukumwa kabisa na waya wa aloi ya kumbukumbu ya umbo ambayo hubadilisha mfumo wake katika chini ya sekunde moja. Muundo huu ni mwepesi kwa asilimia 70 kuliko vifaa sawa vinavyotumia motors, mafanikio makubwa kwa viungo bandia na mikono ya roboti ya angani inayohitaji uzito mdogo.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Aloi ya Kumbukumbu ya Umbo", "Viungo Bandia", "Actuator"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0404-005",
+      "title": "Mind Robotics Iliyotoka Rivian Inakusanya Dola Milioni 500 kwa Roboti za Viwandani Zinazotumia AI",
+      "summary": "Mind Robotics, kampuni iliyoanzishwa na mwanzilishi wa Rivian, RJ Scaringe, imefunga raundi ya ufadhili ya Mfululizo A ya dola milioni 500. Kampuni hiyo inatengeneza roboti za viwandani zinazotumia AI ambazo zinajifunza kutoka mazingira ya kiwanda cha Rivian na inalenga upatikanaji wa kibiashara ifikapo 2027.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "Kampuni Mpya", "Ufadhili", "Viwanda"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0404-006",
+      "title": "Mtandao wa Neva Bandia Unazaliana Mifumo ya Mwendo wa Wanyama Wenye Miguu Minne",
+      "summary": "Watafiti wa Uswisi wamejenga mtandao wa neva unaonakili kwa usahihi mifumo ya kutembea, kukimbia polepole, na kukimbia haraka ya farasi, mbwa, na paka, ikiwa ni pamoja na mabadiliko ya kiotomatiki ya mwendo wakati kasi inabadilika. Mfano huo sasa unatumika kuboresha mwendo wa roboti zenye miguu minne.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-artificial-neural-network-gait-patterns.html",
+      "tags": ["Roboti Miguu Minne", "Mwendo", "Mtandao wa Neva", "Bio-Iliochochewa"],
+      "timestamp": "2026-03-23T17:20:08Z"
+    },
+    {
+      "id": "0404-007",
+      "title": "RJ Scaringe wa Rivian Anafikiri Tunakosea Kabisa Kuhusu Roboti",
+      "summary": "Katika mahojiano ya kipekee, Mkurugenzi Mtendaji wa Rivian RJ Scaringe anasema tasnia ya roboti inazingatia sana kuiga umbo la binadamu badala ya kutengeneza mashine zilizoundwa kwa madhumuni maalum. Kampuni yake mpya ya kuanzisha Mind Robotics inachukua njia tofauti kabisa kwa automatisering ya viwanda.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "Maoni", "Tasnia"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0404-008",
+      "title": "Kwa Nini Tasnia ya Roboti ya Binadamu ya China Inashinda Soko la Awali",
+      "summary": "Uchambuzi wa TechCrunch unaonyesha kwamba watengenezaji wa roboti za binadamu wa China wanawasilisha vitengo vingi zaidi na kusasisha haraka zaidi kuliko washindani wao wa Marekani. Kampuni kama Unitree, UBTech, Fourier Intelligence, na Engine AI kwa pamoja zimeweka roboti za binadamu zaidi kibiashara kuliko makampuni yote ya Magharibi kwa pamoja.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["China", "Roboti ya Binadamu", "Uchambuzi wa Soko", "Unitree"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0404-009",
+      "title": "Ushirikiano wa Qualcomm na Neura Robotics Unaashiria Kampuni za Chip Kuingia katika Roboti za Binadamu",
+      "summary": "Qualcomm imeshirikiana na kampuni mpya ya Ujerumani ya roboti za binadamu Neura Robotics kujenga roboti za kizazi kijacho kwa kutumia vichakataji vya AI vya IQ10. Ushirikiano huo unaoashiria hatua muhimu zaidi ya Qualcomm katika AI iliyojumuishwa na vifaa vya roboti za binadamu, ikishindana na jukwaa la roboti la Nvidia.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "Chip", "Roboti ya Binadamu"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0404-010",
+      "title": "Video ya Ijumaa: Roboti ya Binadamu Inajifunza Ujuzi wa Tenisi Kwa Kucheza Dhidi ya Wanadamu",
+      "summary": "Roboti ya binadamu imefunzwa kucheza tenisi ya burudani dhidi ya wapinzani wa kibinadamu kwa kutumia mchanganyiko wa kujifunza kupitia kunasa mwendo na uundaji wa kibiolojia na kimekanika kwa wakati halisi. Baada ya mechi 500 dhidi ya wachezaji wa binadamu, roboti ilirekebishia mwelekeo wake ili kushughulikia mtindo wa kipekee wa kucheza wa kila mpinzani.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/tennis-playing-robot",
+      "video": "https://www.youtube.com/watch?v=fRj34o4hN4I",
+      "tags": ["Roboti ya Binadamu", "Michezo", "Kujifunza", "Tenisi"],
+      "timestamp": "2026-03-21T16:30:04Z"
+    },
+    {
+      "id": "0404-011",
+      "title": "Amazon Inunua Rivr, Mtengenezaji wa Roboti ya Utoaji Inayopanda Ngazi",
+      "summary": "Amazon imenunua Rivr, kampuni mpya inayotengeneza roboti ya utoaji yenye magurudumu inayoweza kupanda ngazi kwa kujitegemea, ikisymbolia nia ya jitu la biashara ya mtandaoni kupeleka utoaji hadi mlangoni. Makubaliano hayo ni ununuzi wa kwanza wa Amazon unaolenga utoaji wa hatua ya mwisho hadi mlangoni.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "Utoaji", "Ununuzi", "Rivr"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    },
+    {
+      "id": "0404-012",
+      "title": "Kampuni ya Programu za Roboti Inayomilikiwa na Alphabet, Intrinsic, Inajiunga na Google",
+      "summary": "Intrinsic, kampuni ya programu za roboti iliyohitimu kutoka maabara ya X ya Alphabet mnamo 2021, inahamia chini ya udhibiti wa moja kwa moja wa Google. Muunganiko huo unaashiria nia ya Google kuunganisha zana za uprogramu wa roboti za Intrinsic na utafiti wa AI wa DeepMind ili kuunda jukwaa kamili la roboti.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "Ununuzi"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0404-013",
+      "title": "Canopii Inalenga Kufanikiwa Ambapo Mashamba ya Ndani ya Nyumba Yaliyopita Hayakufaulu — Kwa Roboti",
+      "summary": "Mashamba ya ndani ya nyumba ya roboti yaliyojitegemea kabisa ya Canopii yanaweza kukuza paundi 40,000 za mimea ya dawa na mboga za majani kwa mwaka katika nafasi ya ukubwa wa uwanja wa mpira wa kikapu. Tofauti na kampuni mpya za zamani za kilimo cha ndani, Canopii hutumia roboti zake za kipekee kwa kazi zote za kulima, ikiondoa gharama za kazi ambazo zilisababisha kushindwa kwa washindani.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["Roboti za Kilimo", "Kilimo cha Ndani", "Kampuni Mpya"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0404-014",
+      "title": "Hatua ya Mabadiliko ya Vita vya Ndege Zisizo na Rubani Nchini Ukraine — Jinsi UAV za Kujitegemea Zinavyobadilisha Vita",
+      "summary": "Uchambuzi wa IEEE Spectrum unachunguza jinsi mzozo wa Ukraine umekuwa uwanja wa majaribio wa vita vya ndege zisizo na rubani zinazojitegemea, ambapo pande zote mbili zinaweka silaha za kutangatanga zenye AI na mifumo ya kupigana na ndege zisizo na rubani kwa kiwango kikubwa. Wachambuzi wa kijeshi wanaonya kwamba masomo yaliyojifunzwa yataelezea migogoro ya kawaida ya siku zijazo.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["Ndege Zisizo na Rubani za Kijeshi", "Ukraine", "Silaha za Kujitegemea"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0404-015",
+      "title": "Anduril Inalenga Thamani ya Dola Bilioni 60 Katika Raundi Mpya ya Ufadhili",
+      "summary": "Kampuni ya teknolojia ya ulinzi Anduril Industries inatafuta raundi mpya ya ufadhili ambayo itaongeza thamani yake hadi dola bilioni 60, mara mbili ya thamani yake ya dola bilioni 30 ya Juni 2025. Mipango ya ndege zisizo na rubani za kujitegemea na magari ya chini ya maji yanayojitegemea ya Anduril inachochea ukuaji wa mapato kwa kasi.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "Ulinzi", "Ndege Zisizo na Rubani", "Ufadhili"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0404-016",
+      "title": "Mkataba wa Gecko Robotics na Jeshi la Majini: Roboti za Kupanda Kuta Sasa Zinakagua Meli Zote za Marekani",
+      "summary": "Baada ya mkataba wake wa rekodi wa Jeshi la Majini, Gecko Robotics inaweka roboti za kupanda kuta zenye nguvu ya sumaku kukagua uimara wa mwili wa meli, ubora wa kulehemu, na kutu kwenye kila aina ya meli za Jeshi la Majini la Marekani. Roboti zinakusanya data ya unene kwa ultrasound mara 10 haraka zaidi kuliko wapiga mbizi wa binadamu.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Gecko Robotics", "Jeshi la Majini", "Ukaguzi", "Kijeshi"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0404-017",
+      "title": "Uvumbuzi Unaofanya Nyuso za Roboti Kuwa Hazisumbui Sana",
+      "summary": "Watafiti wa Columbia Engineering walifundisha roboti kuzalisha mwendo wa midomo unaofanana na ukweli uliosawazishwa na usemi kwa kutumia mtandao mdogo wa neva tu. Watazamaji wa binadamu waliweka alama za uelewa wa usemi wa roboti juu zaidi kwa kiasi kikubwa kuliko miundo iliyopita, ikionyesha kwamba usawazishaji wa midomo ni muhimu kwa kuvuka bonde la kutisha.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": ["Roboti za Kijamii", "Bonde la Kutisha", "Columbia", "Uso"],
+      "timestamp": "2026-01-16T10:28:30Z"
+    },
+    {
+      "id": "0404-018",
+      "title": "Gari la Uchunguzi la NASA Perseverance Linakamilisha Safari ya Kwanza Iliyopangwa Kabisa na AI Kwenye Mirihi",
+      "summary": "Perseverance imekamilisha safari ya kwanza iliyopangwa kabisa na AI kwenye Mirihi, ambapo mtandao wa neva wenye uwezo wa maono, ukifanya kazi kwenye gari la uchunguzi lenyewe, ulichagua njia bila uingiliaji wowote kutoka kwa wadhibiti wa misheni duniani. Safari hiyo ya kujitegemea ya mita 112 ilifungua enzi mpya katika uchunguzi wa sayari.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260131084555.htm",
+      "tags": ["NASA", "Mirihi", "Urambazaji wa AI", "Kujitegemea"],
+      "timestamp": "2026-01-31T08:45:55Z"
+    },
+    {
+      "id": "0404-019",
+      "title": "Wanasayansi Wanaunda Roboti Ndogo Kuliko Punje ya Chumvi Ambazo Zinaweza Kufikiri",
+      "summary": "Watafiti wa Cornell wametengeneza roboti ndogo za hadubuni, ndogo kuliko punje ya chumvi, ambazo zinaweza kuhisi mazingira yao, kufanya maamuzi, na kusogea kwa kujitegemea kwa kutumia elektroniki zinazotumia nuru. Roboti hizo zinawakilisha mashine ndogo zaidi zinazojitegemea zilizowahi kuundwa, zenye uwezekano wa matumizi ya matibabu na vifaa.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": ["Roboti Ndogo", "Cornell", "Teknolojia ya Nano"],
+      "timestamp": "2026-01-06T07:33:12Z"
+    },
+    {
+      "id": "0404-020",
+      "title": "Video ya Ijumaa: Roboti Hizi Zilizaliwa Kukimbia — Mwendo wa Moduli za Miguu",
+      "summary": "Muundo mpya wa roboti wa moduli zenye miguu unaruhusu vipande kujiunganisha katika mipangilio tofauti na kufikia kasi za kukimbia za ajabu. Mfumo huo unaboresha kiotomatiki mwendo wake kwa kila mpangilio ulioundwa, ukifanya roboti iweze kubadilika kwa mazingira tofauti na mahitaji ya kazi.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/legged-modular-robot",
+      "tags": ["Roboti za Moduli", "Mwendo", "Miguu"],
+      "timestamp": "2026-03-13T16:00:04Z"
+    },
+    {
+      "id": "0404-021",
+      "title": "Video ya Ijumaa: Mkono wa Roboti Wenye Misuli na Mishipa Bandia",
+      "summary": "Wiki hii IEEE Spectrum inazungumzia mkono mpya wa roboti unaobadilisha motors kali za servo na misuli bandia inayoweza kunyumbika na nyaya zinazofanana na mishipa. Matokeo ni mkono unaoshika vitu vitakavyovunjika, kutoka mayai mabichi hadi chips crispy, bila kuvivunja, kwa kutumia utiifu wa passiv peke yake.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-robot-hand-artificial-muscles",
+      "video": "https://www.youtube.com/watch?v=LikxFZZO2sk",
+      "tags": ["Mkono wa Roboti", "Misuli Bandia", "Kushika"],
+      "timestamp": "2026-03-06T16:00:05Z"
+    }
+  ]
+}

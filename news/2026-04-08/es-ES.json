@@ -1,0 +1,317 @@
+{
+  "date": "2026-04-08",
+  "featured": {
+    "id": "featured-20260408",
+    "title": "WSJ Expone Componentes Chinos en Robots Humanoides Estadounidenses — El Congreso Responde",
+    "summary": "The Wall Street Journal ha revelado que componentes clave dentro de muchos robots humanoides fabricados en EE. UU. provienen de proveedores chinos, lo que genera preocupaciones de seguridad nacional a medida que la tecnología se acerca al despliegue comercial. Se informa que el Congreso está preparando legislación basada en la prohibición de drones DJI, que podría restringir las cadenas de suministro de empresas como Figure AI, Apptronik y otras. La revelación pone a toda la industria estadounidense de robótica humanoide en alerta: las empresas podrían necesitar relocalizar o diversificar rápidamente el abastecimiento de componentes antes de que la presión regulatoria las obligue.",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "DroneXL / WSJ",
+    "url": "https://dronexl.co/2026/04/07/wsj-exposes-chinese-parts-inside-americas-humanoid-robots-congress-responds/",
+    "tags": [
+      "Política",
+      "Cadena de suministro",
+      "Humanoide",
+      "EE. UU.-China"
+    ],
+    "timestamp": "2026-04-07T12:29:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260408-01",
+      "title": "Torobo: Tokyo Robotics Presenta Humanoide Bípedo que Rivaliza con Atlas",
+      "summary": "Tokyo Robotics ha presentado Torobo, un humanoide bípedo que genera comparaciones inmediatas con Atlas de Boston Dynamics tanto en forma como en calidad de movimiento. La empresa recientemente realizó la transición de Torobo desde una plataforma con ruedas a un diseño completamente bípedo, un paso de ingeniería significativo que señala la creciente ambición de Japón en la carrera de robots humanoides. El vídeo de demostración que circula en r/robotics ha atraído una amplia atención de la comunidad robótica mundial.",
+      "image": "https://external-preview.redd.it/NzVzaGlndWx4dHRnMYyLeldNXgLZBPv3d6qOutVa1HJXQyQ5d_cw4XkQ-nxZ.png?width=640&crop=smart&auto=webp&s=94d9ee42cddc77b76519588267d9f810a811be98",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1sf806y/torobo_humanoid_robot_by_tokyo_robotics/",
+      "tags": [
+        "Humanoide",
+        "Japón",
+        "Bípedo"
+      ],
+      "timestamp": "2026-04-07T20:39:12Z"
+    },
+    {
+      "id": "art-20260408-02",
+      "title": "UBTECH y Honda Trading se Asocian para Impulsar Robots Humanoides y Vehículos Autónomos",
+      "summary": "UBTECH Robotics ha firmado una asociación estratégica con Honda Trading para acelerar la comercialización de robots humanoides y vehículos logísticos autónomos. El acuerdo combina la plataforma Walker X de UBTECH con las extensas redes de distribución y cadena de suministro de Honda Trading en Asia y más allá. Marca otra alianza significativa entre industrias mientras fabricantes de automóviles y de robots buscan compartir experiencia en manufactura y escala.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "Pandaily",
+      "url": "https://pandaily.com/",
+      "tags": [
+        "UBTECH",
+        "Honda",
+        "Humanoide",
+        "Asociación"
+      ],
+      "timestamp": "2026-04-08T02:38:00Z"
+    },
+    {
+      "id": "art-20260408-03",
+      "title": "Hacia Dónde se Dirige la Robótica: AI, Humanoides y el Auge de la Inteligencia Física",
+      "summary": "El amplio análisis de la industria de Assembly Magazine describe la convergencia de grandes modelos de lenguaje y robótica física en una nueva disciplina llamada 'inteligencia física'. El informe sostiene que 2026 marca el punto de inflexión donde los robots pasan de ser máquinas de una sola tarea a trabajadores de propósito general capaces de adaptarse a entornos novedosos, basándose en conocimientos de laboratorios líderes como Physical Intelligence (Pi) y Google DeepMind.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com/",
+      "tags": [
+        "Inteligencia Física",
+        "AI",
+        "Análisis de Industria"
+      ],
+      "timestamp": "2026-04-06T16:00:00Z"
+    },
+    {
+      "id": "art-20260408-04",
+      "title": "Startup China de Robótica Busca Científico Jefe con Salario de 18 Millones de Dólares para Desafiar a Tesla Optimus",
+      "summary": "Una startup china de robótica humanoide que desarrolla un rival directo del Optimus de Tesla está ofreciendo un salario anual de 18 millones de dólares para atraer a un científico jefe de clase mundial, según Business Insider. El extraordinario paquete de compensación refleja la intensificación de la competencia por talento de élite en AI-robótica mientras empresas chinas compiten por cerrar la brecha con sus contrapartes estadounidenses. Se informa que la empresa no identificada está respaldada por importantes inversores alineados con el Estado.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/",
+      "tags": [
+        "China",
+        "Tesla Optimus",
+        "Talento",
+        "Financiación"
+      ],
+      "timestamp": "2026-04-06T10:20:00Z"
+    },
+    {
+      "id": "art-20260408-05",
+      "title": "Avance en Actuador Resiliente Podría Permitir Robots Blandos en el Espacio",
+      "summary": "Investigadores han desarrollado una nueva clase de actuador diseñado para soportar las condiciones extremas del espacio exterior — incluyendo el vacío, la radiación y los cambios de temperatura — sin fallo mecánico. El sistema utiliza un compuesto elastomérico novedoso que mantiene el rendimiento en un rango más amplio que los actuadores de robótica blanda anteriores, abriendo vías para sistemas robóticos desplegables en futuras misiones lunares y a Marte. El trabajo fue publicado en una revista científica de materiales revisada por pares.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-actuator-could-boo.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": [
+        "Robótica Blanda",
+        "Espacio",
+        "Actuador",
+        "Investigación"
+      ],
+      "timestamp": "2026-04-05T14:00:00Z"
+    },
+    {
+      "id": "art-20260408-06",
+      "title": "Lo que Amazon Vio en la Estrategia Humanoide de Fauna Robotics",
+      "summary": "The Robot Report ha obtenido información sobre la justificación estratégica de Amazon para adquirir Fauna Robotics, fabricante del humanoide Sprout. Amazon se sintió atraída por el enfoque único de Fauna en la manipulación diestra a escala humana en entornos no estructurados, una brecha de capacidad que los robots de almacén existentes de Amazon no pueden llenar. La adquisición señala la intención de Amazon de ir más allá de la automatización fija y desplegar humanoides como trabajadores generalistas flexibles en toda su red de cumplimiento.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/what-amazon-saw-in-fauna-robotics-humanoid-strategy/",
+      "tags": [
+        "Amazon",
+        "Fauna Robotics",
+        "Humanoide",
+        "Adquisición"
+      ],
+      "timestamp": "2026-04-07T15:08:00Z"
+    },
+    {
+      "id": "art-20260408-07",
+      "title": "Secuenciación Autónoma y Recuperación de Errores en Construcción Robótica",
+      "summary": "AZoBuild informa sobre nueva investigación que demuestra secuenciación autónoma de tareas y recuperación de errores en tiempo real para robots de construcción. El sistema puede replanificar sobre la marcha cuando los componentes están desalineados o las herramientas fallan, un paso importante hacia la operación verdaderamente autónoma en obras de construcción. Las pruebas de campo mostraron al robot completando tareas de albañilería de varios pasos con un 91% de éxito sin intervención humana.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "AZoBuild",
+      "url": "https://www.azobuild.com/",
+      "tags": [
+        "Construcción",
+        "Autónomo",
+        "Investigación"
+      ],
+      "timestamp": "2026-04-07T15:18:00Z"
+    },
+    {
+      "id": "art-20260408-08",
+      "title": "Big-D Construction Amplía Despliegue de Robótica Autónoma con FieldAI",
+      "summary": "El gigante de la construcción estadounidense Big-D Construction ha profundizado su asociación con FieldAI, desplegando robots autónomos en múltiples obras activas. Los robots realizan estudios de sitio, monitoreo de progreso e inspecciones de seguridad utilizando visión por computadora impulsada por AI, reduciendo la necesidad de recorridos manuales. El despliegue es uno de los mayores en robótica comercial en el sector de construcción de EE. UU.",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/field-ai-bid-d-1.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/07/big-d-expands-construction-operations-with-fieldai-as-robotics-adoption-accelerates/100362/",
+      "tags": [
+        "Construcción",
+        "FieldAI",
+        "Autónomo",
+        "Comercial"
+      ],
+      "timestamp": "2026-04-07T07:42:00Z"
+    },
+    {
+      "id": "art-20260408-09",
+      "title": "Los Robots AI de Maximo Instalan Más de 100MW de Paneles Solares con Tecnología NVIDIA",
+      "summary": "Maximo, una startup de robótica de construcción impulsada por AI, ha superado el hito de 100 megavatios de instalaciones de paneles solares realizadas por sus robots autónomos. Destacado durante la cobertura de la Semana Nacional de Robótica de NVIDIA, los robots de Maximo usan NVIDIA Isaac para percepción y planificación, permitiéndoles manejar la variabilidad del sitio y las condiciones climáticas. El logro demuestra que el AI físico puede escalar de manera confiable la infraestructura de energía renovable.",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg",
+      "source": "NVIDIA / Reddit r/robotics",
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo",
+      "tags": [
+        "NVIDIA",
+        "Energía Solar",
+        "Robot de Construcción",
+        "AI"
+      ],
+      "timestamp": "2026-04-07T09:55:13Z"
+    },
+    {
+      "id": "art-20260408-10",
+      "title": "Pulsera de Ultrasonido de MIT Otorga a los Robots Destreza a Nivel Humano",
+      "summary": "Investigadores del MIT han desarrollado una pulsera basada en ultrasonido que captura movimientos musculares finos en el antebrazo humano con precisión de milisegundos, permitiendo mapear esos movimientos directamente en manos robóticas. En pruebas, un guante robótico controlado por la pulsera igualó las puntuaciones de destreza humana en tareas de manipulación estandarizadas por primera vez. El wearable no invasivo podría convertirse en una interfaz clave para teleoperación y recolección de datos de entrenamiento robótico.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "MIT / Tech Xplore",
+      "url": "https://techxplore.com/",
+      "tags": [
+        "MIT",
+        "Destreza",
+        "Wearable",
+        "Investigación"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-11",
+      "title": "ForSight Robotics Realiza la Primera Cirugía de Cataratas Completamente Robótica del Mundo",
+      "summary": "ForSight Robotics ha anunciado la primera cirugía de cataratas completamente autónoma realizada por un robot del mundo usando su plataforma JASPER. El procedimiento se completó bajo supervisión médica sin intervención manual durante la operación. El hito es considerado significativo porque la cirugía de cataratas requiere precisión submilimétrica y es uno de los procedimientos quirúrgicos de mayor volumen en el mundo, representando un enorme mercado potencial para la robótica médica.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "ForSight Robotics",
+      "url": "https://www.forsight-robotics.com/",
+      "tags": [
+        "Médico",
+        "Cirugía",
+        "Autónomo",
+        "Hito"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-12",
+      "title": "Microsoft, NVIDIA y la Universidad de Washington Presentan OmniReset para AI Robótico",
+      "summary": "Un equipo conjunto de Microsoft, NVIDIA y la Universidad de Washington ha lanzado OmniReset, un framework de código abierto que permite a los sistemas robóticos recuperarse automáticamente de fallos y restablecerse a estados seguros durante el entrenamiento y el despliegue. OmniReset aborda uno de los cuellos de botella clave en la transferencia de simulación a realidad — la necesidad de reinicios humanos cuando los robots se quedan bloqueados — y podría acelerar drásticamente el aprendizaje por refuerzo a escala.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "ETIH / EdTech Innovation Hub",
+      "url": "https://www.edtechinnovationhub.com/",
+      "tags": [
+        "Microsoft",
+        "NVIDIA",
+        "Código Abierto",
+        "Aprendizaje por Refuerzo"
+      ],
+      "timestamp": "2026-04-07T23:06:00Z"
+    },
+    {
+      "id": "art-20260408-13",
+      "title": "Corea del Sur Apunta a 2030 como Ventana Crítica para el Liderazgo en el Mercado de Robots Humanoides",
+      "summary": "Funcionarios del gobierno surcoreano y analistas de la industria han identificado la ventana 2026-2030 como decisiva para que el país establezca una posición de liderazgo en el mercado de robots humanoides. La estrategia de Corea del Sur combina las capacidades manufactureras de Samsung, Hyundai y LG Group con inversión agresiva en I+D, apuntando a desafiar a China y EE. UU. DongA Science informa que el gobierno está preparando un fondo de competitividad en robótica de varios miles de millones de dólares.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "DongA Science",
+      "url": "https://www.dongascience.com/",
+      "tags": [
+        "Corea del Sur",
+        "Política",
+        "Humanoide",
+        "Mercado"
+      ],
+      "timestamp": "2026-04-08T01:38:00Z"
+    },
+    {
+      "id": "art-20260408-14",
+      "title": "China Prueba Robots Humanoides para Tareas de Control Fronterizo con Vietnam",
+      "summary": "China ha comenzado a pilotar robots humanoides en operaciones de patrulla y control fronterizo a lo largo de su frontera con Vietnam, según ECOticias. Los robots están equipados con cámaras térmicas, reconocimiento facial y locomoción adaptativa al terreno, y están siendo evaluados para monitoreo de puntos de control y vigilancia perimetral. El despliegue es uno de los primeros usos conocidos de robots de forma humanoide para operaciones de seguridad fronteriza nacional.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "ECOticias",
+      "url": "https://www.ecoticias.com/",
+      "tags": [
+        "China",
+        "Seguridad Fronteriza",
+        "Humanoide",
+        "Defensa"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-15",
+      "title": "El Mayor Astillero de EE. UU. se Une a GrayMatter Robotics en AI Físico",
+      "summary": "Huntington Ingalls Industries, el mayor astillero de la Marina de EE. UU., se ha asociado con GrayMatter Robotics para desplegar sistemas de AI físico en complejas tareas de soldadura y ensamblaje en buques navales. Los robots de GrayMatter usan visión 3D y AI adaptativo para manejar las condiciones no estructuradas y variables de la construcción naval — un entorno históricamente difícil de automatizar. El acuerdo subraya el creciente interés en robótica para la manufactura industrial de defensa.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Manufacturing.net",
+      "url": "https://www.manufacturing.net/",
+      "tags": [
+        "Defensa",
+        "GrayMatter",
+        "Construcción Naval",
+        "AI Físico"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-16",
+      "title": "BASF y Sevnce Robotics se Asocian para la Automatización Inteligente de Producción Química",
+      "summary": "El gigante químico BASF ha firmado una asociación con Sevnce Robotics para desplegar robots autónomos de inspección y muestreo dentro de sus instalaciones de producción química. Los robots pueden manejar entornos corrosivos y peligrosos que son inseguros para los trabajadores humanos, realizando verificaciones rutinarias y detección de anomalías las 24 horas. El acuerdo es parte de la estrategia más amplia de digitalización de BASF y destaca el uso expansivo de robótica en sectores industriales de alto riesgo.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "NovusLight",
+      "url": "https://www.novuslight.com/",
+      "tags": [
+        "BASF",
+        "Industrial",
+        "Robot de Inspección",
+        "Química"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-17",
+      "title": "Los Robots Humanoides Impulsan el Desarrollo de Sensores Táctiles mientras las Empresas de Taiwán Compiten",
+      "summary": "La cadena de suministro de semiconductores y electrónica de Taiwán está pivotando hacia el desarrollo de sensores táctiles, impulsada por la creciente demanda de fabricantes de robots humanoides a nivel mundial. Digitimes informa que empresas como Merry Electronics y otras están compitiendo para desarrollar sensores de presión de alta densidad similares a la piel para manos robóticas. El dominio de Taiwán en manufactura de precisión le da una ventaja estructural para suministrar esta categoría emergente de componentes.",
+      "image": "https://img.digitimes.com/newsshow/20260407vl200_files/1_b.jpg",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com/news/a20260407VL200/humanoid-robot-tactile-sensor-taiwan.html",
+      "tags": [
+        "Taiwán",
+        "Sensores Táctiles",
+        "Humanoide",
+        "Cadena de Suministro"
+      ],
+      "timestamp": "2026-04-08T00:04:00Z"
+    },
+    {
+      "id": "art-20260408-18",
+      "title": "Nanorobots Alimentados por Luz Capturan y Eliminan Bacterias del Agua",
+      "summary": "Científicos han demostrado nanorobots alimentados por luz visible que pueden buscar y capturar bacterias dañinas en muestras de agua con alta eficiencia. Los robots usan química fotocatalítica tanto para propulsarse como para destruir patógenos al contacto, sin requerir fuente de energía externa más allá de la luz ambiental. El avance tiene aplicaciones potenciales en purificación de agua, administración dirigida de medicamentos y tratamiento de infecciones.",
+      "image": "https://www.azorobotics.com/images/news/ImageForNews_15432_17304078587295526.jpg",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com/News.aspx?newsID=15432",
+      "tags": [
+        "Nanorobótica",
+        "Médico",
+        "Agua",
+        "Investigación"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-19",
+      "title": "Serve Robotics Debuta Robot de Reparto con AI Conversacional en NVIDIA GTC",
+      "summary": "Serve Robotics presentó un robot de reparto en acera de próxima generación con AI conversacional en NVIDIA GTC 2026. El robot puede comunicarse con transeúntes, responder preguntas en tiempo real sobre el estado de su entrega y manejar interacciones complejas con peatones usando procesamiento de AI en el borde. Serve, que opera entregas de Uber Eats en Los Ángeles, dice que la capacidad conversacional mejora la seguridad y la experiencia del cliente en entornos urbanos densos.",
+      "image": "https://cdn.sanity.io/images/dh33lj7y/production/ba522acc2978502c9d69447015fb70bd295bc95b-1200x630.jpg",
+      "source": "Serve Robotics / NVIDIA",
+      "url": "https://www.serverobotics.com/blog",
+      "tags": [
+        "Serve Robotics",
+        "Reparto",
+        "AI Conversacional",
+        "NVIDIA"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-20",
+      "title": "POSCO Group Invierte 7 Mil Millones de Won en la Empresa de Automatización Robótica Brils",
+      "summary": "El conglomerado siderúrgico surcoreano POSCO Group ha comprometido 7 mil millones de wones coreanos (aproximadamente $5 millones USD) en Brils, una startup de automatización robótica especializada en aplicaciones industriales pesadas. La inversión financiará el desarrollo de Brils de sistemas robóticos impulsados por AI para operaciones de acerías, donde el calor extremo y los requisitos de precisión han desafiado durante mucho tiempo los esfuerzos de automatización. Señala la acelerada adopción de la industria pesada tradicional de robótica de próxima generación.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "BusinessKorea",
+      "url": "https://www.businesskorea.co.kr/",
+      "tags": [
+        "POSCO",
+        "Corea del Sur",
+        "Financiación",
+        "Industrial"
+      ],
+      "timestamp": "2026-04-07T11:00:00Z"
+    }
+  ]
+}

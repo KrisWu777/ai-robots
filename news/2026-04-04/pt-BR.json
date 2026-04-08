@@ -1,0 +1,228 @@
+{
+  "date": "2026-04-04",
+  "featured": {
+    "id": "featured-0404",
+    "title": "Vídeo de Sexta: Digit aprende a dançar quase da noite para o dia",
+    "summary": "O humanoide Digit da Agility Robotics aprendeu rotinas complexas de dança sincronizada usando um novo pipeline de transferência simulação-para-real que comprime o treinamento de semanas para horas. A demo exibe movimentos fluidos e sincronizados com a música, empurrando os limites atuais do controle de locomoção em robôs humanoides.",
+    "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&h=600&fit=crop",
+    "video": "https://www.youtube.com/watch?v=29ECwExc-_M",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/video-humanoid-dancing",
+    "tags": ["Agility Robotics", "Digit", "Locomoção"],
+    "timestamp": "2026-04-03T16:30:01Z"
+  },
+  "articles": [
+    {
+      "id": "0404-001",
+      "title": "Você confia em mim? Um framework para tornar redes de robôs e veículos mais seguras",
+      "summary": "Um novo framework de confiança computacional permite que redes heterogêneas de robôs e veículos autônomos avaliem dinamicamente a confiabilidade de seus pares e ajustem estratégias de coordenação. O sistema reduz o risco de colisão em ambientes multi-robô em 62% na simulação.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-framework-networks-robots-vehicles-safer.html",
+      "tags": ["Confiança", "Multi-Robô", "Segurança", "Veículos Autônomos"],
+      "timestamp": "2026-04-02T14:20:01Z"
+    },
+    {
+      "id": "0404-002",
+      "title": "Funcionários tiveram que conter um robô humanoide dançarino que saiu do controle em restaurante na Califórnia",
+      "summary": "Um restaurante Haidilao de hot pot em Cupertino viralizou depois que seu garçom humanoide AgiBot começou a dançar de forma descontrolada, exigindo intervenção da equipe. O incidente, gravado por vários smartphones, reacendeu discussões sobre a robustez de sistemas de IA e a dependência excessiva de automação em ambientes com atendimento ao público.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "Restaurante", "Incidente", "Viral"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0404-003",
+      "title": "Rover Perseverance bate recorde de condução autônoma em Marte",
+      "summary": "O rover Perseverance da NASA estabeleceu um novo recorde de condução autônoma em Marte, cobrindo 699 metros em um único sol com seu sistema AutoNav. A conquista demonstra planejamento de rotas por IA aprimorado, navegando ao redor de obstáculos sem aguardar comandos da Terra.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/perseverance-mars-rover-autonomous-driving",
+      "tags": ["NASA", "Marte", "Autônomo", "Perseverance"],
+      "timestamp": "2026-02-25T15:00:02Z"
+    },
+    {
+      "id": "0404-004",
+      "title": "Mão robótica sem motores: como funciona um atuador de mudança de forma em menos de um segundo",
+      "summary": "Pesquisadores desenvolveram uma mão robótica sem motor, atuada inteiramente por fios de liga com memória de forma que mudam de configuração em menos de um segundo. O design é 70% mais leve que os equivalentes com motor, um avanço para próteses e braços robóticos espaciais de baixo peso.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Liga com Memória de Forma", "Próteses", "Atuador"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0404-005",
+      "title": "Mind Robotics, spinout da Rivian, capta 500 milhões de dólares para robôs industriais com IA",
+      "summary": "A Mind Robotics, startup criada pelo fundador da Rivian, RJ Scaringe, fechou uma Série A de 500 milhões de dólares. A empresa desenvolve robôs industriais com IA que aprendem com o ambiente fabril da Rivian e mira disponibilidade comercial até 2027.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "Startup", "Captação", "Industrial"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0404-006",
+      "title": "Rede neural artificial reproduz padrões de marcha de animais de quatro patas",
+      "summary": "Pesquisadores suíços construíram uma rede neural que replica com precisão os padrões de andar, trotar e galopar de cavalos, cães e gatos, incluindo transições automáticas de marcha em resposta a mudanças de velocidade. O modelo está sendo usado para melhorar a locomoção de robôs quadrúpedes.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-artificial-neural-network-gait-patterns.html",
+      "tags": ["Quadrúpede", "Locomoção", "Rede Neural", "Bio-Inspirado"],
+      "timestamp": "2026-03-23T17:20:08Z"
+    },
+    {
+      "id": "0404-007",
+      "title": "RJ Scaringe, da Rivian, acha que estamos errando em robótica",
+      "summary": "Em entrevista exclusiva, o CEO da Rivian, RJ Scaringe, argumenta que o setor de robótica está focado demais em replicar a forma humana em vez de projetar máquinas para tarefas específicas. Sua nova startup Mind Robotics adota uma abordagem fundamentalmente diferente para a automação industrial.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "Opinião", "Indústria"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0404-008",
+      "title": "Por que a indústria chinesa de robôs humanoides está dominando o mercado inicial",
+      "summary": "Análise da TechCrunch revela que fabricantes chineses de robôs humanoides estão entregando mais unidades e iterando mais rápido do que concorrentes americanos. Empresas como Unitree, UBTech, Fourier Intelligence e Engine AI implantaram comercialmente mais humanoides do que todas as empresas ocidentais juntas.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["China", "Humanoide", "Análise de Mercado", "Unitree"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0404-009",
+      "title": "Parceria da Qualcomm com Neura Robotics sinaliza avanço de fabricantes de chips em humanoides",
+      "summary": "A Qualcomm fechou parceria com a startup alemã de humanoides Neura Robotics para construir robôs de próxima geração usando seus processadores de IA IQ10. A parceria marca a entrada mais significativa da Qualcomm em IA incorporada e hardware humanoide, competindo com a plataforma robótica da Nvidia.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "Chips", "Humanoide"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0404-010",
+      "title": "Vídeo de Sexta: Robô humanoide aprende tênis jogando contra humanos",
+      "summary": "Um robô humanoide foi treinado para jogar tênis recreativo contra oponentes humanos combinando aprendizado por captura de movimento e modelagem biomecânica em tempo real. Após 500 partidas contra jogadores humanos, o robô adaptou seu saque ao estilo único de jogo de cada adversário.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/tennis-playing-robot",
+      "video": "https://www.youtube.com/watch?v=fRj34o4hN4I",
+      "tags": ["Humanoide", "Esporte", "Aprendizado", "Tênis"],
+      "timestamp": "2026-03-21T16:30:04Z"
+    },
+    {
+      "id": "0404-011",
+      "title": "Amazon adquire Rivr, fabricante de robô de entrega que sobe escadas",
+      "summary": "A Amazon adquiriu a Rivr, startup que fabrica um robô de entrega com rodas capaz de subir escadas de forma autônoma, sinalizando a intenção da gigante do e-commerce de levar entregas até a porta da frente. O acordo é a primeira aquisição da Amazon focada em entrega na soleira da porta.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "Entrega", "Aquisição", "Rivr"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    },
+    {
+      "id": "0404-012",
+      "title": "Intrinsic, empresa de software robótico do Alphabet, se junta ao Google",
+      "summary": "A Intrinsic, empresa de software robótico que se graduou no laboratório X do Alphabet em 2021, passa para o controle direto do Google. A consolidação sinaliza a intenção do Google de integrar as ferramentas de programação robótica da Intrinsic com a pesquisa de IA da DeepMind para uma plataforma robótica ponta a ponta.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "Aquisição"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0404-013",
+      "title": "Canopii quer ter sucesso onde fazendas indoor anteriores falharam — com robôs",
+      "summary": "As fazendas indoor robóticas e totalmente autônomas da Canopii podem produzir 18 toneladas de ervas e vegetais folhosos por ano em um espaço do tamanho de uma quadra de basquete. Ao contrário de startups anteriores de agricultura indoor, a Canopii usa robôs proprietários para todas as tarefas de cultivo, eliminando os custos de mão de obra que afundaram as concorrentes.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["AgriRobótica", "Agricultura Indoor", "Startup"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0404-014",
+      "title": "O ponto de inflexão da guerra de drones na Ucrânia — como UAVs autônomos estão mudando os conflitos",
+      "summary": "Análise do IEEE Spectrum examina como o conflito na Ucrânia se tornou um campo de provas para a guerra autônoma com drones, com ambos os lados implantando em escala munições de patrulhamento habilitadas por IA e sistemas antidrone. Analistas militares alertam que as lições aprendidas definirão futuros conflitos convencionais.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["Drones Militares", "Ucrânia", "Armas Autônomas"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0404-015",
+      "title": "Anduril mira valuation de 60 bilhões de dólares em nova rodada de captação",
+      "summary": "A empresa de tecnologia de defesa Anduril Industries busca uma nova rodada que levaria seu valuation a 60 bilhões de dólares — o dobro de seus 30 bilhões de junho de 2025. Os programas de drones autônomos e veículos submarinos autônomos da Anduril impulsionam rápido crescimento de receita.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "Defesa", "Drones", "Captação"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0404-016",
+      "title": "Contrato da Gecko Robotics com a Marinha: robôs escaladores de paredes inspecionam toda a frota dos EUA",
+      "summary": "Após seu contrato recorde com a Marinha, a Gecko Robotics está implantando robôs escaladores de paredes com adesão magnética para inspecionar integridade do casco, qualidade de solda e corrosão em todas as classes de navios da Marinha dos EUA. Os robôs coletam dados de espessura por ultrassom 10x mais rápido que mergulhadores humanos.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Gecko Robotics", "Marinha", "Inspeção", "Militar"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0404-017",
+      "title": "O avanço que torna os rostos de robôs menos perturbadores",
+      "summary": "Pesquisadores da Columbia Engineering treinaram um robô para produzir movimentos labiais realistas sincronizados à fala usando apenas uma pequena rede neural. Observadores humanos avaliaram a compreensão de fala do robô com pontuações significativamente maiores do que designs anteriores, sugerindo que a sincronização labial é crucial para cruzar o vale da estranheza.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": ["Robôs Sociais", "Vale da Estranheza", "Columbia", "Rosto"],
+      "timestamp": "2026-01-16T10:28:30Z"
+    },
+    {
+      "id": "0404-018",
+      "title": "Rover Perseverance da NASA completa primeiro percurso totalmente planejado por IA em Marte",
+      "summary": "O Perseverance completou o primeiro percurso em Marte totalmente planejado por IA, onde uma rede neural com visão — rodando no próprio rover — escolheu a rota sem nenhuma entrada dos controladores de missão na Terra. A travessia autônoma de 112 metros abriu uma nova era na exploração planetária.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260131084555.htm",
+      "tags": ["NASA", "Marte", "Navegação IA", "Autônomo"],
+      "timestamp": "2026-01-31T08:45:55Z"
+    },
+    {
+      "id": "0404-019",
+      "title": "Cientistas criam robôs menores que um grão de sal que conseguem pensar",
+      "summary": "Pesquisadores de Cornell fabricaram robôs microscópicos — menores que um grão de sal — capazes de perceber o ambiente, tomar decisões e se mover de forma autônoma usando eletrônica alimentada por luz. Os robôs representam as menores máquinas autônomas já criadas, com potencial para aplicações médicas e de materiais.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": ["Microrrobôs", "Cornell", "Nanotecnologia"],
+      "timestamp": "2026-01-06T07:33:12Z"
+    },
+    {
+      "id": "0404-020",
+      "title": "Vídeo de Sexta: Esses robôs nasceram para correr — locomoção modular com pernas",
+      "summary": "Uma nova arquitetura de robô modular com pernas permite que os componentes se montem em diferentes configurações e alcancem velocidades de corrida notáveis. O sistema otimiza automaticamente sua marcha para cada configuração montada, tornando-o adaptável a diferentes terrenos e tarefas.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/legged-modular-robot",
+      "tags": ["Robôs Modulares", "Locomoção", "Com Pernas"],
+      "timestamp": "2026-03-13T16:00:04Z"
+    },
+    {
+      "id": "0404-021",
+      "title": "Vídeo de Sexta: Uma mão robótica com músculos e tendões artificiais",
+      "summary": "Esta semana o IEEE Spectrum destaca uma nova mão robótica que substitui servomotores rígidos por músculos artificiais complacentes e cabos tipo tendão. O resultado é uma mão que agarra objetos delicados — de ovos crus a salgadinhos crocantes — sem quebrá-los, usando apenas complacência passiva.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-robot-hand-artificial-muscles",
+      "video": "https://www.youtube.com/watch?v=LikxFZZO2sk",
+      "tags": ["Mão Robótica", "Músculos Artificiais", "Preensão"],
+      "timestamp": "2026-03-06T16:00:05Z"
+    }
+  ]
+}

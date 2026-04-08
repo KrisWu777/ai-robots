@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-02",
+  "featured": {
+    "id": "featured-0402",
+    "title": "Physical Intelligence 的 π0 基础模型：迄今最强大的通用机器人大脑",
+    "summary": "Physical Intelligence 的 π0 基础模型无需针对特定任务进行微调即可控制多种机器人类型，据报道已有六家主要机器人OEM厂商正在授权使用，同时该公司正准备进行10亿美元的融资。早期结果显示，该模型仅需不到100次演示即可泛化到新任务。",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+    "tags": ["Physical Intelligence", "基础模型", "融资"],
+    "timestamp": "2026-03-27T23:59:40Z"
+  },
+  "articles": [
+    {
+      "id": "0402-001",
+      "title": "Amazon 收购 Fauna Robotics —— Sprout 儿童尺寸人形机器人的制造商",
+      "summary": "Amazon 在一个月内的第二次机器人收购，将 Fauna Robotics 及其 Sprout 人形机器人纳入旗下。Sprout 被设计为家庭和医院的社交伴侣，凭借先进的避碰技术和富有表现力的交流方式，能在儿童和老人身边安全运行。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": ["Amazon", "Fauna Robotics", "收购", "人形机器人"],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0402-002",
+      "title": "Agile Robots 与 Google DeepMind 合作：用数据换基础模型，用模型换硬件",
+      "summary": "在互利合作中，Agile Robots 将利用其人形平台收集数百万任务演示数据点并与 Google DeepMind 共享。作为回报，DeepMind 的机器人基础模型将被整合到 Agile 的下一代机器人平台中。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": ["Agile Robots", "Google DeepMind", "合作伙伴关系"],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0402-003",
+      "title": "乌克兰自主无人机战争正在改变军事冲突的面貌",
+      "summary": "乌克兰冲突双方每周部署数千架AI驱动的自主无人机。技术演进的速度已超越国际法，专家警告称，随着自主交战范围缩短至数秒，有意义的人类控制正在被削弱。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["军事", "无人机", "乌克兰", "AI伦理"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0402-004",
+      "title": "配备热成像AI的搜救无人机找到失踪登山者的速度提升4倍",
+      "summary": "与瑞士山地救援队合作，一款融合热成像、红外和彩色摄像头与AI检测引擎的新型多传感器无人机，在模拟阿尔卑斯山条件下定位失踪登山者的速度比传统地面搜索快四倍。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["搜救", "无人机", "山地救援", "热成像"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0402-005",
+      "title": "Fraunhofer 人形机器人能力等级：机器人自主性评级新标准",
+      "summary": "Fraunhofer HNFIZ 研究所发布了一套五级人形机器人能力分类体系，涵盖移动性、操作能力和认知自主性。该框架为制造商、监管机构和客户提供了比较人形系统的共同语言。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["人形机器人", "标准", "Fraunhofer", "自主性"],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0402-006",
+      "title": "Rutgers 仿鸟机器人用柔性翅膀在能效上击败无人机",
+      "summary": "Rutgers 的扑翼机器人在5m/s以下速度时，通过使用能实时适应风力的铰接扑翼，实现了比同类四旋翼无人机高3倍的能效。其独特的气动特性使其在茂密森林的野生动物监测中尤为有效。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["扑翼机器人", "Rutgers", "仿生", "能效"],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0402-007",
+      "title": "气味追踪机器人在一个传感器损坏时仍能定位气体泄漏和爆炸物",
+      "summary": "一款专为气体泄漏探测和爆炸物定位设计的仿生嗅觉机器人，即使两个传感器阵列之一发生故障也能保持可靠运行。这种容错设计的灵感来自昆虫失去一根触角后仍能继续追踪气味的能力。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": ["嗅觉", "安全", "气体探测", "容错"],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0402-008",
+      "title": "芝加哥学校机器人导师在不假装是人类的情况下教授共情",
+      "summary": "一项在芝加哥12所小学进行的实验使用社交辅助机器人来教授社会情感学习技能。关键是，这些机器人对自身是机器保持透明——研究表明，与拟人化机器人导师相比，这种诚实实际上能提高学习效果。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": ["教育", "社会情感学习", "社交机器人", "伦理"],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0402-009",
+      "title": "WANDER-Bot：用于持续极端环境监测的风力驱动机器人",
+      "summary": "Cranfield University 的 WANDER-bot 利用风能为其运动和传感器供电，能在沙漠、冻原和火山地形中无限期自主运行。这款3D打印、造价200美元的设计有望实现大陆规模的环境监测网络。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["风能", "环境", "探索", "Cranfield"],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0402-010",
+      "title": "学习速度超越人类教师的机器人——模仿学习新突破",
+      "summary": "一种新的「加速模仿学习」框架能识别人类演示中的低效之处并加以优化，使机器人在仅经过10次练习后，执行所学任务的速度比演示的人类快30%。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": ["模仿学习", "机器人学习", "效率"],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0402-011",
+      "title": "Gecko Robotics 赢得美国海军最大机器人合同，负责检查整个舰队",
+      "summary": "海军授予 Gecko Robotics 一份为期五年的合同，在每艘舰艇上部署爬壁检测机器人。这些机器人使用超声波、红外和视觉传感器持续监测船体完整性、焊接质量和腐蚀情况，从而建立预测性维护模型。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["海军", "检测", "军事", "Gecko Robotics"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0402-012",
+      "title": "海底捞餐厅机器人失控事件病毒式传播：AgiBot 机器人失控跳舞",
+      "summary": "一段 AgiBot 人形服务员机器人在库比蒂诺一家海底捞火锅餐厅失控乱舞的视频已获超过4000万次播放。该公司将此故障归因于软件更新的边缘情况，并已部署全系统补丁。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "餐厅", "病毒传播", "故障"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0402-013",
+      "title": "Rivian 的 RJ Scaringe：停止制造人形机器人，制造专用机器",
+      "summary": "Rivian CEO 兼 Mind Robotics 创始人 RJ Scaringe 认为，机器人行业在为工厂任务追求人形机器人方面犯了根本性错误。他的新公司专门将机器人设计得与其预定任务相匹配，而非人体解剖学。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "工业", "观点"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0402-014",
+      "title": "Mind Robotics 融资5亿美元，打造在 Rivian 生产线上训练的工厂机器人",
+      "summary": "Rivian 分拆出来的 Mind Robotics 已融资5亿美元，用于建造和部署直接在 Rivian 超级工厂中训练的AI驱动工业机器人。该初创公司独享海量工厂演示数据，构筑了显著的竞争护城河。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "初创企业", "工业", "融资"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0402-015",
+      "title": "Qualcomm IQ10 芯片为 Neura Robotics 下一代人形机器人大脑提供动力",
+      "summary": "Neura Robotics 正围绕 Qualcomm 的 IQ10 AI处理器构建其新型人形平台，该处理器在20瓦以下功耗提供40 TOPS的设备端推理能力。此次合作挑战了 Nvidia 在机器人计算平台市场的主导地位。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "芯片", "硬件"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0402-016",
+      "title": "Canopii 的自主机器人农场在篮球场大小的空间里每年种植4万磅香草",
+      "summary": "Canopii 使用垂直整合的定制机器人堆栈——播种、浇水、监测和收割——运营完全自主的室内农场。与以往因劳动力成本失败的同行不同，Canopii 的全机器人化方案以传统室内农场一半的价格实现盈利。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["农业机器人", "室内农业", "自主"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0402-017",
+      "title": "Intrinsic 加入 Google：Alphabet 整合其机器人软件平台",
+      "summary": "在作为独立 Alphabet 公司运营五年后，机器人软件公司 Intrinsic 被并入 Google。此举将 Alphabet 的机器人资产整合在一个屋檐下，并表明 Google 有意打造集软件、AI模型和硬件合作于一体的统一机器人平台。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "软件"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0402-018",
+      "title": "中国人形机器人行业在商业部署方面正在超越西方",
+      "summary": "TechCrunch 的详细分析发现，在过去12个月中，中国人形机器人制造商的商业出货量超过了所有西方公司的总和，驱动因素包括更低的制造成本、更快的迭代周期以及积极的政府补贴。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["中国", "人形机器人", "市场", "竞争"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0402-019",
+      "title": "Anduril 600亿美元估值冲刺：这家国防机器人初创公司是史上增速最快的武器公司",
+      "summary": "Anduril Industries 正寻求在下一轮融资中达到600亿美元估值，这将使其成为按估值增速计算史上最有价值的国防科技公司。来自自主无人机蜂群、水下载具和AI监控系统的收入在18个月内增长了三倍。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "国防", "融资", "无人机"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0402-020",
+      "title": "行走机器人30年：Honda P2 如何改变了一切",
+      "summary": "IEEE 在 Honda P2——第一款真正自给自足的双足机器人——亮相30年后，将其列为官方 IEEE 里程碑。P2 的动态行走算法由工程师 Masato Hirose 开发，是此后几乎所有行走机器人的直接祖先。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": ["Honda", "历史", "双足机器人", "IEEE"],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0402-021",
+      "title": "Amazon 收购 Rivr：爬楼梯机器人让最后一米门口配送更近一步",
+      "summary": "Amazon 收购了 Rivr——一款能自主爬楼梯和穿越楼宇大厅的轮式机器人制造商，标志着该公司对最后一米配送的首次重大投资。这项技术最终有望实现向任何楼宇任意楼层的包裹配送。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "配送", "收购", "最后一公里"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    }
+  ]
+}

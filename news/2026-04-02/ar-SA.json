@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-02",
+  "featured": {
+    "id": "featured-0402",
+    "title": "نموذج π0 الأساسي من Physical Intelligence: أكثر أدمغة الروبوتات العامة قدرةً حتى الآن",
+    "summary": "يُشار إلى أن النموذج الأساسي π0 الصادر عن Physical Intelligence، القادر على التحكم في أنواع متعددة من الروبوتات دون ضبط دقيق خاص بكل مهمة، يخضع حالياً للترخيص من قِبل ستة من كبار مصنّعي الروبوتات الأصليين، فيما تستعد الشركة لجولة تمويل بمليار دولار. تُظهر النتائج الأولية أن النموذج يتعميم على مهام جديدة بأقل من 100 عرض توضيحي.",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+    "tags": ["Physical Intelligence", "نموذج أساسي", "تمويل"],
+    "timestamp": "2026-03-27T23:59:40Z"
+  },
+  "articles": [
+    {
+      "id": "0402-001",
+      "title": "Amazon تستحوذ على Fauna Robotics صانعة الروبوت الآدمي Sprout بحجم الطفل",
+      "summary": "يُمثّل هذا الاستحواذ الثاني لـ Amazon في مجال الروبوتات خلال شهر واحد، إذ تُضم Fauna Robotics وروبوتها الآدمي Sprout إلى محفظتها. صُمّم Sprout ليكون رفيقاً اجتماعياً في المنازل والمستشفيات، ويعمل بأمان في محيط الأطفال وكبار السن بفضل نظامه المتقدم لتفادي الاصطدامات وقدرته التعبيرية في التواصل.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": ["Amazon", "Fauna Robotics", "استحواذ", "روبوت آدمي"],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0402-002",
+      "title": "Agile Robots تتشارك مع Google DeepMind: بيانات للنماذج الأساسية، ونماذج للأجهزة",
+      "summary": "في إطار شراكة ذات منفعة متبادلة، ستجمع Agile Robots ملايين نقاط بيانات العروض التوضيحية للمهام عبر منصاتها الآدمية وتشاركها مع Google DeepMind. في المقابل، ستُدمج النماذج الأساسية للروبوتات الصادرة عن DeepMind في منصة الجيل القادم من روبوتات Agile.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": ["Agile Robots", "Google DeepMind", "شراكة"],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0402-003",
+      "title": "حرب الطائرات المسيّرة المستقلة في أوكرانيا تُعيد تشكيل ملامح النزاعات العسكرية",
+      "summary": "يُنشر كلا الجانبين في النزاع الأوكراني آلاف الطائرات المسيّرة المستقلة المدعومة بالذكاء الاصطناعي أسبوعياً. تجاوزت وتيرة التطور التكنولوجي القانون الدولي، محذّراً الخبراء من أن الرقابة البشرية الفعّالة تتآكل مع تقلّص نطاق المواجهات المستقلة إلى ثوانٍ معدودة.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["عسكري", "طائرات مسيّرة", "أوكرانيا", "أخلاقيات الذكاء الاصطناعي"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0402-004",
+      "title": "طائرة مسيّرة للبحث والإنقاذ بذكاء اصطناعي حراري تعثر على المشاة المفقودين أسرع بأربع مرات",
+      "summary": "بالتعاون مع فرق الإنقاذ الجبلي السويسرية، رصدت طائرة مسيّرة جديدة متعددة المستشعرات تجمع بين كاميرات حرارية وأشعة تحت الحمراء وكاميرات ملونة مع محرك كشف بالذكاء الاصطناعي مشاةً مفقودين بسرعة تفوق البحث الأرضي التقليدي أربع مرات في ظروف جبلية ألبية محاكاة.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["بحث وإنقاذ", "طائرات مسيّرة", "إنقاذ جبلي", "تصوير حراري"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0402-005",
+      "title": "مستويات قدرة الروبوت الآدمي من Fraunhofer: معيار جديد لتقييم استقلالية الروبوتات",
+      "summary": "نشر معهد Fraunhofer HNFIZ نظام تصنيف خماسي المستويات لقدرات الروبوتات الآدمية، يشمل التنقل والتلاعب والاستقلالية المعرفية. يوفر هذا الإطار للمصنّعين والجهات التنظيمية والعملاء لغةً مشتركة لمقارنة الأنظمة الآدمية.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["روبوت آدمي", "معايير", "Fraunhofer", "استقلالية"],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0402-006",
+      "title": "روبوت Rutgers الشبيه بالطيور يتفوق على الطائرات المسيّرة في كفاءة الطاقة بأجنحته المرنة",
+      "summary": "يُحقق روبوت الرفرفة من Rutgers كفاءة طاقة أعلى ثلاث مرات من الطائرات المسيّرة رباعية الدوارة المكافئة عند سرعات أقل من 5 م/ث، وذلك باستخدام أجنحة مفصلية تتكيف مع الرياح في الوقت الفعلي. تجعله خصائصه الديناميكية الهوائية الفريدة فعّالاً بشكل خاص لمراقبة الحياة البرية في الغابات الكثيفة.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["روبوت رفرفة", "Rutgers", "مستوحى من الطبيعة", "كفاءة الطاقة"],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0402-007",
+      "title": "روبوت تتبّع الروائح يُحدّد تسريبات الغاز والمتفجرات بحساس واحد معطوب",
+      "summary": "يحافظ روبوت شمّي مستوحى من الطبيعة، مُصمَّم للكشف عن تسريبات الغاز وتحديد مواقع المتفجرات، على عمله الموثوق حتى عند عطل أحد صفيفيْ مستشعراته. يستوحي هذا التصميم المتحمّل للأعطال الطريقةَ التي تواصل بها الحشرات تتبّع الروائح بعد فقدان إحدى قرنيْ استشعارها.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": ["حسّ شمّي", "سلامة", "كشف الغاز", "تحمّل الأعطال"],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0402-008",
+      "title": "روبوتات مُدرِّسة في مدارس شيكاغو تُعلِّم التعاطف دون ادّعاء الإنسانية",
+      "summary": "تستخدم تجربة أُجريت في 12 مدرسة ابتدائية بشيكاغو روبوتات ذات مساعدة اجتماعية لتعليم مهارات التعلم الاجتماعي العاطفي. والأهم أن الروبوتات تُفصح صراحةً عن كونها آلات، وتُبيّن الأبحاث أن هذا الصدق يُحسِّن نتائج التعلم فعلياً مقارنةً بالروبوتات المُشبَّهة بالبشر.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": ["تعليم", "التعلم الاجتماعي العاطفي", "روبوتات اجتماعية", "أخلاقيات"],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0402-009",
+      "title": "WANDER-Bot: روبوت يعمل بطاقة الرياح لمراقبة البيئات القاسية باستمرار",
+      "summary": "يعتمد WANDER-bot من Cranfield University على طاقة الرياح لتشغيل حركته ومستشعراته، مما يُتيح له العمل الذاتي غير المحدود في الصحاري والتندرا والتضاريس البركانية. قد يُتيح هذا التصميم المطبوع ثلاثي الأبعاد بتكلفة 200 دولار إنشاء شبكات مراقبة بيئية على نطاق قاري.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["طاقة الرياح", "البيئة", "استكشاف", "Cranfield"],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0402-010",
+      "title": "روبوتات تتعلم أسرع من معلميها البشر — اختراق جديد في التعلم بالمحاكاة",
+      "summary": "يُحدّد إطار جديد للتعلم بالمحاكاة المعجّل أوجه القصور في العروض التوضيحية البشرية ويُحسّنها، مما يُمكّن الروبوتات من أداء المهام المكتسبة بسرعة تفوق البشر المُظاهِرين بنسبة 30% بعد 10 جلسات تدريبية فحسب.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": ["التعلم بالمحاكاة", "تعلّم الروبوتات", "كفاءة"],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0402-011",
+      "title": "Gecko Robotics تفوز بأكبر عقد روبوتات للبحرية الأمريكية لفحص الأسطول بأكمله",
+      "summary": "منحت البحرية Gecko Robotics عقداً لخمس سنوات لنشر روبوتات تفتيش متسلقة للجدران على كل فئة من السفن. تستخدم الروبوتات أجهزة استشعار بالموجات فوق الصوتية والأشعة تحت الحمراء والمستشعرات البصرية لمراقبة سلامة البدن وجودة اللحامات والتآكل باستمرار، مع بناء نماذج للصيانة التنبؤية.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["بحرية", "تفتيش", "عسكري", "Gecko Robotics"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0402-012",
+      "title": "عطل روبوت مطعم Haidilao يتحول إلى حدث فيروسي: AgiBot يرقص بلا سيطرة",
+      "summary": "حصد مقطع لروبوت نادل آدمي من AgiBot يفقد السيطرة ويرقص بشكل عشوائي في مطعم هوت بوت Haidilao في كوبرتينو أكثر من 40 مليون مشاهدة. نسبت الشركة العطل إلى حالة حافة في تحديث برمجي، وأطلقت منذ ذلك الحين رقعة تحديث على مستوى النظام بأكمله.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "مطعم", "فيروسي", "عطل"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0402-013",
+      "title": "RJ Scaringe من Rivian: أوقفوا بناء الروبوتات الآدمية وابنوا آلات ذات أغراض محددة",
+      "summary": "يرى الرئيس التنفيذي لـ Rivian ومؤسس Mind Robotics، RJ Scaringe، أن صناعة الروبوتات ترتكب خطأً جوهرياً بمطاردة روبوتات على شكل إنسان لمهام المصانع. تصمّم شركته الجديدة الروبوتات تحديداً لتتناسب مع مهامها المقصودة، لا مع تشريح الجسم البشري.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "صناعي", "رأي"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0402-014",
+      "title": "Mind Robotics تجمع 500 مليون دولار لروبوتات مصنعية مُدرَّبة على خط إنتاج Rivian ذاته",
+      "summary": "جمعت Mind Robotics المنبثقة عن Rivian 500 مليون دولار لبناء ونشر روبوتات صناعية مدعومة بالذكاء الاصطناعي مُدرَّبة مباشرةً في مصنع Rivian العملاق. تتمتع الشركة الناشئة بوصول حصري إلى تيرابايتات من بيانات العروض التوضيحية للمصنع، مما يُشكّل ميزة تنافسية بالغة الأهمية.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "شركة ناشئة", "صناعي", "تمويل"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0402-015",
+      "title": "شرائح Qualcomm IQ10 تُشغّل دماغ الجيل القادم من روبوتات Neura Robotics الآدمية",
+      "summary": "تبني Neura Robotics منصتها الآدمية الجديدة حول معالج الذكاء الاصطناعي IQ10 من Qualcomm، الذي يوفر 40 TOPS من قدرة الاستدلال على الجهاز بأقل من 20 واط. تُشكّل هذه الشراكة تحدياً لهيمنة Nvidia على سوق منصات الحوسبة الروبوتية.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "شرائح", "أجهزة"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0402-016",
+      "title": "مزرعة Canopii الروبوتية المستقلة تُنتج 40,000 رطل من الأعشاب سنوياً في مساحة ملعب كرة سلة",
+      "summary": "تستخدم Canopii منظومةً متكاملة رأسياً من الروبوتات المخصصة — البذر والري والمراقبة والحصاد — لتشغيل مزرعة داخلية مستقلة كلياً. وخلافاً للسابقين الذين أخفقوا بسبب تكاليف العمالة، يُحقق نهج Canopii الروبوتي الكامل الربحية بنصف تكلفة المزارع الداخلية التقليدية.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["الروبوتات الزراعية", "الزراعة الداخلية", "مستقل"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0402-017",
+      "title": "Intrinsic تنضم إلى Google: Alphabet تُوحّد منصتها البرمجية للروبوتات",
+      "summary": "بعد خمس سنوات بوصفها شركة مستقلة تابعة لـ Alphabet، تُدمج شركة البرمجيات الروبوتية Intrinsic في Google. يُوحّد هذا الخطوة أصول Alphabet الروبوتية تحت سقف واحد ويُشير إلى نية Google في بناء منصة روبوتية موحّدة تجمع البرمجيات ونماذج الذكاء الاصطناعي وشراكات الأجهزة.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "برمجيات"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0402-018",
+      "title": "صناعة الروبوتات الآدمية الصينية تتقدم على الغرب في النشر التجاري",
+      "summary": "يُظهر تحليل مُفصّل أجراه TechCrunch أن مصنّعي الروبوتات الآدمية الصينيين شحنوا تجارياً خلال الـ12 شهراً الماضية وحدات أكثر مما شحنته جميع شركات الغرب مجتمعةً، مدفوعين بتكاليف تصنيع أقل ودورات تطوير أسرع ودعم حكومي ضخم.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["الصين", "روبوت آدمي", "سوق", "منافسة"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0402-019",
+      "title": "تقييم Anduril بـ60 مليار دولار: شركة روبوتات الدفاع الناشئة تنمو أسرع من أي شركة أسلحة في التاريخ",
+      "summary": "تستهدف Anduril Industries تقييماً بـ60 مليار دولار في جولة تمويلها القادمة، مما يجعلها أعلى شركة تقنية دفاعية قيمةً في التاريخ من حيث سرعة نمو التقييم. تضاعفت إيراداتها من أسراب الطائرات المسيّرة المستقلة والمركبات تحت الماء وأنظمة المراقبة بالذكاء الاصطناعي ثلاث مرات في 18 شهراً.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "دفاع", "تمويل", "طائرات مسيّرة"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0402-020",
+      "title": "30 عاماً من الروبوتات المشية: كيف غيّر Honda P2 كل شيء",
+      "summary": "صنّف IEEE روبوت Honda P2 — أول روبوت ثنائي القدمين مكتفٍ بذاته حقاً — معلماً رسمياً لـ IEEE، بعد 30 عاماً من الكشف عنه. خوارزمية المشي الديناميكية لـ P2، التي طوّرها المهندس Masato Hirose، هي السلف المباشر لكل روبوت مشي تقريباً تم تطويره منذ ذلك الحين.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": ["Honda", "تاريخ", "ثنائي القدمين", "IEEE"],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0402-021",
+      "title": "Amazon تستحوذ على Rivr: روبوت تسلق الدرج يُقرّب التوصيل حتى عتبة الباب",
+      "summary": "يُمثّل استحواذ Amazon على Rivr، صانعة روبوت بعجلات يستطيع تسلق الدرج باستقلالية والتنقل في مداخل المباني، أولَ استثمار جاد للشركة في توصيل الميل الأخير. قد تُمكّن هذه التقنية في نهاية المطاف من توصيل الطرود إلى أي طابق في أي مبنى.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "توصيل", "استحواذ", "الميل الأخير"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    }
+  ]
+}

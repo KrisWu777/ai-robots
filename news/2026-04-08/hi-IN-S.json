@@ -1,0 +1,317 @@
+{
+  "date": "2026-04-08",
+  "featured": {
+    "id": "featured-20260408",
+    "title": "WSJ ने America के Humanoid Robots के अंदर Chinese Parts expose किए — Congress ने response दिया",
+    "summary": "Wall Street Journal ने reveal किया है कि बहुत से US-made humanoid robots के key components Chinese suppliers से आते हैं, जिससे national security concerns बढ़ रहे हैं जैसे-जैसे यह technology commercial deployment के करीब आ रही है। Congress DJI drone ban की तर्ज पर legislation तैयार कर रही है, जो Figure AI, Apptronik और दूसरी companies की supply chains को restrict कर सकती है। इस disclosure ने पूरी US humanoid robotics industry को alert कर दिया है: companies को regulatory pressure से पहले components की local sourcing या diversification करनी पड़ सकती है।",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "DroneXL / WSJ",
+    "url": "https://dronexl.co/2026/04/07/wsj-exposes-chinese-parts-inside-americas-humanoid-robots-congress-responds/",
+    "tags": [
+      "Policy",
+      "Supply Chain",
+      "Humanoid",
+      "US-China"
+    ],
+    "timestamp": "2026-04-07T12:29:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260408-01",
+      "title": "Torobo: Tokyo Robotics ने Atlas को टक्कर देने वाला Bipedal Humanoid launch किया",
+      "summary": "Tokyo Robotics ने अपना Torobo humanoid robot debut किया है, जो form और movement quality दोनों में Boston Dynamics के Atlas से immediately compare होता है। Company ने recently Torobo को wheeled platform से fully bipedal design में transition किया, जो एक significant engineering step है और Japan की humanoid robot race में growing ambition को दर्शाता है। r/robotics पर circulate हो रहे demo video ने global robotics community का widespread attention attract किया है।",
+      "image": "https://external-preview.redd.it/NzVzaGlndWx4dHRnMYyLeldNXgLZBPv3d6qOutVa1HJXQyQ5d_cw4XkQ-nxZ.png?width=640&crop=smart&auto=webp&s=94d9ee42cddc77b76519588267d9f810a811be98",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1sf806y/torobo_humanoid_robot_by_tokyo_robotics/",
+      "tags": [
+        "Humanoid",
+        "Japan",
+        "Bipedal"
+      ],
+      "timestamp": "2026-04-07T20:39:12Z"
+    },
+    {
+      "id": "art-20260408-02",
+      "title": "UBTECH और Honda Trading ने Humanoid Robots और Autonomous Vehicles advance करने के लिए partnership sign की",
+      "summary": "UBTECH Robotics ने Honda Trading के साथ एक strategic partnership sign की है जिसका aim humanoid robots और autonomous logistics vehicles की commercialization accelerate करना है। यह deal UBTECH के Walker X platform को Honda Trading के Asia और उससे आगे के extensive distribution और supply-chain networks के साथ combine करती है। जैसे-जैसे automakers और robot makers manufacturing expertise share करके scale करना चाहते हैं, यह एक और significant cross-industry alliance है।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "Pandaily",
+      "url": "https://pandaily.com/",
+      "tags": [
+        "UBTECH",
+        "Honda",
+        "Humanoid",
+        "Partnership"
+      ],
+      "timestamp": "2026-04-08T02:38:00Z"
+    },
+    {
+      "id": "art-20260408-03",
+      "title": "Robotics कहाँ जा रहा है: AI, Humanoids और Physical Intelligence का उदय",
+      "summary": "Assembly Magazine के sweeping industry analysis में large language models और physical robotics के convergence को 'physical intelligence' नाम की एक नई discipline के रूप में outline किया गया है। Report argue करती है कि 2026 वो inflection point है जहाँ robots single-task machines से general-purpose workers में transition हो रहे हैं जो novel environments में adapt कर सकते हैं, और इसमें Physical Intelligence (Pi) तथा Google DeepMind जैसी leading labs की insights ली गई हैं।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com/",
+      "tags": [
+        "Physical Intelligence",
+        "AI",
+        "Industry Analysis"
+      ],
+      "timestamp": "2026-04-06T16:00:00Z"
+    },
+    {
+      "id": "art-20260408-04",
+      "title": "Tesla Optimus को challenge करने के लिए Chinese Robotics Startup $18M salary पर Chief Scientist ढूंढ रहा है",
+      "summary": "Business Insider के according, एक Chinese humanoid robotics startup जो Tesla के Optimus का direct rival develop कर रहा है, वो एक world-class chief scientist attract करने के लिए $18 million annual salary offer कर रहा है। यह extraordinary compensation package elite AI-robotics talent के लिए intensifying competition को reflect करती है, क्योंकि Chinese firms US counterparts के साथ gap close करने की race में हैं। बताया जाता है कि unnamed company को major state-aligned investors का backing मिला है।",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/",
+      "tags": [
+        "China",
+        "Tesla Optimus",
+        "Talent",
+        "Funding"
+      ],
+      "timestamp": "2026-04-06T10:20:00Z"
+    },
+    {
+      "id": "art-20260408-05",
+      "title": "Resilient Actuator breakthrough Space में Soft Robots को enable कर सकता है",
+      "summary": "Researchers ने एक नई class के actuators develop किए हैं जो outer space की extreme conditions — जिनमें vacuum, radiation और temperature swings शामिल हैं — को mechanical failure के बिना withstand कर सकते हैं। System एक novel elastomer composite use करती है जो previous soft-robotic actuators से wider range में performance maintain करती है, जिससे future lunar और Mars missions पर deployable robotic systems के लिए pathways खुलते हैं। यह work एक peer-reviewed materials science journal में publish हुआ है।",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-actuator-could-boo.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": [
+        "Soft Robotics",
+        "Space",
+        "Actuator",
+        "Research"
+      ],
+      "timestamp": "2026-04-05T14:00:00Z"
+    },
+    {
+      "id": "art-20260408-06",
+      "title": "Amazon ने Fauna Robotics की Humanoid Strategy में क्या देखा",
+      "summary": "The Robot Report को Amazon की उस strategic rationale की insight मिली है जिसकी वजह से उसने Fauna Robotics — Sprout humanoid के maker — को acquire किया। Amazon, Fauna के unstructured environments में dexterous, human-scale manipulation पर unique focus से attract हुआ — एक capability gap जो Amazon के existing warehouse robots fill नहीं कर सकते। यह acquisition signal देता है कि Amazon fixed-automation से आगे बढ़कर अपने fulfillment network में humanoids को flexible generalist workers के रूप में deploy करना चाहता है।",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/what-amazon-saw-in-fauna-robotics-humanoid-strategy/",
+      "tags": [
+        "Amazon",
+        "Fauna Robotics",
+        "Humanoid",
+        "Acquisition"
+      ],
+      "timestamp": "2026-04-07T15:08:00Z"
+    },
+    {
+      "id": "art-20260408-07",
+      "title": "Robotic Construction में Autonomous Sequencing और Error Recovery",
+      "summary": "AZoBuild ने construction robots के लिए autonomous task sequencing और real-time error recovery demonstrate करने वाली नई research की report दी है। System fly पर re-plan कर सकती है जब components misaligned हों या tools fail हों, जो truly autonomous construction site operation की तरफ एक major step है। Field trials में robot ने human intervention के बिना 91% success rate के साथ multi-step masonry tasks complete किए।",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "AZoBuild",
+      "url": "https://www.azobuild.com/",
+      "tags": [
+        "Construction",
+        "Autonomous",
+        "Research"
+      ],
+      "timestamp": "2026-04-07T15:18:00Z"
+    },
+    {
+      "id": "art-20260408-08",
+      "title": "Big-D Construction ने FieldAI के साथ Autonomous Robotics Deployment expand किया",
+      "summary": "US construction giant Big-D Construction ने FieldAI के साथ अपनी partnership deepen की है, जिसमें multiple active construction sites पर autonomous robots deploy किए गए हैं। ये robots AI-powered computer vision use करके site surveys, progress monitoring और safety inspections perform करते हैं, जिससे manual walkthroughs की need कम होती है। यह rollout US construction sector में अब तक के सबसे बड़े commercial robotics deployments में से एक है।",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/field-ai-bid-d-1.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/07/big-d-expands-construction-operations-with-fieldai-as-robotics-adoption-accelerates/100362/",
+      "tags": [
+        "Construction",
+        "FieldAI",
+        "Autonomous",
+        "Commercial"
+      ],
+      "timestamp": "2026-04-07T07:42:00Z"
+    },
+    {
+      "id": "art-20260408-09",
+      "title": "Maximo के AI Robots ने NVIDIA Tech use करके 100MW से ज़्यादा Solar Panels install किए",
+      "summary": "AI-powered construction robotics startup Maximo ने अपने autonomous robots द्वारा solar panel installations का 100 megawatt milestone cross कर लिया है। NVIDIA के National Robotics Week coverage के दौरान highlight किया गया, Maximo के robots perception और planning के लिए NVIDIA Isaac use करते हैं, जिससे वे site variability और weather conditions handle कर सकते हैं। यह achievement demonstrate करती है कि physical AI अब renewable energy infrastructure को reliably scale कर सकता है।",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg",
+      "source": "NVIDIA / Reddit r/robotics",
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo",
+      "tags": [
+        "NVIDIA",
+        "Solar Energy",
+        "Construction Robot",
+        "AI"
+      ],
+      "timestamp": "2026-04-07T09:55:13Z"
+    },
+    {
+      "id": "art-20260408-10",
+      "title": "MIT के Ultrasound Wristband ने Robots को Human-Level Dexterity दी",
+      "summary": "MIT researchers ने एक ultrasound-based wristband develop किया है जो millisecond precision के साथ human forearm की fine muscle movements capture करता है, जिससे उन movements को directly robotic hands पर map किया जा सकता है। Tests में, wristband द्वारा control किए गए robot glove ने पहली बार standardized manipulation tasks में human dexterity scores match किए। यह non-invasive wearable teleoperation और robot training data collection के लिए एक key interface बन सकता है।",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "MIT / Tech Xplore",
+      "url": "https://techxplore.com/",
+      "tags": [
+        "MIT",
+        "Dexterity",
+        "Wearable",
+        "Research"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-11",
+      "title": "ForSight Robotics ने दुनिया की पहली पूरी तरह Robotic Cataract Surgery perform की",
+      "summary": "ForSight Robotics ने अपने JASPER platform का use करके world की पहली fully autonomous, robot-performed cataract surgery announce की है। यह procedure physician supervision में बिना किसी manual intervention के complete हुई। यह milestone इसलिए significant माना जाता है क्योंकि cataract surgery में sub-millimeter precision चाहिए होती है और यह globally सबसे high-volume surgical procedures में से एक है, जो medical robotics के लिए एक massive addressable market represent करती है।",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "ForSight Robotics",
+      "url": "https://www.forsight-robotics.com/",
+      "tags": [
+        "Medical",
+        "Surgery",
+        "Autonomous",
+        "Milestone"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-12",
+      "title": "Microsoft, NVIDIA और University of Washington ने Robotics AI के लिए OmniReset unveil किया",
+      "summary": "Microsoft, NVIDIA और University of Washington की joint team ने OmniReset release किया है — एक open-source framework जो robotic systems को training और deployment के दौरान automatically failures से recover करने और safe states में reset होने में enable करता है। OmniReset sim-to-real transfer में एक key bottleneck address करता है — जब robots stuck हो जाते हैं तो human resets की need — और यह reinforcement learning को large scale पर dramatically accelerate कर सकता है।",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "ETIH / EdTech Innovation Hub",
+      "url": "https://www.edtechinnovationhub.com/",
+      "tags": [
+        "Microsoft",
+        "NVIDIA",
+        "Open Source",
+        "Reinforcement Learning"
+      ],
+      "timestamp": "2026-04-07T23:06:00Z"
+    },
+    {
+      "id": "art-20260408-13",
+      "title": "South Korea ने Humanoid Robot Market Leadership के लिए 2030 को Critical Window माना",
+      "summary": "South Korean government officials और industry analysts ने 2026-2030 की window को देश की humanoid robot market में leadership position establish करने के लिए decisive माना है। South Korea की strategy Samsung, Hyundai और LG Group की manufacturing capabilities को aggressive R&D investment के साथ combine करती है, जिसका aim China और US को challenge करना है। DongA Science report करता है कि government एक multi-billion dollar robotics competitiveness fund तैयार कर रही है।",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "DongA Science",
+      "url": "https://www.dongascience.com/",
+      "tags": [
+        "South Korea",
+        "Policy",
+        "Humanoid",
+        "Market"
+      ],
+      "timestamp": "2026-04-08T01:38:00Z"
+    },
+    {
+      "id": "art-20260408-14",
+      "title": "China ने Vietnam के साथ Border Control Tasks के लिए Humanoid Robots test किए",
+      "summary": "ECOticias के according, China ने Vietnam के साथ अपनी border पर patrol और control operations में humanoid robots pilot करना शुरू कर दिया है। ये robots thermal cameras, facial recognition और terrain-adaptive locomotion से equipped हैं, और checkpoint monitoring तथा perimeter surveillance के लिए evaluate किए जा रहे हैं। यह deployment national border security operations के लिए humanoid-form robots के पहले known uses में से एक है।",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "ECOticias",
+      "url": "https://www.ecoticias.com/",
+      "tags": [
+        "China",
+        "Border Security",
+        "Humanoid",
+        "Defense"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-15",
+      "title": "US के सबसे बड़े Shipbuilder ने GrayMatter Robotics के साथ Physical AI पर partnership की",
+      "summary": "Huntington Ingalls Industries — US Navy का सबसे बड़ा shipbuilder — ने GrayMatter Robotics के साथ partner किया है ताकि naval vessels पर complex welding और assembly tasks के लिए physical AI systems deploy किए जा सकें। GrayMatter के robots 3D vision और adaptive AI use करके shipbuilding के unstructured, variable conditions handle करते हैं — जो historically automate करना difficult environment रहा है। यह deal defense-industrial manufacturing में robotics के प्रति growing interest को underscore करती है।",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Manufacturing.net",
+      "url": "https://www.manufacturing.net/",
+      "tags": [
+        "Defense",
+        "GrayMatter",
+        "Shipbuilding",
+        "Physical AI"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-16",
+      "title": "BASF और Sevnce Robotics ने Smart Chemical Production Automation के लिए partnership की",
+      "summary": "Chemical giant BASF ने अपनी chemical production facilities के अंदर autonomous inspection और sampling robots deploy करने के लिए Sevnce Robotics के साथ partnership sign की है। ये robots corrosive और hazardous environments handle कर सकते हैं जो human workers के लिए unsafe हैं, और round the clock routine checks और anomaly detection perform करते हैं। यह deal BASF की broader digitalization strategy का हिस्सा है और high-risk industrial sectors में robotics के expanding use को highlight करती है।",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "NovusLight",
+      "url": "https://www.novuslight.com/",
+      "tags": [
+        "BASF",
+        "Industrial",
+        "Inspection Robot",
+        "Chemical"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-17",
+      "title": "Humanoid Robots Tactile Sensor Development को drive कर रहे हैं, Taiwan की Firms compete कर रही हैं",
+      "summary": "Taiwan की semiconductor और electronics supply chain tactile sensor development की तरफ pivot हो रही है, जो globally humanoid robot manufacturers की बढ़ती demand से driven है। Digitimes report करता है कि Merry Electronics और दूसरी firms robot hands के लिए high-density skin-like pressure sensors develop करने की race में हैं। Precision manufacturing में Taiwan की dominance उसे इस emerging component category supply करने में structural advantage देती है।",
+      "image": "https://img.digitimes.com/newsshow/20260407vl200_files/1_b.jpg",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com/news/a20260407VL200/humanoid-robot-tactile-sensor-taiwan.html",
+      "tags": [
+        "Taiwan",
+        "Tactile Sensors",
+        "Humanoid",
+        "Supply Chain"
+      ],
+      "timestamp": "2026-04-08T00:04:00Z"
+    },
+    {
+      "id": "art-20260408-18",
+      "title": "Light-Powered Nanorobots पानी से Bacteria capture और remove करते हैं",
+      "summary": "Scientists ने visible light से powered nanorobots demonstrate किए हैं जो water samples में harmful bacteria को high efficiency के साथ seek out और capture कर सकते हैं। ये robots खुद को propel करने और contact पर pathogens destroy करने के लिए photocatalytic chemistry use करते हैं, जिसमें ambient light के अलावा कोई external power source नहीं चाहिए। इस breakthrough के water purification, targeted drug delivery और infection treatment में potential applications हैं।",
+      "image": "https://www.azorobotics.com/images/news/ImageForNews_15432_17304078587295526.jpg",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com/News.aspx?newsID=15432",
+      "tags": [
+        "Nanorobotics",
+        "Medical",
+        "Water",
+        "Research"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-19",
+      "title": "Serve Robotics ने NVIDIA GTC में Conversational AI Delivery Robot debut किया",
+      "summary": "Serve Robotics ने NVIDIA GTC 2026 में conversational AI feature वाला next-generation sidewalk delivery robot showcase किया। यह robot bystanders से communicate कर सकता है, अपने delivery status के बारे में real-time questions का respond कर सकता है, और edge AI processing use करके complex pedestrian interactions handle कर सकता है। Los Angeles में Uber Eats deliveries operate करने वाली Serve का कहना है कि conversational capability dense urban environments में safety और customer experience improve करती है।",
+      "image": "https://cdn.sanity.io/images/dh33lj7y/production/ba522acc2978502c9d69447015fb70bd295bc95b-1200x630.jpg",
+      "source": "Serve Robotics / NVIDIA",
+      "url": "https://www.serverobotics.com/blog",
+      "tags": [
+        "Serve Robotics",
+        "Delivery",
+        "Conversational AI",
+        "NVIDIA"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-20",
+      "title": "POSCO Group ने Robotics Automation Firm Brils में 7 Billion Won invest किया",
+      "summary": "South Korean steel conglomerate POSCO Group ने Brils — एक robotics automation startup जो heavy industrial applications में specialize करता है — में 7 billion Korean won (approximately $5 million USD) commit किया है। यह investment Brils के AI-driven robotic systems के development को fund करेगा जो steel mill operations के लिए हैं, जहाँ extreme heat और precision requirements ने automation efforts को लंबे समय से challenge किया है। यह traditional heavy industry के next-generation robotics adopt करने में accelerating का signal देता है।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "BusinessKorea",
+      "url": "https://www.businesskorea.co.kr/",
+      "tags": [
+        "POSCO",
+        "South Korea",
+        "Funding",
+        "Industrial"
+      ],
+      "timestamp": "2026-04-07T11:00:00Z"
+    }
+  ]
+}

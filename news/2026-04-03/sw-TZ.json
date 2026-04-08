@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-03",
+  "featured": {
+    "id": "featured-0403",
+    "title": "FedEx na Berkshire Gray Washirikiana Kupeleka Roboti za Kupanga za AI katika Mtandao Wao Wote wa Marekani",
+    "summary": "FedEx imetangaza ushirikiano mkubwa na Berkshire Gray wa kupeleka roboti za kupanga na kushughulikia zinazotumia AI katika vituo vyake vyote 650 vya Marekani ndani ya miaka mitatu ijayo. Mkataba huo, wenye thamani ya takriban dola bilioni 1.2, ni mkataba mkubwa zaidi wa ujenzi wa roboti katika historia ya usafirishaji.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+    "tags": ["FedEx", "Usafirishaji", "Uaraatania", "Berkshire Gray"],
+    "timestamp": "2026-03-31T15:46:50Z"
+  },
+  "articles": [
+    {
+      "id": "0403-001",
+      "title": "Roboti za DNA Zinaweza Kutoa Dawa na Kuwinda Virusi Ndani ya Mwili Wako",
+      "summary": "Nanoroboti za DNA zinazoweza kuprogramiwa zinaibuka kama mpaka unaofuata katika dawa inayolengwa. Kwa kukopa dhana za mwendo, hisia na mzigo kutoka kwa roboti za kawaida, watafiti wameunda mashine za molekuli zinazoweza kusafiri kwenye mkondo wa damu na kutoa dawa moja kwa moja kwenye seli za uvimbe.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["Nanoroboti", "Utoaji wa Dawa", "DNA", "Matibabu"],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0403-002",
+      "title": "Mfumo wa Udhibiti Unaruhusu Roboti Zinazonyumbulika Kusafiri Nafasi Ndogo kwa Hesabu Kidogo",
+      "summary": "Mfumo mpya wa udhibiti wa kinematic unapunguza hesabu za mipango ya njia kwa roboti laini na zinazoendelea kwa asilimia 80, kuruhusu usafiri wa wakati halisi ndani ya mabomba, njia na mapito ya kibiolojia. Kazi hii ni hatua kubwa kuelekea kupeleka roboti zinazonyumbulika katika upasuaji na ukaguzi wa miundombinu.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": ["Roboti Laini", "Mipango ya Njia", "Upasuaji"],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0403-003",
+      "title": "Nomadic Inakusanya Dola Milioni 8.4 Kubadilisha Video za Roboti kuwa Data ya Mafunzo ya AI Inayotafutika",
+      "summary": "Nomadic imekusanya dola milioni 8.4 kujenga miundombinu inayobadilisha mtiririko wa data mbichi wa sensori kutoka kwa roboti na magari yanayojiendea kuwa seti za data safi, zilizowekwa lebo na zinazotafutika. Mfululizo wa kujifunza kwa kina wa kampuni unashughulikia video mbichi mara 50 kwa haraka zaidi ya timu za ufafanuzi wa mkono.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": ["Startup", "Data", "Mafunzo", "Magari Yanayojiendea"],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0403-004",
+      "title": "Sensori za Roboti Zinaweza Kumpa Roboti Hisia ya Kugusa Kama Binadamu — Utafiti wa Penn State",
+      "summary": "Watafiti wa Penn State wanaendeleza sensori laini za shinikizo zinazoweza kugundua umbile, joto na nguvu kwa wakati mmoja kwa usikivu sawa na vidole vya binadamu. Sensori zinatumia nyenzo mpya za kiumbe mchanganyiko cha piezoelectric ambazo zinabaki kufanya kazi baada ya mizunguko elfu ya kuinamika.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-qa-robots-sensors.html",
+      "tags": ["Sensori za Kugusa", "Penn State", "Roboti Laini"],
+      "timestamp": "2026-03-30T17:00:04Z"
+    },
+    {
+      "id": "0403-005",
+      "title": "Uhamishaji wa Ujuzi kati ya Miili Tofauti: Roboti Zenye Miili Tofauti Sasa Zinaweza Kushiriki Maarifa",
+      "summary": "Watafiti wa Stanford wametengeneza mfumo unaoruhusu roboti zenye miili tofauti kabisa — mikono, miguu, magurudumu — kushiriki ujuzi wa kushughulikia kwa kuusimba kama vektori za 'nia' za kufikirika, zisizotegemea umbo lolote maalum la kimwili.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-bodies-skills-intention-based.html",
+      "tags": ["Kujifunza kwa Uhamishaji", "Cross-Embodiment", "Stanford"],
+      "timestamp": "2026-03-30T13:20:04Z"
+    },
+    {
+      "id": "0403-006",
+      "title": "HEAPGrasp Inafikia Kiwango cha Mafanikio cha 97.3% kwa Vitu Vipya katika Majaribio ya Ghala",
+      "summary": "Mfumo wa HEAPGrasp unachanganya kushika kwa mpangilio na maoni ya hisia ya wakati halisi na kufikia kiwango cha mafanikio cha asilimia 97.3 kwa vitu ambavyo haujawahi kuona, ikiwa ni pamoja na ufungaji unaoweza kuharibika sana, mazao ya kuteleza na vipande vya viwanda vya umbo la ajabu.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-heapgrasp-faster-smarter-robots-tricky.html",
+      "tags": ["Kushika", "Usafirishaji", "Kushughulikia"],
+      "timestamp": "2026-03-30T11:20:03Z"
+    },
+    {
+      "id": "0403-007",
+      "title": "HomeTask-3000: Kipimo Kigumu Zaidi cha Roboti za Nyumbani Hadi Sasa",
+      "summary": "Muungano wa vyuo vikuu 12 umetoa HomeTask-3000, kipimo chenye mazingira 3,000 ya hatua nyingi za kazi za nyumbani katika mipango 47 ya kweli ya nyumba. Kipimo kinaonyesha mapungufu makubwa katika utendaji wa sasa wa roboti za nyumbani, hasa kwa kazi zinazohitaji uhifadhi wa muktadha wa siku nyingi.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html",
+      "tags": ["Kipimo", "Roboti za Nyumbani", "Utafiti"],
+      "timestamp": "2026-03-29T11:30:02Z"
+    },
+    {
+      "id": "0403-008",
+      "title": "Microroboti Ndogo Zilizochapishwa kwa 3D Zinaogelea kama Wanyama Kwa Kutumia Umbo lao la Kimwili Peke Yake",
+      "summary": "Roboti ndogo ndogo za 3D zilizochapishwa kwa kiwango cha hadubuni zilizotengenezwa katika Leiden University zinasafiri na kujibu gradients za mazingira bila sensori, vifaa vya usindikaji au betri, zikitegemea kabisa jiometri ya kimwili ya miili yao inayoingiliana na maji yanayowazunguka. Mbinu hii inafungua darasa kabisa jipya la microroboti za bei nafuu na zinazoweza kutupwa.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": ["Microroboti", "Uchapishaji wa 3D", "Msogeo wa Kawaida"],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0403-009",
+      "title": "Mapacha ya Kidijitali Yanasaidia Roboti za Uokoaji Kupanga Maeneo ya Maafa Mara 10 Kwa Haraka",
+      "summary": "Algorithimu za usindikaji wa wingu la pointi la 3D kwa wakati halisi sasa zinawezesha roboti za kukabiliana na maafa kujenga ramani sahihi za mapacha ya kidijitali ya majengo yaliyoanguka ndani ya sekunde, kuziruhusu kupanga njia salama kuelekea wasalimwaji waliofungwa kwa haraka zaidi kuliko mbinu za awali za SLAM.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": ["Kukabiliana na Maafa", "Upigaji Ramani wa 3D", "SLAM"],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0403-010",
+      "title": "Mfano wa Ulimwengu wa Uenezaji wa Video wa Harvard Unaruhusu Roboti Kufikiria Kabla ya Kutenda",
+      "summary": "Usanifu mpya wa AI wa Harvard unatumia mfano wa uenezaji wa video kama 'injini ya kufikiria' ya ndani, kuruhusu roboti kuiga kiakili matokeo ya mamia ya vitendo vinavyowezekana kabla ya kutekeleza bora zaidi. Mbinu hiyo inafikia utendaji wa kiwango cha binadamu katika kipimo 23 kati ya 30 cha kawaida cha kushughulikia.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-video-based-ai-robots-visual.html",
+      "tags": ["Mfano wa Ulimwengu", "Uenezaji", "Harvard", "Mipango"],
+      "timestamp": "2026-03-26T10:20:03Z"
+    },
+    {
+      "id": "0403-011",
+      "title": "Kujifunza kwa Uimarishaji wa Mawakala Mengi Kupunguza Msongamano wa Roboti za Ghala, Kuongeza Uzalishaji kwa 25%",
+      "summary": "Mfumo wa nguvu wa kujifunza kwa uimarishaji wa mawakala mengi uliowekwa katika kituo cha usambazaji kilichoigwa cha Amazon chenye roboti 500 uliongeza uzalishaji wa agizo kwa asilimia 25 kwa kupanga upya njia ya roboti kwa makini kuzunguka maeneo ya msongamano yaliyotabiriwa kabla ya kuunda — badala ya kujibu baada ya kutokea.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": ["Ghala", "MARL", "Amazon", "Uzalishaji"],
+      "timestamp": "2026-03-26T09:30:01Z"
+    },
+    {
+      "id": "0403-012",
+      "title": "Ndege Zisizo na Rubani Zilizovuviwa na Popo Zinasafiri Maeneo ya Moto ya Kutoonekana Chochote kwa Kutumia Mawimbi ya Sauti",
+      "summary": "Ndege isiyo na rubani iliyovuviwa na popo ya WPI inasafiri katika mazingira yenye moshi mzito na kutoonekana chochote kwa kutumia mfumo wa kuona kwa mwangwi wa sauti na AI maalum inayotafsiri mawimbi yaliyoakisiwa kama ramani ya 3D. Idara za zimamoto sasa zinajaribisha mfumo huu kwa uchunguzi wa wajibu wa kwanza.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ultrasound-palm-sized-drones-fog.html",
+      "tags": ["Ndege Zisizo na Rubani", "Kukabiliana na Moto", "Mawimbi ya Sauti", "Uongozaji"],
+      "timestamp": "2026-03-26T09:06:49Z"
+    },
+    {
+      "id": "0403-013",
+      "title": "Mkono wa Roboti wa Aloi ya Kumbukumbu ya Umbo Bila Injini Ni Nyepesi kwa Asilimia 70 Kuliko Mipango Inayoendeshwa na Servo",
+      "summary": "Kwa kubadilisha injini za servo za umeme na waya wa aloi ya kumbukumbu ya umbo na upokezaji wa mitambo wa kuvutia, watafiti wamejenga mkono wa roboti wenye vidole vitano unaopima gramu 180 tu — nyepesi kwa asilimia 70 kuliko mipango inayofanana inayoendeshwa na servo — huku ukifikia kasi ya uendeshaji chini ya milisekunde 100.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Mkono wa Roboti", "SMA", "Nyepesi", "Viungo Bandia"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0403-014",
+      "title": "Mkono wa Bandia Unaodhibitiwa na Mkufu wa Mkono Humpa Waliokatwa Udhibiti wa Kidole Kimoja Kimoja",
+      "summary": "Mkufu wa EMG kutoka MIT unasoma ishara za misuli kutoa udhibiti wa wakati halisi wa vidole vya mtu mmoja mmoja kwenye mkono wa bandia. Watumiaji wanafikia udhibiti wa kuaminika wa kujitegemea wa vidole kwa chini ya masaa 20 ya mafunzo — ikilinganishwa na zaidi ya masaa 200 yanayohitajika na viungo bandia vya myoelectric vya kawaida.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": ["Viungo Bandia", "EMG", "MIT", "Ufikiaaji"],
+      "timestamp": "2026-03-25T06:00:09Z"
+    },
+    {
+      "id": "0403-015",
+      "title": "Roboti ya Kuvuna Nyanya Inajifunza Kuvuna kwa Kuzingatia Ugumu, Kuimarisha Mavuno kwa Asilimia 35",
+      "summary": "Badala ya kuchuma nyanya kwa mpangilio unaozikuta, roboti mpya ya kilimo inatabiri ugumu wa kuvuna kulingana na msimamo wa tunda, kufunikwa na mwelekeo wa shina, kisha inaweka kipaumbele kwa malengo rahisi. Mkakati huo ulioboresha jumla ya mavuno kwa asilimia 35 katika majaribio ya chafu yaliyodhibitiwa.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["Kilimo Robotiki", "Nyanya", "Mipango ya AI"],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0403-016",
+      "title": "Ndege ya BRINC Guardian Isiyo na Rubani: Msaidizi wa Dharura wa Polisi Inayobeba Narcan na Kufuatilia Magari",
+      "summary": "BRINC imefunua Guardian, ndege isiyo na rubani ya utekelezaji wa sheria iliyoundwa kwa mwitikio wa haraka wa msaada wa kwanza wa 911. Inajumuisha muunganiko wa Starlink kwa chanjo ya kitaifa, inaweza kupeleka Narcan kwa simu za overdosi, na inafuatilia washukiwa kwa kasi ya maili 60 kwa saa. Watetezi wa uhuru wa kiraia wamezua wasiwasi mkubwa kuhusu mfumo huo.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "tags": ["Polisi", "Ndege Isiyo na Rubani", "BRINC", "Dharura"],
+      "timestamp": "2026-03-25T21:12:03Z"
+    },
+    {
+      "id": "0403-017",
+      "title": "Australia Inapeleka Roboti Kukagua Mashamba ya Jua katika Joto Kali la Outback",
+      "summary": "Roboti za ukaguzi zinazotumia AI zinabadilisha kazi hatari za matengenezo ya binadamu katika mashamba makubwa zaidi ya jua ya Australia, zikipita kilomita nyingi za ardhi ya jangwa isiyosawa katika joto la nyuzi 50 kusafisha paneli, kupima ufanisi na kugundua kasoro kwa kutumia kamera za picha za joto.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": ["Jua", "Australia", "Ukaguzi", "Viwanda"],
+      "timestamp": "2026-03-25T18:10:07Z"
+    },
+    {
+      "id": "0403-018",
+      "title": "Ndege Zisizo na Rubani za Utafutaji na Uokoaji Zenye AI Zinaweza Kupata Watu Waliopotea Mara 4 Kwa Haraka Zaidi ya Timu za Ardhini",
+      "summary": "Jukwaa la ndege zisizo na rubani la sensori nyingi linalochanganya kamera za joto, infrared na za kuona na mfumo wa kugundua wa AI lilipata watu waliopotea katika msitu mara nne kwa haraka zaidi ya timu za utafutaji za ardhini peke yao. Teknolojia hiyo inapokelewa na mashirika ya uokoaji wa milima nchini Uswizi na Colorado.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["SAR", "Ndege Zisizo na Rubani", "Joto", "Dharura"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0403-019",
+      "title": "Amazon Inachukua Fauna Robotics: Roboti ya Binadamu Sprout Iliyoundwa kwa Nyumba na Hospitali",
+      "summary": "Ununuzi wa Amazon wa Fauna Robotics unaleta Sprout wa kampuni — roboti wa binadamu ya ukubwa wa mtoto inayolenga mahusiano ya kijamii — katika familia ya Amazon. Sprout imeundwa kufanya kazi katika mazingira yasiyopangwa kama vyumba vya kuishi na korido za hospitali, ikiongezea meli ya sasa ya roboti za ghala la Amazon.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-amazon-buys-fauna-robotics-maker.html",
+      "tags": ["Amazon", "Roboti wa Binadamu", "Roboti za Nyumbani", "Afya"],
+      "timestamp": "2026-03-25T05:30:01Z"
+    },
+    {
+      "id": "0403-020",
+      "title": "Kundi la Georgia Tech Bila Elektroniki: Roboti za Mitambo Zinazojipanga Wenyewe",
+      "summary": "Watafiti wa Georgia Tech wameonyesha kundi la roboti za mitambo tu — bila sensori, bila vifaa vya usindikaji, bila betri — zinazofanikiwa katika tabia ya pamoja iliyojipanga kupitia mwingiliano wa umbo la kimwili. Kazi hiyo inapinga mawazo ya msingi kuhusu kinachohitajika kwa akili ya kundi.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["Kundi", "Georgia Tech", "Mitambo", "Kujipanga"],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0403-021",
+      "title": "Roboti za ROS Zinazoongozwa na LLM Zinajibu Amri za Lugha ya Kawaida ya Kiingereza kwa Wakati Halisi",
+      "summary": "Safu mpya ya programu ya kati inaunganisha mifano ya lugha ya kiwango cha GPT-4 na Robot Operating System, kuruhusu wahandisi na wasio wataalamu kutoa amri za tabia ngumu za hatua nyingi za roboti kwa kutumia lugha ya kawaida. Mfumo umethitishwa kwenye majukwaa matano tofauti ya roboti.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html",
+      "tags": ["LLM", "ROS", "Lugha ya Kawaida", "Udhibiti"],
+      "timestamp": "2026-04-01T08:10:01Z"
+    }
+  ]
+}

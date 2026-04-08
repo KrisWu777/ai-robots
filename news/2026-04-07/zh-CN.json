@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-07",
+  "featured": {
+    "id": "featured-20260407",
+    "title": "Amazon 收购人形机器人 Sprout 制造商 Fauna Robotics",
+    "summary": "Amazon 已收购 Fauna Robotics——Sprout 人形机器人背后的初创公司——此次交易大幅加速了这家电商巨头在仓储自动化具身 AI 领域的布局。此次收购是迄今为止规模最大的人形机器人收购案之一，标志着科技巨头正从合作关系转向对机器人公司的直接所有权。Sprout 专为履行中心灵活的取放任务而设计，而这正是传统工业机器人长期面临挑战的领域。凭借 Amazon 的物流规模与 AI 基础设施，Sprout 有望在数年内从试点阶段扩展至其庞大全球仓储网络的大规模部署。",
+    "image": "https://scx1.b-cdn.net/csz/news/800a/2026/amazon-buys-fauna-robo.jpg",
+    "source": "TechXplore",
+    "url": "https://techxplore.com/news/2026-03-amazon-buys-fauna-robotics-maker.html",
+    "tags": ["Amazon", "人形机器人", "收购", "仓储"],
+    "timestamp": "2026-04-07T02:29:52Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260407-01",
+      "title": "无电机机械手借助形状记忆执行器实现亚秒级抓取",
+      "summary": "研究人员展示了一款不依赖传统电机的机械手，其核心是一种能在不到一秒内完成重构的新型双向形状记忆合金执行器。该设计大幅简化了机械复杂性——传统机械夹持器需要数十个电机和线缆——同时保持了可靠的操控能力。通过利用材料级驱动，这款机械手能够在非结构化环境中即时调整抓取几何形态。这一进展有望降低假肢和工业夹持器系统的成本。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/twoway-shape-memory-al.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["执行器", "夹持器", "软体机器人", "操控"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-02",
+      "title": "攻克人形机器人研发中的核心工程障碍",
+      "summary": "IEEE Spectrum 发布的一份新白皮书深入分析了阻碍人形机器人从原型走向规模化量产的持续性硬件与软件瓶颈。核心挑战包括电池能量密度不足、实验室灵巧度基准与现实可靠性之间的差距，以及标准化组件生态系统的缺失。报告指出，企业间在执行器和传感器标准上的跨公司协作，有望将研发周期压缩数年——与此同时，从 Boston Dynamics 到 Figure AI 等各大巨头正竞相推动人形机器人商业化部署。",
+      "image": "https://assets.rbl.ms/65106483/origin.png",
+      "source": "IEEE Spectrum",
+      "url": "https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/",
+      "tags": ["人形机器人", "工程", "产业", "路线图"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-03",
+      "title": "无电子元件、无电池、无计算单元的机器人集群展现涌现行为",
+      "summary": "科学家研制出一种完全不依赖电子元件、电池或机载计算的机器人集群，仅依靠纯机械交互和环境能量运作。这些机器人通过物理接触和被动弹簧机构协调涌现行为，从蚁群和粘菌中汲取灵感。这种方法有望在电子设备会失效的场景中，为废墟检测或环境监测提供超低成本的集群系统。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-smartest-robots-ma.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["集群机器人", "软体机器人", "研究", "仿生"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-04",
+      "title": "耐高强度执行器为太空软体机器人铺路",
+      "summary": "一款面向软体机器人的新型执行器展现出在太空环境中运行所需的抗辐射能力和热稳定性。与刚性系统不同，软体机器人能够适应不规则地形并处理易碎物体，使其在行星探测中颇具吸引力。该执行器可在真空、超过 200°C 的温度波动以及月球和火星任务相关的辐射剂量下正常运作——让可部署的太空科学软体机器人系统离现实更近一步。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-actuator-could-boo.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": ["太空机器人", "软体机器人", "执行器", "探索"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-05",
+      "title": "仿鸟机器人在复杂环境中的机动性优于传统无人机",
+      "summary": "一类新型仿鸟机器人模仿鸟类在飞行中动态重塑翅膀的方式，能够在拥挤复杂的环境中穿行，其效果远超四旋翼无人机。通过采用被动变形翼结构和尾羽，这些机器人无需额外传感器或执行器，即可实现更紧的转弯半径，并在障碍物附近保持更稳定的悬停。演示显示，该系统能够穿越茂密的森林冠层和倒塌建筑内部——这些都是标准无人机常常力不从心的环境。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/birdlike-robots-that-p.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["无人机", "仿生", "航空机器人", "搜救"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-06",
+      "title": "五级框架从运动能力、操控能力和认知能力三维度评估人形机器人",
+      "summary": "研究人员提出了一种类比 SAE 自动驾驶等级的标准化五级能力模型，用于评估人形机器人。该框架从运动能力、灵巧操控和认知决策三个维度对机器人进行评级，为比较不同厂商产品提供了共同语言。目前，市面上尚无商用人形机器人能在三个维度同时达到二级以上水平，这凸显了营销宣传与实际能力之间的差距。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/which-technical-capabi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["人形机器人", "标准", "基准测试", "产业"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-07",
+      "title": "腕带让截肢者通过自然动作控制机械手",
+      "summary": "一款非侵入式腕带利用表面 EMG 和机器学习技术，从残余肌肉信号中解码预期手部动作，让截肢者能够实时控制假肢机械手。与植入式方案不同，该设备无需手术，且能在不到十分钟内完成对新用户的校准。在试验中，参与者在首次使用时便在标准化灵巧度测试中达到了 90% 以上的准确率，商业化计划将在两年内推进。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wristband-enables-wear.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": ["假肢", "可穿戴设备", "EMG", "康复"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-08",
+      "title": "Gill Pratt：人形机器人商业化时刻终于到来",
+      "summary": "Toyota 研究院 CEO、前 DARPA 机器人挑战赛项目经理 Gill Pratt 表示，基础模型、改进型执行器与传感器成本下降三者的汇聚，已将人形机器人带至真正的商业化拐点。在接受 IEEE Spectrum 的深度专访中，Pratt 指出当前最关键的瓶颈不是硬件，而是数据——尤其是在多样化非结构化场景中人类操控的大规模数据集。他预测，家用人形机器人将在五年内实现商业化。",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-bespectacled-bearded-man-kneels-posed-behind-a-robotic-torso.jpg?id=65446567&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": ["人形机器人", "AI", "产业", "DARPA"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-09",
+      "title": "AI 破解仓储机器人交通拥堵难题，吞吐量提升 25%",
+      "summary": "一套强化学习系统经训练用于管理大型履行中心的多机器人协作，通过动态绕开拥堵区域，实现了订单吞吐量 25% 的提升。传统仓储管理系统采用静态路由规则，随机器人密度增加而性能下降；而该 AI 系统能够实时适应地面动态变化。该技术先在仿真环境中完成验证，随后在一家拥有逾 200 台自主移动机器人的真实仓库中投入部署。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/warehouse-robots.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": ["仓储机器人", "强化学习", "物流", "AI"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-10",
+      "title": "自主仓储机器人直接从工厂地板经验中学习",
+      "summary": "一家欧洲汽车零部件制造商的部署案例表明，自主机器人通过从实际工作经验中学习——而非依赖预编程程序——不断提升任务表现。该系统采用持续学习架构，每晚根据当天的运营数据更新机器人行为，无需人工重新训练。经过六个月，随着机器人适应不断变化的库存，料箱分拣的错误率下降了 40%——这是工厂地板规模化持续学习部署的首批有据可查的案例之一。",
+      "image": "https://spectrum.ieee.org/media-library/robotic-arms-on-mobile-bases-sort-crates-on-a-conveyor-belt-in-a-warehouse.png?id=63907821&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
+      "tags": ["仓储机器人", "持续学习", "制造业", "AI"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-11",
+      "title": "微型机器人在水面行走，探测水面生态系统",
+      "summary": "研究人员研发出一种毫米级仿水黾机器人，能够在水面张力上行走，实现对水面生态系统的非侵入式采样。这些机器人采用疏水腿部结构和精确调校的重量分布，在携带微型传感器的同时避免破坏水面。潜在应用包括水质监测、漏油探测，以及对神经表层——即生活在气水界面、知之甚少的生物群落——的研究。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033930.htm",
+      "tags": ["软体机器人", "研究", "环境", "仿生"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-12",
+      "title": "Cornell 科学家制造出比盐粒更小、能「思考」的机器人",
+      "summary": "Cornell 研究人员制造出比盐粒更小的微型机器人，其内置光伏电路能够执行简单的计算逻辑，使设备无需外部控制即可响应环境信号。这些机器人可通过光学方式引导，并仅利用环境光能执行基本决策——例如朝化学梯度方向移动。这一里程碑使面向生物医学和环境传感的无缆微型机器人系统的实际部署更进一步。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": ["微型机器人", "研究", "生物医学", "纳米技术"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-13",
+      "title": "恐怖谷突破：让机器人面孔不再令人不安",
+      "summary": "科学家精确识别出触发人形机器人面孔「恐怖谷」效应的感知线索，并证明通过针对性调整皮肤纹理、微表情时序和眼球运动模式，几乎可以完全消除不适感。这一发现对社交机器人、远程临场化身和人形机器人设计具有直接意义，而用户接受度对于推动普及至关重要。该研究通过神经影像学方法对受试者与真实及模拟机器人面孔互动的过程进行了深入分析。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": ["社交机器人", "人机交互", "研究", "设计"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-14",
+      "title": "AI 驱动机器人随时间推移学会更高效地采摘番茄",
+      "summary": "一款搭载视觉语言模型和强化学习技术的农业机器人，在为期六周的温室试验中持续提升番茄采摘效率。机器人最初对约 8% 的果实造成损伤；到试验结束时，随着其学会根据摄像头对成熟度的估算来调节抓握力度，损伤率已降至 1% 以下。这项研究将农业定位为在高度可变的真实环境中检验自适应机器人系统的重要试验场。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["农业机器人", "强化学习", "AI", "收割"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-15",
+      "title": "DNA 机器人有望在人体内递送药物并追踪病毒",
+      "summary": "科学家研制出基于 DNA 的纳米机器人，能够在生物环境中导航、识别特定分子靶标，并以细胞级精度递送治疗性药物载荷。这些机器人利用沃森-克里克碱基配对作为导向机制，在释放药物之前精准定位癌症标志物或病毒蛋白。在小鼠模型中，与系统性给药相比，该技术使肿瘤负荷降低了 60%，标志着靶向纳米医学领域的重大突破。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["纳米机器人", "医疗", "药物递送", "生物技术"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-16",
+      "title": "风能驱动机器人专为恶劣环境的长时间探索而设计",
+      "summary": "一款新型风能驱动机器人原型无需电池或燃料，通过被动帆-弹簧机构直接从环境气流中获取能量，可在崎岖地形上持续行驶数月。该设计面向传统机器人难以适应的极端环境——极地冰盖、干旱荒漠、灾后地带——在这些地方补给几乎无从实现。早期野外测试表明，在没有人工干预的情况下，机器人在 48 小时内持续穿越了一段岩石荒漠路段。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wind-powered-robot-cou.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["能量收集", "野外机器人", "研究", "探索"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-17",
+      "title": "抗辐射 Wi-Fi 芯片为核退役机器人开辟新路",
+      "summary": "工程师研制出一款能够承受高达 50 万戈瑞辐射剂量的 Wi-Fi 芯片——约为摧毁普通消费电子产品剂量的 500 倍——首次使核退役机器人的稳健无线控制成为可能。目前在福岛和塞拉菲尔德等核设施中作业的机器人必须使用有线或重度屏蔽通信系统，严重限制了活动范围和灵活性。这款新芯片采用抗辐射晶体管几何结构和纠错硬件，在高通量环境中维持可靠的数据链路。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/radiation-resistant-wi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": ["核能", "传感器", "电子学", "退役"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-18",
+      "title": "机器人承担大型太阳能农场的高温维护工作",
+      "summary": "专用检测和清洁机器人正在接管大型太阳能设施的危险维护任务，取代过去在沙漠地区超过 50°C 高温下作业的工人。这些机器人利用计算机视觉识别受损电池板、清除积灰并进行简单线缆修复。在中东和亚利桑那州的早期部署显示，年度电池板输出功率提升了 15% 至 20%，一个机器人团队以四分之一的年度成本取代了四名人工技术员。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-take-the-heat-f.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": ["太阳能", "工业机器人", "检测", "气候"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-19",
+      "title": "气动人工肌肉助力机器人举起自身重量 100 倍的负载",
+      "summary": "一种新型气动人工肌肉设计实现了力重比突破，使机器人能够举起自身质量 100 倍的负载——在相当体积下远超大多数电机驱动系统。这种肌肉采用高强度聚合物中的新型风琴折叠几何结构，在压缩状态下储存能量并快速释放。该设计对腿式机器人和外骨骼尤为适用，因为这些场景对能量效率和功率密度的要求极为苛刻。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/air-powered-artificial.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": ["执行器", "软体机器人", "外骨骼", "气动学"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-20",
+      "title": "DARPA 伤亡检伤分类挑战赛：机器人团队应对大规模伤亡场景",
+      "summary": "DARPA 的伤亡检伤分类挑战赛汇聚了多支自主机器人队伍，任务是在完全不依赖人工指令的情况下，在模拟战场上定位、评估并优先处理伤亡人员。参赛系统综合运用热成像摄像机、探地雷达和 AI 检伤算法来识别并报告伤亡情况。获胜团队在 12 分钟内完成了一个 40 人伤亡场景的处置——而人类医疗团队通常需要一小时以上——DARPA 的目标是在 2030 年前实现全自主前线伤亡救治系统。",
+      "image": "https://spectrum.ieee.org/media-library/aerial-drone-robotic-arm-explosion-and-medical-cross-on-abstract-background.jpg?id=62605094&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/darpa-triage-challenge-robots",
+      "tags": ["DARPA", "医疗机器人", "自主", "国防"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    }
+  ]
+}

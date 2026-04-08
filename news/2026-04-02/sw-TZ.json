@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-02",
+  "featured": {
+    "id": "featured-0402",
+    "title": "Mfano wa Msingi wa π0 kutoka Physical Intelligence: Ubongo wa Robot wa Matumizi ya Jumla wenye Uwezo Zaidi Hadi Sasa",
+    "summary": "Mfano wa msingi wa π0 wa Physical Intelligence, unaoweza kudhibiti aina mbalimbali za roboti bila urekebishaji maalum wa kazi, unaripotiwa kuwa umepewa leseni na washirika sita wakubwa wa OEM wa roboti huku kampuni ikijiandaa kukusanya dola bilioni moja. Matokeo ya awali yanaonyesha mfano huu unaweza kujifunza kazi mpya kwa maonyesho chini ya 100.",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+    "tags": ["Physical Intelligence", "Mfano wa Msingi", "Ufadhili"],
+    "timestamp": "2026-03-27T23:59:40Z"
+  },
+  "articles": [
+    {
+      "id": "0402-001",
+      "title": "Amazon Inanunua Fauna Robotics — Watengenezaji wa Roboti ya Binadamu ya Ukubwa wa Mtoto Sprout",
+      "summary": "Ununuzi wa pili wa Amazon katika roboti ndani ya mwezi mmoja unaleta Fauna Robotics na roboti yake ya binadamu Sprout. Sprout imeundwa kuwa mwenzake wa kijamii katika nyumba na hospitali, ikifanya kazi kwa usalama karibu na watoto na wazee shukrani kwa mfumo wake wa hali ya juu wa kuepuka migongano na mawasiliano ya kujieleza.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": ["Amazon", "Fauna Robotics", "Ununuzi", "Roboti ya Binadamu"],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0402-002",
+      "title": "Agile Robots Inashirikiana na Google DeepMind: Data kwa Mifano ya Msingi, Mifano kwa Vifaa",
+      "summary": "Katika ushirikiano wenye manufaa kwa pande zote, Agile Robots itakusanya mamilioni ya pointi za data za maonyesho ya kazi kwa kutumia majukwaa yake ya binadamu na kuzishiriki na Google DeepMind. Badala yake, mifano ya msingi ya roboti ya DeepMind itaunganishwa kwenye jukwaa la roboti la kizazi kijacho cha Agile.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": ["Agile Robots", "Google DeepMind", "Ushirikiano"],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0402-003",
+      "title": "Vita vya Ndege za Kivita Zinazojitegemea nchini Ukraine Vinabadilisha Sura ya Migogoro ya Kijeshi",
+      "summary": "Pande zote mbili katika mgogoro wa Ukraine zinapeleka maelfu ya ndege za kivita zinazojitegemea zinazotumia AI kila wiki. Kasi ya maendeleo ya kiteknolojia imepita sheria za kimataifa, huku wataalamu wakionya kwamba udhibiti wa binadamu wenye maana unafifia kadri masafa ya mapigano yanayojitegemea yanavyopungua hadi sekunde.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["Kijeshi", "Ndege za Kivita", "Ukraine", "Maadili ya AI"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0402-004",
+      "title": "Ndege ya Kivita ya Kutafuta na Kuokoa yenye AI ya Joto Inapata Wapandaji Walopotea Mara 4 Haraka Zaidi",
+      "summary": "Kwa ushirikiano na timu za uokoaji za milimani za Uswisi, ndege mpya ya kivita yenye vipimo vingi inayochanganya kamera za joto, infrared, na rangi na injini ya kugundua ya AI iliwapata wapandaji waliopotea mara nne haraka zaidi kuliko utafutaji wa ardhini wa kawaida katika hali zilizoigwa za Milima ya Alps.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["Kutafuta na Kuokoa", "Ndege za Kivita", "Uokoaji wa Milimani", "Joto"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0402-005",
+      "title": "Viwango vya Uwezo wa Roboti ya Binadamu vya Fraunhofer: Kiwango Kipya cha Kupima Uhuru wa Roboti",
+      "summary": "Taasisi ya Fraunhofer HNFIZ imechapisha mfumo wa uainishaji wa viwango vitano kwa uwezo wa roboti za binadamu, unaoshughulikia uhamaji, udhibiti, na uhuru wa utambuzi. Mfumo huu unawapa watengenezaji, wasimamizi, na wateja lugha ya pamoja ya kulinganisha mifumo ya roboti za binadamu.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["Roboti ya Binadamu", "Viwango", "Fraunhofer", "Uhuru"],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0402-006",
+      "title": "Roboti ya Ndege ya Rutgers Inatumia Mabawa Laini Kushinda Ndege za Kivita kwa Ufanisi wa Nishati",
+      "summary": "Roboti ya kupepea mabawa ya Rutgers inafikia ufanisi wa nishati mara 3 bora kuliko ndege za kivita sawa za rotor nne kwa kasi chini ya m/s 5 kwa kutumia mabawa yanayopepea yenye viungo ambayo yanabadilika kulingana na upepo kwa wakati halisi. Sifa za kipekee za aerodynamic za muundo huu zinafanya iwe na ufanisi hasa kwa ufuatiliaji wa wanyamapori katika misitu minene.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["Roboti ya Kupepea", "Rutgers", "Iliyobuniwa Kutoka Maumbile", "Ufanisi wa Nishati"],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0402-007",
+      "title": "Roboti ya Kufuatilia Harufu Inapata Uvujaji wa Gesi na Vilipuzi na Kipande Kimoja cha Sensor Kilichovunjika",
+      "summary": "Roboti ya kunusa iliyobuniwa kutoka kwa maumbile iliyoundwa kwa ajili ya kugundua uvujaji wa gesi na kuweka alama za vilipuzi inadumisha uendeshaji wa kuaminika hata wakati moja ya seti mbili za vipimo vyake ikiwa imeshindwa. Muundo huu unaostahimili hitilafu umebuniwa na jinsi wadudu wanavyoendelea kufuatilia harufu baada ya kupoteza antenna moja.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": ["Kunusa", "Usalama", "Kugundua Gesi", "Ustahimilivu wa Hitilafu"],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0402-008",
+      "title": "Roboti za Mwalimu katika Shule za Chicago Zinafundisha Huruma Bila Kudai Kuwa Binadamu",
+      "summary": "Majaribio katika shule 12 za msingi za Chicago yanatumia roboti za msaada wa kijamii kufundisha ujuzi wa kujifunza kwa hisia za kijamii. Muhimu zaidi, roboti zinaeleza wazi kwamba ni mashine — na utafiti unaonyesha kwamba uaminifu huu unaboresha matokeo ya kujifunza ikilinganishwa na roboti za mwalimu zinazofanana na binadamu.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": ["Elimu", "Kujifunza kwa Hisia za Kijamii", "Roboti za Kijamii", "Maadili"],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0402-009",
+      "title": "WANDER-Bot: Roboti Inayotumia Upepo kwa Ufuatiliaji wa Kudumu wa Mazingira Makali",
+      "summary": "WANDER-bot ya Cranfield University inakusanya nishati ya upepo kuendesha mwendo wake na vipimo, ikiwezesha uendeshaji wa kujitegemea usio na kikomo katika jangwa, tundra, na ardhi ya volkano. Muundo uliochapishwa kwa 3D wenye gharama ya dola 200 unaweza kuwezesha mitandao ya ufuatiliaji wa mazingira ya kiwango cha bara.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["Nishati ya Upepo", "Mazingira", "Uchunguzi", "Cranfield"],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0402-010",
+      "title": "Roboti Zinazojifunza Haraka Kuliko Walimu Wao wa Kibinadamu — Mafanikio Mapya ya Kujifunza kwa Kuiga",
+      "summary": "Mfumo mpya wa kujifunza kwa kuiga kwa kasi unabainisha upungufu wa ufanisi katika maonyesho ya binadamu na kuuboresha, ukiwezesha roboti kufanya kazi zilizojifunzwa kwa asilimia 30 haraka zaidi kuliko binadamu aliyeonyesha baada ya mazoezi 10 tu.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": ["Kujifunza kwa Kuiga", "Kujifunza kwa Roboti", "Ufanisi"],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0402-011",
+      "title": "Gecko Robotics Inashinda Mkataba Mkubwa Zaidi wa Roboti wa Jeshi la Wanamaji la Marekani Kukagua Meli Zote",
+      "summary": "Jeshi la Wanamaji limetoa Gecko Robotics mkataba wa miaka mitano wa kupeleka roboti za ukaguzi zinazopanda kuta kwenye kila darasa la meli. Roboti zinatumia vipimo vya ultrasound, infrared na maono kukagua kwa kuendelea uimara wa mwili wa meli, ubora wa kulehemu na kutu — zikiunda mifano ya matengenezo ya kutabiriwa.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Jeshi la Wanamaji", "Ukaguzi", "Kijeshi", "Gecko Robotics"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0402-012",
+      "title": "Kuvunjika kwa Roboti ya Mkahawa wa Haidilao Kunakuwa Virali: AgiBot Inacheza bila Udhibiti",
+      "summary": "Video ya mhudumu wa roboti wa binadamu wa AgiBot akipoteza udhibiti na kucheza bila mpangilio katika mkahawa wa hot pot wa Haidilao huko Cupertino imepata zaidi ya milioni 40 za kutazamwa. Kampuni ilihusisha hitilafu na kesi ya mwisho ya sasisho la programu na tangu wakati huo imepeleka kiraka kinachoshughulikia mfumo mzima.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "Mkahawa", "Virali", "Hitilafu"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0402-013",
+      "title": "RJ Scaringe wa Rivian: Acha Kuunda Roboti za Binadamu, Jenga Mashine za Kusudi Maalum",
+      "summary": "Mkurugenzi Mtendaji wa Rivian na mwanzilishi wa Mind Robotics, RJ Scaringe, anasema tasnia ya roboti inafanya kosa la msingi kwa kufuatilia roboti zenye umbo la binadamu kwa kazi za kiwanda. Kampuni yake mpya hasa huunda roboti kulingana na kazi zao zinazokusudiwa, si mwili wa binadamu.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "Viwanda", "Maoni"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0402-014",
+      "title": "Mind Robotics Inakusanya Dola Milioni 500 kwa Roboti za Kiwanda Zinazojifunza Kutoka kwa Mstari wa Uzalishaji wa Rivian",
+      "summary": "Mind Robotics, tawi la Rivian, imekusanya dola milioni 500 kujenga na kupeleka roboti za viwanda zinazotumia AI zilizofunzwa moja kwa moja katika Gigafactory ya Rivian. Kampuni hii ya kuanzisha ina ufikiaji wa kipekee kwa terabytes za data ya maonyesho ya kiwanda — faida kubwa ya ushindani.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "Kampuni Mpya", "Viwanda", "Ufadhili"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0402-015",
+      "title": "Chips za Qualcomm IQ10 Zinaendesha Ubongo wa Kizazi Kipya cha Roboti ya Binadamu ya Neura Robotics",
+      "summary": "Neura Robotics inajenga jukwaa lake jipya la roboti ya binadamu kuzunguka processor ya AI ya IQ10 ya Qualcomm, ambayo inatoa nguvu ya kufikiri ya TOPS 40 kwenye kifaa kwa chini ya watts 20. Ushirikiano huu unapinga utawala wa Nvidia katika soko la jukwaa la kompyuta za roboti.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "Chips", "Vifaa"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0402-016",
+      "title": "Shamba la Roboti Linalojitegemea la Canopii Linakua Pauni 40,000 za Mimea kwa Mwaka katika Ukubwa wa Uwanja wa Mpira wa Kikapu",
+      "summary": "Canopii inatumia safu iliyounganishwa kwa wima ya roboti maalum — kupanda mbegu, kumwagilia, kufuatilia, na kuvuna — kuendesha shamba la ndani linalojitegemea kabisa. Tofauti na wachezaji wa awali walioshindwa kwa sababu ya gharama za kazi, njia ya roboti kamili ya Canopii inafikia faida kwa nusu ya bei ya mashamba ya ndani ya kawaida.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["Roboti za Kilimo", "Kilimo cha Ndani", "Kujitegemea"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0402-017",
+      "title": "Intrinsic Inajiunga na Google: Alphabet Inaunganisha Jukwaa Lake la Programu ya Roboti",
+      "summary": "Baada ya miaka mitano kama kampuni huru ya Alphabet, kampuni ya programu ya roboti Intrinsic inafyonzwa na Google. Hatua hii inaunganisha mali za roboti za Alphabet chini ya paa moja na ishara nia ya Google ya kujenga jukwaa la roboti lililounganishwa linalochanganya programu, mifano ya AI, na ushirikiano wa vifaa.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "Programu"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0402-018",
+      "title": "Tasnia ya Roboti za Binadamu ya China Inapita Magharibi katika Upelekaji wa Kibiashara",
+      "summary": "Uchambuzi wa kina wa TechCrunch unagundua kwamba watengenezaji wa roboti za binadamu wa China walituma kibiashara vitengo zaidi katika miezi 12 iliyopita kuliko kampuni zote za Magharibi pamoja, zikisukumwa na gharama za chini za utengenezaji, mizunguko ya haraka ya kuboreshwa, na ruzuku kubwa za serikali.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["China", "Roboti ya Binadamu", "Soko", "Ushindani"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0402-019",
+      "title": "Dhamira ya Thamani ya Dola Bilioni 60 ya Anduril: Kampuni Mpya ya Roboti za Ulinzi Inakua Haraka Kuliko Kampuni Yoyote ya Silaha Katika Historia",
+      "summary": "Anduril Industries inalenga thamani ya dola bilioni 60 katika raundi yake ya ufadhili inayofuata, ambayo ingefanya iwe kampuni ya teknolojia ya ulinzi yenye thamani zaidi katika historia kwa kasi ya ukuaji wa thamani. Mapato kutoka kwa makundi ya ndege za kivita zinazojitegemea, magari ya chini ya maji, na mifumo ya uangalizi wa AI yamekuwa mara tatu katika miezi 18.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "Ulinzi", "Ufadhili", "Ndege za Kivita"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0402-020",
+      "title": "Miaka 30 ya Roboti Zinazotembea: Jinsi Honda P2 Ilivyobadilisha Kila Kitu",
+      "summary": "IEEE imeteua Honda P2 — roboti ya kwanza ya kweli inayojitegemea yenye miguu miwili — kama Alama Rasmi ya IEEE, miaka 30 baada ya kufunuliwa kwake. Algoriti ya kutembea kwa nguvu ya P2, iliyotengenezwa na mhandisi Masato Hirose, ni baba wa moja kwa moja wa karibu kila roboti inayotembea iliyotengenezwa tangu wakati huo.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": ["Honda", "Historia", "Miguu Miwili", "IEEE"],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0402-021",
+      "title": "Ununuzi wa Rivr na Amazon: Roboti Inayopanda Ngazi Inaileta Uwasilishaji wa Mlangoni Karibu Zaidi",
+      "summary": "Ununuzi wa Amazon wa Rivr, mtengenezaji wa roboti yenye magurudumu inayoweza kupanda ngazi kwa kujitegemea na kuabiri mapokezi ya majengo, unaashiria uwekezaji wa kwanza wa makini wa kampuni katika uwasilishaji wa mita ya mwisho. Teknolojia hii hatimaye inaweza kuwezesha uwasilishaji wa vifurushi kwa ghorofa yoyote ya jengo lolote.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "Uwasilishaji", "Ununuzi", "Maili ya Mwisho"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "date": "2026-04-06",
+  "featured": {
+    "id": "featured-0406",
+    "title": "Boston Dynamics Spot devient sujet d'étude : des scientifiques étudient l'interaction sociale humain-robot",
+    "summary": "Des chercheurs étudient comment des familles et des visiteurs interagissent avec le robot Spot de Boston Dynamics au Robotics & AI Institute, révélant des informations surprenantes sur le confort et la confiance des humains envers les machines quadrupèdes. L'étude montre que les enfants s'adaptent plus vite que les adultes et que les repères visuels sur le corps du robot influencent significativement la sympathie perçue.",
+    "image": "https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+    "tags": [
+      "Boston Dynamics",
+      "HRI",
+      "Robotique Sociale"
+    ],
+    "timestamp": "2026-04-06T13:00:01Z"
+  },
+  "articles": [
+    {
+      "id": "0406-001",
+      "title": "Un actionneur résilient montre son potentiel pour des robots souples prêts pour l'espace",
+      "summary": "Un nouveau design d'actionneur peut résister à des pressions, températures et radiations extrêmes, le rendant adapté au déploiement de robots souples dans l'espace extra-atmosphérique, les grands fonds océaniques et les environnements nucléaires. Cette recherche ouvre des voies pour que les robots opèrent dans des endroits auparavant inaccessibles aux machines rigides conventionnelles.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": [
+        "Robotique Souple",
+        "Espace",
+        "Actionneur"
+      ],
+      "timestamp": "2026-04-05T10:00:03Z"
+    },
+    {
+      "id": "0406-002",
+      "title": "Vidéo du Vendredi : Digit apprend à danser presque en une nuit",
+      "summary": "Dans la Vidéo du Vendredi de cette semaine, le robot humanoïde Digit d'Agility Robotics démontre de nouveaux mouvements de danse appris en simulation et transférés dans le monde réel en moins de 24 heures — signe de la maturité rapide des techniques de transfert sim-to-real.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-humanoid-dancing",
+      "video": "https://www.youtube.com/watch?v=29ECwExc-_M",
+      "tags": [
+        "Agility Robotics",
+        "Digit",
+        "Danse",
+        "Sim-to-Real"
+      ],
+      "timestamp": "2026-04-03T16:30:01Z"
+    },
+    {
+      "id": "0406-003",
+      "title": "MirrorBot : un robot conçu pour favoriser la connexion humaine",
+      "summary": "Des chercheurs de Cornell University ont dévoilé MirrorBot, un robot qui reproduit le langage corporel et les signaux émotionnels humains pour créer un sentiment d'empathie et de connexion. Les premiers essais montrent que les participants se sentaient plus compris et moins isolés après avoir interagi avec MirrorBot.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-mirrorbot-robot-foster-human.html",
+      "tags": [
+        "Robots Sociaux",
+        "Cornell",
+        "HRI"
+      ],
+      "timestamp": "2026-04-02T17:00:10Z"
+    },
+    {
+      "id": "0406-004",
+      "title": "Des muscles artificiels pneumatiques pourraient aider les robots à soulever 100 fois leur poids",
+      "summary": "Des chercheurs d'Arizona State University développent des muscles robotiques pneumatiques bioinspirés permettant aux robots de soulever des objets jusqu'à 100 fois leur propre poids tout en opérant dans des environnements extrêmes, dont de l'eau bouillante et des surfaces hautement abrasives.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": [
+        "Muscles Artificiels",
+        "Robotique Souple",
+        "Arizona State"
+      ],
+      "timestamp": "2026-04-02T11:20:06Z"
+    },
+    {
+      "id": "0406-005",
+      "title": "Des chercheurs construisent un essaim robotique sans électronique, sans batteries et sans cerveau",
+      "summary": "Une équipe de Georgia Tech a créé un essaim robotique mécanique qui atteint un comportement collectif coordonné grâce à des interactions purement physiques — sans capteurs, sans processeurs, sans batteries. Le design inspiré des LEGO démontre qu'un comportement de groupe intelligent peut émerger de simples règles mécaniques.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": [
+        "Robotique en Essaim",
+        "Georgia Tech",
+        "Mécanique"
+      ],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0406-006",
+      "title": "Combiner le Robot Operating System avec des LLMs pour le contrôle de robots en langage naturel",
+      "summary": "De nouvelles recherches intègrent directement des grands modèles de langage au sein de ROS (Robot Operating System), permettant aux opérateurs de commander des robots en phrases anglaises ordinaires. Le système traduit les instructions en langage naturel en séquences d'actions ROS en temps réel, abaissant considérablement la barrière à la programmation robotique.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html",
+      "tags": [
+        "ROS",
+        "LLM",
+        "Langage Naturel",
+        "Contrôle"
+      ],
+      "timestamp": "2026-04-01T08:10:01Z"
+    },
+    {
+      "id": "0406-007",
+      "title": "Gill Pratt affirme que le moment des robots humanoïdes est enfin arrivé",
+      "summary": "Gill Pratt, PDG du Toyota Research Institute et ancien directeur du programme de robotique de DARPA, soutient dans un nouvel entretien pour IEEE Spectrum que la convergence d'une meilleure IA, d'actionneurs moins chers et de batteries améliorées a finalement créé les conditions pour que les robots humanoïdes apportent une réelle valeur économique.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": [
+        "Humanoïde",
+        "DARPA",
+        "Toyota",
+        "Analyse Sectorielle"
+      ],
+      "timestamp": "2026-04-02T15:00:02Z"
+    },
+    {
+      "id": "0406-008",
+      "title": "Un Wi-Fi capable de résister à un réacteur nucléaire — pour les robots de démantèlement",
+      "summary": "Une puce Wi-Fi durcie aux radiations, capable de survivre à 500 kGy, a été développée spécifiquement pour les robots utilisés dans le démantèlement de centrales nucléaires. La puce permet une communication sans fil en temps réel même à l'intérieur de cœurs de réacteurs actifs, éliminant le besoin de câbles filaires.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robotics-in-nuclear-industry",
+      "tags": [
+        "Nucléaire",
+        "Radiation",
+        "Wi-Fi",
+        "Industriel"
+      ],
+      "timestamp": "2026-04-02T14:00:02Z"
+    },
+    {
+      "id": "0406-009",
+      "title": "Des scientifiques créent des robots vivants dotés de systèmes nerveux",
+      "summary": "Des chercheurs ont créé «NeuroBot» — des robots vivants assemblés à partir de cellules biologiques incluant des structures fonctionnelles semblables au système nerveux. Ces organismes peuvent percevoir leur environnement et générer des schémas de locomotion coordonnés, brouillant la frontière entre robot et organisme.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/neurobot-living-robot-nervous-system",
+      "tags": [
+        "Biohybride",
+        "Robots Vivants",
+        "Neurosciences"
+      ],
+      "timestamp": "2026-04-02T13:00:01Z"
+    },
+    {
+      "id": "0406-010",
+      "title": "Un cadre de contrôle permet aux robots flexibles de se déplacer dans des espaces exigus avec moins de calculs",
+      "summary": "Un nouveau cadre de contrôle simplifie considérablement la planification de trajectoires pour les robots continus et flexibles opérant dans des espaces confinés comme des tuyaux, des vaisseaux sanguins et des bâtiments effondrés. L'approche réduit le temps de calcul de 80 % par rapport aux méthodes actuelles tout en maintenant la précision de navigation.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": [
+        "Robots Continus",
+        "Planification de Trajectoires",
+        "Contrôle"
+      ],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0406-011",
+      "title": "Q&R : Les robots ne peuvent pas ressentir — mais de nouveaux capteurs de pression pourraient changer cela",
+      "summary": "Le chercheur Huanyu Cheng de Penn State explique comment une nouvelle classe de capteurs de pression flexibles pourrait donner aux robots un sens du toucher comparable à la peau humaine. Les capteurs peuvent détecter simultanément textures, températures et niveaux de force — une étape vers des mains robotiques véritablement tactiles.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-qa-robots-sensors.html",
+      "tags": [
+        "Perception Tactile",
+        "Penn State",
+        "Mains Robotiques"
+      ],
+      "timestamp": "2026-03-30T17:00:04Z"
+    },
+    {
+      "id": "0406-012",
+      "title": "Des robots aux corps différents peuvent désormais partager des compétences via l'apprentissage basé sur les intentions",
+      "summary": "Un nouveau cadre d'apprentissage automatique permet à des robots aux corps physiques complètement différents de partager des connaissances en abstrayant les compétences en «intentions» plutôt qu'en commandes motrices. Un bras robotique et un humanoïde peuvent tous deux apprendre d'une même démonstration sans réentraînement spécifique à chaque corps.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-bodies-skills-intention-based.html",
+      "tags": [
+        "Apprentissage par Transfert",
+        "Multi-Embodiment",
+        "AI"
+      ],
+      "timestamp": "2026-03-30T13:20:04Z"
+    },
+    {
+      "id": "0406-013",
+      "title": "HEAPGrasp : une méthode plus rapide et plus intelligente pour que les robots saisissent des objets difficiles",
+      "summary": "HEAPGrasp est un nouvel algorithme de préhension qui combine planification hiérarchique et retour haptique en temps réel pour permettre aux robots de saisir de manière fiable des objets de forme irrégulière, glissants ou déformables. Lors de tests en entrepôt, il a atteint un taux de réussite de 97,3 % sur des articles jamais vus.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-heapgrasp-faster-smarter-robots-tricky.html",
+      "tags": [
+        "Préhension",
+        "Manipulation",
+        "Entrepôt"
+      ],
+      "timestamp": "2026-03-30T11:20:03Z"
+    },
+    {
+      "id": "0406-014",
+      "title": "Un benchmark IA aide les robots à planifier et accomplir des tâches ménagères dans le monde réel",
+      "summary": "Un nouveau benchmark standardisé appelé HomeTask-3000 évalue la capacité des robots ménagers à planifier et exécuter des tâches en plusieurs étapes dans des environnements domestiques réalistes. La suite comprend 3 000 scénarios de tâches dans 47 configurations de maisons, offrant l'évaluation réelle de robots la plus rigoureuse à ce jour.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html",
+      "tags": [
+        "Benchmark",
+        "Robots Ménagers",
+        "Planification IA"
+      ],
+      "timestamp": "2026-03-29T11:30:02Z"
+    },
+    {
+      "id": "0406-015",
+      "title": "Une IA basée sur la vidéo dote les robots d'une imagination visuelle",
+      "summary": "Yilun Du du Harvard Kempner Institute présente un système permettant aux robots d'«imaginer» le résultat visuel de leurs actions avant de les exécuter, en utilisant un modèle de génération vidéo comme modèle du monde. Les robots entraînés avec cette imagination visuelle résolvent les tâches de manipulation 40 % plus efficacement.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-video-based-ai-robots-visual.html",
+      "tags": [
+        "Modèle du Monde",
+        "IA Visuelle",
+        "Harvard",
+        "Manipulation"
+      ],
+      "timestamp": "2026-03-26T10:20:03Z"
+    },
+    {
+      "id": "0406-016",
+      "title": "Un système IA prévient les embouteillages de robots en entrepôt et augmente le débit de 25 %",
+      "summary": "Un nouveau système d'apprentissage par renforcement multi-agents redirige dynamiquement des flottes de robots d'entrepôt pour éviter les points de congestion, atteignant une augmentation de 25 % du débit de commandes. Le système a été validé dans une simulation d'un centre de distribution Amazon avec 500 robots.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": [
+        "Entrepôt",
+        "Multi-Agents",
+        "Apprentissage par Renforcement"
+      ],
+      "timestamp": "2026-03-26T09:30:01Z"
+    },
+    {
+      "id": "0406-017",
+      "title": "Des ultrasons inspirés des chauves-souris aident des drones de la taille d'une paume à naviguer dans le brouillard et la fumée",
+      "summary": "Des chercheurs de WPI ont équipé des drones de la taille d'une paume de capteurs ultrasoniques bioinspirés et d'un système IA permettant la navigation autonome dans des conditions de visibilité nulle. Le système surpasse la navigation par caméra dans les environnements enfumés, ouvrant des applications pour les drones de secours incendie.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ultrasound-palm-sized-drones-fog.html",
+      "tags": [
+        "Drones",
+        "Ultrasons",
+        "Navigation",
+        "WPI"
+      ],
+      "timestamp": "2026-03-26T09:06:49Z"
+    },
+    {
+      "id": "0406-018",
+      "title": "Le nouveau drone policier de BRINC utilise Starlink, transporte du Narcan et poursuit des véhicules à 100 km/h",
+      "summary": "La société de robotique de défense BRINC a dévoilé Guardian, décrit comme «le drone de réponse 911 le plus capable jamais créé». Il se connecte via Starlink pour une couverture nationale, peut déployer un distributeur de Narcan pour les overdoses, et poursuit des véhicules en fuite à jusqu'à 100 km/h.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "tags": [
+        "Police",
+        "Drone",
+        "Starlink",
+        "BRINC"
+      ],
+      "timestamp": "2026-03-25T21:12:03Z"
+    },
+    {
+      "id": "0406-019",
+      "title": "Les robots affrontent la chaleur à la place des humains pour entretenir les plus grandes fermes solaires d'Australie",
+      "summary": "Des robots d'inspection pilotés par IA sont déployés dans les grandes fermes solaires d'Australie pour remplacer les travaux d'entretien dangereux effectués par des humains sous la chaleur extrême de l'outback. Les robots traversent de manière autonome des kilomètres de terrain désertique accidenté pour nettoyer les panneaux, détecter les pannes et effectuer des réparations mineures.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": [
+        "Solaire",
+        "Inspection",
+        "Australie",
+        "Industriel"
+      ],
+      "timestamp": "2026-03-25T18:10:07Z"
+    },
+    {
+      "id": "0406-020",
+      "title": "FedEx choisit les partenariats plutôt que la technologie propriétaire pour sa stratégie d'automatisation",
+      "summary": "FedEx a annoncé un partenariat majeur avec Berkshire Gray pour déployer des robots de tri et de manipulation propulsés par IA dans son réseau, signalant le pivot stratégique de l'entreprise loin du développement de robotique interne vers une approche d'écosystème de meilleurs fournisseurs.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+      "tags": [
+        "FedEx",
+        "Logistique",
+        "Automatisation",
+        "Berkshire Gray"
+      ],
+      "timestamp": "2026-03-31T15:46:50Z"
+    },
+    {
+      "id": "0406-021",
+      "title": "Nomadic lève 8,4 millions de dollars pour gérer les données produites par les véhicules autonomes",
+      "summary": "La startup Nomadic a levé 8,4 millions de dollars pour construire une infrastructure transformant les enregistrements de capteurs de robots et de véhicules autonomes en jeux de données structurés et consultables grâce au deep learning. L'entreprise cible un goulot d'étranglement majeur dans le développement de systèmes autonomes : le traitement et l'étiquetage des données à grande échelle.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": [
+        "Startup",
+        "Financement",
+        "Véhicules Autonomes",
+        "Données"
+      ],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0406-022",
+      "title": "Un bracelet connecté permet à ses porteurs de contrôler une main robotique avec leurs propres mouvements",
+      "summary": "Un nouveau bracelet EMG développé par des chercheurs du MIT lit les signaux musculaires de l'avant-bras pour fournir un contrôle intuitif en temps réel d'une prothèse robotique de main. Les utilisateurs peuvent contrôler les mouvements de chaque doigt avec moins de 20 heures d'entraînement, une amélioration notable par rapport aux prothèses myoélectriques existantes.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": [
+        "Prothèses",
+        "EMG",
+        "MIT",
+        "Wearable"
+      ],
+      "timestamp": "2026-03-25T06:00:09Z"
+    }
+  ]
+}

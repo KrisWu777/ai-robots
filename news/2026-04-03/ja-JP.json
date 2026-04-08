@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-03",
+  "featured": {
+    "id": "featured-0403",
+    "title": "FedExとBerkshire Grayが米国全ネットワークへのAI仕分けロボット展開で提携",
+    "summary": "FedExはBerkshire Grayとの包括的な提携を発表し、今後3年間で米国にある650の施設全てにAI駆動の仕分け・操作ロボットを導入する計画です。この契約は推定12億ドルに上り、物流史上最大のロボット自動化契約となります。",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+    "tags": ["FedEx", "物流", "自動化", "Berkshire Gray"],
+    "timestamp": "2026-03-31T15:46:50Z"
+  },
+  "articles": [
+    {
+      "id": "0403-001",
+      "title": "DNAロボットが体内で薬を届けウイルスを捕捉できる可能性",
+      "summary": "プログラム可能なDNAナノボットが標的医療の次なるフロンティアとして浮上しています。研究者たちはマクロスケールのロボティクスから移動・感知・ペイロードの概念を取り入れ、血流を移動して腫瘍細胞に直接薬を届けられる分子機械を作り出しました。",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["ナノロボット", "ドラッグデリバリー", "DNA", "医療"],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0403-002",
+      "title": "制御フレームワークにより柔軟なロボットが少ない計算量で狭い空間を移動可能に",
+      "summary": "新しい運動学的制御フレームワークにより、ソフトロボットと連続体ロボットの経路計画の計算量が80%削減され、パイプや管路、生体内通路でのリアルタイムナビゲーションが可能になりました。この研究は、外科手術やインフラ点検への柔軟なロボット展開に向けた大きな一歩です。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": ["ソフトロボティクス", "経路計画", "外科手術"],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0403-003",
+      "title": "Nomadicがロボット映像を検索可能なAI学習データに変換するため840万ドルを調達",
+      "summary": "Nomadicはロボットや自動運転車からの生センサーストリームをクリーンでラベル付きの検索可能なデータセットに変換するインフラ構築のため、840万ドルを調達しました。同社のディープラーニングパイプラインは、手動アノテーションチームの50倍の速度で生映像を処理します。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": ["スタートアップ", "データ", "学習", "自動運転車"],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0403-004",
+      "title": "ロボット用センサーがロボットに人間のような触覚を与える可能性——Penn State研究",
+      "summary": "Penn Stateの研究者たちは、テクスチャ・温度・力を同時に検出でき、人間の指先に匹敵する感度を持つ柔軟な圧力センサーを開発しています。このセンサーは、数千回の屈曲サイクル後も機能を維持する新しい圧電抵抗性複合材料を使用しています。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-qa-robots-sensors.html",
+      "tags": ["触覚センサー", "Penn State", "ソフトロボティクス"],
+      "timestamp": "2026-03-30T17:00:04Z"
+    },
+    {
+      "id": "0403-005",
+      "title": "クロスエンボディメントスキル転移：異なる体型のロボットが知識を共有可能に",
+      "summary": "Stanfordの研究者たちは、腕・脚・車輪など根本的に異なる身体構造を持つロボットが、特定の物理的形態に依存しない抽象的な「意図ベクトル」として操作スキルをエンコードすることで共有できるフレームワークを開発しました。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-bodies-skills-intention-based.html",
+      "tags": ["転移学習", "クロスエンボディメント", "Stanford"],
+      "timestamp": "2026-03-30T13:20:04Z"
+    },
+    {
+      "id": "0403-006",
+      "title": "HEAPGraspが倉庫テストで未知の物体に対して97.3%の成功率を達成",
+      "summary": "HEAPGraspシステムは階層的把持とリアルタイムの触覚フィードバックを組み合わせ、高度に変形しやすい包装材、滑りやすい農産物、不規則な形の工業部品など、これまで見たことのない物体に対して97.3%の成功率を達成しました。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-heapgrasp-faster-smarter-robots-tricky.html",
+      "tags": ["把持", "物流", "マニピュレーション"],
+      "timestamp": "2026-03-30T11:20:03Z"
+    },
+    {
+      "id": "0403-007",
+      "title": "HomeTask-3000：これまでで最も厳格な家庭用ロボットベンチマーク",
+      "summary": "12大学からなるコンソーシアムが、47種類のリアルな家庭レイアウトで3,000件の多段階家事シナリオを含むHomeTask-3000を公開しました。このベンチマークは、特に複数日にわたるコンテキスト保持が必要なタスクで、現在の家庭用ロボットの性能に大きな課題があることを明らかにしました。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html",
+      "tags": ["ベンチマーク", "家庭用ロボット", "研究"],
+      "timestamp": "2026-03-29T11:30:02Z"
+    },
+    {
+      "id": "0403-008",
+      "title": "小型3Dプリント製マイクロロボットが物理的形状だけで動物のように泳ぐ",
+      "summary": "Leiden Universityで開発された顕微鏡サイズの3Dプリント製ロボットは、センサーやプロセッサ、バッテリーなしに環境勾配を検知して反応し、体の物理的形状が周囲の流体と相互作用する原理だけで動作します。このアプローチは安価で使い捨て可能なマイクロロボットという全く新しいクラスを可能にします。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": ["マイクロロボット", "3Dプリント", "受動的移動"],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0403-009",
+      "title": "デジタルツインが救助ロボットの災害現場マッピングを10倍高速化",
+      "summary": "リアルタイム3D点群処理アルゴリズムにより、災害対応ロボットが崩壊した建物の精密なデジタルツインマップを数秒で構築できるようになりました。これにより、従来のSLAMベースのアプローチよりはるかに速く、閉じ込められた生存者への安全なルートを計画できます。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": ["災害対応", "3Dマッピング", "SLAM"],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0403-010",
+      "title": "Harvardの映像拡散ワールドモデルがロボットに行動前の「想像」を可能にする",
+      "summary": "Harvardの新しいAIアーキテクチャは映像拡散モデルを内部の「想像エンジン」として使用し、ロボットが最善の行動を実行する前に数百の可能な行動の結果を頭の中でシミュレーションできるようにします。このアプローチは30の標準マニピュレーションベンチマークのうち23で人間レベルの性能を達成しました。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-video-based-ai-robots-visual.html",
+      "tags": ["ワールドモデル", "拡散", "Harvard", "計画"],
+      "timestamp": "2026-03-26T10:20:03Z"
+    },
+    {
+      "id": "0403-011",
+      "title": "マルチエージェント強化学習が倉庫ロボットの渋滞を削減しスループットを25%向上",
+      "summary": "500台のロボットを使ったAmazonフルフィルメントセンターのシミュレーションに導入されたダイナミックなマルチエージェント強化学習システムは、渋滞が発生した後に反応するのではなく、予測された混雑ポイントを事前にう回することで注文スループットを25%向上させました。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": ["倉庫", "MARL", "Amazon", "スループット"],
+      "timestamp": "2026-03-26T09:30:01Z"
+    },
+    {
+      "id": "0403-012",
+      "title": "コウモリ型ドローンが超音波を使って視界ゼロの火災現場をナビゲート",
+      "summary": "WPIのコウモリ型ドローンは、超音波エコーロケーションシステムと反射信号を3Dマップとして解釈するカスタムAIを使用して、濃い煙と視界ゼロの環境を移動します。消防署では現在、ファーストレスポンダーの偵察用としてこのシステムのパイロットテストを実施しています。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ultrasound-palm-sized-drones-fog.html",
+      "tags": ["ドローン", "火災対応", "超音波", "ナビゲーション"],
+      "timestamp": "2026-03-26T09:06:49Z"
+    },
+    {
+      "id": "0403-013",
+      "title": "モーターレス形状記憶合金ロボットハンドがサーボ駆動設計より70%軽量",
+      "summary": "電動サーボモーターを形状記憶合金ワイヤと巧みな機械式トランスミッションに置き換えることで、研究者たちは重量わずか180グラムの5本指ロボットハンドを開発しました。これは同等のサーボ駆動設計より70%軽量でありながら、100ミリ秒未満の作動速度を維持しています。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["ロボットハンド", "SMA", "軽量", "義手"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0403-014",
+      "title": "リストバンド制御の義手が切断者に個別の指の制御を提供",
+      "summary": "MITのEMGリストバンドは筋肉信号を読み取り、義手の各指のリアルタイム制御を実現します。ユーザーは20時間未満のトレーニングで信頼性の高い独立した指の制御を達成できます。これは従来の筋電義手に必要な200時間以上と比べて大幅な改善です。",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": ["義手", "EMG", "MIT", "アクセシビリティ"],
+      "timestamp": "2026-03-25T06:00:09Z"
+    },
+    {
+      "id": "0403-015",
+      "title": "ロボットのトマト収穫機が難易度認識型収穫を学習し収量を35%改善",
+      "summary": "遭遇した順番にトマトを摘む代わりに、新しい農業ロボットは果実の位置、遮蔽具合、茎の向きに基づいて収穫の難しさを予測し、簡単なターゲットを優先します。この戦略により、管理された温室試験で総収穫量が35%向上しました。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["農業ロボティクス", "トマト", "AI計画"],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0403-016",
+      "title": "BRINC Guardianドローン：Narcanを搭載し車を追跡できる警察用緊急レスポンダー",
+      "summary": "BRINCは迅速な911ファーストレスポンスに向けて設計された法執行ドローン、Guardianを発表しました。全国カバレッジのためのStarlink接続を統合し、薬物過剰摂取の通報にNarcanを展開でき、60mphで容疑者を追跡します。市民自由の擁護者たちはこのシステムについて重大な懸念を表明しています。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "tags": ["警察", "ドローン", "BRINC", "緊急事態"],
+      "timestamp": "2026-03-25T21:12:03Z"
+    },
+    {
+      "id": "0403-017",
+      "title": "オーストラリアが過酷なアウトバックの猛暑でソーラーファームを点検するロボットを投入",
+      "summary": "AI搭載の点検ロボットがオーストラリア最大のソーラーファームで危険な人手による保守作業に取って代わり、50°Cの猛暑の中で数キロメートルにわたる不均一な砂漠の地形を走破し、パネルを清掃し、効率を測定し、サーモグラフィーカメラで故障を検出しています。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": ["太陽光", "オーストラリア", "点検", "産業"],
+      "timestamp": "2026-03-25T18:10:07Z"
+    },
+    {
+      "id": "0403-018",
+      "title": "AIを搭載した捜索救助ドローンが地上チームより4倍速く行方不明者を発見",
+      "summary": "熱感知・赤外線・可視光カメラをAI検知システムと統合したマルチセンサードローンプラットフォームが、荒野での試験で地上捜索チーム単独と比べて4倍速く行方不明者を発見しました。この技術はスイスやコロラドの山岳救助組織に採用されています。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["SAR", "ドローン", "サーマル", "緊急事態"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0403-019",
+      "title": "AmazonによるFauna Robotics買収：家庭や病院向けに設計されたSpoutヒューマノイド",
+      "summary": "AmazonによるFauna Robotics買収により、同社のSprout——子供サイズの社会志向ヒューマノイド——がAmazonファミリーに加わります。Sproutはリビングや病院の廊下など構造化されていない環境で機能するよう設計されており、Amazonの既存の倉庫ロボット群を補完します。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-amazon-buys-fauna-robotics-maker.html",
+      "tags": ["Amazon", "ヒューマノイド", "家庭用ロボット", "医療"],
+      "timestamp": "2026-03-25T05:30:01Z"
+    },
+    {
+      "id": "0403-020",
+      "title": "Georgia Techの電子機器なし群れ：自己組織化する機械式ロボット",
+      "summary": "Georgia Techの研究者たちは、センサーもプロセッサもバッテリーも持たない純粋に機械式のロボット群れが物理的な形状の相互作用を通じて自己組織化された集団行動を達成することを実証しました。この研究は群知能に何が必要かについての根本的な仮定に疑問を呈しています。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["群れ", "Georgia Tech", "機械式", "自己組織化"],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0403-021",
+      "title": "LLM制御のROSロボットがリアルタイムで平易な英語コマンドに応答",
+      "summary": "新しいミドルウェア層がGPT-4レベルの言語モデルをRobot Operating Systemと統合し、エンジニアも非専門家も自然言語を使って複雑な多段階ロボット動作を命令できるようにしました。このシステムは5つの異なるロボットプラットフォームで検証されています。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html",
+      "tags": ["LLM", "ROS", "自然言語", "制御"],
+      "timestamp": "2026-04-01T08:10:01Z"
+    }
+  ]
+}

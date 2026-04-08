@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-03",
+  "featured": {
+    "id": "featured-0403",
+    "title": "FedEx y Berkshire Gray se asocian para implementar robots clasificadores con IA en toda su red en EE. UU.",
+    "summary": "FedEx anunció una amplia alianza con Berkshire Gray para implementar robots de clasificación y manipulación con IA en las 650 instalaciones que tiene en Estados Unidos durante los próximos tres años. El acuerdo, valuado en aproximadamente 1,200 millones de dólares, es el contrato de automatización robótica más grande en la historia de la logística.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+    "tags": ["FedEx", "Logística", "Automatización", "Berkshire Gray"],
+    "timestamp": "2026-03-31T15:46:50Z"
+  },
+  "articles": [
+    {
+      "id": "0403-001",
+      "title": "Robots de DNA podrían administrar medicamentos y combatir virus dentro del cuerpo humano",
+      "summary": "Los nanobots de DNA programables surgen como la próxima frontera de la medicina dirigida. Al retomar conceptos de locomoción, detección y carga útil de la robótica a gran escala, los investigadores crearon máquinas moleculares capaces de navegar por el torrente sanguíneo y entregar medicamentos directamente a células tumorales.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["Nanorobots", "Administración de medicamentos", "DNA", "Medicina"],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0403-002",
+      "title": "Un marco de control permite que robots flexibles naveguen en espacios reducidos con menos cómputo",
+      "summary": "Un nuevo marco de control cinemático reduce en un 80% el cómputo de planificación de rutas para robots blandos y continuos, lo que permite la navegación en tiempo real dentro de tuberías, ductos y conductos biológicos. Este trabajo es un paso importante hacia el despliegue de robots flexibles en cirugía e inspección de infraestructura.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": ["Robótica blanda", "Planificación de rutas", "Cirugía"],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0403-003",
+      "title": "Nomadic recauda 8.4 millones de dólares para convertir el video de robots en datos de entrenamiento de IA buscables",
+      "summary": "Nomadic recaudó 8.4 millones de dólares para construir la infraestructura que convierte flujos de datos brutos de sensores de robots y vehículos autónomos en conjuntos de datos limpios, etiquetados y buscables. El pipeline de aprendizaje profundo de la empresa procesa el video en bruto 50 veces más rápido que los equipos de anotación manual.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": ["Startup", "Datos", "Entrenamiento", "Vehículos autónomos"],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0403-004",
+      "title": "Sensores robóticos podrían dar a los robots un sentido del tacto similar al humano — Investigación de Penn State",
+      "summary": "Investigadores de Penn State desarrollan sensores de presión flexibles capaces de detectar simultáneamente textura, temperatura y fuerza con una sensibilidad comparable a la de las yemas de los dedos humanos. Los sensores utilizan un novedoso material compuesto piezoresistivo que sigue siendo funcional después de miles de ciclos de flexión.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-qa-robots-sensors.html",
+      "tags": ["Sensores táctiles", "Penn State", "Robótica blanda"],
+      "timestamp": "2026-03-30T17:00:04Z"
+    },
+    {
+      "id": "0403-005",
+      "title": "Transferencia de habilidades entre morfologías: robots con distintos cuerpos ya pueden compartir conocimiento",
+      "summary": "Investigadores de Stanford desarrollaron un marco que permite a robots con morfologías fundamentalmente distintas —brazos, piernas, ruedas— compartir habilidades de manipulación codificándolas como «vectores de intención» abstractos, independientes de cualquier forma física particular.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-bodies-skills-intention-based.html",
+      "tags": ["Aprendizaje por transferencia", "Cross-Embodiment", "Stanford"],
+      "timestamp": "2026-03-30T13:20:04Z"
+    },
+    {
+      "id": "0403-006",
+      "title": "HEAPGrasp logra un 97.3% de éxito con objetos desconocidos en pruebas de almacén",
+      "summary": "El sistema HEAPGrasp combina agarre jerárquico con retroalimentación háptica en tiempo real y alcanza un 97.3% de éxito con objetos nunca vistos antes, incluyendo empaques muy deformables, productos resbaladizos y piezas industriales de formas irregulares.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-heapgrasp-faster-smarter-robots-tricky.html",
+      "tags": ["Agarre", "Logística", "Manipulación"],
+      "timestamp": "2026-03-30T11:20:03Z"
+    },
+    {
+      "id": "0403-007",
+      "title": "HomeTask-3000: el benchmark de robots domésticos más riguroso hasta ahora",
+      "summary": "Un consorcio de 12 universidades lanzó HomeTask-3000, un benchmark con 3,000 escenarios de tareas domésticas de varios pasos en 47 distribuciones de hogar realistas. El benchmark expone brechas significativas en el desempeño actual de los robots domésticos, particularmente en tareas que requieren retención de contexto por varios días.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html",
+      "tags": ["Benchmark", "Robots domésticos", "Investigación"],
+      "timestamp": "2026-03-29T11:30:02Z"
+    },
+    {
+      "id": "0403-008",
+      "title": "Pequeños microrrobots impresos en 3D nadan como animales usando solo su forma física",
+      "summary": "Microrrobots impresos en 3D a escala microscópica desarrollados en Leiden University navegan y responden a gradientes ambientales sin sensores, procesadores ni baterías, apoyándose únicamente en la geometría física de sus cuerpos al interactuar con el fluido circundante. Este enfoque habilita clases completamente nuevas de microrrobots baratos y desechables.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": ["Microrrobots", "Impresión 3D", "Locomoción pasiva"],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0403-009",
+      "title": "Los gemelos digitales ayudan a robots de rescate a mapear zonas de desastre 10 veces más rápido",
+      "summary": "Algoritmos de procesamiento de nubes de puntos 3D en tiempo real permiten ahora a los robots de respuesta a desastres construir mapas de gemelo digital precisos de edificios derrumbados en segundos, lo que les permite planificar rutas seguras hacia sobrevivientes atrapados mucho más rápido que los enfoques anteriores basados en SLAM.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": ["Respuesta a desastres", "Mapeo 3D", "SLAM"],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0403-010",
+      "title": "El modelo de mundo de difusión de video de Harvard permite a los robots imaginar antes de actuar",
+      "summary": "Una nueva arquitectura de IA de Harvard usa un modelo de difusión de video como «motor de imaginación» interno, permitiendo que los robots simulen mentalmente el resultado de cientos de posibles acciones antes de ejecutar la mejor. El enfoque alcanza rendimiento humano en 23 de los 30 benchmarks estándar de manipulación.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-video-based-ai-robots-visual.html",
+      "tags": ["Modelo de mundo", "Difusión", "Harvard", "Planeación"],
+      "timestamp": "2026-03-26T10:20:03Z"
+    },
+    {
+      "id": "0403-011",
+      "title": "El aprendizaje por refuerzo multiagente reduce atascos de robots en bodegas y eleva el rendimiento un 25%",
+      "summary": "Un sistema dinámico de aprendizaje por refuerzo multiagente desplegado en un centro de distribución simulado de Amazon con 500 robots incrementó el rendimiento de pedidos un 25% al redirigir proactivamente los robots alrededor de puntos de congestión predichos antes de que se formen atascos, en lugar de reaccionar después de que ocurran.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": ["Bodega", "MARL", "Amazon", "Rendimiento"],
+      "timestamp": "2026-03-26T09:30:01Z"
+    },
+    {
+      "id": "0403-012",
+      "title": "Drones inspirados en murciélagos navegan en incendios con cero visibilidad usando ultrasonido",
+      "summary": "El dron inspirado en murciélagos de WPI navega en entornos con humo denso y visibilidad cero mediante un sistema de ecolocalización por ultrasonido y una IA personalizada que interpreta las señales reflejadas como un mapa 3D. Los cuerpos de bomberos ya están piloteando el sistema para reconocimiento de primeros respondientes.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ultrasound-palm-sized-drones-fog.html",
+      "tags": ["Drones", "Respuesta a incendios", "Ultrasonido", "Navegación"],
+      "timestamp": "2026-03-26T09:06:49Z"
+    },
+    {
+      "id": "0403-013",
+      "title": "Una mano robótica de aleación con memoria de forma sin motor pesa 70% menos que diseños con servos",
+      "summary": "Al reemplazar los servomotores eléctricos con alambres de aleación con memoria de forma y una ingeniosa transmisión mecánica, los investigadores construyeron una mano robótica de cinco dedos que pesa solo 180 gramos, un 70% menos que diseños comparables con servos, manteniendo velocidades de actuación menores a 100 ms.",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Mano robótica", "SMA", "Ligero", "Prótesis"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0403-014",
+      "title": "Una mano protésica controlada con pulsera permite a personas amputadas controlar cada dedo de forma independiente",
+      "summary": "Una pulsera EMG de MIT lee señales musculares para proporcionar control en tiempo real de cada dedo de una mano protésica. Los usuarios logran un control independiente confiable de los dedos con menos de 20 horas de entrenamiento, en comparación con las más de 200 horas que requieren las prótesis mioeléctricas convencionales.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": ["Prótesis", "EMG", "MIT", "Accesibilidad"],
+      "timestamp": "2026-03-25T06:00:09Z"
+    },
+    {
+      "id": "0403-015",
+      "title": "Robot cosechador de jitomates aprende a cosechar según dificultad y mejora el rendimiento un 35%",
+      "summary": "En lugar de cosechar jitomates en el orden que los encuentra, un nuevo robot agrícola predice la dificultad de cosecha con base en la posición del fruto, la oclusión y la orientación del tallo, priorizando los objetivos más fáciles. La estrategia mejoró el rendimiento total de cosecha un 35% en ensayos controlados en invernadero.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["AgriRobotics", "Jitomate", "Planeación con IA"],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0403-016",
+      "title": "Dron BRINC Guardian: respondedor policial de emergencias que carga Narcan y persigue autos",
+      "summary": "BRINC presentó el Guardian, un dron policial diseñado para respuesta rápida al 911. Integra conectividad Starlink para cobertura nacional, puede desplegar Narcan en llamadas por sobredosis y persigue sospechosos a 60 mph. Defensores de libertades civiles han expresado preocupaciones importantes sobre el sistema.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "tags": ["Policía", "Dron", "BRINC", "Emergencia"],
+      "timestamp": "2026-03-25T21:12:03Z"
+    },
+    {
+      "id": "0403-017",
+      "title": "Australia implementa robots para inspeccionar granjas solares bajo el calor extremo del interior del país",
+      "summary": "Robots de inspección con IA están reemplazando el peligroso trabajo humano de mantenimiento en las granjas solares más grandes de Australia, recorriendo kilómetros de terreno desértico irregular a 50 °C para limpiar paneles, medir eficiencia y detectar fallas con cámaras termográficas.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": ["Solar", "Australia", "Inspección", "Industrial"],
+      "timestamp": "2026-03-25T18:10:07Z"
+    },
+    {
+      "id": "0403-018",
+      "title": "Drones de búsqueda y rescate con IA localizan personas desaparecidas 4 veces más rápido que equipos terrestres",
+      "summary": "Una plataforma de drones multisensor que integra cámaras térmicas, infrarrojas y visuales con un sistema de detección por IA encontró personas desaparecidas en zonas silvestres cuatro veces más rápido que los equipos de búsqueda en tierra solos. La tecnología está siendo adoptada por organizaciones de rescate en montaña en Suiza y Colorado.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["SAR", "Drones", "Térmico", "Emergencia"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0403-019",
+      "title": "Amazon adquiere Fauna Robotics: el humanoide Sprout diseñado para hogares y hospitales",
+      "summary": "La adquisición de Fauna Robotics por Amazon trae a la familia Amazon el Sprout de la empresa, un humanoide del tamaño de un niño con enfoque social. Sprout está diseñado para funcionar en entornos no estructurados como salas de estar y pasillos de hospitales, complementando la flota existente de robots de almacén de Amazon.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-amazon-buys-fauna-robotics-maker.html",
+      "tags": ["Amazon", "Humanoide", "Robots domésticos", "Salud"],
+      "timestamp": "2026-03-25T05:30:01Z"
+    },
+    {
+      "id": "0403-020",
+      "title": "El enjambre sin electrónica de Georgia Tech: robots mecánicos que se autoorganizan",
+      "summary": "Investigadores de Georgia Tech demostraron un enjambre de robots puramente mecánicos, sin sensores, procesadores ni baterías, que logran un comportamiento colectivo autoorganizado mediante interacciones físicas de forma. El trabajo cuestiona supuestos fundamentales sobre qué se necesita para la inteligencia de enjambre.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["Enjambre", "Georgia Tech", "Mecánico", "Autoorganización"],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0403-021",
+      "title": "Robots ROS controlados por LLM responden a comandos en inglés común en tiempo real",
+      "summary": "Una nueva capa de middleware integra modelos de lenguaje de nivel GPT-4 con el Robot Operating System, permitiendo tanto a ingenieros como a personas no expertas comandar comportamientos robóticos complejos de varios pasos usando lenguaje natural. El sistema ha sido validado en cinco plataformas robóticas distintas.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html",
+      "tags": ["LLM", "ROS", "Lenguaje natural", "Control"],
+      "timestamp": "2026-04-01T08:10:01Z"
+    }
+  ]
+}

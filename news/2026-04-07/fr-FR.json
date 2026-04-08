@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-07",
+  "featured": {
+    "id": "featured-20260407",
+    "title": "Amazon acquiert Fauna Robotics, créateur du robot humanoïde Sprout",
+    "summary": "Amazon a acquis Fauna Robotics, la startup à l'origine du robot humanoïde Sprout, dans une opération qui accélère considérablement l'ambition du géant du commerce en ligne d'intégrer l'AI incarnée dans l'automatisation de ses entrepôts. Cette acquisition constitue l'un des plus grands rachats dans le domaine de la robotique humanoïde à ce jour, signalant que les grandes entreprises technologiques passent des partenariats à la propriété directe de sociétés de robotique. Sprout a été conçu spécifiquement pour les tâches flexibles de préhension et de dépôt dans les centres de distribution — des domaines où les robots industriels conventionnels peinent depuis longtemps. Grâce à l'échelle logistique d'Amazon et à son infrastructure AI, Sprout pourrait passer du pilote au déploiement massif dans son vaste réseau mondial d'entrepôts en quelques années.",
+    "image": "https://scx1.b-cdn.net/csz/news/800a/2026/amazon-buys-fauna-robo.jpg",
+    "source": "TechXplore",
+    "url": "https://techxplore.com/news/2026-03-amazon-buys-fauna-robotics-maker.html",
+    "tags": ["Amazon", "Humanoïde", "Acquisition", "Entrepôt"],
+    "timestamp": "2026-04-07T02:29:52Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260407-01",
+      "title": "Une main robotique sans moteur utilise un actionneur à mémoire de forme pour des saisies en moins d'une seconde",
+      "summary": "Des chercheurs ont mis au point une main robotique fonctionnant sans moteurs électriques conventionnels, s'appuyant à la place sur un nouvel actionneur bidirectionnel en alliage à mémoire de forme capable de se reconfigurer en moins d'une seconde. Cette conception simplifie radicalement la complexité mécanique — les préhenseurs robotiques traditionnels nécessitent des dizaines de moteurs et de câbles — tout en maintenant une manipulation fiable. En exploitant l'actuation au niveau des matériaux, la main adapte sa géométrie de préhension à la volée dans des environnements non structurés. Cette avancée pourrait réduire les coûts des systèmes prothétiques et des préhenseurs industriels.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/twoway-shape-memory-al.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Actionneur", "Préhenseur", "Robotique souple", "Manipulation"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-02",
+      "title": "Surmonter les obstacles d'ingénierie fondamentaux dans le développement de la robotique humanoïde",
+      "summary": "Un nouveau livre blanc de IEEE Spectrum examine les obstacles matériels et logiciels persistants qui empêchent les robots humanoïdes de passer du prototype à la production à grande échelle. Les défis clés incluent la densité d'énergie des batteries, l'écart entre les performances de dextérité en laboratoire et la fiabilité dans le monde réel, ainsi que l'absence d'écosystèmes de composants standardisés. Le document soutient qu'une collaboration inter-entreprises sur les normes d'actionneurs et de capteurs pourrait compresser les délais de développement de plusieurs années — alors que des acteurs majeurs de Boston Dynamics à Figure AI s'efforcent de déployer commercialement des humanoïdes.",
+      "image": "https://assets.rbl.ms/65106483/origin.png",
+      "source": "IEEE Spectrum",
+      "url": "https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/",
+      "tags": ["Humanoïde", "Ingénierie", "Industrie", "Feuille de route"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-03",
+      "title": "Un essaim de robots sans électronique, batteries ni cerveau démontre un comportement émergent",
+      "summary": "Des scientifiques ont créé un essaim de robots fonctionnant entièrement sans électronique, batteries ni calcul embarqué — reposant uniquement sur des interactions purement mécaniques et l'énergie ambiante. Les robots coordonnent un comportement émergent par contact physique et des mécanismes passifs à ressort, s'inspirant des colonies de fourmis et des moisissures visqueuses. Cette approche pourrait produire des systèmes d'essaim à très faible coût pour l'inspection de décombres ou la surveillance environnementale dans des lieux où l'électronique serait défaillante.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-smartest-robots-ma.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["Robotique en essaim", "Robotique souple", "Recherche", "Bioinspirée"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-04",
+      "title": "Un actionneur résilient ouvre la voie aux robots souples prêts pour l'espace",
+      "summary": "Un actionneur nouvellement développé pour la robotique souple a démontré la tolérance aux radiations et la résilience thermique nécessaires pour fonctionner dans les environnements spatiaux. Contrairement aux systèmes rigides, les robots souples peuvent s'adapter à un terrain irrégulier et manipuler des objets fragiles, ce qui les rend attractifs pour l'exploration planétaire. L'actionneur survit au vide, à des variations de température supérieures à 200 °C et à des doses de radiation pertinentes pour les missions lunaires et martiennes — rapprochant les systèmes robotiques souples déployables pour les sciences spatiales d'un pas de plus.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-actuator-could-boo.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": ["Robotique spatiale", "Robotique souple", "Actionneur", "Exploration"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-05",
+      "title": "Des robots semblables à des oiseaux promettent une meilleure maniabilité que les drones conventionnels",
+      "summary": "Une nouvelle catégorie de robots inspirés des oiseaux imite la façon dont les oiseaux reconfigurent dynamiquement leurs ailes en plein vol pour naviguer dans des environnements complexes et encombrés, bien plus efficacement que les drones quadrotors. En intégrant des structures d'ailes à morphologie passive et des plumes caudales, les robots atteignent des rayons de virage plus serrés et un vol stationnaire plus stable près des obstacles sans capteurs ni actionneurs supplémentaires. Les démonstrations ont montré le système naviguant dans une canopée forestière dense et à l'intérieur de bâtiments effondrés — des environnements où les drones standards échouent régulièrement.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/birdlike-robots-that-p.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["Drones", "Bioinspirée", "Robotique aérienne", "Recherche et sauvetage"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-06",
+      "title": "Un cadre à cinq niveaux évalue les robots humanoïdes sur la mobilité, la manipulation et la cognition",
+      "summary": "Des chercheurs ont proposé un modèle de capacité standardisé à cinq niveaux pour les robots humanoïdes, analogue aux niveaux d'autonomie de conduite autonome de la SAE. Le cadre évalue les robots en termes de mobilité, de manipulation dextre et de prise de décision cognitive — fournissant un langage commun pour comparer les produits de différentes entreprises concurrentes. Actuellement, aucun humanoïde disponible dans le commerce n'atteint le niveau deux sur les trois axes simultanément, ce qui souligne l'écart entre les affirmations marketing et les capacités réelles.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/which-technical-capabi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["Humanoïde", "Normes", "Benchmarking", "Industrie"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-07",
+      "title": "Un bracelet permet aux amputés de contrôler une main robotique par des mouvements naturels",
+      "summary": "Un bracelet non invasif utilise l'électromyographie de surface et l'apprentissage automatique pour décoder les mouvements intentionnels de la main à partir des signaux musculaires résiduels, permettant aux amputés de contrôler une main prothétique robotique en temps réel. Contrairement aux solutions implantées, il ne nécessite aucune chirurgie et se calibre sur un nouvel utilisateur en moins de dix minutes. Lors des essais, les participants ont atteint plus de 90 % de précision sur une tâche de dextérité standardisée dès leur première session, avec une commercialisation prévue dans deux ans.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wristband-enables-wear.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": ["Prothèses", "Objets connectés", "EMG", "Réhabilitation"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-08",
+      "title": "Gill Pratt : le moment commercial des robots humanoïdes est enfin arrivé",
+      "summary": "Gill Pratt, PDG du Toyota Research Institute et ancien responsable de programme DARPA à l'origine du défi robotique, affirme que la convergence des modèles de fondation, l'amélioration des actionneurs et la baisse des coûts des capteurs ont conduit les robots humanoïdes à un véritable point d'inflexion commercial. Dans une longue interview accordée à IEEE Spectrum, Pratt soutient que le principal obstacle restant n'est pas le matériel mais les données — en particulier les jeux de données à grande échelle de manipulation humaine dans des contextes divers et non structurés. Il prédit que les humanoïdes domestiques seront commercialement viables d'ici cinq ans.",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-bespectacled-bearded-man-kneels-posed-behind-a-robotic-torso.jpg?id=65446567&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": ["Humanoïde", "AI", "Industrie", "DARPA"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-09",
+      "title": "L'AI réduit les embouteillages des robots d'entrepôt, augmentant le débit de 25 %",
+      "summary": "Un système d'apprentissage par renforcement entraîné pour gérer la coordination multi-robots dans de grands centres de distribution a amélioré le débit des commandes de 25 % en reroutant dynamiquement les robots autour des congestions. Les systèmes traditionnels de gestion d'entrepôt utilisent des règles de routage statiques qui se dégradent à mesure que la densité des robots augmente ; le système AI s'adapte en temps réel aux conditions changeantes du sol. La technologie a été validée en simulation puis déployée dans une installation réelle avec plus de 200 robots mobiles autonomes.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/warehouse-robots.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": ["Robots d'entrepôt", "Apprentissage par renforcement", "Logistique", "AI"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-10",
+      "title": "Des robots d'entrepôt autonomes apprennent directement de leur expérience sur le terrain",
+      "summary": "Un déploiement chez un fabricant européen de pièces automobiles montre des robots autonomes améliorant leurs performances de tâches en apprenant de leur expérience sur le tas plutôt que de routines préprogrammées. Le système utilise une architecture d'apprentissage continu qui met à jour le comportement des robots chaque nuit sur la base des données opérationnelles de la journée, sans réentraînement humain. Sur six mois, les taux d'erreur lors du prélèvement de bacs ont chuté de 40 % à mesure que les robots s'adaptaient aux variations d'inventaire — l'un des premiers déploiements d'apprentissage continu documentés en usine à grande échelle.",
+      "image": "https://spectrum.ieee.org/media-library/robotic-arms-on-mobile-bases-sort-crates-on-a-conveyor-belt-in-a-warehouse.png?id=63907821&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
+      "tags": ["Robots d'entrepôt", "Apprentissage continu", "Fabrication", "AI"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-11",
+      "title": "Des minuscules robots marchent sur l'eau pour sonder les écosystèmes de surface",
+      "summary": "Des chercheurs ont développé des robots à l'échelle millimétrique inspirés des araignées d'eau qui peuvent marcher sur la tension superficielle de l'eau, permettant un échantillonnage non invasif des écosystèmes de surface aquatique. Les robots utilisent des pattes hydrophobes et une distribution de poids précisément ajustée pour éviter de percer la surface de l'eau tout en transportant des capteurs miniatures. Les applications potentielles incluent la surveillance de la qualité de l'eau, la détection des déversements de pétrole et l'étude de la couche neuston — la communauté d'organismes peu connue vivant à l'interface air-eau.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033930.htm",
+      "tags": ["Robotique souple", "Recherche", "Environnement", "Bioinspirée"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-12",
+      "title": "Des scientifiques fabriquent des robots plus petits qu'un grain de sel capables de « penser »",
+      "summary": "Des chercheurs de Cornell ont fabriqué des microrobots plus petits qu'un grain de sel intégrant des circuits photovoltaïques embarqués capables d'une logique computationnelle simple, permettant aux dispositifs de répondre aux stimuli environnementaux sans contrôle externe. Les robots peuvent être guidés optiquement et effectuer une prise de décision de base — comme se déplacer vers un gradient chimique — en utilisant uniquement l'énergie lumineuse ambiante. Cette étape rapproche considérablement les systèmes microrobotiques sans fil pour la détection biomédicale et environnementale du déploiement.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": ["Microrobotique", "Recherche", "Biomédical", "Nanotechnologie"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-13",
+      "title": "La percée de la vallée de l'étrange : rendre les visages de robots moins inquiétants",
+      "summary": "Des scientifiques ont identifié les indices perceptuels précis qui déclenchent l'effet de la vallée de l'étrange sur les visages de robots humanoïdes — et ont démontré que des ajustements ciblés de la texture de la peau, du timing des micro-expressions et des schémas de mouvement oculaire peuvent presque entièrement éliminer la réponse d'inconfort. Les résultats ont des implications immédiates pour les robots sociaux, les avatars de téléprésence et la conception de robots humanoïdes, où l'acceptation par l'utilisateur est essentielle à l'adoption. La recherche a impliqué des études de neuroimagerie de sujets interagissant avec des visages de robots réels et simulés.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": ["Robotique sociale", "Interaction humain-robot", "Recherche", "Design"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-14",
+      "title": "Un robot alimenté par l'AI apprend à récolter les tomates plus efficacement au fil du temps",
+      "summary": "Un robot agricole équipé d'un modèle vision-langage et d'apprentissage par renforcement a démontré une amélioration continue de l'efficacité de la récolte de tomates lors d'un essai en serre de six semaines. Le robot endommageait initialement environ 8 % des fruits ; à la fin de l'essai, les taux de dommages sont tombés en dessous de 1 % alors qu'il apprenait à moduler la force de préhension en fonction des estimations de maturité de sa caméra. Ce travail met en évidence l'agriculture comme terrain d'expérimentation pour les systèmes robotiques adaptatifs dans des environnements réels très variables.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["Robotique agricole", "Apprentissage par renforcement", "AI", "Récolte"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-15",
+      "title": "Les robots DNA pourraient administrer des médicaments et traquer les virus à l'intérieur du corps humain",
+      "summary": "Des scientifiques ont conçu des nanorobots à base de DNA qui naviguent dans les environnements biologiques, reconnaissent des cibles moléculaires spécifiques et délivrent des charges thérapeutiques avec une précision au niveau cellulaire. Les robots exploitent l'appariement de bases Watson-Crick comme mécanisme de guidage pour rechercher des marqueurs cancéreux ou des protéines virales avant de libérer leur charge médicamenteuse. Dans des modèles murins, la technologie a réduit la charge tumorale de 60 % par rapport à l'administration systémique du médicament, représentant un bond significatif dans la nanomédecine ciblée.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["Nanorobotique", "Médical", "Administration de médicaments", "Biotechnologie"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-16",
+      "title": "Un robot propulsé par le vent conçu pour l'exploration longue durée d'environnements hostiles",
+      "summary": "Un nouveau prototype de robot propulsé par le vent peut traverser des terrains difficiles pendant des mois sans batteries ni carburant, récoltant l'énergie directement du flux d'air ambiant via un mécanisme passif à voile et ressort. La conception cible des environnements hostiles aux robots conventionnels — calottes glaciaires polaires, déserts arides, zones post-catastrophe — où le réapprovisionnement est impossible. Les premiers tests de terrain ont montré une locomotion soutenue sur un parcours désertique rocheux pendant 48 heures sans intervention humaine.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wind-powered-robot-cou.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["Récupération d'énergie", "Robotique de terrain", "Recherche", "Exploration"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-17",
+      "title": "Une puce Wi-Fi durcie aux radiations ouvre la porte aux robots de démantèlement nucléaire",
+      "summary": "Des ingénieurs ont conçu une puce Wi-Fi capable de survivre à des doses de radiation allant jusqu'à 500 kiloGrays — environ 500 fois la dose qui détruit l'électronique grand public conventionnelle — rendant pour la première fois possible le contrôle sans fil robuste des robots de démantèlement nucléaire. Les robots actuels dans des installations comme Fukushima et Sellafield doivent utiliser des communications filaires ou fortement blindées qui limitent leur portée et leur maniabilité. La nouvelle puce utilise des géométries de transistors tolérantes aux radiations et du matériel de correction d'erreurs pour maintenir des liaisons de données fiables dans des environnements à flux élevé.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/radiation-resistant-wi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": ["Nucléaire", "Capteurs", "Électronique", "Démantèlement"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-18",
+      "title": "Les robots affrontent la chaleur pour entretenir les fermes solaires à grande échelle",
+      "summary": "Des robots d'inspection et de nettoyage spécialisés prennent désormais en charge les tâches de maintenance dangereuses dans les grandes installations solaires, remplaçant les équipes qui travaillaient auparavant à des températures dépassant 50 °C dans des sites désertiques. Les robots utilisent la vision par ordinateur pour identifier les panneaux endommagés, nettoyer l'accumulation de poussière et effectuer des réparations mineures de câbles. Les premiers déploiements au Moyen-Orient et en Arizona montrent des améliorations de 15 à 20 % de la production annuelle des panneaux, avec une équipe de robots remplaçant quatre techniciens humains à un quart du coût annuel.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-take-the-heat-f.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": ["Énergie solaire", "Robots industriels", "Inspection", "Climat"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-19",
+      "title": "Des muscles artificiels pneumatiques aident les robots à soulever 100 fois leur propre poids",
+      "summary": "Une nouvelle conception de muscle artificiel pneumatique atteint un rapport force/poids permettant aux robots de soulever des charges 100 fois leur propre masse — dépassant largement la plupart des systèmes à moteurs électriques à l'échelle comparable. Les muscles utilisent une géométrie en accordéon originale dans un polymère haute résistance qui stocke l'énergie sous compression et la libère rapidement. La conception est particulièrement prometteuse pour les robots à pattes et les exosquelettes où l'efficacité énergétique et la densité de puissance sont essentielles.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/air-powered-artificial.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": ["Actionneur", "Robotique souple", "Exosquelette", "Pneumatique"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-20",
+      "title": "Le défi de triage DARPA oppose des équipes de robots à des scénarios de victimes en masse",
+      "summary": "Le défi de triage DARPA a réuni des équipes de robots autonomes chargées de localiser, évaluer et prioriser des victimes blessées sur un champ de bataille simulé — entièrement sans direction humaine. Les systèmes concurrents utilisaient des caméras thermiques, des radars à pénétration de sol et des algorithmes de triage AI pour identifier et rendre compte des victimes. L'équipe gagnante a traité un scénario de 40 victimes en moins de 12 minutes — une tâche qui prend généralement plus d'une heure à une équipe médicale humaine — alors que DARPA vise des systèmes de soins aux victimes en avant entièrement autonomes d'ici 2030.",
+      "image": "https://spectrum.ieee.org/media-library/aerial-drone-robotic-arm-explosion-and-medical-cross-on-abstract-background.jpg?id=62605094&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/darpa-triage-challenge-robots",
+      "tags": ["DARPA", "Robots médicaux", "Autonome", "Défense"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    }
+  ]
+}

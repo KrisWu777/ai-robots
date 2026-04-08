@@ -44,10 +44,15 @@ const App = (() => {
      Init
   ══════════════════════════════════════════ */
   async function init() {
+    // Detect and apply locale before any rendering
+    const locale = I18n.detectLocale();
+    I18n.setLocale(locale);
+
     setupHeader();
     setupMenuToggle();
     setupModal();
     buildDateTabs();
+    rerenderStaticUI();
     await loadDate(NewsData.getAvailableDates()[0]);
   }
 
@@ -63,6 +68,144 @@ const App = (() => {
       els.headerDate.textContent = d.toISOString().slice(0,10) + ' ' +
         d.toTimeString().slice(0,8);
     }, 1000);
+
+    buildLangSwitcher();
+  }
+
+  /* ── Language switcher ── */
+  const LANG_OPTIONS = [
+    { value: 'en-US',   label: 'EN-US' },
+    { value: 'en-GB',   label: 'EN-GB' },
+    { value: 'en-IN',   label: 'EN-IN' },
+    { value: 'zh-CN',   label: '中文(简)' },
+    { value: 'zh-TW',   label: '中文(繁)' },
+    { value: 'zh-HK',   label: '中文(港)' },
+    { value: 'es-ES',   label: 'ES' },
+    { value: 'es-MX',   label: 'ES-MX' },
+    { value: 'es-LA',   label: 'ES-LA' },
+    { value: 'fr-FR',   label: 'FR' },
+    { value: 'fr-AF',   label: 'FR-AF' },
+    { value: 'pt-BR',   label: 'PT-BR' },
+    { value: 'pt-PT',   label: 'PT-PT' },
+    { value: 'ar-SA',   label: 'عربي' },
+    { value: 'ar-EG',   label: 'عربي(مصر)' },
+    { value: 'hi-IN',   label: 'हिन्दी' },
+    { value: 'hi-IN-S', label: 'Hinglish' },
+    { value: 'ru-RU',   label: 'РУС' },
+    { value: 'ja-JP',   label: '日本語' },
+    { value: 'sw-TZ',   label: 'SW-TZ' },
+    { value: 'sw-KE',   label: 'SW-KE' },
+  ];
+
+  // Tracks which locale bundles have already been injected
+  const _loadedBundles = new Set();
+
+  function loadLocaleBundle(locale) {
+    // Resolve to the bundle locale (some locales share a bundle via fallback)
+    const BUNDLE_LOCALES = new Set([
+      'en-US','zh-CN','zh-TW','es-ES','es-MX','fr-FR','pt-BR',
+      'ar-SA','hi-IN','hi-IN-S','ru-RU','ja-JP','sw-TZ'
+    ]);
+    // Map derived locales to their bundle
+    const BUNDLE_MAP = {
+      'en-GB':'en-US','en-IN':'en-US','en-XX':'en-US',
+      'zh-HK':'zh-TW','zh-XX':'en-US',
+      'es-LA':'es-ES','fr-AF':'fr-FR','pt-PT':'pt-BR',
+      'ar-EG':'ar-SA','sw-KE':'sw-TZ',
+    };
+    const bundleLocale = BUNDLE_MAP[locale] || (BUNDLE_LOCALES.has(locale) ? locale : 'en-US');
+
+    // Already loaded (either at startup or previously)
+    if (_loadedBundles.has(bundleLocale)) return Promise.resolve();
+    if (window.__NEWS_DATA_LOCALES__ && window.__NEWS_DATA_LOCALES__[bundleLocale]) {
+      _loadedBundles.add(bundleLocale);
+      return Promise.resolve();
+    }
+
+    return new Promise((resolve) => {
+      const script = document.createElement('script');
+      script.src = `js/bundles/news-bundle.${bundleLocale}.js`;
+      script.onload = () => { _loadedBundles.add(bundleLocale); resolve(); };
+      script.onerror = () => resolve(); // fail silently, fetchDate will fallback
+      document.head.appendChild(script);
+    });
+  }
+
+  function buildLangSwitcher() {
+    const headerMeta = document.querySelector('.header-meta');
+    if (!headerMeta) return;
+
+    // Remove existing switcher if rebuilding
+    const existing = document.getElementById('langSwitcher');
+    if (existing) existing.remove();
+
+    const sel = document.createElement('select');
+    sel.id = 'langSwitcher';
+    sel.className = 'lang-switcher';
+    sel.setAttribute('aria-label', 'Select language');
+    sel.setAttribute('title', 'Select language');
+
+    LANG_OPTIONS.forEach(({ value, label }) => {
+      const opt = document.createElement('option');
+      opt.value = value;
+      opt.textContent = label;
+      if (value === I18n.getLocale()) opt.selected = true;
+      sel.appendChild(opt);
+    });
+
+    sel.addEventListener('change', async () => {
+      const newLocale = sel.value;
+      // Dynamically load the locale bundle if not yet loaded
+      await loadLocaleBundle(newLocale);
+      I18n.setLocale(newLocale);
+      rerenderStaticUI();
+      await loadDate(state.currentDate);
+    });
+
+    // Insert before the date clock
+    headerMeta.insertBefore(sel, els.headerDate);
+  }
+
+  /* ── Re-render all static UI labels after locale change ── */
+  function rerenderStaticUI() {
+    const dsLabel = document.querySelector('.ds-label');
+    if (dsLabel) dsLabel.textContent = I18n.t('FEED_DATE');
+
+    const featTag = document.querySelector('.featured-section .section-tag');
+    if (featTag) featTag.textContent = I18n.t('FEATURED');
+
+    const featBadge = document.querySelector('.featured-section .section-badge');
+    if (featBadge) featBadge.textContent = I18n.t('HOT');
+
+    const feedTag = document.querySelector('.feed-section .section-tag');
+    if (feedTag) feedTag.textContent = I18n.t('FEED');
+
+    if (els.prevBtn) {
+      els.prevBtn.innerHTML = `<span class="btn-prefix">&lt;&lt;</span> ${I18n.t('PREV')}`;
+    }
+    if (els.nextBtn) {
+      els.nextBtn.innerHTML = `${I18n.t('NEXT')} <span class="btn-suffix">&gt;&gt;</span>`;
+    }
+    if (els.modalClose) {
+      els.modalClose.textContent = `✕ ${I18n.t('CLOSE')}`;
+    }
+
+    const footerStatus = document.querySelector('.footer-status');
+    if (footerStatus) {
+      footerStatus.innerHTML = `<span class="status-dot"></span> ${I18n.t('FEED_ACTIVE')}`;
+    }
+
+    // Sync switcher selection (in case locale was set externally)
+    const sel = document.getElementById('langSwitcher');
+    if (sel) sel.value = I18n.getLocale();
+
+    // Rebuild date tabs (labels depend on locale)
+    buildDateTabs();
+
+    // Refresh article count if data is loaded
+    if (state.data) {
+      els.feedCount.textContent = I18n.t('ARTICLES_COUNT', { n: state.data.articles.length });
+    }
   }
 
   function setCmd(text) {
@@ -114,10 +257,10 @@ const App = (() => {
     state.currentDate = dateStr;
     state.page = 1;
     setActiveTab(dateStr);
-    setCmd(`fetch --date=${dateStr} --source=./news/${dateStr}.json`);
+    setCmd(`fetch --date=${dateStr} --locale=${I18n.getLocale()} --source=./news/${dateStr}/${I18n.getLocale()}.json`);
     showSkeleton();
 
-    const data = await NewsData.fetchDate(dateStr);
+    const data = await NewsData.fetchDate(dateStr, I18n.getLocale());
     if (!data) {
       showError('Failed to load news data. Check console for details.');
       return;
@@ -126,7 +269,7 @@ const App = (() => {
     state.data = data;
     state.totalPages = Math.ceil(data.articles.length / PAGE_SIZE);
 
-    setCmd(`cat ./news/${dateStr}.json | jq '.articles | length' → ${data.articles.length} articles`);
+    setCmd(`cat ./news/${dateStr}/${I18n.getLocale()}.json | jq '.articles | length' → ${data.articles.length} articles`);
     renderFeatured(data.featured);
     renderFeed();
   }
@@ -149,12 +292,12 @@ const App = (() => {
         ${hasVideo ? `
         <button class="featured-play-btn" id="featuredPlayBtn" aria-label="Play video">
           <span class="play-icon">▶</span>
-          <span class="play-label">PLAY_VIDEO</span>
+          <span class="play-label">${I18n.t('PLAY_VIDEO')}</span>
         </button>` : ''}
       </div>
       <div class="featured-content">
         <div class="featured-eyebrow">
-          <span class="featured-label">// FEATURED</span>
+          <span class="featured-label">// ${I18n.t('FEATURED')}</span>
           ${videoLabel}
           <span class="featured-source">${escHtml(f.source)}</span>
           <span class="featured-time">${NewsData.relativeTime(f.timestamp)}</span>
@@ -164,7 +307,7 @@ const App = (() => {
         <div class="featured-tags">
           ${(f.tags||[]).map(t => `<span class="tag">#${escHtml(t)}</span>`).join('')}
         </div>
-        <span class="featured-cta">${hasVideo ? 'WATCH_NOW' : 'READ_MORE'}</span>
+        <span class="featured-cta">${I18n.t(hasVideo ? 'WATCH_NOW' : 'READ_MORE')}</span>
       </div>
     `;
 
@@ -270,7 +413,7 @@ const App = (() => {
   function renderFeed() {
     const articles = state.data.articles;
     state.totalPages = Math.ceil(articles.length / PAGE_SIZE);
-    els.feedCount.textContent = `${articles.length} articles`;
+    els.feedCount.textContent = I18n.t('ARTICLES_COUNT', { n: articles.length });
 
     const start = (state.page - 1) * PAGE_SIZE;
     const slice = articles.slice(start, start + PAGE_SIZE);
@@ -382,9 +525,9 @@ const App = (() => {
       </div>
       <div class="article-actions">
         <a href="${escHtml(article.url)}" class="btn-primary" target="_blank" rel="noopener">
-          ↗ OPEN_SOURCE
+          ↗ ${I18n.t('OPEN_SOURCE')}
         </a>
-        <button class="btn-secondary" onclick="App.closeModal()">✕ CLOSE</button>
+        <button class="btn-secondary" onclick="App.closeModal()">✕ ${I18n.t('CLOSE')}</button>
       </div>
     `;
     els.modalOverlay.classList.add('open');

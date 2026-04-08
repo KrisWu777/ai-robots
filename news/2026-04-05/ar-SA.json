@@ -1,0 +1,339 @@
+{
+  "date": "2026-04-05",
+  "featured": {
+    "id": "featured-20260405",
+    "title": "علماء يبتكرون روبوتات حية تمتلك أجهزة عصبية",
+    "summary": "طوّر الباحثون روبوت NeuroBot — روبوتات حية مُجمَّعة من خلايا بيولوجية تضم هياكل عصبية وظيفية قادرة على الاستشعار وتوليد حركة منسّقة. نُشرت النتائج في مجلة Nature، مما يطمس الحدود بين الروبوت الهندسي والكائن الحي.",
+    "image": "https://spectrum.ieee.org/media-library/close-up-of-a-neuro-robot-that-has-been-stained-to-highlight-multi-ciliated-cells-around-its-periphery.jpg?id=65444408&width=1200",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/neurobot-living-robot-nervous-system",
+    "tags": [
+      "روبوتات حية",
+      "هجين بيولوجي",
+      "Nature"
+    ],
+    "timestamp": "2026-04-02T13:00:01Z"
+  },
+  "articles": [
+    {
+      "id": "0405-001",
+      "title": "Gill Pratt: لحظة الروبوتات الآدمية قد حانت أخيراً",
+      "summary": "يؤكد Gill Pratt، الرئيس التنفيذي لـ Toyota Research Institute والمدير السابق لبرنامج الروبوتات في DARPA، في مقابلة جديدة مع IEEE Spectrum، أن التقاء الذكاء الاصطناعي المتقدم والمحركات الأرخص والبطاريات المحسّنة أوجد ظروفاً مواتية لتحقيق الروبوتات الآدمية قيمة اقتصادية حقيقية للمرة الأولى.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": [
+        "روبوت آدمي",
+        "Toyota",
+        "DARPA",
+        "تحليل الصناعة"
+      ],
+      "timestamp": "2026-04-02T15:00:02Z"
+    },
+    {
+      "id": "featured-0405",
+      "title": "دراسة مواقف البشر تجاه الروبوتات من خلال التجربة الحقيقية مع Boston Dynamics Spot",
+      "summary": "رصدت دراسة بارزة أجراها Robotics & AI Institute كيفية تفاعل مئات الأسر مع Spot من Boston Dynamics على مدى ستة أشهر، وكشفت عن أنماط الثقة والخوف والتشخيص الإنساني للآلة. وتُعيد هذه البيانات تشكيل نهج المصممين في التعامل مع جماليات الروبوت وسلوكه الاجتماعي.",
+      "image": "https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+      "tags": [
+        "Boston Dynamics",
+        "HRI",
+        "أبحاث المستخدمين"
+      ],
+      "timestamp": "2026-04-05T13:00:01Z"
+    },
+    {
+      "id": "0405-003",
+      "title": "تقارير: Physical Intelligence تجري مفاوضات لجمع مليار دولار مجدداً",
+      "summary": "تجري شركة Physical Intelligence (π)، الناشئة المتخصصة في تعلم الروبوتات متعدد الأغراض، مفاوضات متقدمة لجمع مليار دولار، مما سيضاعف تقييمها البالغ 5.6 مليار دولار في أربعة أشهر فحسب. وقد حصلت نموذجها التأسيسي π0 على تراخيص من شركات OEM عديدة للروبوتات.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "tags": [
+        "Physical Intelligence",
+        "تمويل",
+        "نموذج تأسيسي"
+      ],
+      "timestamp": "2026-03-27T23:59:40Z"
+    },
+    {
+      "id": "0405-004",
+      "title": "حي أم لا؟ روبوتات مصغّرة مطبوعة ثلاثية الأبعاد تسبح وتتنقل كالحيوانات",
+      "summary": "ابتكر الأستاذة Daniela Kraft والباحث Mengshi Wei من Leiden University روبوتات مجهرية تتحرك دون حاجة إلى حساسات أو برامج أو تحكم خارجي. يظهر سلوكها كلياً من التشكيل الهندسي الفيزيائي وخصائص المواد، محاكيةً طريقة تنقل الكائنات المائية البسيطة.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": [
+        "روبوتات مجهرية",
+        "طباعة ثلاثية الأبعاد",
+        "Leiden University"
+      ],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0405-005",
+      "title": "فيديو الجمعة: الروبوت ثنائي الأرجل Roadrunner يكسر القواعد",
+      "summary": "يُبرز فيديو هذا الأسبوع الروبوت Roadrunner، وهو روبوت ثنائي الأرجل فريد يستخدم نظام تحرك هجينًا بعجلات لتحقيق سرعات تصل إلى 5 م/ث على التضاريس المستوية مع الحفاظ على استقراره في الدرج والأرضيات الوعرة — وهو تحوّل جذري عن تصميم الروبوتات المشية الكلاسيكية.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/roadrunner-bipedal-robot",
+      "video": "https://www.youtube.com/watch?v=tF4DML7FIWk",
+      "tags": [
+        "ثنائي الأرجل",
+        "التنقل",
+        "السرعة"
+      ],
+      "timestamp": "2026-03-27T16:30:03Z"
+    },
+    {
+      "id": "0405-006",
+      "title": "التوأم الرقمي لإنقاذ الروبوتات: ما يتيحه المعالجة الأسرع لسحابة النقاط ثلاثية الأبعاد",
+      "summary": "تُقلّص خوارزميات جديدة وقت معالجة سحابة النقاط ثلاثية الأبعاد من ثوانٍ إلى ميلي ثوانٍ، مما يمكّن الروبوتات من بناء وتحديث خرائط التوأم الرقمي لبيئتها في الوقت الفعلي. ويُعد هذا الاختراق بالغ الأهمية لروبوتات الإنقاذ التي تعمل داخل المنشآت المنهارة حيث تتغير الظروف باستمرار.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": [
+        "التوأم الرقمي",
+        "رسم الخرائط ثلاثية الأبعاد",
+        "البحث والإنقاذ"
+      ],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0405-007",
+      "title": "Melania Trump تريد روبوتاً لتعليم أطفالكم في المنزل",
+      "summary": "أيّدت السيدة الأولى الروبوت الآدمي من Figure AI بوصفه معلماً منزلياً محتملاً مدعوماً بالذكاء الاصطناعي، متصوّرةً روبوتات تُخصّص المناهج وتقدم تعليماً فردياً. وقد أثارت هذه التصريحات نقاشاً واسعاً حول دور الروبوتات في التعليم وتنمية الطفل.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "tags": [
+        "Figure AI",
+        "التعليم",
+        "روبوت آدمي"
+      ],
+      "timestamp": "2026-03-25T18:55:41Z"
+    },
+    {
+      "id": "0405-008",
+      "title": "Lucid Bots تجمع 20 مليون دولار لمواكبة الطلب المتزايد على طائراتها المسيّرة لغسل النوافذ",
+      "summary": "جمعت شركة Lucid Bots، صانعة الطائرات المسيّرة المستقلة لتنظيف نوافذ ناطحات السحاب وغسل واجهات المباني بضغط عالٍ، 20 مليون دولار في جولة Series B لتوسيع الإنتاج. تسارع الطلب مع ارتفاع تكاليف العمالة لأعمال الصيانة الخطرة على الارتفاعات الشاهقة.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "tags": [
+        "طائرات مسيّرة",
+        "شركة ناشئة",
+        "تمويل",
+        "تنظيف"
+      ],
+      "timestamp": "2026-03-25T11:00:00Z"
+    },
+    {
+      "id": "0405-009",
+      "title": "Amazon تستحوذ على Fauna Robotics، صانعة الروبوت الآدمي Sprout",
+      "summary": "استحوذت Amazon على Fauna Robotics، الشركة الناشئة خالقة Sprout — الروبوت الآدمي الودود بحجم الطفل المصمم للفضاءات الاجتماعية كالمنازل والمستشفيات. تُعد هذه الصفقة ثاني عملية استحواذ روبوتية لـ Amazon هذا الشهر، مما يشير إلى توجهها نحو روبوتات المنزل والرعاية الصحية.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": [
+        "Amazon",
+        "استحواذ",
+        "روبوت آدمي",
+        "Fauna Robotics"
+      ],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0405-010",
+      "title": "Agile Robots تشترك مع Google DeepMind لدمج النماذج التأسيسية",
+      "summary": "وقّعت شركة الروبوتات الألمانية الصينية Agile Robots شراكة مع Google DeepMind لدمج النماذج التأسيسية للروبوتات في منصاتها الآدمية. في المقابل، ستُسهم Agile Robots ببيانات عروض المهام الواقعية في مجموعات بيانات تدريب DeepMind.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": [
+        "Agile Robots",
+        "Google DeepMind",
+        "نموذج تأسيسي"
+      ],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0405-011",
+      "title": "الطائرات المسيّرة المقترنة بالذكاء الاصطناعي قد تُسرّع عثور فرق البحث والإنقاذ على المفقودين",
+      "summary": "يُمكن لنظام طائرات مسيّرة متعدد الحساسات يجمع كاميرات الأشعة تحت الحمراء والحرارية والملونة مع نظام تحليل بالذكاء الاصطناعي أن يُسرّع عمليات البحث والإنقاذ بشكل ملحوظ. أظهرت الاختبارات الميدانية قدرة النظام على تحديد المفقودين بسرعة تفوق فرق الأرض وحدها بأربعة أضعاف.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": [
+        "طائرات مسيّرة",
+        "البحث والإنقاذ",
+        "التصوير الحراري"
+      ],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0405-012",
+      "title": "نموذج خماسي المستويات لتصنيف الروبوتات الآدمية في الحركة والتحكم والإدراك",
+      "summary": "نشر باحثو Fraunhofer HNFIZ إطاراً تقييمياً موحداً جديداً يصنّف الروبوتات الآدمية في خمسة مستويات من القدرة وفق الحركة، ودقة التلاعب، والاستقلالية الإدراكية — على غرار مستويات SAE للمركبات ذاتية القيادة.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": [
+        "روبوت آدمي",
+        "Fraunhofer",
+        "معايير",
+        "تقييم"
+      ],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0405-013",
+      "title": "روبوتات مستوحاة من الطيور تعد بمرونة وتحكم أفضل من الطائرات المسيّرة",
+      "summary": "طوّر مهندسو Rutgers University روبوتاً رفّافاً مستوحى من الطيور تنثني أجنحته وتلتوي في الوقت الفعلي للتعامل مع الرياح الجانبية والاضطرابات الجوية. يُحقق التصميم كفاءة طاقة أعلى بثلاثة أضعاف مقارنةً بطائرات رباعية المحركات المكافئة عند السرعات المنخفضة.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": [
+        "أجنحة رفّافة",
+        "مستوحى من الطبيعة",
+        "Rutgers",
+        "طائرات مسيّرة"
+      ],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0405-014",
+      "title": "روبوت مستوحى من الحشرات يتتبع الروائح حتى بـ«هوائي» واحد فعّال",
+      "summary": "يستطيع روبوت متأثر بأجهزة الشم الحشرية تحديد مصادر الروائح — تسرّبات الغاز والمتفجرات والأشخاص المفقودين — في الأماكن المفتوحة والمغلقة. يحافظ النظام على دقة ثابتة حتى عند تعطل أحد وحدتي حساساته، وهو أمر بالغ الأهمية للنشر الميداني الحقيقي.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": [
+        "الاستشعار الشمي",
+        "مستوحى من الطبيعة",
+        "روبوت البحث"
+      ],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0405-015",
+      "title": "شريحة Wi-Fi مقاومة للإشعاع تتحمل 500 kGy لروبوتات تفكيك المنشآت النووية",
+      "summary": "شريحة Wi-Fi جديدة مقاومة للإشعاع مصمّمة لروبوتات تفكيك محطات الطاقة النووية قادرة على تحمّل 500 كيلو غراي من الإشعاع المؤيّن — ما يعادل 250 مليون تصوير بالأشعة السينية للأسنان. تُتيح الشريحة التحكم اللاسلكي بالروبوتات داخل المفاعلات النشطة، متجاوزةً الأنظمة السلكية الخطرة.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": [
+        "نووي",
+        "إشعاع",
+        "Wi-Fi",
+        "تفكيك"
+      ],
+      "timestamp": "2026-03-23T13:00:09Z"
+    },
+    {
+      "id": "0405-016",
+      "title": "كيف يُعلّم الروبوت المعلم في شيكاغو التعلم الاجتماعي والعاطفي دون التظاهر بأنه إنسان",
+      "summary": "في فصول الصف الرابع بشيكاغو، تُعلّم الروبوتات التعاطف وحل النزاعات مع الصراحة التامة بأنها آلات. يتجنب هذا النهج «وادي الغرابة» الناتج عن التفاعلات المفرطة في التشبّه بالإنسان، ويُحقق نتائج تعليمية أفضل بفضل الحدود الواضحة بين الروبوت والطالب.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": [
+        "التعليم",
+        "روبوتات اجتماعية",
+        "SEL",
+        "شيكاغو"
+      ],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0405-017",
+      "title": "أذكى وأسرع وأقرب للإنسان: نظام ذكاء اصطناعي يساعد الروبوتات على تجاوز معلّميها البشريين",
+      "summary": "يُتيح إطار جديد للتعلم بالمحاكاة للروبوتات ليس فقط تكرار المهام الموضّحة بل تحسينها — إذ تُنجز الحركات المكتسبة بسرعة أعلى بنسبة 30% من المُظهِر البشري بعد عشر جلسات تدريبية فحسب. يكمن المفتاح في نظام ذكاء اصطناعي يُحدد ويُزيل أوجه القصور في العروض البشرية.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": [
+        "التعلم بالمحاكاة",
+        "تعلم الروبوت",
+        "AI"
+      ],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0405-018",
+      "title": "روبوت يعمل بطاقة الرياح يُتيح استكشافاً طويل الأمد للبيئات القاسية",
+      "summary": "WANDER-bot من Cranfield University روبوت منخفض التكلفة مطبوع ثلاثي الأبعاد يعمل بالكامل بطاقة الرياح، مصمّم للمراقبة الذاتية المستمرة في الصحاري والتندرا والمناطق البركانية. دون بطاريات أو ألواح شمسية، يمكن لـ WANDER-bot العمل إلى أجل غير مسمى في البيئات الريحية.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": [
+        "طاقة الرياح",
+        "الاستكشاف",
+        "Cranfield",
+        "الطاقة"
+      ],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0405-019",
+      "title": "قبل 30 عاماً، تعلّمت الروبوتات المشي دون سقوط — P2 من Honda يُصنَّف معلماً من IEEE",
+      "summary": "صنّفت IEEE الروبوت الآدمي P2 من Honda — الذي كُشف عنه عام 1996 — معلماً رسمياً، معترفةً به بوصفه أول جهاز ثنائي الأرجل مستقل يُثبت مشياً ديناميكياً موثوقاً. أرسى P2 الأساس التقني لجميع الروبوتات الماشية تقريباً التي جاءت بعده.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": [
+        "Honda",
+        "التاريخ",
+        "IEEE",
+        "ثنائي الأرجل"
+      ],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0405-020",
+      "title": "روبوت مدعوم بالذكاء الاصطناعي يتعلم حصاد الطماطم بكفاءة أعلى عبر التنبؤ بصعوبة القطف",
+      "summary": "روبوت جديد لحصاد الطماطم لا يكتفي بتحديد الثمار الناضجة، بل يتنبأ بمدى صعوبة قطف كل ثمرة استناداً إلى زاوية الساق وكثافة العنقود وحجب الأوراق، ثم يُحدّد أولويات الأهداف الأيسر تناولاً. زادت استراتيجية «الوعي بالصعوبة» هذه إنتاجية الحصاد بنسبة 35% في تجارب الدفيئة.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": [
+        "روبوتات زراعية",
+        "الحصاد",
+        "التخطيط بالذكاء الاصطناعي"
+      ],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0405-021",
+      "title": "روبوتات الحمض النووي قد تُوصّل الأدوية وتُطارد الفيروسات داخل الجسم",
+      "summary": "يُطوّر الباحثون روبوتات نانوية مبنية على الحمض النووي قادرة على التنقل في مجرى الدم وتحديد الخلايا المستهدفة وإيصال الحمولات العلاجية. تستعير هذه الآلات القابلة للبرمجة مفاهيم الروبوتات التقليدية — الحركة والاستشعار والتشغيل — لكنها تعمل على المستوى الجزيئي.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": [
+        "روبوتات نانوية",
+        "طبي",
+        "DNA",
+        "توصيل الأدوية"
+      ],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0405-022",
+      "title": "Gecko Robotics تفوز بأضخم عقد روبوتات في تاريخ البحرية الأمريكية",
+      "summary": "وقّعت Gecko Robotics عقداً خماسياً مع البحرية الأمريكية لمراقبة وتوقع احتياجات الصيانة في أسطول البحرية بأكمله باستخدام روبوتات تسلق الجدران المجهزة بحساسات الموجات فوق الصوتية. تُعد هذه الصفقة أضخم عقد روبوتات في تاريخ البحرية الأمريكية.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": [
+        "عسكري",
+        "بحرية",
+        "تفتيش",
+        "Gecko Robotics"
+      ],
+      "timestamp": "2026-03-17T10:00:00Z"
+    }
+  ]
+}

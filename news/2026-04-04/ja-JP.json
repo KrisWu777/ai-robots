@@ -1,0 +1,228 @@
+{
+  "date": "2026-04-04",
+  "featured": {
+    "id": "featured-0404",
+    "title": "ビデオ・フライデー：Digit がほぼ一夜でダンスを習得",
+    "summary": "Agility Robotics の人型ロボット Digit が、新しいシミュレーション・トゥ・リアル転送パイプラインを使って複雑な同期ダンスルーティンを習得した。このパイプラインは学習期間を数週間から数時間に圧縮する。デモでは音楽に同期した滑らかな動きが披露され、人型ロボットの運動制御における現在の限界を押し広げている。",
+    "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&h=600&fit=crop",
+    "video": "https://www.youtube.com/watch?v=29ECwExc-_M",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/video-humanoid-dancing",
+    "tags": ["Agility Robotics", "Digit", "ロコモーション"],
+    "timestamp": "2026-04-03T16:30:01Z"
+  },
+  "articles": [
+    {
+      "id": "0404-001",
+      "title": "信頼してもらえますか？ロボットと車両のネットワークを安全にするフレームワーク",
+      "summary": "新しい計算信頼フレームワークにより、ロボットと自律走行車両の異種ネットワークが仲間の信頼性を動的に評価し、それに応じて調整戦略を変更できるようになった。このシステムはシミュレーション環境で複数ロボット環境における衝突リスクを62%削減する。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-framework-networks-robots-vehicles-safer.html",
+      "tags": ["信頼", "マルチロボット", "安全", "自律走行車両"],
+      "timestamp": "2026-04-02T14:20:01Z"
+    },
+    {
+      "id": "0404-002",
+      "title": "カリフォルニアのレストランで踊り出した人型ロボットを従業員が取り押さえる",
+      "summary": "クパチーノの Haidilao 火鍋レストランで AgiBot 人型ウェイターが制御不能に踊り始め、スタッフが対応に追われた事件がバイラルとなった。複数のスマートフォンに収められたこの事件は、AI システムの堅牢性や公共施設における自動化への過度な依存をめぐる議論を再燃させた。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "レストラン", "事故", "バイラル"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0404-003",
+      "title": "Perseverance 火星探査車が自律走行記録を更新",
+      "summary": "NASA の Perseverance 探査車が AutoNav システムを使い、1 ソルで 699 メートルを走行し火星での自律走行新記録を樹立した。この成果は地球からの指令を待たずに障害物を避けて走行する改善された AI 経路計画能力を示している。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/perseverance-mars-rover-autonomous-driving",
+      "tags": ["NASA", "火星", "自律", "Perseverance"],
+      "timestamp": "2026-02-25T15:00:02Z"
+    },
+    {
+      "id": "0404-004",
+      "title": "モーターなしのロボットハンド：1秒以下で形状変化するアクチュエーターの仕組み",
+      "summary": "研究者たちが、1秒未満で構成を変える形状記憶合金ワイヤーのみで駆動するモーターレスのロボットハンドを開発した。このデザインはモーター駆動の同等品より70%軽く、義肢や軽量宇宙ロボットアームにとっての画期的な進歩だ。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["形状記憶合金", "義肢", "アクチュエーター"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0404-005",
+      "title": "Rivian からスピンアウトした Mind Robotics が産業用 AI ロボットで5億ドルを調達",
+      "summary": "Rivian の創業者 RJ Scaringe がスピンアウトさせたスタートアップ Mind Robotics が5億ドルのシリーズ A ラウンドを完了した。同社は Rivian の工場環境から学習する AI 駆動の産業用ロボットを開発しており、2027年までの商用化を目指している。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "スタートアップ", "資金調達", "産業"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0404-006",
+      "title": "人工ニューラルネットワークが四足動物の歩行パターンを再現",
+      "summary": "スイスの研究者が、馬・犬・猫の歩行・速歩・ギャロップパターンを速度変化に応じた自動歩容遷移も含めて正確に再現するニューラルネットワークを構築した。このモデルは現在、四足ロボットの歩行改善に活用されている。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-artificial-neural-network-gait-patterns.html",
+      "tags": ["四足歩行", "ロコモーション", "ニューラルネットワーク", "生物模倣"],
+      "timestamp": "2026-03-23T17:20:08Z"
+    },
+    {
+      "id": "0404-007",
+      "title": "Rivian の RJ Scaringe 氏：ロボットへのアプローチが根本的に間違っている",
+      "summary": "独占インタビューで Rivian CEO の RJ Scaringe 氏は、ロボティクス業界が特定タスク向けに設計した専用機械ではなく人間の形態の模倣に集中しすぎていると主張した。彼の新スタートアップ Mind Robotics は工場自動化に根本的に異なるアプローチをとる。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "オピニオン", "業界"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0404-008",
+      "title": "中国の人型ロボット産業が初期市場を制している理由",
+      "summary": "TechCrunch の分析によると、中国の人型ロボットメーカーは米国の競合他社より多くの機体を出荷し、より速いペースで改良を重ねている。Unitree・UBTech・Fourier Intelligence・Engine AI などの企業が商業展開した人型ロボットの合計は、欧米の全企業を上回る。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["中国", "ヒューマノイド", "市場分析", "Unitree"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0404-009",
+      "title": "Qualcomm と Neura Robotics の提携がチップメーカーの人型ロボット参入を示す",
+      "summary": "Qualcomm がドイツの人型ロボットスタートアップ Neura Robotics と提携し、IQ10 AI プロセッサを用いた次世代ロボット開発に乗り出した。この提携は Qualcomm の具身 AI および人型ハードウェアへの最も重要な進出を示し、Nvidia のロボティクスプラットフォームと競合する。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "チップ", "ヒューマノイド"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0404-010",
+      "title": "ビデオ・フライデー：人型ロボットが人間との対戦でテニスを習得",
+      "summary": "人型ロボットがモーションキャプチャ学習とリアルタイム生体力学モデリングを組み合わせ、人間の対戦相手とのレクリエーションテニスをこなせるよう訓練された。人間プレーヤーとの500試合を経て、ロボットは各対戦相手の独自のプレースタイルに合わせてスイングを適応させた。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/tennis-playing-robot",
+      "video": "https://www.youtube.com/watch?v=fRj34o4hN4I",
+      "tags": ["ヒューマノイド", "スポーツ", "学習", "テニス"],
+      "timestamp": "2026-03-21T16:30:04Z"
+    },
+    {
+      "id": "0404-011",
+      "title": "Amazon が階段を上れる配送ロボットメーカー Rivr を買収",
+      "summary": "Amazon が自律的に階段を上れる車輪付き配送ロボットを製造するスタートアップ Rivr を買収した。これはeコマース大手が玄関先まで配送を届けることを目指す意図を示している。この取引は Amazon にとって玄関ドア前への最後の一メートル配送に特化した初の買収となる。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "配送", "買収", "Rivr"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    },
+    {
+      "id": "0404-012",
+      "title": "Alphabet 傘下のロボティクスソフトウェア会社 Intrinsic が Google に合流",
+      "summary": "2021年に Alphabet の X ラボから独立したロボティクスソフトウェア会社 Intrinsic が Google の直轄に移行する。この統合は、Google が Intrinsic のロボットプログラミングツールを DeepMind の AI 研究と統合してエンドツーエンドのロボティクスプラットフォームを構築する意図を示している。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "買収"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0404-013",
+      "title": "Canopii は過去の屋内農場が失敗した領域にロボットで挑む",
+      "summary": "Canopii の完全自律型ロボット屋内農場はバスケットボールコート程度のスペースで年間18トンのハーブと葉物野菜を生産できる。過去の屋内農場スタートアップとは異なり、Canopii は全ての栽培作業に独自のロボットを使用し、競合他社を倒した人件費を完全に排除している。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["農業ロボティクス", "屋内農業", "スタートアップ"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0404-014",
+      "title": "ウクライナのドローン戦争の転換点 — 自律型 UAV が戦争を変える方法",
+      "summary": "IEEE Spectrum の分析は、ウクライナ紛争が自律型ドローン戦争の実証の場となった経緯を検証している。双方が AI 対応の徘徊型弾薬と対ドローンシステムを大規模に展開している。軍事アナリストは、この教訓が将来の通常型紛争を定義すると警告している。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["軍用ドローン", "ウクライナ", "自律型兵器"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0404-015",
+      "title": "Anduril が新たな資金調達で600億ドルの評価額を目指す",
+      "summary": "防衛テクノロジー企業 Anduril Industries が評価額を600億ドルに引き上げる新たな資金調達を模索している。これは2025年6月の前回評価額300億ドルの2倍だ。Anduril の自律型ドローンと自律型水中ビークルのプログラムが急速な収益成長を牽引している。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "防衛", "ドローン", "資金調達"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0404-016",
+      "title": "Gecko Robotics の海軍契約：壁面走行ロボットが米艦隊全体を検査",
+      "summary": "記録的な海軍契約締結後、Gecko Robotics は磁気吸着式壁面走行ロボットを米海軍の全艦種に展開し、船体の完全性・溶接品質・腐食を検査している。ロボットは人間のダイバーより10倍速く超音波厚さデータを収集する。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Gecko Robotics", "海軍", "検査", "軍事"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0404-017",
+      "title": "ロボットの顔への不気味さを解消する技術的突破",
+      "summary": "Columbia Engineering の研究者が、小型ニューラルネットワークだけを使って音声と同期したリアルな口の動きを生成するようロボットを訓練した。人間の観察者は以前の設計より大幅に高いスコアでロボットの発話理解を評価し、不気味の谷を越えるために口の同期が重要であることを示唆している。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": ["ソーシャルロボット", "不気味の谷", "Columbia", "顔"],
+      "timestamp": "2026-01-16T10:28:30Z"
+    },
+    {
+      "id": "0404-018",
+      "title": "NASA の Perseverance 探査車が火星で初の完全 AI 計画走行を完了",
+      "summary": "Perseverance が火星で初の完全 AI 計画走行を完了した。探査車上で動作するビジョン対応ニューラルネットワークが地球のミッションコントローラーの入力なしにルートを選択した。112メートルの自律走行は惑星探査の新時代を切り開いた。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260131084555.htm",
+      "tags": ["NASA", "火星", "AI ナビゲーション", "自律"],
+      "timestamp": "2026-01-31T08:45:55Z"
+    },
+    {
+      "id": "0404-019",
+      "title": "科学者たちが塩の粒よりも小さく思考できるロボットを開発",
+      "summary": "Cornell の研究者たちが塩の粒より小さな微小ロボットを製造した。光駆動の電子部品を使って環境を感知し、意思決定を行い、自律的に動作することができる。これらのロボットはこれまで作られた中で最も小さな自律機械であり、医療や材料科学への応用が期待される。",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": ["マイクロロボット", "Cornell", "ナノテクノロジー"],
+      "timestamp": "2026-01-06T07:33:12Z"
+    },
+    {
+      "id": "0404-020",
+      "title": "ビデオ・フライデー：走るために生まれたロボット — 脚式モジュラーロコモーション",
+      "summary": "新しいモジュール式脚型ロボットアーキテクチャにより、コンポーネントがさまざまな構成に自己組立し、驚異的な走行速度を達成することが可能になった。システムは各組立構成に対して歩容を自動的に最適化し、異なる地形やタスク要件に適応できる。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/legged-modular-robot",
+      "tags": ["モジュールロボット", "ロコモーション", "脚式"],
+      "timestamp": "2026-03-13T16:00:04Z"
+    },
+    {
+      "id": "0404-021",
+      "title": "ビデオ・フライデー：人工筋肉と腱を持つロボットハンド",
+      "summary": "今週の IEEE Spectrum は、硬直したサーボモーターをコンプライアントな人工筋肉と腱状のケーブルに置き換えた新型ロボットハンドを取り上げている。その結果、生卵からサクサクのポテトチップスまで、パッシブコンプライアンスだけで壊さずに把持できるハンドが誕生した。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-robot-hand-artificial-muscles",
+      "video": "https://www.youtube.com/watch?v=LikxFZZO2sk",
+      "tags": ["ロボットハンド", "人工筋肉", "把持"],
+      "timestamp": "2026-03-06T16:00:05Z"
+    }
+  ]
+}

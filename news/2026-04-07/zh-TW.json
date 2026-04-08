@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-07",
+  "featured": {
+    "id": "featured-20260407",
+    "title": "Amazon 收購人形機器人 Sprout 製造商 Fauna Robotics",
+    "summary": "Amazon 已收購 Fauna Robotics——Sprout 人形機器人背後的新創公司——此次交易大幅加速了這家電商巨頭在倉儲自動化具身 AI 領域的佈局。此次收購是迄今為止規模最大的人形機器人併購案之一，標誌著科技巨頭正從合作關係轉向對機器人公司的直接所有權。Sprout 專為履行中心靈活的取放任務而設計，而這正是傳統工業機器人長期面臨挑戰的領域。憑藉 Amazon 的物流規模與 AI 基礎設施，Sprout 有望在數年內從試點階段擴展至其龐大全球倉儲網路的大規模部署。",
+    "image": "https://scx1.b-cdn.net/csz/news/800a/2026/amazon-buys-fauna-robo.jpg",
+    "source": "TechXplore",
+    "url": "https://techxplore.com/news/2026-03-amazon-buys-fauna-robotics-maker.html",
+    "tags": ["Amazon", "人形機器人", "收購", "倉儲"],
+    "timestamp": "2026-04-07T02:29:52Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260407-01",
+      "title": "無電機機械手借助形狀記憶致動器實現次秒級抓取",
+      "summary": "研究人員展示了一款不依賴傳統電機的機械手，其核心是一種能在不到一秒內完成重構的新型雙向形狀記憶合金致動器。該設計大幅簡化了機械複雜性——傳統機械夾持器需要數十個電機和線纜——同時保持了可靠的操控能力。透過利用材料級驅動，這款機械手能夠在非結構化環境中即時調整抓取幾何形態。這一進展有望降低義肢和工業夾持器系統的成本。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/twoway-shape-memory-al.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["致動器", "夾持器", "軟性機器人", "操控"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-02",
+      "title": "克服人形機器人研發中的核心工程障礙",
+      "summary": "IEEE Spectrum 發布的一份新白皮書深入分析了阻礙人形機器人從原型走向規模化量產的持續性硬體與軟體瓶頸。核心挑戰包括電池能量密度不足、實驗室靈巧度基準與現實可靠性之間的落差，以及標準化組件生態系統的缺失。報告指出，企業間在致動器和感測器標準上的跨公司協作，有望將研發週期壓縮數年——與此同時，從 Boston Dynamics 到 Figure AI 等各大廠商正競相推動人形機器人商業化部署。",
+      "image": "https://assets.rbl.ms/65106483/origin.png",
+      "source": "IEEE Spectrum",
+      "url": "https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/",
+      "tags": ["人形機器人", "工程", "產業", "路線圖"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-03",
+      "title": "無電子元件、無電池、無計算單元的機器人群展現湧現行為",
+      "summary": "科學家研製出一種完全不依賴電子元件、電池或機載運算的機器人群，僅依靠純機械互動和環境能量運作。這些機器人透過物理接觸和被動彈簧機構協調湧現行為，從蟻群和黏菌中汲取靈感。這種方法有望在電子設備會失效的場景中，為瓦礫檢測或環境監測提供超低成本的群體系統。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-smartest-robots-ma.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["群體機器人", "軟性機器人", "研究", "仿生"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-04",
+      "title": "高韌性致動器為太空軟性機器人鋪路",
+      "summary": "一款面向軟性機器人的新型致動器展現出在太空環境中運行所需的抗輻射能力和熱穩定性。與剛性系統不同，軟性機器人能夠適應不規則地形並處理易碎物體，使其在行星探測中頗具吸引力。該致動器可在真空、超過 200°C 的溫度波動以及月球和火星任務相關的輻射劑量下正常運作——讓可部署的太空科學軟性機器人系統離現實更近一步。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-actuator-could-boo.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": ["太空機器人", "軟性機器人", "致動器", "探索"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-05",
+      "title": "仿鳥機器人在複雜環境中的機動性優於傳統無人機",
+      "summary": "一類新型仿鳥機器人模仿鳥類在飛行中動態重塑翅膀的方式，能夠在擁擠複雜的環境中穿行，其效果遠超四旋翼無人機。透過採用被動變形翼結構和尾羽，這些機器人無需額外感測器或致動器，即可實現更緊的轉彎半徑，並在障礙物附近保持更穩定的懸停。示範顯示，該系統能夠穿越茂密的森林冠層和倒塌建築內部——這些都是標準無人機常常力不從心的環境。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/birdlike-robots-that-p.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["無人機", "仿生", "航空機器人", "搜救"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-06",
+      "title": "五級框架從移動能力、操控能力和認知能力三維度評估人形機器人",
+      "summary": "研究人員提出了一種類比 SAE 自動駕駛等級的標準化五級能力模型，用於評估人形機器人。該框架從移動能力、靈巧操控和認知決策三個維度對機器人進行評級，為比較不同廠商產品提供了共同語言。目前，市面上尚無商用人形機器人能在三個維度同時達到二級以上水準，這凸顯了行銷宣傳與實際能力之間的落差。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/which-technical-capabi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["人形機器人", "標準", "基準測試", "產業"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-07",
+      "title": "腕帶讓截肢者透過自然動作控制機械手",
+      "summary": "一款非侵入式腕帶利用表面 EMG 和機器學習技術，從殘餘肌肉訊號中解碼預期手部動作，讓截肢者能夠即時控制義肢機械手。與植入式方案不同，該設備無需手術，且能在不到十分鐘內完成對新使用者的校準。在試驗中，參與者在首次使用時便在標準化靈巧度測試中達到了 90% 以上的準確率，商業化計畫將在兩年內推進。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wristband-enables-wear.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": ["義肢", "穿戴式裝置", "EMG", "復健"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-08",
+      "title": "Gill Pratt：人形機器人商業化時刻終於到來",
+      "summary": "Toyota 研究院 CEO、前 DARPA 機器人挑戰賽專案主持人 Gill Pratt 表示，基礎模型、改進型致動器與感測器成本下降三者的匯聚，已將人形機器人帶至真正的商業化拐點。在接受 IEEE Spectrum 的深度專訪中，Pratt 指出當前最關鍵的瓶頸不是硬體，而是資料——尤其是在多樣化非結構化場景中人類操控的大規模資料集。他預測，家用人形機器人將在五年內實現商業化。",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-bespectacled-bearded-man-kneels-posed-behind-a-robotic-torso.jpg?id=65446567&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": ["人形機器人", "AI", "產業", "DARPA"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-09",
+      "title": "AI 破解倉儲機器人交通壅塞難題，吞吐量提升 25%",
+      "summary": "一套強化學習系統經訓練用於管理大型履行中心的多機器人協作，透過動態繞開壅塞區域，實現了訂單吞吐量 25% 的提升。傳統倉儲管理系統採用靜態路由規則，隨機器人密度增加而效能下降；而該 AI 系統能夠即時適應地面動態變化。該技術先在模擬環境中完成驗證，隨後在一家擁有逾 200 台自主移動機器人的真實倉庫中投入部署。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/warehouse-robots.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": ["倉儲機器人", "強化學習", "物流", "AI"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-10",
+      "title": "自主倉儲機器人直接從工廠現場經驗中學習",
+      "summary": "一家歐洲汽車零件製造商的部署案例表明，自主機器人透過從實際工作經驗中學習——而非依賴預程式化程序——持續提升任務表現。該系統採用持續學習架構，每晚根據當天的營運資料更新機器人行為，無需人工重新訓練。經過六個月，隨著機器人適應不斷變化的庫存，料箱揀取的錯誤率下降了 40%——這是工廠現場規模化持續學習部署的首批有據可查的案例之一。",
+      "image": "https://spectrum.ieee.org/media-library/robotic-arms-on-mobile-bases-sort-crates-on-a-conveyor-belt-in-a-warehouse.png?id=63907821&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
+      "tags": ["倉儲機器人", "持續學習", "製造業", "AI"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-11",
+      "title": "微型機器人在水面行走，探測水面生態系統",
+      "summary": "研究人員研發出一種毫米級仿水黽機器人，能夠在水面張力上行走，實現對水面生態系統的非侵入式採樣。這些機器人採用疏水腿部結構和精確調校的重量分佈，在攜帶微型感測器的同時避免破壞水面。潛在應用包括水質監測、漏油偵測，以及對神經表層——即生活在氣水界面、知之甚少的生物群落——的研究。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033930.htm",
+      "tags": ["軟性機器人", "研究", "環境", "仿生"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-12",
+      "title": "Cornell 科學家製造出比鹽粒更小、能「思考」的機器人",
+      "summary": "Cornell 研究人員製造出比鹽粒更小的微型機器人，其內建光伏電路能夠執行簡單的計算邏輯，使裝置無需外部控制即可回應環境訊號。這些機器人可透過光學方式引導，並僅利用環境光能執行基本決策——例如朝化學梯度方向移動。這一里程碑使面向生物醫學和環境感測的無纜微型機器人系統的實際部署更進一步。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": ["微型機器人", "研究", "生物醫學", "奈米技術"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-13",
+      "title": "恐怖谷突破：讓機器人臉孔不再令人不安",
+      "summary": "科學家精確識別出觸發人形機器人臉孔「恐怖谷」效應的感知線索，並證明透過針對性調整皮膚紋理、微表情時序和眼球運動模式，幾乎可以完全消除不適感。這一發現對社交機器人、遠端臨場化身和人形機器人設計具有直接意義，而使用者接受度對於推動普及至關重要。該研究透過神經影像學方法對受試者與真實及模擬機器人臉孔互動的過程進行了深入分析。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": ["社交機器人", "人機互動", "研究", "設計"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-14",
+      "title": "AI 驅動機器人隨時間推移學會更高效地採摘番茄",
+      "summary": "一款搭載視覺語言模型和強化學習技術的農業機器人，在為期六週的溫室試驗中持續提升番茄採摘效率。機器人最初對約 8% 的果實造成損傷；到試驗結束時，隨著其學會根據攝影機對成熟度的估算來調節抓握力道，損傷率已降至 1% 以下。這項研究將農業定位為在高度可變的真實環境中驗證自適應機器人系統的重要試驗場。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["農業機器人", "強化學習", "AI", "採收"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-15",
+      "title": "DNA 機器人有望在人體內遞送藥物並追蹤病毒",
+      "summary": "科學家研製出基於 DNA 的奈米機器人，能夠在生物環境中導航、識別特定分子靶標，並以細胞級精度遞送治療性藥物載荷。這些機器人利用華生-克里克鹼基配對作為導向機制，在釋放藥物之前精準定位癌症標誌物或病毒蛋白。在小鼠模型中，與系統性給藥相比，該技術使腫瘤負荷降低了 60%，標誌著標靶奈米醫學領域的重大突破。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["奈米機器人", "醫療", "藥物遞送", "生物技術"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-16",
+      "title": "風能驅動機器人專為惡劣環境的長時間探索而設計",
+      "summary": "一款新型風能驅動機器人原型無需電池或燃料，透過被動帆-彈簧機構直接從環境氣流中獲取能量，可在崎嶇地形上持續行駛數月。該設計面向傳統機器人難以適應的極端環境——極地冰原、乾旱荒漠、災後地帶——在這些地方補給幾乎無從實現。早期野外測試表明，在沒有人工干預的情況下，機器人在 48 小時內持續穿越了一段岩石荒漠路段。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wind-powered-robot-cou.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["能量擷取", "野外機器人", "研究", "探索"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-17",
+      "title": "抗輻射 Wi-Fi 晶片為核除役機器人開闢新路",
+      "summary": "工程師研製出一款能夠承受高達 50 萬戈瑞輻射劑量的 Wi-Fi 晶片——約為摧毀普通消費電子產品劑量的 500 倍——首次使核除役機器人的穩健無線控制成為可能。目前在福島和塞拉菲爾德等核設施中作業的機器人必須使用有線或重度屏蔽通訊系統，嚴重限制了活動範圍和靈活性。這款新晶片採用抗輻射電晶體幾何結構和糾錯硬體，在高通量環境中維持可靠的資料鏈路。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/radiation-resistant-wi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": ["核能", "感測器", "電子學", "除役"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-18",
+      "title": "機器人承擔大型太陽能農場的高溫維護工作",
+      "summary": "專用檢測和清潔機器人正在接管大型太陽能設施的危險維護任務，取代過去在沙漠地區超過 50°C 高溫下作業的工人。這些機器人利用電腦視覺識別受損太陽能板、清除積塵並進行簡易線纜修復。在中東和亞利桑那州的早期部署顯示，年度太陽能板輸出功率提升了 15% 至 20%，一個機器人團隊以四分之一的年度成本取代了四名人工技術員。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-take-the-heat-f.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": ["太陽能", "工業機器人", "檢測", "氣候"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-19",
+      "title": "氣動人工肌肉助力機器人舉起自身重量 100 倍的負載",
+      "summary": "一種新型氣動人工肌肉設計實現了力重比突破，使機器人能夠舉起自身質量 100 倍的負載——在相當體積下遠超大多數電機驅動系統。這種肌肉採用高強度聚合物中的新型風琴折疊幾何結構，在壓縮狀態下儲存能量並快速釋放。該設計對腿式機器人和外骨骼尤為適用，因為這些場景對能量效率和功率密度的要求極為苛刻。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/air-powered-artificial.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": ["致動器", "軟性機器人", "外骨骼", "氣壓學"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-20",
+      "title": "DARPA 傷亡檢傷分類挑戰賽：機器人團隊應對大規模傷亡場景",
+      "summary": "DARPA 的傷亡檢傷分類挑戰賽匯聚了多支自主機器人隊伍，任務是在完全不依賴人工指令的情況下，在模擬戰場上定位、評估並優先處理傷亡人員。參賽系統綜合運用熱成像攝影機、探地雷達和 AI 檢傷演算法來識別並報告傷亡情況。獲勝團隊在 12 分鐘內完成了一個 40 人傷亡場景的處置——而人類醫療團隊通常需要一小時以上——DARPA 的目標是在 2030 年前實現全自主前線傷亡救治系統。",
+      "image": "https://spectrum.ieee.org/media-library/aerial-drone-robotic-arm-explosion-and-medical-cross-on-abstract-background.jpg?id=62605094&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/darpa-triage-challenge-robots",
+      "tags": ["DARPA", "醫療機器人", "自主", "國防"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "date": "2026-04-08",
+  "featured": {
+    "id": "featured-20260408",
+    "title": "WSJ Inaeleza Vipande vya Kichina Ndani ya Roboti za Kibinadamu za Amerika — Bunge Linajibu",
+    "summary": "Wall Street Journal imefichua kwamba vipande muhimu ndani ya roboti nyingi za kibinadamu zinazozalishwa nchini Marekani vinatoka kwa wasambazaji wa Kichina, na hivyo kuibua wasiwasi wa usalama wa taifa wakati teknolojia hii inakaribia kutumika kibiashara. Inasemekana kwamba Bunge linaandaa sheria iliyoigwa kutoka kwenye marufuku ya ndege ndogo za DJI, ambayo inaweza kuzuia minyororo ya usambazaji kwa makampuni kama Figure AI, Apptronik, na mengine. Ufafanuzi huu unatahadharisha tasnia nzima ya roboti za kibinadamu nchini Marekani: makampuni yanaweza kulazimika kuhamisha uzalishaji wa vipande nchini au kutafuta vyanzo tofauti kabla ya shinikizo la udhibiti kuwalazimisha kufanya hivyo.",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "DroneXL / WSJ",
+    "url": "https://dronexl.co/2026/04/07/wsj-exposes-chinese-parts-inside-americas-humanoid-robots-congress-responds/",
+    "tags": [
+      "Sera",
+      "Mnyororo wa Usambazaji",
+      "Kibinadamu",
+      "Marekani-China"
+    ],
+    "timestamp": "2026-04-07T12:29:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260408-01",
+      "title": "Torobo: Tokyo Robotics Inafunua Roboti ya Kibinadamu Yenye Miguu Miwili Inayoshindana na Atlas",
+      "summary": "Tokyo Robotics imezindua Torobo, roboti ya kibinadamu yenye miguu miwili ambayo mara moja inalinganishwa na Atlas ya Boston Dynamics kwa muundo na ubora wa mwendo. Kampuni hivi karibuni ilihama Torobo kutoka mfumo wa magurudumu hadi muundo kamili wa miguu miwili, hatua muhimu ya uhandisi inayoonyesha tamaa inayokua ya Japan katika mbio za roboti za kibinadamu. Video ya maonyesho inayozunguka kwenye r/robotics imevutia umakini mpana kutoka kwa jamii ya kimataifa ya roboti.",
+      "image": "https://external-preview.redd.it/NzVzaGlndWx4dHRnMYyLeldNXgLZBPv3d6qOutVa1HJXQyQ5d_cw4XkQ-nxZ.png?width=640&crop=smart&auto=webp&s=94d9ee42cddc77b76519588267d9f810a811be98",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1sf806y/torobo_humanoid_robot_by_tokyo_robotics/",
+      "tags": [
+        "Kibinadamu",
+        "Japan",
+        "Miguu Miwili"
+      ],
+      "timestamp": "2026-04-07T20:39:12Z"
+    },
+    {
+      "id": "art-20260408-02",
+      "title": "UBTECH na Mshirika wa Biashara wa Honda Wanashirikiana Kuendeleza Roboti za Kibinadamu na Magari ya Kujiendesha",
+      "summary": "UBTECH Robotics imesaini ushirikiano wa kimkakati na Honda Trading ili kuharakisha ukomersheli wa roboti za kibinadamu na magari ya usafirishaji wa kujiendesha. Mkataba huu unaunganisha jukwaa la Walker X la UBTECH na mitandao ya usambazaji na minyororo ya ugavi ya Honda Trading iliyoenea Asia na zaidi. Hii ni muungano mwingine muhimu wa njia nyingi za viwanda kadri watengenezaji wa magari na wa roboti wanavyotafuta kushiriki utaalamu wa utengenezaji na kupanuka.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "Pandaily",
+      "url": "https://pandaily.com/",
+      "tags": [
+        "UBTECH",
+        "Honda",
+        "Kibinadamu",
+        "Ushirikiano"
+      ],
+      "timestamp": "2026-04-08T02:38:00Z"
+    },
+    {
+      "id": "art-20260408-03",
+      "title": "Roboti Zinaelekea Wapi: AI, Kibinadamu na Kuibuka kwa Akili ya Kimwili",
+      "summary": "Uchambuzi mpana wa sekta wa Assembly Magazine unaelezea mchanganyiko wa mifano mikubwa ya lugha na roboti za kimwili kuunda taaluma mpya inayoitwa 'akili ya kimwili'. Ripoti inasema kwamba mwaka 2026 ni sehemu ya mabadiliko ambapo roboti zinahamia kutoka mashine za kazi moja hadi wafanyakazi wa matumizi ya jumla wanaoweza kujibu mazingira mapya, ikiwa na maarifa kutoka maabara za kuongoza kama Physical Intelligence (Pi) na Google DeepMind.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com/",
+      "tags": [
+        "Akili ya Kimwili",
+        "AI",
+        "Uchambuzi wa Sekta"
+      ],
+      "timestamp": "2026-04-06T16:00:00Z"
+    },
+    {
+      "id": "art-20260408-04",
+      "title": "Kampuni ya Kichina Mpya ya Roboti Inatafuta Mwanasayansi Mkuu kwa Mshahara wa Dola Milioni 18 ili Kushindana na Tesla Optimus",
+      "summary": "Kampuni ya Kichina mpya ya roboti za kibinadamu inayotengeneza mshindani wa moja kwa moja wa Tesla Optimus inatoa mshahara wa kila mwaka wa dola milioni 18 ili kuvutia mwanasayansi mkuu wa kiwango cha kimataifa, kulingana na Business Insider. Kifurushi hiki cha kipato cha ajabu kinaonyesha ushindani unaoongezeka kwa talanta bora ya AI-roboti kadri makampuni ya Kichina yanavyokimbia kufunga pengo na wenzao wa Marekani. Kampuni hiyo isiyotajwa jina inasemekana inafadhiliwa na wawekezaji wakubwa waliounganishwa na serikali.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/",
+      "tags": [
+        "China",
+        "Tesla Optimus",
+        "Talanta",
+        "Ufadhili"
+      ],
+      "timestamp": "2026-04-06T10:20:00Z"
+    },
+    {
+      "id": "art-20260408-05",
+      "title": "Uvumbuzi wa Actuator Imara Unaweza Kuwezesha Roboti Laini Angani",
+      "summary": "Watafiti wametengeneza aina mpya ya actuator iliyoundwa kustahimili hali kali za nje ya angani — ikiwa ni pamoja na utupu, mionzi, na mabadiliko makali ya joto — bila kushindwa kimechaniki. Mfumo huu unatumia mchanganyiko mpya wa elastomeri unaodumisha utendaji katika masafa mapana zaidi ya actuator za zamani za roboti laini, ukifungua njia kwa mifumo ya roboti inayoweza kutumwa katika misheni ya baadaye ya mwezi na Mirihi. Kazi hii ilichapishwa katika jarida la sayansi ya vifaa lililohakikiwa na wenzake.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-actuator-could-boo.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": [
+        "Roboti Laini",
+        "Anga",
+        "Actuator",
+        "Utafiti"
+      ],
+      "timestamp": "2026-04-05T14:00:00Z"
+    },
+    {
+      "id": "art-20260408-06",
+      "title": "Amazon Iliona Nini katika Mkakati wa Kibinadamu wa Fauna Robotics",
+      "summary": "The Robot Report imepata maarifa kuhusu sababu za kimkakati za Amazon kununua Fauna Robotics, mtengenezaji wa roboti ya kibinadamu Sprout. Amazon ilivutiwa na umakini wa kipekee wa Fauna kwa udhibiti wa hali ya binadamu katika mazingira yasiyo na muundo — uwezo ambao roboti za ghala zilizopo za Amazon haziwezi kukamilisha. Ununuzi huu unaashiria nia ya Amazon kuendelea zaidi ya otomatiki isiyobadilika na kutumia roboti za kibinadamu kama wafanyakazi wa jumla wanaobadilika katika mtandao wake wa utekelezaji.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/what-amazon-saw-in-fauna-robotics-humanoid-strategy/",
+      "tags": [
+        "Amazon",
+        "Fauna Robotics",
+        "Kibinadamu",
+        "Ununuzi"
+      ],
+      "timestamp": "2026-04-07T15:08:00Z"
+    },
+    {
+      "id": "art-20260408-07",
+      "title": "Upangaji wa Kujitegemea na Uokoaji wa Makosa katika Ujenzi wa Roboti",
+      "summary": "AZoBuild inaripoti utafiti mpya unaoonyesha upangaji wa kazi wa kujitegemea na uokoaji wa makosa kwa wakati halisi kwa roboti za ujenzi. Mfumo huu unaweza kupanga upya haraka wakati vipande haviko sawa au zana zinaposhindwa, hatua kubwa kuelekea uendeshaji wa kweli wa kujitegemea wa tovuti ya ujenzi. Majaribio ya uwanjani yalionyesha roboti ikikamilisha kazi za ujenzi wa matofali za hatua nyingi kwa kiwango cha mafanikio cha 91% bila kuingilia kati kwa binadamu.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "AZoBuild",
+      "url": "https://www.azobuild.com/",
+      "tags": [
+        "Ujenzi",
+        "Kujitegemea",
+        "Utafiti"
+      ],
+      "timestamp": "2026-04-07T15:18:00Z"
+    },
+    {
+      "id": "art-20260408-08",
+      "title": "Big-D Construction Inapanua Matumizi ya Roboti za Kujitegemea pamoja na FieldAI",
+      "summary": "Kampuni kubwa ya ujenzi ya Marekani Big-D Construction imeimarisha ushirikiano wake na FieldAI, ikitumia roboti za kujitegemea katika tovuti nyingi za ujenzi zinazoendelea. Roboti hizi hufanya uchunguzi wa tovuti, ufuatiliaji wa maendeleo, na ukaguzi wa usalama kwa kutumia maono ya kompyuta yanayoendeshwa na AI, hivyo kupunguza haja ya matembezi ya mikono. Utekelezaji huu ni mojawapo ya matumizi makubwa zaidi ya roboti za kibiashara katika sekta ya ujenzi ya Marekani hadi sasa.",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/field-ai-bid-d-1.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/07/big-d-expands-construction-operations-with-fieldai-as-robotics-adoption-accelerates/100362/",
+      "tags": [
+        "Ujenzi",
+        "FieldAI",
+        "Kujitegemea",
+        "Kibiashara"
+      ],
+      "timestamp": "2026-04-07T07:42:00Z"
+    },
+    {
+      "id": "art-20260408-09",
+      "title": "Roboti za AI za Maximo Zinaweka Paneli za Jua Zaidi ya 100MW kwa Kutumia Teknolojia ya NVIDIA",
+      "summary": "Maximo, kampuni mpya ya roboti za ujenzi inayoendeshwa na AI, imevuka kizingiti cha megawati 100 kwa usakinishaji wa paneli za jua uliofanywa na roboti zake za kujitegemea. Iliangaziwa wakati wa uandishi wa habari wa Wiki ya Kitaifa ya Roboti ya NVIDIA, roboti za Maximo zinatumia NVIDIA Isaac kwa utambuzi na upangaji, na kuziwezesha kushughulikia utofauti wa tovuti na hali ya hewa. Mafanikio haya yanaonyesha kwamba AI ya kimwili sasa inaweza kuendeleza miundombinu ya nishati mbadala kwa kuaminika.",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/04/robotics-tech-blog-nrw-rolling-blog-1280x680-1.jpg",
+      "source": "NVIDIA / Reddit r/robotics",
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/#maximo",
+      "tags": [
+        "NVIDIA",
+        "Nishati ya Jua",
+        "Roboti ya Ujenzi",
+        "AI"
+      ],
+      "timestamp": "2026-04-07T09:55:13Z"
+    },
+    {
+      "id": "art-20260408-10",
+      "title": "Mkanda wa Mkono wa Ultrasound wa MIT Unawapa Roboti Ustadi wa Kiwango cha Binadamu",
+      "summary": "Watafiti wa MIT wametengeneza mkanda wa mkono unaotumia ultrasound ambao unakamata harakati laini za misuli ya mkono wa binadamu kwa usahihi wa millisekunde, na kuruhusu harakati hizo kuhamishiwa moja kwa moja kwenye mikono ya roboti. Katika majaribio, glovu ya roboti inayodhibitiwa na mkanda huo ililingana na alama za ustadi wa binadamu katika kazi za kawaida za udhibiti kwa mara ya kwanza. Kifaa hiki kisichovamia kinachoweza kuvikwa kinaweza kuwa kiolesura muhimu kwa uendeshaji wa mbali na ukusanyaji wa data ya mafunzo ya roboti.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "MIT / Tech Xplore",
+      "url": "https://techxplore.com/",
+      "tags": [
+        "MIT",
+        "Ustadi",
+        "Kivikwa",
+        "Utafiti"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-11",
+      "title": "ForSight Robotics Inafanya Upasuaji wa Kwanza Kabisa wa Mtoto wa Jicho kwa Roboti Duniani",
+      "summary": "ForSight Robotics imetangaza upasuaji wa kwanza kabisa wa mtoto wa jicho unaofanywa kwa kujitegemea kabisa na roboti kwa kutumia jukwaa lake la JASPER. Utaratibu ulikamilika chini ya usimamizi wa daktari bila kuingilia kati kwa mikono wakati wa operesheni. Hatua hii inachukuliwa kuwa muhimu sana kwa sababu upasuaji wa mtoto wa jicho unahitaji usahihi wa chini ya millimita na ni mojawapo ya taratibu za upasuaji zenye kiasi kikubwa zaidi duniani, ikiwakilisha soko kubwa linalowezekana kwa roboti za matibabu.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "ForSight Robotics",
+      "url": "https://www.forsight-robotics.com/",
+      "tags": [
+        "Matibabu",
+        "Upasuaji",
+        "Kujitegemea",
+        "Hatua Muhimu"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-12",
+      "title": "Microsoft, NVIDIA na Chuo Kikuu cha Washington Wanafunua OmniReset kwa AI ya Roboti",
+      "summary": "Timu ya pamoja kutoka Microsoft, NVIDIA, na Chuo Kikuu cha Washington imetoa OmniReset, mfumo wa chanzo wazi ambao unawezesha mifumo ya roboti kurejesha moja kwa moja kutoka kwa kushindwa na kurudi kwenye hali salama wakati wa mafunzo na utekelezaji. OmniReset inashughulikia moja ya vikwazo vikuu katika uhamishaji wa sim-hadi-halisi — haja ya upya wa binadamu wakati roboti zinapokwama — na inaweza kuharakisha sana ujifunzaji wa kuimarisha kwa kiwango kikubwa.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "ETIH / EdTech Innovation Hub",
+      "url": "https://www.edtechinnovationhub.com/",
+      "tags": [
+        "Microsoft",
+        "NVIDIA",
+        "Chanzo Wazi",
+        "Ujifunzaji wa Kuimarisha"
+      ],
+      "timestamp": "2026-04-07T23:06:00Z"
+    },
+    {
+      "id": "art-20260408-13",
+      "title": "Korea Kusini Inaona 2030 kama Dirisha Muhimu la Uongozi wa Soko la Roboti za Kibinadamu",
+      "summary": "Maafisa wa serikali ya Korea Kusini na wachambuzi wa sekta wametambua kipindi cha 2026-2030 kama cha maamuzi kwa nchi kuanzisha nafasi ya uongozi katika soko la roboti za kibinadamu. Mkakati wa Korea Kusini unaunganisha uwezo wa utengenezaji wa Samsung, Hyundai, na Kundi la LG na uwekezaji mkubwa wa R&D, ukilenga kupinga China na Marekani. DongA Science inaripoti kwamba serikali inaandaa mfuko wa ushindani wa roboti wa mabilioni ya dola.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "DongA Science",
+      "url": "https://www.dongascience.com/",
+      "tags": [
+        "Korea Kusini",
+        "Sera",
+        "Kibinadamu",
+        "Soko"
+      ],
+      "timestamp": "2026-04-08T01:38:00Z"
+    },
+    {
+      "id": "art-20260408-14",
+      "title": "China Inapima Roboti za Kibinadamu kwa Kazi za Udhibiti wa Mpaka na Vietnam",
+      "summary": "China imeanza kupima roboti za kibinadamu katika operesheni za doria na udhibiti wa mpaka kando ya mpaka wake na Vietnam, kulingana na ECOticias. Roboti hizi zimepewa kamera za joto, utambuzi wa uso, na mwendo unaobadilika kulingana na ardhi, na zinatathminiwa kwa ufuatiliaji wa vituo vya ukaguzi na ulinzi wa mzingo. Utekelezaji huu ni mojawapo ya matumizi ya kwanza yanayojulikana ya roboti za umbo la kibinadamu kwa operesheni za usalama wa mpaka wa taifa.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "ECOticias",
+      "url": "https://www.ecoticias.com/",
+      "tags": [
+        "China",
+        "Usalama wa Mpaka",
+        "Kibinadamu",
+        "Ulinzi"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-15",
+      "title": "Mjenzi Mkubwa wa Meli wa Marekani Anashirikiana na GrayMatter Robotics katika AI ya Kimwili",
+      "summary": "Huntington Ingalls Industries, mjenzi mkubwa zaidi wa meli kwa Jeshi la Wanamaji la Marekani, ameshirikiana na GrayMatter Robotics kutumia mifumo ya AI ya kimwili kwa kazi ngumu za kulehemu na kukusanyika kwenye meli za kijeshi. Roboti za GrayMatter zinatumia maono ya 3D na AI inayobadilika kushughulikia hali zisizo na muundo na zinazobadilika za ujenzi wa meli — mazingira ambayo kihistoria ni magumu kuotomatisha. Mkataba huu unasisitiza nia inayokua ya roboti katika utengenezaji wa kiviwanda cha ulinzi.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Manufacturing.net",
+      "url": "https://www.manufacturing.net/",
+      "tags": [
+        "Ulinzi",
+        "GrayMatter",
+        "Ujenzi wa Meli",
+        "AI ya Kimwili"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-16",
+      "title": "BASF na Sevnce Robotics Wanashirikiana kwa Uotomatishaji wa Akili wa Uzalishaji wa Kemikali",
+      "summary": "Kampuni kubwa ya kemikali BASF imesaini ushirikiano na Sevnce Robotics kutumia roboti za ukaguzi na usampulishaji wa kujitegemea ndani ya vifaa vyake vya uzalishaji wa kemikali. Roboti hizi zinaweza kushughulikia mazingira ya kutu na hatari ambayo si salama kwa wafanyakazi wa binadamu, zikifanya ukaguzi wa kawaida na ugunduzi wa hali isiyo ya kawaida masaa yote ishirini na manne. Mkataba huu ni sehemu ya mkakati mpana wa udigitali wa BASF na unabainisha matumizi yanayopanuka ya roboti katika sekta za kiviwanda zenye hatari kubwa.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "NovusLight",
+      "url": "https://www.novuslight.com/",
+      "tags": [
+        "BASF",
+        "Kiviwanda",
+        "Roboti ya Ukaguzi",
+        "Kemikali"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-17",
+      "title": "Roboti za Kibinadamu Zinaendesha Maendeleo ya Sensorer za Mguso wakati Makampuni ya Taiwan Yanashindana",
+      "summary": "Mnyororo wa usambazaji wa semiconductori na elektroniki wa Taiwan unageukia maendeleo ya sensorer za mguso, ukisukumwa na mahitaji yanayoongezeka kutoka kwa watengenezaji wa roboti za kibinadamu duniani kote. Digitimes inaripoti kwamba makampuni ikiwa ni pamoja na Merry Electronics na mengine yanakimbia kutengeneza sensorer za msukumo zenye msongamano mkubwa zinazofanana na ngozi kwa mikono ya roboti. Utawala wa Taiwan katika utengenezaji wa usahihi unaupa faida ya kimuundo katika kusambaza kategoria hii mpya ya vipande.",
+      "image": "https://img.digitimes.com/newsshow/20260407vl200_files/1_b.jpg",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com/news/a20260407VL200/humanoid-robot-tactile-sensor-taiwan.html",
+      "tags": [
+        "Taiwan",
+        "Sensorer za Mguso",
+        "Kibinadamu",
+        "Mnyororo wa Usambazaji"
+      ],
+      "timestamp": "2026-04-08T00:04:00Z"
+    },
+    {
+      "id": "art-20260408-18",
+      "title": "Nanoroboti Zinazotumia Nuru Zinakamata na Kuondoa Bakteria kutoka Majini",
+      "summary": "Wanasayansi wameonyesha nanoroboti zinazotumia nuru inayoonekana ambazo zinaweza kutafuta na kukamata bakteria hatari katika sampuli za maji kwa ufanisi mkubwa. Roboti hizi zinatumia kemia ya photocatalytic kujiendesha na kuharibu vimelea vya magonjwa wakati wa mguso, zisihitaji chanzo cha nguvu nje ya nuru ya kawaida ya mazingira. Uvumbuzi huu una matumizi yanayowezekana katika utakaso wa maji, utoaji wa dawa unaolengwa, na matibabu ya maambukizo.",
+      "image": "https://www.azorobotics.com/images/news/ImageForNews_15432_17304078587295526.jpg",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com/News.aspx?newsID=15432",
+      "tags": [
+        "Nanoroboti",
+        "Matibabu",
+        "Maji",
+        "Utafiti"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-19",
+      "title": "Serve Robotics Inafunua Roboti ya Utoaji Mizigo yenye AI ya Mazungumzo katika NVIDIA GTC",
+      "summary": "Serve Robotics ilionyesha roboti ya utoaji mizigo ya kizazi kipya ya barabara yenye AI ya mazungumzo katika NVIDIA GTC 2026. Roboti hii inaweza kuwasiliana na wapita njia, kujibu maswali ya wakati halisi kuhusu hali yake ya utoaji, na kushughulikia mwingiliano mgumu wa waenda kwa miguu kwa kutumia usindikaji wa AI wa pembeni. Serve, ambayo inafanya kazi ya utoaji wa Uber Eats huko Los Angeles, inasema uwezo wa mazungumzo unaboresha usalama na uzoefu wa wateja katika mazingira mazito ya mijini.",
+      "image": "https://cdn.sanity.io/images/dh33lj7y/production/ba522acc2978502c9d69447015fb70bd295bc95b-1200x630.jpg",
+      "source": "Serve Robotics / NVIDIA",
+      "url": "https://www.serverobotics.com/blog",
+      "tags": [
+        "Serve Robotics",
+        "Utoaji",
+        "AI ya Mazungumzo",
+        "NVIDIA"
+      ],
+      "timestamp": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "art-20260408-20",
+      "title": "Kundi la POSCO Linawekeza Shilingi Bilioni 7 za Korea katika Kampuni ya Uotomatishaji wa Roboti Brils",
+      "summary": "Kundi kubwa la chuma la Korea Kusini POSCO Group limeahidi shilingi bilioni 7 za Korea (takriban dola milioni 5 za Marekani) kwa Brils, kampuni mpya ya uotomatishaji wa roboti inayobobea katika matumizi mazito ya kiviwanda. Uwekezaji huu utafadhili maendeleo ya Brils ya mifumo ya roboti inayoendeshwa na AI kwa uendeshaji wa kiwanda cha chuma, ambapo joto kali na mahitaji ya usahihi yamekuwa changamoto ya muda mrefu kwa uotomatishaji. Inaashiria kukubaliwa kwa kasi kwa roboti za kizazi kipya na sekta nzito za jadi.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "BusinessKorea",
+      "url": "https://www.businesskorea.co.kr/",
+      "tags": [
+        "POSCO",
+        "Korea Kusini",
+        "Ufadhili",
+        "Kiviwanda"
+      ],
+      "timestamp": "2026-04-07T11:00:00Z"
+    }
+  ]
+}

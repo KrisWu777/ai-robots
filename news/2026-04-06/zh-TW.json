@@ -1,0 +1,339 @@
+{
+  "date": "2026-04-06",
+  "featured": {
+    "id": "featured-0406",
+    "title": "Boston Dynamics Spot 成為研究對象：科學家研究人機社會互動",
+    "summary": "研究人員正在研究家庭成員和訪客如何與 Boston Dynamics 的 Spot 機器人在 Robotics & AI Institute 互動，揭示了人類對四足機器的舒適感和信任度方面的驚人洞見。研究表明，兒童比成人適應更快，機器人身上的視覺提示會顯著影響其感知友好度。",
+    "image": "https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+    "tags": [
+      "Boston Dynamics",
+      "HRI",
+      "社交機器人"
+    ],
+    "timestamp": "2026-04-06T13:00:01Z"
+  },
+  "articles": [
+    {
+      "id": "0406-001",
+      "title": "彈性致動器展現太空級軟體機器人潛力",
+      "summary": "一種新型致動器設計能夠承受極端壓力、溫度和輻射，使其適合在外太空、深海和核環境中部署軟體機器人。該研究為機器人進入此前傳統剛性機器無法到達的場所開闢了新路徑。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": [
+        "軟體機器人",
+        "太空",
+        "致動器"
+      ],
+      "timestamp": "2026-04-05T10:00:03Z"
+    },
+    {
+      "id": "0406-002",
+      "title": "影片星期五：Digit 幾乎一夜之間學會了跳舞",
+      "summary": "在本週的影片星期五中，Agility Robotics 的 Digit 人形機器人展示了在模擬環境中習得、並在不到24小時內遷移到現實世界的全新舞蹈動作——這標誌著 sim-to-real 遷移技術正快速走向成熟。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-humanoid-dancing",
+      "video": "https://www.youtube.com/watch?v=29ECwExc-_M",
+      "tags": [
+        "Agility Robotics",
+        "Digit",
+        "舞蹈",
+        "Sim-to-Real"
+      ],
+      "timestamp": "2026-04-03T16:30:01Z"
+    },
+    {
+      "id": "0406-003",
+      "title": "MirrorBot：旨在促進人際連結的機器人",
+      "summary": "Cornell University 研究人員發布了 MirrorBot，這款機器人能夠鏡像人類的肢體語言和情感信號，以建立同理心與連結感。早期試驗顯示，參與者在與 MirrorBot 互動後，表示感覺更被理解、孤獨感減少。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-mirrorbot-robot-foster-human.html",
+      "tags": [
+        "社交機器人",
+        "Cornell",
+        "HRI"
+      ],
+      "timestamp": "2026-04-02T17:00:10Z"
+    },
+    {
+      "id": "0406-004",
+      "title": "氣動人工肌肉有望幫助機器人舉起自身重量100倍的物體",
+      "summary": "Arizona State University 研究人員正在開發仿生氣動機器人肌肉，使機器人能夠在極端環境（包括沸水和高度磨蝕性表面）中舉起自身重量最多100倍的物體。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": [
+        "人工肌肉",
+        "軟體機器人",
+        "Arizona State"
+      ],
+      "timestamp": "2026-04-02T11:20:06Z"
+    },
+    {
+      "id": "0406-005",
+      "title": "研究人員打造無電子元件、無電池、無大腦的機器人群",
+      "summary": "Georgia Tech 團隊創造了一種純粹依靠物理互動實現協調集體行為的機械機器人群——無感測器、無處理器、無電池。該 LEGO 啟發式設計證明，智慧群體行為可以從簡單的機械規則中湧現。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": [
+        "群體機器人",
+        "Georgia Tech",
+        "機械"
+      ],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0406-006",
+      "title": "將 Robot Operating System 與 LLM 結合，實現自然語言機器人控制",
+      "summary": "新研究將大型語言模型直接整合至 ROS（Robot Operating System），使操作員能夠以普通英語句子指揮機器人。該系統即時將自然語言指令轉化為 ROS 動作序列，大幅降低機器人程式設計的門檻。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html",
+      "tags": [
+        "ROS",
+        "LLM",
+        "自然語言",
+        "控制"
+      ],
+      "timestamp": "2026-04-01T08:10:01Z"
+    },
+    {
+      "id": "0406-007",
+      "title": "Gill Pratt 表示：人形機器人的時代終於來臨",
+      "summary": "Toyota Research Institute CEO Gill Pratt——前 DARPA 機器人計畫負責人——在 IEEE Spectrum 最新專訪中指出，更好的 AI、更廉價的致動器以及更優的電池共同匯聚，終於為人形機器人創造了能夠真正創造經濟價值的條件。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": [
+        "人形機器人",
+        "DARPA",
+        "Toyota",
+        "產業分析"
+      ],
+      "timestamp": "2026-04-02T15:00:02Z"
+    },
+    {
+      "id": "0406-008",
+      "title": "能抵抗核反應爐輻射的 Wi-Fi——專為退役機器人設計",
+      "summary": "一款能夠承受 500 kGy 輻射的抗輻射 Wi-Fi 晶片被專門開發用於核電廠退役機器人。該晶片支援在活躍反應爐堆芯內進行即時無線通訊，消除了對有線電纜的依賴。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robotics-in-nuclear-industry",
+      "tags": [
+        "核能",
+        "輻射",
+        "Wi-Fi",
+        "工業"
+      ],
+      "timestamp": "2026-04-02T14:00:02Z"
+    },
+    {
+      "id": "0406-009",
+      "title": "科學家打造擁有神經系統的活體機器人",
+      "summary": "研究人員創造了「NeuroBot」——由包含功能性神經系統類結構的生物細胞組裝而成的活體機器人。這些有機體能夠感知環境並產生協調的運動模式，模糊了機器人與有機生命體之間的界限。",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/neurobot-living-robot-nervous-system",
+      "tags": [
+        "生物混合",
+        "活體機器人",
+        "神經科學"
+      ],
+      "timestamp": "2026-04-02T13:00:01Z"
+    },
+    {
+      "id": "0406-010",
+      "title": "新控制框架讓柔性機器人在狹小空間中以更少計算量移動",
+      "summary": "一種新型控制框架大幅簡化了連續體和柔性機器人在管道、血管及倒塌建築等受限空間中的路徑規劃。與現有方法相比，該方案在維持導航精度的同時，將計算時間縮短了80%。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": [
+        "連續體機器人",
+        "路徑規劃",
+        "控制"
+      ],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0406-011",
+      "title": "問答：機器人無法感知——但新型壓力感測器或將改變這一切",
+      "summary": "Penn State 研究員 Huanyu Cheng 解釋了一類新型柔性壓力感測器如何賦予機器人與人類皮膚相當的觸覺。這些感測器能夠同時偵測紋理、溫度和力度——邁向真正觸覺機器人手的重要一步。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-qa-robots-sensors.html",
+      "tags": [
+        "觸覺感測",
+        "Penn State",
+        "機器人手"
+      ],
+      "timestamp": "2026-03-30T17:00:04Z"
+    },
+    {
+      "id": "0406-012",
+      "title": "不同形態的機器人現可透過意圖學習共享技能",
+      "summary": "一種新型機器學習框架允許擁有完全不同物理形態的機器人，透過將技能抽象為「意圖」而非馬達指令來共享任務知識。機械臂和人形機器人都可以從同一次示範中學習，無需針對各自形態重新訓練。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-bodies-skills-intention-based.html",
+      "tags": [
+        "遷移學習",
+        "跨形態",
+        "AI"
+      ],
+      "timestamp": "2026-03-30T13:20:04Z"
+    },
+    {
+      "id": "0406-013",
+      "title": "HEAPGrasp：機器人處理複雜物體的更快、更聰明方式",
+      "summary": "HEAPGrasp 是一種新型抓取演算法，將階層式規劃與即時觸覺回饋相結合，使機器人能夠可靠地抓取形狀不規則、表面光滑或可變形的物體。倉庫測試中，對此前未見過的物品達到了97.3%的成功率。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-heapgrasp-faster-smarter-robots-tricky.html",
+      "tags": [
+        "抓取",
+        "操控",
+        "倉儲"
+      ],
+      "timestamp": "2026-03-30T11:20:03Z"
+    },
+    {
+      "id": "0406-014",
+      "title": "AI 基準測試幫助機器人在真實世界規劃和完成家務",
+      "summary": "一項名為 HomeTask-3000 的新標準化基準測試評估家用機器人在現實家庭環境中規劃和執行多步家務的能力。該套件包含47種家居佈局中的3000個任務場景，是迄今最嚴格的真實世界機器人評估。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html",
+      "tags": [
+        "基準測試",
+        "家用機器人",
+        "AI規劃"
+      ],
+      "timestamp": "2026-03-29T11:30:02Z"
+    },
+    {
+      "id": "0406-015",
+      "title": "基於影片的 AI 賦予機器人視覺想像力",
+      "summary": "Harvard Kempner Institute 的 Yilun Du 發布了一套系統，使機器人能夠在執行動作前利用影片生成模型作為世界模型來「想像」行動的視覺結果。經視覺想像訓練的機器人解決操控任務的效率提升了40%。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-video-based-ai-robots-visual.html",
+      "tags": [
+        "世界模型",
+        "視覺AI",
+        "Harvard",
+        "操控"
+      ],
+      "timestamp": "2026-03-26T10:20:03Z"
+    },
+    {
+      "id": "0406-016",
+      "title": "AI 系統防止倉儲機器人交通擁塞，提升吞吐量25%",
+      "summary": "一種新型多智能體強化學習系統動態重新規劃倉儲機器人機群路線，以避開擁塞熱點，實現訂單吞吐量提升25%。該系統已在500台機器人的 Amazon 配送中心模擬中獲得驗證。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": [
+        "倉儲",
+        "多智能體",
+        "強化學習"
+      ],
+      "timestamp": "2026-03-26T09:30:01Z"
+    },
+    {
+      "id": "0406-017",
+      "title": "仿蝙蝠超音波助手掌大小無人機在霧和煙中導航",
+      "summary": "WPI 研究人員為手掌大小的無人機配備了仿蝙蝠超音波感測器和 AI 系統，實現在零能見度條件下的自主導航。在煙霧環境中，該系統性能優於基於攝影機的導航，為消防救援無人機開闢了應用前景。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ultrasound-palm-sized-drones-fog.html",
+      "tags": [
+        "無人機",
+        "超音波",
+        "導航",
+        "WPI"
+      ],
+      "timestamp": "2026-03-26T09:06:49Z"
+    },
+    {
+      "id": "0406-018",
+      "title": "BRINC 新型警用無人機使用 Starlink、攜帶 Narcan、以60英里時速追車",
+      "summary": "防務機器人公司 BRINC 發布了 Guardian，被描述為「有史以來最強大的911響應無人機」。它透過 Starlink 實現全國覆蓋，可部署 Narcan 分發器響應藥物過量事件，並可以高達60英里時速追逐逃逸車輛。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "tags": [
+        "警務",
+        "無人機",
+        "Starlink",
+        "BRINC"
+      ],
+      "timestamp": "2026-03-25T21:12:03Z"
+    },
+    {
+      "id": "0406-019",
+      "title": "機器人替人類承擔澳洲最大太陽能農場的維護工作",
+      "summary": "AI 驅動的巡檢機器人正在澳洲大規模太陽能農場中部署，以取代在極端內陸高溫中從事危險維護工作的人類。機器人自主穿越數公里的崎嶇沙漠地形，執行清潔面板、偵測故障和進行小修的任務。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": [
+        "太陽能",
+        "巡檢",
+        "澳洲",
+        "工業"
+      ],
+      "timestamp": "2026-03-25T18:10:07Z"
+    },
+    {
+      "id": "0406-020",
+      "title": "FedEx 選擇合作夥伴而非自有技術推進自動化策略",
+      "summary": "FedEx 宣布與 Berkshire Gray 建立重大合作關係，在其網絡中部署 AI 驅動的分揀和操控機器人，標誌著公司策略從自建內部機器人技術轉向最優生態系統方式。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+      "tags": [
+        "FedEx",
+        "物流",
+        "自動化",
+        "Berkshire Gray"
+      ],
+      "timestamp": "2026-03-31T15:46:50Z"
+    },
+    {
+      "id": "0406-021",
+      "title": "Nomadic 融資840萬美元，整理自動駕駛汽車產生的海量數據",
+      "summary": "新創公司 Nomadic 已融資840萬美元，旨在利用深度學習將機器人和自動駕駛汽車感測器錄像轉化為結構化、可搜尋的數據集。該公司針對自主系統開發中的主要瓶頸：大規模數據處理和標註。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": [
+        "新創公司",
+        "融資",
+        "自動駕駛汽車",
+        "數據"
+      ],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0406-022",
+      "title": "腕帶讓佩戴者用自身動作控制機器人手",
+      "summary": "MIT 研究人員開發的新型 EMG 腕帶透過讀取前臂肌肉訊號，實現對機器人義肢手的直覺式即時控制。使用者只需不到20小時的訓練即可控制單根手指動作，相較現有肌電義肢有了顯著進步。",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": [
+        "義肢",
+        "EMG",
+        "MIT",
+        "穿戴式裝置"
+      ],
+      "timestamp": "2026-03-25T06:00:09Z"
+    }
+  ]
+}

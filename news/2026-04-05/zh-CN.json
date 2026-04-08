@@ -1,0 +1,339 @@
+{
+  "date": "2026-04-05",
+  "featured": {
+    "id": "featured-20260405",
+    "title": "科学家打造出具有神经系统的活体机器人",
+    "summary": "研究人员创造了「NeuroBot」——由生物细胞组装而成的活体机器人，其中包含能够感知并产生协调运动的功能性神经系统样结构。相关研究成果发表于《Nature》，模糊了工程机器人与活体生物之间的界限。",
+    "image": "https://spectrum.ieee.org/media-library/close-up-of-a-neuro-robot-that-has-been-stained-to-highlight-multi-ciliated-cells-around-its-periphery.jpg?id=65444408&width=1200",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/neurobot-living-robot-nervous-system",
+    "tags": [
+      "活体机器人",
+      "生物混合",
+      "Nature"
+    ],
+    "timestamp": "2026-04-02T13:00:01Z"
+  },
+  "articles": [
+    {
+      "id": "0405-001",
+      "title": "Gill Pratt表示人形机器人的时代终于来临",
+      "summary": "Toyota Research Institute首席执行官、前DARPA机器人项目负责人Gill Pratt在IEEE Spectrum的最新采访中指出，更先进的AI、更低廉的执行器以及更优秀的电池技术的融合，使人形机器人首次具备了创造真实经济价值的条件。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": [
+        "人形机器人",
+        "Toyota",
+        "DARPA",
+        "行业分析"
+      ],
+      "timestamp": "2026-04-02T15:00:02Z"
+    },
+    {
+      "id": "featured-0405",
+      "title": "通过与Boston Dynamics Spot的真实互动研究人类对机器人的态度",
+      "summary": "Robotics & AI Institute开展了一项里程碑式研究，追踪了数百个家庭在六个月内与Boston Dynamics的Spot互动的情况，揭示了信任、恐惧和拟人化的规律。这些数据正在重塑设计师对机器人外观和社交行为的设计理念。",
+      "image": "https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+      "tags": [
+        "Boston Dynamics",
+        "人机交互",
+        "用户研究"
+      ],
+      "timestamp": "2026-04-05T13:00:01Z"
+    },
+    {
+      "id": "0405-003",
+      "title": "据报道Physical Intelligence正在洽谈再次融资10亿美元",
+      "summary": "通用机器人学习初创公司Physical Intelligence（π）正在进行先进谈判，计划融资10亿美元，这将在短短四个月内将其56亿美元的估值翻倍。该公司的π0基础模型已授权给多家机器人OEM厂商。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "tags": [
+        "Physical Intelligence",
+        "融资",
+        "基础模型"
+      ],
+      "timestamp": "2026-03-27T23:59:40Z"
+    },
+    {
+      "id": "0405-004",
+      "title": "有生命还是无生命？像动物一样游泳和导航的微型3D打印机器人",
+      "summary": "Leiden University的Daniela Kraft教授和Mengshi Wei创造了无需传感器、软件或外部控制即可运动的微型机器人。其行为完全由物理几何结构和材料特性决定，模仿简单水生生物的导航方式。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": [
+        "微型机器人",
+        "3D打印",
+        "Leiden University"
+      ],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0405-005",
+      "title": "视频星期五：Roadrunner双足机器人打破常规",
+      "summary": "本周视频星期五重点介绍Roadrunner——一款新型双足机器人，采用轮式混合运动系统，在平坦地面上可达到每秒5米的速度，同时在楼梯和崎岖地形上保持稳定性，是对经典步行机器人设计的根本性突破。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/roadrunner-bipedal-robot",
+      "video": "https://www.youtube.com/watch?v=tF4DML7FIWk",
+      "tags": [
+        "双足",
+        "运动",
+        "速度"
+      ],
+      "timestamp": "2026-03-27T16:30:03Z"
+    },
+    {
+      "id": "0405-006",
+      "title": "数字孪生助力救援机器人：更快的3D点云处理带来的突破",
+      "summary": "新算法将3D点云处理时间从数秒缩短至毫秒级，使机器人能够实时构建和更新环境的数字孪生地图。这一突破对于在条件动态变化的倒塌建筑中作业的救援机器人至关重要。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": [
+        "数字孪生",
+        "3D建图",
+        "搜救"
+      ],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0405-007",
+      "title": "Melania Trump希望用机器人为孩子在家上学",
+      "summary": "第一夫人为Figure AI的人形机器人背书，将其视为潜在的AI驱动家庭教师，设想机器人能个性化课程并提供一对一指导。此番言论引发了关于机器人在教育和儿童发展中应用的广泛争论。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "tags": [
+        "Figure AI",
+        "教育",
+        "人形机器人"
+      ],
+      "timestamp": "2026-03-25T18:55:41Z"
+    },
+    {
+      "id": "0405-008",
+      "title": "Lucid Bots融资2000万美元以满足其窗户清洁无人机的市场需求",
+      "summary": "Lucid Bots是一家生产自主无人机的公司，其产品用于清洁摩天楼窗户和建筑外墙高压清洗，该公司已完成2000万美元的B轮融资以扩大产能。随着建筑业主面临高空危险维护作业人工成本上涨，市场需求持续加速。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "tags": [
+        "无人机",
+        "初创企业",
+        "融资",
+        "清洁"
+      ],
+      "timestamp": "2026-03-25T11:00:00Z"
+    },
+    {
+      "id": "0405-009",
+      "title": "Amazon收购Fauna Robotics，后者是Sprout人形机器人的制造商",
+      "summary": "Amazon已收购Fauna Robotics——Sprout的开发商，Sprout是一款为家庭和医院等社交场所设计的友好型儿童尺寸人形机器人。此次收购是Amazon本月第二次机器人领域的并购，标志着该公司向家用和医疗机器人领域的进军。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": [
+        "Amazon",
+        "收购",
+        "人形机器人",
+        "Fauna Robotics"
+      ],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0405-010",
+      "title": "Agile Robots与Google DeepMind合作整合基础模型",
+      "summary": "德中合资机器人公司Agile Robots已与Google DeepMind签署合作协议，将机器人基础模型整合到其人形平台中。作为回报，Agile Robots将向DeepMind的训练数据集贡献真实世界的任务演示数据。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": [
+        "Agile Robots",
+        "Google DeepMind",
+        "基础模型"
+      ],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0405-011",
+      "title": "无人机与AI结合可帮助搜救队更快找到失踪人员",
+      "summary": "一种结合红外、热成像和彩色摄像头并配备AI分析系统的多传感器无人机，可大幅加快搜索和救援行动。实地测试表明，该系统定位失踪人员的速度比单独的地面团队快4倍。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": [
+        "无人机",
+        "搜救",
+        "热成像"
+      ],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0405-012",
+      "title": "五级模型从移动性、操作和认知三维度评估人形机器人",
+      "summary": "Fraunhofer HNFIZ研究人员发布了一套新的标准化评估框架，将人形机器人按移动性、操作灵巧性和认知自主性划分为五个能力等级——类似于SAE对自动驾驶汽车的等级划分。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": [
+        "人形机器人",
+        "Fraunhofer",
+        "标准",
+        "评估"
+      ],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0405-013",
+      "title": "仿鸟机器人比无人机提供更大的灵活性和控制力",
+      "summary": "Rutgers University的工程师研发出一款仿鸟扑翼机器人，其翅膀可实时弯曲和扭转以应对侧风和气流扰动。该设计在低速飞行时比同等四旋翼无人机节能3倍。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": [
+        "扑翼",
+        "仿生",
+        "Rutgers",
+        "无人机"
+      ],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0405-014",
+      "title": "仿昆虫机器人仅凭一根「触角」也能追踪气味",
+      "summary": "一款以昆虫嗅觉系统为原型的仿生机器人，可在室内外定位气味来源——气体泄漏、爆炸物、失踪人员。即使两个传感器单元之一发生故障，系统仍能保持稳定的精度，这对真实部署至关重要。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": [
+        "嗅觉",
+        "仿生",
+        "搜索机器人"
+      ],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0405-015",
+      "title": "抗辐射Wi-Fi芯片在500 kGy辐射下仍可存活，专为核退役机器人设计",
+      "summary": "一款专为核电站退役机器人设计的新型抗辐射Wi-Fi芯片，可承受500千戈瑞的电离辐射——相当于2.5亿次牙科X光检查的辐射量。该芯片可实现在活跃反应堆内的无线机器人控制，替代危险的有线系统。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": [
+        "核能",
+        "辐射",
+        "Wi-Fi",
+        "退役"
+      ],
+      "timestamp": "2026-03-23T13:00:09Z"
+    },
+    {
+      "id": "0405-016",
+      "title": "芝加哥机器人教师如何在不假装是人类的情况下教授社会情感学习",
+      "summary": "在芝加哥的四年级课堂中，机器人正在教授同理心和冲突解决技能，同时对自身的机器身份保持透明。这种方式避免了过度人形化交互的「恐怖谷」效应，通过保持清晰的机器人-学生边界实现了更好的学习效果。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": [
+        "教育",
+        "社交机器人",
+        "社会情感学习",
+        "芝加哥"
+      ],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0405-017",
+      "title": "更智能、更快速、更像人：AI系统助力机器人超越人类教师",
+      "summary": "一种新的模仿学习框架不仅能让机器人复制演示任务，还能在其基础上改进——仅经过10次练习，执行学到的动作比人类演示者快30%。关键在于AI系统能识别并消除人类演示中的低效环节。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": [
+        "模仿学习",
+        "机器人学习",
+        "AI"
+      ],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0405-018",
+      "title": "风力驱动机器人实现对恶劣环境的长期探索",
+      "summary": "Cranfield University的WANDER-bot是一款低成本的3D打印机器人，完全由风能驱动，专为在沙漠、苔原和火山地区进行长时间自主监测而设计。无需电池或太阳能板，WANDER-bot可在有风的环境中无限期运行。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": [
+        "风能",
+        "探索",
+        "Cranfield",
+        "能源"
+      ],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0405-019",
+      "title": "30年前，机器人学会了行走——Honda的P2被评为IEEE里程碑",
+      "summary": "IEEE将Honda的P2人形机器人（于1996年发布）列为官方IEEE里程碑，认可其为首款展示可靠动态行走的自包含双足机器人。P2为此后几乎所有步行机器人奠定了技术基础。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": [
+        "Honda",
+        "历史",
+        "IEEE",
+        "双足"
+      ],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0405-020",
+      "title": "AI驱动机器人通过预测采摘难度更高效地收获番茄",
+      "summary": "一款新型番茄收割机器人不仅能识别成熟果实，还能根据茎角、簇密度和叶片遮挡情况预测每颗番茄的采摘难度，并优先处理最容易的目标。这种「难度感知」策略在温室试验中将收割吞吐量提高了35%。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": [
+        "农业机器人",
+        "收割",
+        "AI规划"
+      ],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0405-021",
+      "title": "DNA机器人可在体内递送药物并追踪病毒",
+      "summary": "研究人员正在研发基于DNA的纳米级机器人，能够在血液中导航、识别目标细胞并递送治疗载荷。这些可编程机器借鉴了传统机器人的概念——运动、感知、驱动——但在分子尺度上运作。",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": [
+        "纳米机器人",
+        "医疗",
+        "DNA",
+        "药物递送"
+      ],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0405-022",
+      "title": "Gecko Robotics获得美国海军史上最大机器人合同",
+      "summary": "Gecko Robotics已与美国海军签署一份五年合同，利用配备超声波传感器的爬壁检测机器人对海军整个舰队进行监测和预测性维护。这是美国海军历史上规模最大的机器人合同。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": [
+        "军事",
+        "海军",
+        "检测",
+        "Gecko Robotics"
+      ],
+      "timestamp": "2026-03-17T10:00:00Z"
+    }
+  ]
+}

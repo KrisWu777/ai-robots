@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-02",
+  "featured": {
+    "id": "featured-0402",
+    "title": "Physical Intelligenceのπ0基盤モデル：これまでで最も高性能な汎用ロボット頭脳",
+    "summary": "Physical Intelligenceのπ0基盤モデルは、タスク固有のファインチューニングなしで多様なロボットタイプを制御できる。同モデルは6社の主要ロボットOEMによるライセンス取得が進んでいると報じられており、同社は10億ドルの資金調達を準備中だ。初期結果では、100回未満のデモンストレーションで新しいタスクに汎化できることが示されている。",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+    "tags": ["Physical Intelligence", "基盤モデル", "資金調達"],
+    "timestamp": "2026-03-27T23:59:40Z"
+  },
+  "articles": [
+    {
+      "id": "0402-001",
+      "title": "Amazonが子供サイズのヒューマノイドSproutのメーカー、Fauna Roboticsを買収",
+      "summary": "Amazonが1か月で2件目のロボティクス買収を実施し、Fauna RoboticsとそのヒューマノイドSproutを傘下に収めた。Sproutは家庭や病院でのソーシャルコンパニオンとして設計されており、先進の衝突回避機能と表現豊かなコミュニケーションにより、子供や高齢者の近くで安全に動作する。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": ["Amazon", "Fauna Robotics", "買収", "ヒューマノイド"],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0402-002",
+      "title": "Agile RobotsがGoogle DeepMindと提携：基盤モデルにデータを、ハードウェアにモデルを",
+      "summary": "相互利益のあるパートナーシップにより、Agile Robotsはヒューマノイドプラットフォームを使って数百万件のタスクデモンストレーションデータポイントを収集し、Google DeepMindと共有する。引き換えに、DeepMindのロボティクス基盤モデルがAgileの次世代ロボットプラットフォームに統合される。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": ["Agile Robots", "Google DeepMind", "パートナーシップ"],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0402-003",
+      "title": "ウクライナにおける自律型ドローン戦争が軍事紛争の様相を変えている",
+      "summary": "ウクライナ紛争の双方は毎週数千機のAI対応自律型ドローンを展開している。技術革新のスピードが国際法を追い越し、専門家は自律的交戦の射程が数秒に縮小する中で実質的な人間の制御が失われつつあると警告している。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["軍事", "ドローン", "ウクライナ", "AI倫理"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0402-004",
+      "title": "熱画像AIを搭載した捜索救助ドローンが行方不明の登山者を4倍速で発見",
+      "summary": "スイスの山岳救助チームとの連携により、熱画像・赤外線・カラーカメラとAI検出エンジンを組み合わせた新型マルチセンサードローンが、模擬アルプス環境において従来の地上捜索の4倍速で行方不明の登山者を発見した。",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["捜索救助", "ドローン", "山岳救助", "熱画像"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0402-005",
+      "title": "Fraunhoferヒューマノイド能力レベル：ロボット自律性評価の新標準",
+      "summary": "Fraunhofer HNFIZ研究所は、ヒューマノイドロボットの能力を移動性・操作性・認知的自律性の観点から評価する5段階分類システムを発表した。このフレームワークにより、メーカー・規制当局・顧客がヒューマノイドシステムを共通の言語で比較できるようになる。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["ヒューマノイド", "標準規格", "Fraunhofer", "自律性"],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0402-006",
+      "title": "Rutgersの鳥型ロボットが柔軟な翼でエネルギー効率においてドローンを凌駕",
+      "summary": "Rutgersのオーニソプター（羽ばたき型）ロボットは、リアルタイムで風に適応する関節式羽ばたき翼を使用することで、5m/s未満の速度において同等のクアッドローターよりも3倍優れたエネルギー効率を達成する。このデザインの独特な空力特性は、密林での野生生物モニタリングに特に有効だ。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["オーニソプター", "Rutgers", "生物模倣", "エネルギー効率"],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0402-007",
+      "title": "においトラッキングロボットがセンサー1個の故障でもガス漏れと爆発物を検知",
+      "summary": "ガス漏れ検知と爆発物の位置特定を目的とした生物模倣型嗅覚ロボットは、2つのセンサーアレイの一方が故障した場合でも安定した動作を維持する。この耐障害設計は、触角を1本失っても匂いを追い続ける昆虫の習性から着想を得ている。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": ["嗅覚センサー", "安全", "ガス検知", "耐障害性"],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0402-008",
+      "title": "シカゴの学校のロボット教師が人間のふりをせずに共感を教える",
+      "summary": "シカゴの12の小学校での実験では、社会的補助ロボットを用いて社会的・情動的学習スキルを指導している。重要なのは、ロボットが機械であることを透明に伝えている点で、研究によれば、この誠実さが擬人化ロボット教師と比較して学習成果を実際に向上させることが示されている。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": ["教育", "社会的・情動的学習", "ソーシャルロボット", "倫理"],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0402-009",
+      "title": "WANDER-Bot：過酷な環境を永続的に監視する風力駆動ロボット",
+      "summary": "Cranfield UniversityのWANDER-botは風力エネルギーを利用して移動機構とセンサーを駆動し、砂漠・ツンドラ・火山地帯での無期限の自律運用を可能にする。3Dプリント製・200ドルのこの設計により、大陸規模の環境監視ネットワークの構築が現実になるかもしれない。",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["風力エネルギー", "環境", "探査", "Cranfield"],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0402-010",
+      "title": "人間の教師より速く学ぶロボット——模倣学習の新たなブレークスルー",
+      "summary": "新しい「加速模倣学習」フレームワークは人間のデモンストレーションの非効率な部分を特定して最適化し、ロボットがわずか10回の練習試行後に演示した人間より30%速くタスクを実行できるようになる。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": ["模倣学習", "ロボット学習", "効率"],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0402-011",
+      "title": "Gecko Roboticsが艦隊全体を検査する米海軍最大のロボティクス契約を獲得",
+      "summary": "海軍はGecko Roboticsに対し、すべての艦種に壁面走行型検査ロボットを配備する5年間の契約を付与した。ロボットは超音波・赤外線・視覚センサーを使用して船体の健全性・溶接品質・腐食を継続的に監視し、予知保全モデルを生成する。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["海軍", "検査", "軍事", "Gecko Robotics"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0402-012",
+      "title": "Haidilaoレストランのロボット暴走事件が拡散：AgiBotが制御不能で踊り出す",
+      "summary": "カリフォルニア州クパチーノのHaidilaoホットポットレストランでAgiBotヒューマノイドウェイターが制御を失い、不規則に踊り続ける動画が4,000万回以上再生された。同社は誤作動をソフトウェアアップデートのエッジケースによるものとし、その後全システムにパッチを展開した。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "レストラン", "バイラル", "障害"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0402-013",
+      "title": "RivianのRJ Scaringe：ヒューマノイドロボットの開発をやめ、専用機械を作れ",
+      "summary": "RivianのCEOでMind Roboticsの創業者RJ Scaringeは、ロボティクス業界が工場作業のために人型ロボットを追求することで根本的な誤りを犯していると主張する。彼の新会社は人体の解剖学ではなく、意図するタスクに合わせてロボットを専用設計している。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "産業", "意見"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0402-014",
+      "title": "Mind RoboticsがRivianの生産ラインで学習する工場ロボットのために5億ドルを調達",
+      "summary": "RivianのスピンオフであるMind Roboticsは、Rivianのギガファクトリーで直接訓練されたAI搭載産業用ロボットの開発・展開のために5億ドルを調達した。同スタートアップはテラバイト規模の工場デモンストレーションデータへの独占アクセスを持ち、大きな競争優位を形成している。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "スタートアップ", "産業", "資金調達"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0402-015",
+      "title": "Qualcomm IQ10チップがNeura Roboticsの次世代ヒューマノイドの頭脳を駆動",
+      "summary": "Neura RoboticsはQualcommのIQ10 AIプロセッサを中核に据えた新しいヒューマノイドプラットフォームを開発中だ。同プロセッサは20W以下の消費電力でオンデバイスに40 TOPSの推論性能を提供する。このパートナーシップはロボット計算プラットフォーム市場でのNvidiaの優位に挑戦する。",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "チップ", "ハードウェア"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0402-016",
+      "title": "Canopiiの自律型ロボット農場がバスケットボールコートほどの面積で年間4万ポンドのハーブを栽培",
+      "summary": "Canopiiは播種・散水・監視・収穫を行うカスタムロボットの垂直統合スタックを使用し、完全自律型の屋内農場を運営する。労働コストで失敗した過去の事業者と異なり、Canopiiの完全ロボット化アプローチは従来の屋内農場の半額で収益性を達成している。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["農業ロボティクス", "室内農業", "自律型"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0402-017",
+      "title": "IntrinsicがGoogleに合流：AlphabetがロボティクスソフトウェアプラットフォームをAP統合",
+      "summary": "独立したAlphabet傘下企業として5年を経て、ロボティクスソフトウェア企業IntrinsicがGoogleに吸収される。この動きはAlphabetのロボティクス資産を一つ屋根の下に集約し、ソフトウェア・AIモデル・ハードウェアパートナーシップを統合した単一ロボティクスプラットフォームを構築するGoogleの意図を示している。",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "ソフトウェア"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0402-018",
+      "title": "中国のヒューマノイドロボット産業が商業展開で西側を凌駕",
+      "summary": "TechCrunchの詳細な分析によると、中国のヒューマノイドメーカーは過去12か月間に西側の全社合計を上回る商業出荷台数を達成しており、その背景には低い製造コスト・迅速なイテレーションサイクル・積極的な政府補助金がある。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["中国", "ヒューマノイド", "市場", "競争"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0402-019",
+      "title": "Andurilの600億ドル評価額への挑戦：防衛ロボットスタートアップが史上最速で成長中",
+      "summary": "Anduril Industriesは次の資金調達ラウンドで600億ドルの評価額を目指しており、実現すれば評価額成長速度で史上最高の防衛テクノロジー企業となる。自律型ドローン群・水中無人機・AI監視システムからの収益は18か月で3倍に達した。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "防衛", "資金調達", "ドローン"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0402-020",
+      "title": "歩行ロボット30年の歩み：Honda P2がすべてを変えた",
+      "summary": "IEEEはHonda P2——史上初の真に自立した二足歩行ロボット——をその発表から30年後に公式IEEE Milestoneに指定した。エンジニアの廣瀬仁によって開発されたP2の動的歩行アルゴリズムは、以降に開発されたほぼすべての歩行ロボットの直接の祖先である。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": ["Honda", "歴史", "二足歩行", "IEEE"],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0402-021",
+      "title": "AmazonのRivr買収：階段を上るロボットが最後の1メートル玄関先配送を現実に近づける",
+      "summary": "Amazonが自律的に階段を上り、建物のロビーをナビゲートできる車輪型ロボットのメーカーRivrを買収したことは、同社によるラストメートル配送への初めての本格投資を意味する。この技術はいずれあらゆる建物のあらゆる階への荷物配送を可能にするかもしれない。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "配送", "買収", "ラストマイル"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    }
+  ]
+}

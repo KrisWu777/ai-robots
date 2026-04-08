@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -126,7 +126,15 @@
     </div>
   </div>
 
-  <script src="js/news-data-bundle.js"></script>
+  <!-- i18n must load first -->
+  <script src="js/i18n.js"></script>
+  <!-- Synchronous locale bundle loader (works on file://) -->
+  <script>
+    (function () {
+      var l = I18n.detectLocale();
+      document.write('<script src="js\/bundles\/news-bundle.' + l + '.js"><\/script>');
+    })();
+  </script>
   <script src="js/data.js"></script>
   <script src="js/app.js"></script>
 </body>

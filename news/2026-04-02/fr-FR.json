@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-02",
+  "featured": {
+    "id": "featured-0402",
+    "title": "Le modèle fondamental π0 de Physical Intelligence : le cerveau robotique polyvalent le plus performant à ce jour",
+    "summary": "Le modèle fondamental π0 de Physical Intelligence, capable de contrôler divers types de robots sans ajustement fin spécifique aux tâches, serait en cours de licence auprès de six grands fabricants OEM de robotique tandis que l'entreprise prépare une levée de fonds d'un milliard de dollars. Les premiers résultats montrent que le modèle se généralise à de nouvelles tâches avec moins de 100 démonstrations.",
+    "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+    "tags": ["Physical Intelligence", "Modèle Fondamental", "Financement"],
+    "timestamp": "2026-03-27T23:59:40Z"
+  },
+  "articles": [
+    {
+      "id": "0402-001",
+      "title": "Amazon vient d'acquérir Fauna Robotics, fabricant du robot humanoïde de taille enfant Sprout",
+      "summary": "La deuxième acquisition robotique d'Amazon en un mois intègre Fauna Robotics et son humanoïde Sprout. Sprout est conçu pour être un compagnon social dans les foyers et les hôpitaux, opérant en toute sécurité auprès des enfants et des personnes âgées grâce à son système avancé d'évitement des collisions et à sa communication expressive.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": ["Amazon", "Fauna Robotics", "Acquisition", "Humanoïde"],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0402-002",
+      "title": "Agile Robots s'associe à Google DeepMind : des données pour les modèles fondamentaux, des modèles pour le matériel",
+      "summary": "Dans un partenariat mutuellement bénéfique, Agile Robots collectera des millions de points de données de démonstration de tâches avec ses plateformes humanoïdes et les partagera avec Google DeepMind. En retour, les modèles fondamentaux de robotique de DeepMind seront intégrés dans la plateforme robotique de nouvelle génération d'Agile.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": ["Agile Robots", "Google DeepMind", "Partenariat"],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0402-003",
+      "title": "La guerre de drones autonomes en Ukraine est en train de changer la nature des conflits militaires",
+      "summary": "Les deux camps dans le conflit ukrainien déploient des milliers de drones autonomes pilotés par l'IA chaque semaine. Le rythme de l'évolution technologique a dépassé le droit international, les experts avertissant que le contrôle humain significatif s'érode à mesure que les portées de combat autonome se réduisent à quelques secondes.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-drone-warfare",
+      "tags": ["Militaire", "Drones", "Ukraine", "Éthique de l'IA"],
+      "timestamp": "2026-03-24T13:00:05Z"
+    },
+    {
+      "id": "0402-004",
+      "title": "Un drone de recherche et sauvetage à IA thermique retrouve des randonneurs disparus 4 fois plus vite",
+      "summary": "En partenariat avec des équipes suisses de secours en montagne, un nouveau drone multisenseur combinant caméras thermiques, infrarouges et couleur avec un moteur de détection par IA a localisé des randonneurs disparus quatre fois plus vite que les recherches terrestres traditionnelles dans des conditions alpines simulées.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["Recherche et Sauvetage", "Drones", "Secours en Montagne", "Thermique"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0402-005",
+      "title": "Niveaux de capacité humanoïde de Fraunhofer : un nouveau standard pour évaluer l'autonomie robotique",
+      "summary": "L'institut Fraunhofer HNFIZ a publié un système de classification à cinq niveaux pour les capacités des robots humanoïdes, couvrant la mobilité, la manipulation et l'autonomie cognitive. Le cadre fournit aux fabricants, régulateurs et clients un langage commun pour comparer les systèmes humanoïdes.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["Humanoïde", "Standards", "Fraunhofer", "Autonomie"],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0402-006",
+      "title": "Le robot-oiseau de Rutgers surpasse les drones en efficacité énergétique grâce à des ailes flexibles",
+      "summary": "L'ornithoptère de Rutgers atteint une efficacité énergétique 3 fois supérieure à celle des drones quadricoptères équivalents à des vitesses inférieures à 5 m/s, grâce à des ailes battantes articulées qui s'adaptent au vent en temps réel. Les propriétés aérodynamiques uniques du design le rendent particulièrement efficace pour la surveillance de la faune dans les forêts denses.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["Ornithoptère", "Rutgers", "Bio-Inspiré", "Efficacité Énergétique"],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0402-007",
+      "title": "Un robot pisteur d'odeurs localise les fuites de gaz et les explosifs avec un capteur défaillant",
+      "summary": "Un robot olfactif bio-inspiré conçu pour la détection de fuites de gaz et la localisation d'explosifs maintient un fonctionnement fiable même lorsque l'un de ses deux réseaux de capteurs tombe en panne. La conception tolérante aux pannes s'inspire de la façon dont les insectes continuent de traquer les odeurs après avoir perdu une antenne.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": ["Olfactif", "Sécurité", "Détection de Gaz", "Tolérance aux Pannes"],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0402-008",
+      "title": "Des robots tuteurs dans les écoles de Chicago enseignent l'empathie sans prétendre être humains",
+      "summary": "Une expérience dans 12 écoles primaires de Chicago utilise des robots d'assistance sociale pour enseigner des compétences d'apprentissage socio-émotionnel. De manière cruciale, les robots sont transparents sur le fait d'être des machines, et la recherche montre que cette honnêteté améliore les résultats d'apprentissage par rapport aux robots tuteurs anthropomorphiques.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": ["Éducation", "Apprentissage Socio-Émotionnel", "Robots Sociaux", "Éthique"],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0402-009",
+      "title": "WANDER-Bot : un robot éolien pour la surveillance perpétuelle des environnements extrêmes",
+      "summary": "Le WANDER-bot de Cranfield University exploite l'énergie éolienne pour alimenter sa locomotion et ses capteurs, permettant une opération autonome indéfinie dans les déserts, la toundra et les terrains volcaniques. Le design imprimé en 3D, à 200 dollars, pourrait permettre des réseaux de surveillance environnementale à l'échelle continentale.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["Énergie Éolienne", "Environnement", "Exploration", "Cranfield"],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0402-010",
+      "title": "Des robots qui apprennent plus vite que leurs enseignants humains : nouvelle percée en apprentissage par imitation",
+      "summary": "Un nouveau cadre d'«apprentissage par imitation accéléré» identifie les inefficacités dans les démonstrations humaines et les optimise, permettant aux robots d'effectuer des tâches apprises jusqu'à 30 % plus vite que l'humain ayant fait la démonstration, après seulement 10 essais de pratique.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": ["Apprentissage par Imitation", "Apprentissage Robotique", "Efficacité"],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0402-011",
+      "title": "Gecko Robotics remporte le plus grand contrat de robotique de la Marine américaine pour inspecter toute la flotte",
+      "summary": "La Marine a attribué à Gecko Robotics un contrat de cinq ans pour déployer des robots d'inspection grimpeurs de parois sur chaque classe de navire. Les robots utilisent des capteurs à ultrasons, infrarouges et visuels pour surveiller en continu l'intégrité de la coque, la qualité des soudures et la corrosion, créant des modèles de maintenance prédictive.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": ["Marine", "Inspection", "Militaire", "Gecko Robotics"],
+      "timestamp": "2026-03-17T10:00:00Z"
+    },
+    {
+      "id": "0402-012",
+      "title": "La panne du robot au restaurant Haidilao devient virale : l'AgiBot danse de manière incontrôlée",
+      "summary": "La vidéo d'un serveur humanoïde AgiBot perdant le contrôle et dansant de manière erratique dans un restaurant de fondue chinoise Haidilao à Cupertino a accumulé plus de 40 millions de vues. L'entreprise a attribué la défaillance à un cas limite d'une mise à jour logicielle et a depuis déployé un correctif à l'échelle du système.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/",
+      "tags": ["AgiBot", "Restaurant", "Viral", "Défaillance"],
+      "timestamp": "2026-03-19T21:13:50Z"
+    },
+    {
+      "id": "0402-013",
+      "title": "RJ Scaringe de Rivian : arrêtez de construire des robots humanoïdes, construisez des machines dédiées",
+      "summary": "Le PDG de Rivian et fondateur de Mind Robotics, RJ Scaringe, soutient que l'industrie robotique commet une erreur fondamentale en poursuivant des robots à forme humaine pour les tâches d'usine. Sa nouvelle entreprise conçoit spécifiquement des robots adaptés à leurs tâches prévues, et non à l'anatomie humaine.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "tags": ["Mind Robotics", "Rivian", "Industrie", "Opinion"],
+      "timestamp": "2026-03-15T14:30:00Z"
+    },
+    {
+      "id": "0402-014",
+      "title": "Mind Robotics lève 500 millions de dollars pour des robots d'usine formés sur la propre ligne de production de Rivian",
+      "summary": "Mind Robotics, émanation de Rivian, a levé 500 millions de dollars pour construire et déployer des robots industriels propulsés par l'IA formés directement dans la Gigafactory de Rivian. La startup bénéficie d'un accès exclusif à des téraoctets de données de démonstration d'usine, une barrière concurrentielle significative.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+      "tags": ["Rivian", "Startup", "Industrie", "Financement"],
+      "timestamp": "2026-03-11T16:12:02Z"
+    },
+    {
+      "id": "0402-015",
+      "title": "Les puces Qualcomm IQ10 alimentent le cerveau humanoïde de nouvelle génération de Neura Robotics",
+      "summary": "Neura Robotics construit sa nouvelle plateforme humanoïde autour du processeur AI IQ10 de Qualcomm, qui fournit 40 TOPS de puissance d'inférence embarquée pour moins de 20 watts. Le partenariat défie la domination de Nvidia sur le marché des plateformes informatiques robotiques.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "tags": ["Qualcomm", "Neura Robotics", "Puces", "Matériel"],
+      "timestamp": "2026-03-09T15:58:11Z"
+    },
+    {
+      "id": "0402-016",
+      "title": "La ferme robotique autonome de Canopii produit 40 000 livres d'herbes aromatiques par an dans l'espace d'un terrain de basket",
+      "summary": "Canopii utilise une pile verticalement intégrée de robots personnalisés — semis, arrosage, surveillance et récolte — pour exploiter une ferme intérieure entièrement autonome. Contrairement aux acteurs précédents qui ont échoué sur les coûts de main-d'œuvre, l'approche entièrement robotisée de Canopii atteint la rentabilité à la moitié du prix des fermes intérieures traditionnelles.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
+      "tags": ["AgriRobotique", "Agriculture Intérieure", "Autonome"],
+      "timestamp": "2026-03-11T14:00:00Z"
+    },
+    {
+      "id": "0402-017",
+      "title": "Intrinsic rejoint Google : Alphabet consolide sa plateforme logicielle robotique",
+      "summary": "Après cinq ans en tant qu'entreprise Alphabet indépendante, la société de logiciels robotiques Intrinsic est absorbée par Google. Ce mouvement consolide les actifs robotiques d'Alphabet sous un même toit et signale l'intention de Google de construire une plateforme robotique unifiée combinant logiciels, modèles d'IA et partenariats matériels.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
+      "tags": ["Google", "Intrinsic", "Alphabet", "Logiciel"],
+      "timestamp": "2026-02-25T20:00:00Z"
+    },
+    {
+      "id": "0402-018",
+      "title": "L'industrie chinoise des robots humanoïdes devance l'Occident dans les déploiements commerciaux",
+      "summary": "Une analyse détaillée de TechCrunch conclut que les fabricants chinois d'humanoïdes ont expédié plus d'unités commercialement au cours des 12 derniers mois que toutes les entreprises occidentales réunies, portés par des coûts de fabrication plus faibles, des cycles d'itération plus rapides et des subventions gouvernementales agressives.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "tags": ["Chine", "Humanoïde", "Marché", "Concurrence"],
+      "timestamp": "2026-02-28T15:00:00Z"
+    },
+    {
+      "id": "0402-019",
+      "title": "La valorisation à 60 milliards d'Anduril : la startup de robots de défense croît plus vite que n'importe quelle entreprise d'armement dans l'histoire",
+      "summary": "Anduril Industries vise une valorisation de 60 milliards de dollars lors de sa prochaine levée de fonds, ce qui en ferait la société de technologie de défense la plus valorisée de l'histoire en termes de vitesse de croissance. Les revenus des essaims de drones autonomes, des véhicules sous-marins et des systèmes de surveillance par IA ont triplé en 18 mois.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+      "tags": ["Anduril", "Défense", "Financement", "Drones"],
+      "timestamp": "2026-03-03T20:06:45Z"
+    },
+    {
+      "id": "0402-020",
+      "title": "30 ans de robots marcheurs : comment le Honda P2 a tout changé",
+      "summary": "L'IEEE a désigné le Honda P2 — le premier robot bipède véritablement autonome — comme jalon officiel de l'IEEE, 30 ans après sa présentation. L'algorithme de marche dynamique du P2, développé par l'ingénieur Masato Hirose, est l'ancêtre direct de presque tous les robots marcheurs développés depuis.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": ["Honda", "Histoire", "Bipède", "IEEE"],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0402-021",
+      "title": "Acquisition de Rivr par Amazon : le robot grimpeur d'escaliers rapproche la livraison au pas de porte",
+      "summary": "L'acquisition par Amazon de Rivr, fabricant d'un robot à roues capable de monter des escaliers de manière autonome et de naviguer dans les halls d'immeubles, marque le premier investissement sérieux de l'entreprise dans la livraison du dernier mètre. La technologie pourrait éventuellement permettre la livraison de colis à n'importe quel étage de n'importe quel immeuble.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/",
+      "tags": ["Amazon", "Livraison", "Acquisition", "Dernier Kilomètre"],
+      "timestamp": "2026-03-19T23:28:37Z"
+    }
+  ]
+}

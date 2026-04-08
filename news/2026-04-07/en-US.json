@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-07",
+  "featured": {
+    "id": "featured-20260407",
+    "title": "Amazon Acquires Fauna Robotics, Maker of the Sprout Humanoid",
+    "summary": "Amazon has acquired Fauna Robotics, the startup behind the Sprout humanoid robot, in a deal that dramatically accelerates the e-commerce giant's push into embodied AI for warehouse automation. The acquisition marks one of the largest humanoid robotics buyouts to date, signaling that Big Tech is moving beyond partnerships to outright ownership of robotics firms. Sprout was purpose-built for flexible pick-and-place tasks in fulfillment centers — areas where conventional industrial robots have long struggled. With Amazon's logistics scale and AI infrastructure, Sprout could move from pilot to mass deployment across its vast global warehouse network within years.",
+    "image": "https://scx1.b-cdn.net/csz/news/800a/2026/amazon-buys-fauna-robo.jpg",
+    "source": "TechXplore",
+    "url": "https://techxplore.com/news/2026-03-amazon-buys-fauna-robotics-maker.html",
+    "tags": [
+      "Amazon",
+      "Humanoid",
+      "Acquisition",
+      "Warehouse"
+    ],
+    "timestamp": "2026-04-07T02:29:52Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260407-01",
+      "title": "Motorless Robotic Hand Uses Shape-Shifting Actuator for Sub-Second Grasps",
+      "summary": "Researchers have demonstrated a robotic hand that operates without conventional electric motors, relying instead on a novel two-way shape-memory alloy actuator capable of reconfiguring in under one second. The design dramatically simplifies mechanical complexity — traditional robotic grippers require dozens of motors and cables — while maintaining reliable manipulation. By harnessing material-level actuation, the hand adapts its grip geometry on the fly in unstructured environments. The advance could lower costs for both prosthetic and industrial gripper systems.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/twoway-shape-memory-al.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": [
+        "Actuator",
+        "Gripper",
+        "Soft Robotics",
+        "Manipulation"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-02",
+      "title": "Overcoming Core Engineering Barriers in Humanoid Robotics Development",
+      "summary": "A new IEEE Spectrum white paper examines the persistent hardware and software barriers preventing humanoid robots from moving from prototype to production at scale. Key challenges include battery energy density, the gap between lab dexterity benchmarks and real-world reliability, and the absence of standardized component ecosystems. The paper argues cross-company collaboration on actuator and sensor standards could compress development timelines by years — as major players from Boston Dynamics to Figure AI race to deploy humanoids commercially.",
+      "image": "https://assets.rbl.ms/65106483/origin.png",
+      "source": "IEEE Spectrum",
+      "url": "https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/",
+      "tags": [
+        "Humanoid",
+        "Engineering",
+        "Industry",
+        "Roadmap"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-03",
+      "title": "Robotic Swarm with No Electronics, Batteries, or Brains Demonstrates Emergent Behavior",
+      "summary": "Scientists have created a robotic swarm that operates entirely without electronics, batteries, or onboard computation — relying instead on purely mechanical interactions and environmental energy. The robots coordinate emergent behavior through physical contact and passive spring-loaded mechanisms, drawing inspiration from ant colonies and slime molds. The approach could yield ultra-low-cost swarm systems for rubble inspection or environmental monitoring in locations where electronics would fail.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-smartest-robots-ma.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": [
+        "Swarm Robotics",
+        "Soft Robotics",
+        "Research",
+        "Bioinspired"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-04",
+      "title": "Resilient Actuator Paves Way for Space-Ready Soft Robots",
+      "summary": "A newly developed actuator for soft robotics has demonstrated the radiation tolerance and thermal resilience needed to operate in space environments. Unlike rigid systems, soft robots can conform to irregular terrain and handle fragile objects, making them attractive for planetary exploration. The actuator survives vacuum, temperature swings of over 200°C, and radiation doses relevant to lunar and Martian missions — bringing deployable soft robotic systems for space science one step closer.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-actuator-could-boo.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": [
+        "Space Robotics",
+        "Soft Robotics",
+        "Actuator",
+        "Exploration"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-05",
+      "title": "Bird-Like Robots Promise Greater Maneuverability Than Conventional Drones",
+      "summary": "A new class of avian-inspired robots mimics the way birds dynamically reshape their wings mid-flight to navigate complex, cluttered environments far more effectively than quadrotor drones. By incorporating passively morphing wing structures and tail feathers, the robots achieve tighter turning radii and more stable hovering near obstacles without extra sensors or actuators. Demonstrations showed the system navigating dense forest canopy and collapsed building interiors — environments where standard drones routinely fail.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/birdlike-robots-that-p.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": [
+        "Drones",
+        "Bioinspired",
+        "Aerial Robotics",
+        "Search & Rescue"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-06",
+      "title": "Five-Level Framework Rates Humanoid Robots on Mobility, Manipulation, and Cognition",
+      "summary": "Researchers have proposed a standardized five-level capability model for humanoid robots, analogous to SAE's self-driving autonomy levels. The framework grades robots across mobility, dexterous manipulation, and cognitive decision-making — providing a common language for comparing products from competing companies. Currently no commercially available humanoid scores above level two on all three axes simultaneously, highlighting the gap between marketing claims and actual capability.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/which-technical-capabi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": [
+        "Humanoid",
+        "Standards",
+        "Benchmarking",
+        "Industry"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-07",
+      "title": "Wristband Lets Amputees Control a Robotic Hand with Natural Movements",
+      "summary": "A non-invasive wristband uses surface electromyography and machine learning to decode intended hand movements from residual muscle signals, enabling amputees to control a prosthetic robotic hand in real time. Unlike implanted solutions it requires no surgery and calibrates to a new user in under ten minutes. In trials, participants achieved over 90% accuracy on a standardized dexterity task within their first session, with commercialization planned within two years.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wristband-enables-wear.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": [
+        "Prosthetics",
+        "Wearables",
+        "EMG",
+        "Rehabilitation"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-08",
+      "title": "Gill Pratt: Humanoid Robots' Commercial Moment Has Finally Arrived",
+      "summary": "Toyota Research Institute CEO Gill Pratt, the former DARPA program manager behind the robotics challenge, says the convergence of foundation models, improved actuators, and falling sensor costs has brought humanoid robots to a genuine commercial inflection point. In a wide-ranging IEEE Spectrum interview, Pratt argues the key remaining barrier is not hardware but data — specifically large-scale datasets of human manipulation in diverse, unstructured settings. He predicts household humanoids will be commercially viable within five years.",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-bespectacled-bearded-man-kneels-posed-behind-a-robotic-torso.jpg?id=65446567&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": [
+        "Humanoid",
+        "AI",
+        "Industry",
+        "DARPA"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-09",
+      "title": "AI Cuts Warehouse Robot Traffic Jams, Boosting Throughput 25%",
+      "summary": "A reinforcement learning system trained to manage multi-robot coordination in large fulfillment centers has achieved a 25% improvement in order throughput by dynamically rerouting robots around congestion. Traditional warehouse management systems use static routing rules that degrade as robot density increases; the AI system adapts in real time to changing floor conditions. The technology was validated in simulation and then deployed in a live facility with over 200 autonomous mobile robots.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/warehouse-robots.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": [
+        "Warehouse Robots",
+        "Reinforcement Learning",
+        "Logistics",
+        "AI"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-10",
+      "title": "Autonomous Warehouse Robots Learn Directly from Factory Floor Experience",
+      "summary": "A deployment at a European automotive parts manufacturer shows autonomous robots improving task performance by learning from on-the-job experience rather than pre-programmed routines. The system uses a continual learning architecture that updates robot behavior nightly based on the day's operational data, without human retraining. Over six months, error rates in bin-picking dropped 40% as robots adapted to changing inventory — one of the first documented factory-floor continual learning deployments at scale.",
+      "image": "https://spectrum.ieee.org/media-library/robotic-arms-on-mobile-bases-sort-crates-on-a-conveyor-belt-in-a-warehouse.png?id=63907821&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
+      "tags": [
+        "Warehouse Robots",
+        "Continual Learning",
+        "Manufacturing",
+        "AI"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-11",
+      "title": "Tiny Robots Walk on Water to Probe Surface Ecosystems",
+      "summary": "Researchers have developed millimeter-scale robots inspired by water striders that can walk on the surface tension of water, enabling non-invasive sampling of aquatic surface ecosystems. The robots use hydrophobic legs and precisely tuned weight distribution to avoid breaking the water's surface while carrying miniature sensors. Potential applications include monitoring water quality, detecting oil spills, and studying the neuston layer — the little-understood community of organisms that live at the air-water interface.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033930.htm",
+      "tags": [
+        "Soft Robotics",
+        "Research",
+        "Environmental",
+        "Bioinspired"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-12",
+      "title": "Scientists Grow Robots Smaller Than a Grain of Salt That Can 'Think'",
+      "summary": "Researchers at Cornell have fabricated microrobots smaller than a grain of salt that incorporate onboard photovoltaic circuits capable of simple computational logic, allowing the devices to respond to environmental cues without external control. The robots can be steered optically and perform basic decision-making — such as moving toward a chemical gradient — using nothing more than ambient light energy. The milestone brings untethered microrobotic systems for biomedical and environmental sensing significantly closer to deployment.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": [
+        "Microrobotics",
+        "Research",
+        "Biomedical",
+        "Nanotechnology"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-13",
+      "title": "The Uncanny Valley Breakthrough: Making Robot Faces Feel Less Creepy",
+      "summary": "Scientists have identified the precise perceptual cues that trigger the uncanny valley effect in humanoid robot faces — and demonstrated that targeted adjustments to skin texture, micro-expression timing, and eye movement patterns can almost entirely eliminate the discomfort response. The findings have immediate implications for social robots, telepresence avatars, and humanoid robot design, where user acceptance is critical for adoption. The research involved neuroimaging studies of subjects interacting with real and simulated robot faces.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": [
+        "Social Robotics",
+        "Human-Robot Interaction",
+        "Research",
+        "Design"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-14",
+      "title": "AI-Powered Robot Learns to Harvest Tomatoes More Efficiently Over Time",
+      "summary": "An agricultural robot equipped with a vision-language model and reinforcement learning demonstrated continuous improvement in tomato harvesting efficiency across a six-week greenhouse trial. The robot initially damaged roughly 8% of fruit; by the end of the trial damage rates fell below 1% as it learned to modulate grip force based on ripeness estimates from its camera. The work highlights agriculture as a proving ground for adaptive robotic systems in highly variable real-world environments.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": [
+        "Agricultural Robotics",
+        "Reinforcement Learning",
+        "AI",
+        "Harvesting"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-15",
+      "title": "DNA Robots Could Deliver Drugs and Hunt Viruses Inside the Human Body",
+      "summary": "Scientists have engineered DNA-based nanorobots that navigate biological environments, recognize specific molecular targets, and deliver therapeutic payloads with cell-level precision. The robots exploit Watson-Crick base pairing as a guidance mechanism to seek out cancer markers or viral proteins before releasing their drug cargo. In mouse models the technology reduced tumor burden by 60% compared to systemic drug administration, representing a significant leap in targeted nanomedicine.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": [
+        "Nanorobotics",
+        "Medical",
+        "Drug Delivery",
+        "Biotech"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-16",
+      "title": "Wind-Powered Robot Designed for Long-Duration Exploration of Hostile Environments",
+      "summary": "A new wind-powered robot prototype can traverse challenging terrain for months at a time without batteries or fuel, harvesting energy directly from ambient airflow through a passive sail-and-spring mechanism. The design targets environments hostile to conventional robots — polar ice sheets, arid deserts, post-disaster zones — where resupply is impossible. Early field tests showed sustained locomotion across a rocky desert course over 48 hours with no human intervention.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wind-powered-robot-cou.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": [
+        "Energy Harvesting",
+        "Field Robotics",
+        "Research",
+        "Exploration"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-17",
+      "title": "Radiation-Hardened Wi-Fi Chip Opens Door for Nuclear Decommissioning Robots",
+      "summary": "Engineers have designed a Wi-Fi chip capable of surviving radiation doses up to 500 kilograys — roughly 500 times the dose that destroys conventional consumer electronics — making robust wireless control of nuclear decommissioning robots feasible for the first time. Current robots at facilities like Fukushima and Sellafield must use tethered or heavily shielded comms that limit range and maneuverability. The new chip uses radiation-tolerant transistor geometries and error-correction hardware to maintain reliable data links in high-flux environments.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/radiation-resistant-wi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": [
+        "Nuclear",
+        "Sensors",
+        "Electronics",
+        "Decommissioning"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-18",
+      "title": "Robots Take the Heat Maintaining Utility-Scale Solar Farms",
+      "summary": "Specialized inspection and cleaning robots are now handling hazardous maintenance tasks at large solar installations, replacing crews who previously worked in temperatures exceeding 50°C in desert locations. The robots use computer vision to identify damaged panels, clean dust accumulation, and perform minor cable repairs. Early deployments in the Middle East and Arizona show 15–20% improvements in annual panel output, with a single robot team replacing four human technicians at one-quarter the annual cost.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-take-the-heat-f.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": [
+        "Solar Energy",
+        "Industrial Robots",
+        "Inspection",
+        "Climate"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-19",
+      "title": "Air-Powered Artificial Muscles Help Robots Lift 100× Their Own Weight",
+      "summary": "A new pneumatic artificial muscle design achieves a force-to-weight ratio allowing robots to lift loads 100 times their own mass — far exceeding most electric motor-driven systems at comparable scale. The muscles use a novel accordion-fold geometry in a high-strength polymer that stores energy under compression and releases it rapidly. The design is especially promising for legged robots and exoskeletons where energy efficiency and power density are critical.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/air-powered-artificial.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": [
+        "Actuator",
+        "Soft Robotics",
+        "Exoskeleton",
+        "Pneumatics"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-20",
+      "title": "DARPA Triage Challenge Pits Robot Teams Against Mass-Casualty Scenarios",
+      "summary": "DARPA's Triage Challenge brought together autonomous robot teams tasked with locating, assessing, and prioritizing injured casualties on a simulated battlefield — entirely without human direction. Competing systems used thermal cameras, ground-penetrating radar, and AI triage algorithms to identify and report on casualties. The winning team processed a 40-person casualty scenario in under 12 minutes — a task that typically takes a human medic team over an hour — as DARPA targets fully autonomous forward casualty care systems by 2030.",
+      "image": "https://spectrum.ieee.org/media-library/aerial-drone-robotic-arm-explosion-and-medical-cross-on-abstract-background.jpg?id=62605094&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/darpa-triage-challenge-robots",
+      "tags": [
+        "DARPA",
+        "Medical Robots",
+        "Autonomous",
+        "Defense"
+      ],
+      "timestamp": "2026-04-07T02:29:52Z"
+    }
+  ]
+}

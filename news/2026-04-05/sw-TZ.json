@@ -1,0 +1,339 @@
+{
+  "date": "2026-04-05",
+  "featured": {
+    "id": "featured-20260405",
+    "title": "Wanasayansi Wanajenga Roboti Zenye Uhai na Mifumo ya Neva",
+    "summary": "Watafiti wameunda 'NeuroBot' — roboti zenye uhai zilizounganishwa kutoka kwa seli za kibiolojia ambazo ni pamoja na miundo inayofanya kazi kama mfumo wa neva inayoweza kuhisi na kuzalisha mwendo ulioratibiwa. Matokeo yamechapishwa katika Nature na yanafuta mipaka kati ya roboti ya uhandisi na kiumbe hai.",
+    "image": "https://spectrum.ieee.org/media-library/close-up-of-a-neuro-robot-that-has-been-stained-to-highlight-multi-ciliated-cells-around-its-periphery.jpg?id=65444408&width=1200",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/neurobot-living-robot-nervous-system",
+    "tags": [
+      "Roboti Zenye Uhai",
+      "Mseto wa Kibiolojia",
+      "Nature"
+    ],
+    "timestamp": "2026-04-02T13:00:01Z"
+  },
+  "articles": [
+    {
+      "id": "0405-001",
+      "title": "Gill Pratt Asema Wakati wa Roboti za Kibinadamu Umewadia Hatimaye",
+      "summary": "Mkurugenzi Mtendaji wa Toyota Research Institute Gill Pratt — ambaye alikuwa meneja wa programu ya robotiki ya DARPA — anasema katika mahojiano mapya ya IEEE Spectrum kwamba muunganiko wa AI bora zaidi, vipengele vya bei nafuu, na betri zilizoimarishwa umezalisha hali nzuri kwa roboti za kibinadamu kutoa thamani ya kiuchumi ya kweli kwa mara ya kwanza.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": [
+        "Kibinadamu",
+        "Toyota",
+        "DARPA",
+        "Uchambuzi wa Sekta"
+      ],
+      "timestamp": "2026-04-02T15:00:02Z"
+    },
+    {
+      "id": "featured-0405",
+      "title": "Kuchunguza Mitazamo ya Binadamu Kuhusu Roboti Kupitia Uzoefu wa Kweli na Boston Dynamics Spot",
+      "summary": "Utafiti mkubwa uliofanywa katika Robotics & AI Institute ulifuatilia jinsi familia mamia walivyoingiliana na Spot wa Boston Dynamics kwa miezi sita, ukigundua mifumo ya uaminifu, hofu, na ubinadamusho. Data hii inabadilisha jinsi wabunifu wanavyofikiri kuhusu mwonekano wa roboti na tabia zake za kijamii.",
+      "image": "https://spectrum.ieee.org/media-library/families-watch-a-colorful-robotic-dog-demo-at-a-robotics-and-ai-institute-exhibit.jpg?id=65453180&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-interaction",
+      "tags": [
+        "Boston Dynamics",
+        "HRI",
+        "Utafiti wa Watumiaji"
+      ],
+      "timestamp": "2026-04-05T13:00:01Z"
+    },
+    {
+      "id": "0405-003",
+      "title": "Inaripotiwa kwamba Physical Intelligence Ipo Mazungumzo ya Kukusanya $1B Tena",
+      "summary": "Physical Intelligence (π), kampuni ndogo ya kujifunza robotiki kwa madhumuni ya jumla, ipo katika mazungumzo ya juu ya kukusanya dola bilioni moja ambayo itaongeza mara mbili thamani yake ya dola bilioni 5.6 kwa miezi minne tu. Mfano wa msingi wa kampuni wa π0 umepewa leseni kwa wazalishaji wengi wa OEM wa robotiki.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+      "tags": [
+        "Physical Intelligence",
+        "Ufadhili",
+        "Mfano wa Msingi"
+      ],
+      "timestamp": "2026-03-27T23:59:40Z"
+    },
+    {
+      "id": "0405-004",
+      "title": "Hai au La? Roboti Ndogo za 3D Zilizochapishwa Zinazogelea na Kuelekeza kama Wanyama",
+      "summary": "Profesa Daniela Kraft na Mengshi Wei wa Leiden University wameunda roboti ndogo za hadubuni ambazo zinaendelea bila vitambuzi, programu, au udhibiti wa nje. Tabia yao inatokea kabisa kutoka kwa jiometri ya kimwili na sifa za nyenzo, ikiiga jinsi viumbe rahisi vya majini vinavyoelekeza.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": [
+        "Roboti Ndogo",
+        "Uchapishaji wa 3D",
+        "Leiden University"
+      ],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0405-005",
+      "title": "Video Ijumaa: Roboti ya Miguu Miwili Roadrunner Inabomoa Mfumo",
+      "summary": "Video Ijumaa ya wiki hii inaonyesha Roadrunner — roboti mpya ya miguu miwili inayotumia mfumo wa mseto wa magurudumu kufikia kasi ya hadi 5m/s kwenye ardhi tambarare huku ikidumisha uthabiti kwenye ngazi na ardhi ngumu — mwanzo mpya wa kimsingi kutoka muundo wa kawaida wa roboti zinazotembea.",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/roadrunner-bipedal-robot",
+      "video": "https://www.youtube.com/watch?v=tF4DML7FIWk",
+      "tags": [
+        "Miguu Miwili",
+        "Mwendo",
+        "Kasi"
+      ],
+      "timestamp": "2026-03-27T16:30:03Z"
+    },
+    {
+      "id": "0405-006",
+      "title": "Pacha wa Dijitali kwa Roboti za Uokoaji: Usindikaji wa Haraka wa Wingu la Pointi za 3D Unaowezesha Nini",
+      "summary": "Algoriti mpya zinapunguza muda wa kusindika wingu la pointi za 3D kutoka sekunde hadi milisekunde, zinazoruhusu roboti kujenga na kusasisha ramani za pacha wa dijitali za mazingira yao kwa wakati halisi. Mafanikio haya ni muhimu kwa roboti za uokoaji zinazopita katika miundo iliyoanguka ambapo hali inabadilika kwa nguvu.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": [
+        "Pacha wa Dijitali",
+        "Upigaji Ramani wa 3D",
+        "Utafutaji na Uokoaji"
+      ],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0405-007",
+      "title": "Melania Trump Anataka Roboti Kumfundisha Nyumbani Mtoto Wako",
+      "summary": "Bibi wa Kwanza amesaidia roboti ya kibinadamu ya Figure AI kama mwalimu wa nyumbani anayewezekana anayeendeshwa na AI, akifikiria roboti ambazo zinabadilisha mtaala na kutoa mafunzo ya mtu mmoja mmoja. Maoni hayo yamezua mjadala mkubwa kuhusu roboti katika elimu na ukuaji wa watoto.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "tags": [
+        "Figure AI",
+        "Elimu",
+        "Kibinadamu"
+      ],
+      "timestamp": "2026-03-25T18:55:41Z"
+    },
+    {
+      "id": "0405-008",
+      "title": "Lucid Bots Inakusanya $20M Kukidhi Mahitaji ya Ndege Zake za Kuosha Madirisha",
+      "summary": "Lucid Bots, mzalishaji wa ndege za kujiendesha ambazo husafisha madirisha ya mabomba makubwa na kuosha nje ya majengo kwa shinikizo, amekusanya dola milioni 20 katika Mfululizo B kupanua uzalishaji. Mahitaji yameharakisha huku wamiliki wa majengo wakikabiliwa na gharama zinazoongezeka za kazi za matengenezo hatari katika mwinuko wa juu.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "tags": [
+        "Ndege",
+        "Kampuni Mpya",
+        "Ufadhili",
+        "Usafi"
+      ],
+      "timestamp": "2026-03-25T11:00:00Z"
+    },
+    {
+      "id": "0405-009",
+      "title": "Amazon Inanunua Fauna Robotics, Mzalishaji wa Roboti ya Kibinadamu Sprout",
+      "summary": "Amazon imechukua Fauna Robotics, kampuni ndogo nyuma ya Sprout — roboti ya kibinadamu ya ukubwa wa mtoto iliyoundwa kwa nafasi za kijamii kama nyumba na hospitali. Ununuzi huu, ununuzi wa pili wa robotiki wa Amazon mwezi huu, unaashiria juhudi za kampuni katika robotiki ya nyumbani na afya.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/",
+      "tags": [
+        "Amazon",
+        "Ununuzi",
+        "Kibinadamu",
+        "Fauna Robotics"
+      ],
+      "timestamp": "2026-03-25T00:53:39Z"
+    },
+    {
+      "id": "0405-010",
+      "title": "Agile Robots Inashirikiana na Google DeepMind kwa Ujumuishaji wa Mfano wa Msingi",
+      "summary": "Kampuni ya robotiki ya Kijerumani-Kichina Agile Robots imesaini ushirikiano na Google DeepMind kuunganisha mifano ya msingi ya robotiki katika majukwaa yake ya kibinadamu. Kwa kubadilishana, Agile Robots itatoa data ya maonyesho ya kazi halisi kwa seti za data za mafunzo za DeepMind.",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "tags": [
+        "Agile Robots",
+        "Google DeepMind",
+        "Mfano wa Msingi"
+      ],
+      "timestamp": "2026-03-24T12:05:00Z"
+    },
+    {
+      "id": "0405-011",
+      "title": "Ndege Zilizounganishwa na AI Zinaweza Kusaidia Timu za Utafutaji na Uokoaji Kupata Watu Waliopotea Haraka Zaidi",
+      "summary": "Mfumo wa ndege wenye vitambuzi vingi unaochanganya kamera za infrared, za joto, na za rangi na mfumo wa uchambuzi wa AI unaweza kuharakisha sana shughuli za utafutaji na uokoaji. Majaribio ya uwanjani yalionyesha mfumo ukigundua watu waliopotea mara 4 haraka zaidi kuliko timu za ardhini peke yao.",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": [
+        "Ndege",
+        "Utafutaji na Uokoaji",
+        "Picha za Joto"
+      ],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0405-012",
+      "title": "Mfano wa Viwango Vitano Hutathmini Roboti za Kibinadamu kwa Uhamaji, Udhibiti, na Utambuzi",
+      "summary": "Watafiti wa Fraunhofer HNFIZ wamechapisha mfumo mpya wa tathmini uliosanifishwa ambao unaainisha roboti za kibinadamu katika viwango vitano vya uwezo kwa uhamaji, ustadi wa udhibiti, na uhuru wa kiakili — sawa na viwango vya SAE kwa magari yanayojiendesha.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": [
+        "Kibinadamu",
+        "Fraunhofer",
+        "Viwango",
+        "Tathmini"
+      ],
+      "timestamp": "2026-03-23T17:20:07Z"
+    },
+    {
+      "id": "0405-013",
+      "title": "Roboti Zinazofanana na Ndege Zinaahidi Kubadilika Zaidi na Udhibiti Kuliko Ndege za Kawaida",
+      "summary": "Wahandisi wa Rutgers University wameunda roboti yenye mabawa yanayopepeta iliyoongozwa na ndege ambayo mabawa yake yanainamisha na kupinda kwa wakati halisi ili kushughulikia upepo wa pembeni na msukosuko. Muundo huo unafanikiwa na ufanisi wa nishati mara 3 bora kuliko ndege sawa za quadrotor kwa kasi ndogo.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": [
+        "Mabawa Yanayopepeta",
+        "Imeongozwa na Biolojia",
+        "Rutgers",
+        "Ndege"
+      ],
+      "timestamp": "2026-03-23T13:20:02Z"
+    },
+    {
+      "id": "0405-014",
+      "title": "Roboti Iliyoongozwa na Wadudu Hufuatilia Harufu Hata na 'Antena' Moja Inayofanya Kazi",
+      "summary": "Roboti iliyoongozwa na biolojia iliyoundwa kulingana na mifumo ya kunusa ya wadudu inaweza kutambua vyanzo vya harufu — uvujaji wa gesi, vilipuzi, watu waliopotea — ndani na nje ya nyumba. Mfumo huu hudumisha usahihi thabiti hata wakati moja ya vitengo vyake viwili vya vitambuzi vinaharibika — kipengele muhimu kwa matumizi ya kweli duniani.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-insect-robot-tracks-odors-antenna.html",
+      "tags": [
+        "Kunusa",
+        "Imeongozwa na Biolojia",
+        "Roboti ya Utafutaji"
+      ],
+      "timestamp": "2026-03-23T12:00:03Z"
+    },
+    {
+      "id": "0405-015",
+      "title": "Chip ya Wi-Fi Inayostahimili Mionzi Inaokoa 500 kGy kwa Roboti za Kuvunja Mitambo ya Nyuklia",
+      "summary": "Chip mpya ya Wi-Fi inayostahimili mionzi iliyoundwa kwa roboti za kuvunja mitambo ya nishati ya nyuklia inaweza kuishi 500 kilograys ya mionzi ya ioni — sawa na picha 250 milioni za X-ray za meno. Chip hii inaruhusu udhibiti wa roboti kwa njia ya wireless ndani ya vinu vya nyuklia vinavyofanya kazi, ikichukua nafasi ya mifumo hatari ya kamba.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": [
+        "Nyuklia",
+        "Mionzi",
+        "Wi-Fi",
+        "Kuvunja Mitambo"
+      ],
+      "timestamp": "2026-03-23T13:00:09Z"
+    },
+    {
+      "id": "0405-016",
+      "title": "Jinsi Walimu wa Roboti wa Chicago Wanavyofundisha Kujifunza Kijamii na Kihisia Bila Kujifanya Kuwa Binadamu",
+      "summary": "Katika madarasa ya darasa la nne ya Chicago, roboti zinafundisha huruma na utatuzi wa migogoro huku zikiwa wazi kuhusu kuwa mashine. Njia hii inaepuka 'bonde la kutisha' la mwingiliano unaofanana sana na binadamu na inafanikiwa na matokeo bora ya kujifunza kwa kudumisha mipaka wazi kati ya roboti na mwanafunzi.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-chicago-robot-sel-effectively-human.html",
+      "tags": [
+        "Elimu",
+        "Roboti za Kijamii",
+        "SEL",
+        "Chicago"
+      ],
+      "timestamp": "2026-03-20T06:10:01Z"
+    },
+    {
+      "id": "0405-017",
+      "title": "Nadhifu Zaidi, Haraka Zaidi, Zaidi ya Kibinadamu: Mfumo wa AI Husaidia Roboti Kuzidi Walimu Wao wa Kibinadamu",
+      "summary": "Mfumo mpya wa kujifunza kwa kuiga unaruhusu roboti sio tu kuiga kazi zilizoonyeshwa bali kuziboresha — kutekeleza mwendo uliojifunzwa hadi 30% haraka zaidi kuliko mtu anayeonyesha baada ya mazoezi 10 tu. Muhimu ni mfumo wa AI ambao hutambua na kuondoa upotevu wa ufanisi katika maonyesho ya binadamu.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "tags": [
+        "Kujifunza kwa Kuiga",
+        "Kujifunza kwa Roboti",
+        "AI"
+      ],
+      "timestamp": "2026-03-19T14:20:06Z"
+    },
+    {
+      "id": "0405-018",
+      "title": "Roboti Inayoendeshwa na Upepo Inayowezesha Uchunguzi wa Muda Mrefu wa Mazingira Hatari",
+      "summary": "WANDER-bot wa Cranfield University ni roboti ya bei nafuu iliyochapishwa kwa 3D inayoendeshwa kabisa na nishati ya upepo, iliyoundwa kwa ufuatiliaji wa uhuru wa muda mrefu katika jangwa, tundra, na maeneo ya volkano. Bila betri au paneli za jua, WANDER-bot inaweza kufanya kazi bila kikomo katika mazingira yenye upepo.",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": [
+        "Nguvu ya Upepo",
+        "Uchunguzi",
+        "Cranfield",
+        "Nishati"
+      ],
+      "timestamp": "2026-03-19T16:20:03Z"
+    },
+    {
+      "id": "0405-019",
+      "title": "Miaka 30 Iliyopita, Roboti Zilijifunza Kutembea Bila Kuanguka — P2 ya Honda Inatambuliwa Kama Kumbukumbu ya IEEE",
+      "summary": "IEEE imetaja roboti ya kibinadamu ya Honda P2 — iliyofunuliwa mwaka 1996 — kama Kumbukumbu rasmi ya IEEE, ikitambua kama kipande cha kwanza cha mwendo mbili kilichojitegemea kuonyesha kutembea kwa nguvu kwa kuaminika. P2 iliweka msingi wa kiufundi kwa karibu kila roboti inayotembea iliyofuata.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/honda-p2-robot-ieee-milestone",
+      "tags": [
+        "Honda",
+        "Historia",
+        "IEEE",
+        "Miguu Miwili"
+      ],
+      "timestamp": "2026-03-25T18:00:05Z"
+    },
+    {
+      "id": "0405-020",
+      "title": "Roboti Inayoendeshwa na AI Inajifunza Kuvuna Nyanya Kwa Ufanisi Zaidi kwa Kutabiri Ugumu",
+      "summary": "Roboti mpya ya kuvuna nyanya haitambui tu matunda yaliyoiva — inatabiri ni vigumu kiasi gani kuokota kila nyanya kulingana na pembe ya shina, msongamano wa kishada, na kufunikwa kwa majani, kisha inaweka kipaumbele malengo rahisi zaidi. Mkakati huu wa 'kujua ugumu' uliongeza uzalishaji wa mavuno kwa 35% katika majaribio ya chafu.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": [
+        "Robotiki ya Kilimo",
+        "Mavuno",
+        "Mipango ya AI"
+      ],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0405-021",
+      "title": "Roboti za DNA Zinaweza Kutoa Dawa na Kuwinda Virusi Ndani ya Mwili Wako",
+      "summary": "Watafiti wanaunda roboti za nanoscale zinazotegemea DNA ambazo zinaweza kuelekeza katika mkondo wa damu, kutambua seli lengwa, na kutoa mizigo ya matibabu. Mashine hizi zinazoweza kupangwa zinakopa dhana kutoka kwa robotiki ya jadi — mwendo, kuhisi, kutenda — lakini zinafanya kazi kwa kiwango cha molekuli.",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": [
+        "Nanoroboti",
+        "Matibabu",
+        "DNA",
+        "Utoaji wa Dawa"
+      ],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0405-022",
+      "title": "Gecko Robotics Inapata Mkataba Mkubwa Zaidi wa Robotiki wa Jeshi la Wanamaji la Marekani Hadi Sasa",
+      "summary": "Gecko Robotics imesaini mkataba wa miaka mitano na Jeshi la Wanamaji la Marekani kufuatilia na kutabiri mahitaji ya matengenezo katika meli yote ya jeshi la wanamaji kwa kutumia roboti za ukaguzi zinazopanda kuta zilizowekwa vitambuzi vya ultrasound. Makubaliano hayo ni mkataba mkubwa zaidi wa robotiki katika historia ya Jeshi la Wanamaji la Marekani.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/17/gecko-robotics-lands-the-largest-u-s-navy-robotics-deal-yet/",
+      "tags": [
+        "Kijeshi",
+        "Jeshi la Wanamaji",
+        "Ukaguzi",
+        "Gecko Robotics"
+      ],
+      "timestamp": "2026-03-17T10:00:00Z"
+    }
+  ]
+}

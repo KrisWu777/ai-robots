@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-07",
+  "featured": {
+    "id": "featured-20260407",
+    "title": "Amazon adquire a Fauna Robotics, criadora do robô humanoide Sprout",
+    "summary": "A Amazon adquiriu a Fauna Robotics, a startup por trás do robô humanoide Sprout, em um acordo que acelera dramaticamente o avanço do gigante do comércio eletrônico na direção da AI incorporada para automação de armazéns. A aquisição marca um dos maiores buyouts de robótica humanoide até o momento, sinalizando que as grandes empresas de tecnologia estão indo além de parcerias para a propriedade direta de empresas de robótica. O Sprout foi construído especificamente para tarefas flexíveis de pegar e colocar em centros de distribuição — áreas onde robôs industriais convencionais há muito tempo têm dificuldades. Com a escala logística da Amazon e sua infraestrutura de AI, o Sprout pode passar do piloto para a implantação em massa em sua vasta rede global de armazéns em questão de anos.",
+    "image": "https://scx1.b-cdn.net/csz/news/800a/2026/amazon-buys-fauna-robo.jpg",
+    "source": "TechXplore",
+    "url": "https://techxplore.com/news/2026-03-amazon-buys-fauna-robotics-maker.html",
+    "tags": ["Amazon", "Humanoide", "Aquisição", "Armazém"],
+    "timestamp": "2026-04-07T02:29:52Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260407-01",
+      "title": "Mão robótica sem motor usa atuador de memória de forma para preensões em menos de um segundo",
+      "summary": "Pesquisadores demonstraram uma mão robótica que opera sem motores elétricos convencionais, dependendo em vez disso de um novo atuador bidirecional de liga com memória de forma capaz de se reconfigurar em menos de um segundo. O design simplifica drasticamente a complexidade mecânica — preensores robóticos tradicionais requerem dezenas de motores e cabos — enquanto mantém uma manipulação confiável. Ao explorar a atuação no nível do material, a mão adapta sua geometria de preensão dinamicamente em ambientes não estruturados. O avanço pode reduzir os custos tanto para sistemas de próteses quanto para preensores industriais.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/twoway-shape-memory-al.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Atuador", "Preensor", "Robótica Mole", "Manipulação"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-02",
+      "title": "Superando barreiras fundamentais de engenharia no desenvolvimento da robótica humanoide",
+      "summary": "Um novo white paper da IEEE Spectrum examina os persistentes obstáculos de hardware e software que impedem os robôs humanoides de passar do protótipo para a produção em escala. Os principais desafios incluem a densidade de energia das baterias, a lacuna entre benchmarks de destreza em laboratório e a confiabilidade no mundo real, e a ausência de ecossistemas de componentes padronizados. O documento argumenta que a colaboração entre empresas sobre padrões de atuadores e sensores poderia comprimir os prazos de desenvolvimento em anos — enquanto grandes players de Boston Dynamics a Figure AI correm para implantar humanoides comercialmente.",
+      "image": "https://assets.rbl.ms/65106483/origin.png",
+      "source": "IEEE Spectrum",
+      "url": "https://content.knowledgehub.wiley.com/engineering-challenges-and-component-strategies-in-humanoid-robotics-from-prototype-to-production/",
+      "tags": ["Humanoide", "Engenharia", "Indústria", "Roteiro"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-03",
+      "title": "Enxame de robôs sem eletrônica, baterias ou cérebros demonstra comportamento emergente",
+      "summary": "Cientistas criaram um enxame de robôs que opera inteiramente sem eletrônica, baterias ou computação embarcada — dependendo em vez disso de interações puramente mecânicas e energia ambiental. Os robôs coordenam comportamento emergente por meio de contato físico e mecanismos passivos com molas, inspirados em colônias de formigas e fungos mucilaginosos. A abordagem pode gerar sistemas de enxame de ultrabaixo custo para inspeção de escombros ou monitoramento ambiental em locais onde a eletrônica falharia.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-smartest-robots-ma.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["Robótica de Enxame", "Robótica Mole", "Pesquisa", "Bioinspirада"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-04",
+      "title": "Atuador resiliente abre caminho para robôs macios prontos para o espaço",
+      "summary": "Um atuador recém-desenvolvido para robótica mole demonstrou a tolerância à radiação e a resiliência térmica necessárias para operar em ambientes espaciais. Ao contrário de sistemas rígidos, robôs macios podem se conformar a terrenos irregulares e lidar com objetos frágeis, tornando-os atraentes para exploração planetária. O atuador sobrevive ao vácuo, a variações de temperatura superiores a 200 °C e a doses de radiação relevantes para missões lunares e marcianas — aproximando sistemas robóticos macios implantáveis para ciência espacial de um passo a mais.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-actuator-could-boo.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-resilient-actuator-potential-space-ready.html",
+      "tags": ["Robótica Espacial", "Robótica Mole", "Atuador", "Exploração"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-05",
+      "title": "Robôs semelhantes a pássaros prometem maior manobrabilidade do que drones convencionais",
+      "summary": "Uma nova classe de robôs inspirados em aves imita a forma como os pássaros recontornam dinamicamente suas asas durante o voo para navegar em ambientes complexos e congestionados de forma muito mais eficaz do que drones quadrotores. Ao incorporar estruturas de asas com morfologia passiva e penas caudais, os robôs alcançam raios de curva mais estreitos e maior estabilidade ao pairar perto de obstáculos sem sensores ou atuadores adicionais. As demonstrações mostraram o sistema navegando em copas de florestas densas e interiores de edifícios desabados — ambientes onde drones padrão frequentemente falham.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/birdlike-robots-that-p.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-birdlike-robots-greater-flexibility-drones.html",
+      "tags": ["Drones", "Bioinspirаdo", "Robótica Aérea", "Busca e Salvamento"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-06",
+      "title": "Estrutura de cinco níveis avalia robôs humanoides em mobilidade, manipulação e cognição",
+      "summary": "Pesquisadores propuseram um modelo de capacidade padronizado de cinco níveis para robôs humanoides, análogo aos níveis de autonomia de direção autônoma da SAE. A estrutura avalia robôs em mobilidade, manipulação dextral e tomada de decisão cognitiva — fornecendo uma linguagem comum para comparar produtos de empresas concorrentes. Atualmente, nenhum humanoide disponível comercialmente atinge o nível dois nos três eixos simultaneamente, destacando a lacuna entre as afirmações de marketing e a capacidade real.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/which-technical-capabi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robots-mobility-cognition.html",
+      "tags": ["Humanoide", "Padrões", "Benchmarking", "Indústria"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-07",
+      "title": "Pulseira permite que amputados controlem uma mão robótica com movimentos naturais",
+      "summary": "Uma pulseira não invasiva usa eletromiografia de superfície e aprendizado de máquina para decodificar os movimentos de mão pretendidos a partir de sinais musculares residuais, permitindo que amputados controlem uma mão protética robótica em tempo real. Diferentemente de soluções implantadas, não requer cirurgia e se calibra para um novo usuário em menos de dez minutos. Nos testes, os participantes alcançaram mais de 90% de precisão em uma tarefa de destreza padronizada em sua primeira sessão, com comercialização prevista em dois anos.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wristband-enables-wear.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": ["Próteses", "Wearables", "EMG", "Reabilitação"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-08",
+      "title": "Gill Pratt: o momento comercial dos robôs humanoides finalmente chegou",
+      "summary": "Gill Pratt, CEO do Toyota Research Institute e ex-gerente de programa da DARPA responsável pelo desafio de robótica, afirma que a convergência de modelos de fundação, atuadores aprimorados e custos decrescentes de sensores trouxe os robôs humanoides a um genuíno ponto de inflexão comercial. Em uma entrevista abrangente à IEEE Spectrum, Pratt argumenta que a principal barreira restante não é o hardware, mas os dados — especificamente conjuntos de dados em grande escala de manipulação humana em ambientes diversos e não estruturados. Ele prevê que humanoides domésticos serão comercialmente viáveis em cinco anos.",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-bespectacled-bearded-man-kneels-posed-behind-a-robotic-torso.jpg?id=65446567&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/humanoid-robots-gill-pratt-darpa",
+      "tags": ["Humanoide", "AI", "Indústria", "DARPA"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-09",
+      "title": "AI reduz congestionamentos de robôs em armazéns, aumentando o throughput em 25%",
+      "summary": "Um sistema de aprendizado por reforço treinado para gerenciar a coordenação de múltiplos robôs em grandes centros de distribuição alcançou uma melhoria de 25% no throughput de pedidos ao redirecionar dinamicamente robôs em torno de congestionamentos. Sistemas tradicionais de gerenciamento de armazéns usam regras de roteamento estáticas que se degradam conforme a densidade de robôs aumenta; o sistema de AI se adapta em tempo real às condições mutáveis do piso. A tecnologia foi validada em simulação e depois implantada em uma instalação real com mais de 200 robôs móveis autônomos.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/warehouse-robots.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": ["Robôs de Armazém", "Aprendizado por Reforço", "Logística", "AI"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-10",
+      "title": "Robôs autônomos de armazém aprendem diretamente com a experiência no chão de fábrica",
+      "summary": "Uma implantação em um fabricante europeu de peças automotivas mostra robôs autônomos melhorando o desempenho de tarefas aprendendo com a experiência no trabalho, em vez de rotinas pré-programadas. O sistema usa uma arquitetura de aprendizado contínuo que atualiza o comportamento dos robôs à noite com base nos dados operacionais do dia, sem retreinamento humano. Ao longo de seis meses, as taxas de erro na separação de caixas caíram 40% à medida que os robôs se adaptaram às mudanças no inventário — uma das primeiras implantações documentadas de aprendizado contínuo no chão de fábrica em escala.",
+      "image": "https://spectrum.ieee.org/media-library/robotic-arms-on-mobile-bases-sort-crates-on-a-conveyor-belt-in-a-warehouse.png?id=63907821&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/autonomous-warehouse-robots",
+      "tags": ["Robôs de Armazém", "Aprendizado Contínuo", "Manufatura", "AI"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-11",
+      "title": "Robôs minúsculos andam sobre a água para investigar ecossistemas de superfície",
+      "summary": "Pesquisadores desenvolveram robôs na escala de milímetros inspirados em aranhas d'água que podem caminhar sobre a tensão superficial da água, permitindo a amostragem não invasiva de ecossistemas de superfície aquática. Os robôs usam pernas hidrofóbicas e distribuição de peso precisamente ajustada para evitar romper a superfície da água enquanto carregam sensores em miniatura. As aplicações potenciais incluem monitoramento da qualidade da água, detecção de derramamentos de petróleo e estudo da camada nêuston — a comunidade pouco compreendida de organismos que vivem na interface ar-água.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251003033930.htm",
+      "tags": ["Robótica Mole", "Pesquisa", "Ambiental", "Bioinspirаdo"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-12",
+      "title": "Cientistas criam robôs menores que um grão de areia capazes de \"pensar\"",
+      "summary": "Pesquisadores da Cornell fabricaram microrrobôs menores que um grão de areia que incorporam circuitos fotovoltaicos embarcados capazes de lógica computacional simples, permitindo que os dispositivos respondam a estímulos ambientais sem controle externo. Os robôs podem ser guiados opticamente e executar tomada de decisão básica — como se mover em direção a um gradiente químico — usando apenas energia de luz ambiente. O marco aproxima significativamente sistemas microrrobóticos sem fio para detecção biomédica e ambiental da implantação.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260105165815.htm",
+      "tags": ["Microrrobótica", "Pesquisa", "Biomédico", "Nanotecnologia"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-13",
+      "title": "O avanço do vale da estranheza: tornando rostos de robôs menos perturbadores",
+      "summary": "Cientistas identificaram os sinais perceptuais precisos que desencadeiam o efeito do vale da estranheza em rostos de robôs humanoides — e demonstraram que ajustes direcionados na textura da pele, no timing das microexpressões e nos padrões de movimento ocular podem quase inteiramente eliminar a resposta de desconforto. Os achados têm implicações imediatas para robôs sociais, avatares de telepresença e design de robôs humanoides, onde a aceitação do usuário é crítica para a adoção. A pesquisa envolveu estudos de neuroimagem de participantes interagindo com rostos de robôs reais e simulados.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260116035308.htm",
+      "tags": ["Robótica Social", "Interação Humano-Robô", "Pesquisa", "Design"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-14",
+      "title": "Robô com AI aprende a colher tomates com mais eficiência ao longo do tempo",
+      "summary": "Um robô agrícola equipado com um modelo visão-linguagem e aprendizado por reforço demonstrou melhoria contínua na eficiência de colheita de tomates ao longo de um ensaio em estufa de seis semanas. O robô inicialmente danificava cerca de 8% das frutas; ao final do ensaio, as taxas de dano caíram abaixo de 1% à medida que ele aprendia a modular a força de preensão com base em estimativas de maturidade de sua câmera. O trabalho destaca a agricultura como campo de prova para sistemas robóticos adaptativos em ambientes reais altamente variáveis.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["Robótica Agrícola", "Aprendizado por Reforço", "AI", "Colheita"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-15",
+      "title": "Robôs de DNA podem entregar medicamentos e caçar vírus dentro do corpo humano",
+      "summary": "Cientistas desenvolveram nanorobôs baseados em DNA que navegam em ambientes biológicos, reconhecem alvos moleculares específicos e entregam cargas terapêuticas com precisão no nível celular. Os robôs exploram o pareamento de bases Watson-Crick como mecanismo de orientação para buscar marcadores de câncer ou proteínas virais antes de liberar sua carga de medicamento. Em modelos de camundongos, a tecnologia reduziu a carga tumoral em 60% em comparação com a administração sistêmica de medicamentos, representando um salto significativo na nanomedicina direcionada.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["Nanorobótica", "Médico", "Entrega de Medicamentos", "Biotecnologia"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-16",
+      "title": "Robô movido a vento projetado para exploração de longa duração de ambientes hostis",
+      "summary": "Um novo protótipo de robô movido a vento pode atravessar terrenos desafiadores por meses sem baterias ou combustível, colhendo energia diretamente do fluxo de ar ambiente por meio de um mecanismo passivo de vela e mola. O design tem como alvo ambientes hostis a robôs convencionais — calotas polares, desertos áridos, zonas pós-desastre — onde o reabastecimento é impossível. Os primeiros testes de campo mostraram locomoção sustentada em um percurso desértico rochoso por 48 horas sem intervenção humana.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/wind-powered-robot-cou.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-powered-robot-enable-term-exploration.html",
+      "tags": ["Coleta de Energia", "Robótica de Campo", "Pesquisa", "Exploração"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-17",
+      "title": "Chip Wi-Fi endurecido contra radiação abre porta para robôs de descomissionamento nuclear",
+      "summary": "Engenheiros projetaram um chip Wi-Fi capaz de sobreviver a doses de radiação de até 500 kiloGrays — cerca de 500 vezes a dose que destrói eletrônicos de consumo convencionais — tornando viável pela primeira vez o controle sem fio robusto de robôs de descomissionamento nuclear. Os robôs atuais em instalações como Fukushima e Sellafield devem usar comunicações com fio ou fortemente blindadas que limitam alcance e manobrabilidade. O novo chip usa geometrias de transistores tolerantes à radiação e hardware de correção de erros para manter links de dados confiáveis em ambientes de alto fluxo.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/radiation-resistant-wi.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-radiationhardened-wifi-chip-survives-kgy.html",
+      "tags": ["Nuclear", "Sensores", "Eletrônica", "Descomissionamento"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-18",
+      "title": "Robôs enfrentam o calor na manutenção de fazendas solares em escala utilitária",
+      "summary": "Robôs especializados de inspeção e limpeza estão agora realizando tarefas de manutenção perigosas em grandes instalações solares, substituindo equipes que antes trabalhavam em temperaturas superiores a 50 °C em locais desérticos. Os robôs usam visão computacional para identificar painéis danificados, limpar acúmulo de poeira e realizar pequenos reparos em cabos. As primeiras implantações no Oriente Médio e no Arizona mostram melhorias de 15 a 20% na produção anual dos painéis, com uma equipe de robôs substituindo quatro técnicos humanos a um quarto do custo anual.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-take-the-heat-f.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": ["Energia Solar", "Robôs Industriais", "Inspeção", "Clima"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-19",
+      "title": "Músculos artificiais pneumáticos ajudam robôs a levantar 100 vezes seu próprio peso",
+      "summary": "Um novo design de músculo artificial pneumático alcança uma relação força-peso que permite aos robôs levantar cargas 100 vezes sua própria massa — superando em muito a maioria dos sistemas acionados por motores elétricos em escala comparável. Os músculos usam uma geometria de dobras em acordeão inovadora em um polímero de alta resistência que armazena energia sob compressão e a libera rapidamente. O design é especialmente promissor para robôs com pernas e exoesqueletos onde eficiência energética e densidade de potência são críticas.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/air-powered-artificial.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-air-powered-artificial-muscles-robots.html",
+      "tags": ["Atuador", "Robótica Mole", "Exoesqueleto", "Pneumática"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    },
+    {
+      "id": "art-20260407-20",
+      "title": "Desafio de Triagem DARPA enfrenta equipes de robôs contra cenários de múltiplas vítimas",
+      "summary": "O Desafio de Triagem da DARPA reuniu equipes de robôs autônomos encarregadas de localizar, avaliar e priorizar vítimas feridas em um campo de batalha simulado — inteiramente sem direção humana. Os sistemas concorrentes usaram câmeras térmicas, radar de penetração no solo e algoritmos de triagem de AI para identificar e reportar vítimas. A equipe vencedora processou um cenário de 40 vítimas em menos de 12 minutos — uma tarefa que normalmente leva uma equipe médica humana mais de uma hora — enquanto a DARPA tem como alvo sistemas totalmente autônomos de assistência a vítimas na linha de frente até 2030.",
+      "image": "https://spectrum.ieee.org/media-library/aerial-drone-robotic-arm-explosion-and-medical-cross-on-abstract-background.jpg?id=62605094&width=1200",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/darpa-triage-challenge-robots",
+      "tags": ["DARPA", "Robôs Médicos", "Autônomo", "Defesa"],
+      "timestamp": "2026-04-07T02:29:52Z"
+    }
+  ]
+}

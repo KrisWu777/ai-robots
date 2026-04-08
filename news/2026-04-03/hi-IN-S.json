@@ -1,0 +1,225 @@
+{
+  "date": "2026-04-03",
+  "featured": {
+    "id": "featured-0403",
+    "title": "FedEx और Berkshire Gray ने पूरे US network में AI sorting robots deploy करने की partnership की",
+    "summary": "FedEx ने Berkshire Gray के साथ एक बड़ी partnership announce की है जिसके तहत अगले तीन सालों में America की सभी 650 facilities में AI-powered sorting और manipulation robots deploy किए जाएंगे। यह deal लगभग 1.2 billion dollars की है और logistics history का सबसे बड़ा robotics automation contract है।",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/03/31/fedex-chooses-partnerships-over-proprietary-tech-for-its-automation-strategy/",
+    "tags": ["FedEx", "Logistics", "Automation", "Berkshire Gray"],
+    "timestamp": "2026-03-31T15:46:50Z"
+  },
+  "articles": [
+    {
+      "id": "0403-001",
+      "title": "DNA robots आपके body के अंदर drugs deliver कर सकते हैं और viruses को hunt कर सकते हैं",
+      "summary": "Programmable DNA nanobots targeted medicine में next frontier बन रहे हैं। Macroscale robotics से locomotion, sensing और payload concepts लेकर, researchers ने ऐसी molecular machines बनाई हैं जो bloodstream में navigate करके सीधे tumor cells तक drugs deliver कर सकती हैं।",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+      "tags": ["Nanorobots", "Drug Delivery", "DNA", "Medical"],
+      "timestamp": "2026-03-31T07:16:58Z"
+    },
+    {
+      "id": "0403-002",
+      "title": "Control framework flexible robots को कम computation से tight spaces में navigate करने देता है",
+      "summary": "एक नया kinematic control framework soft और continuum robots के लिए path-planning computation को 80% कम करता है, जिससे pipes, ducts और biological passages के अंदर real-time navigation possible होती है। यह work surgery और infrastructure inspection में flexible robots deploy करने की तरफ एक बड़ा कदम है।",
+      "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-framework-flexible-robots-tight-spaces.html",
+      "tags": ["Soft Robotics", "Path Planning", "Surgery"],
+      "timestamp": "2026-03-31T17:40:06Z"
+    },
+    {
+      "id": "0403-003",
+      "title": "Nomadic ने robot footage को searchable AI training data बनाने के लिए 84 lakh dollar raise किए",
+      "summary": "Nomadic ने 84 lakh dollar raise किए हैं ताकि एक ऐसा infrastructure बना सके जो robots और autonomous vehicles से आने वाले raw sensor streams को clean, labeled, searchable datasets में convert करे। Company का deep learning pipeline raw footage को manual annotation teams से 50x तेज़ process करता है।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "tags": ["Startup", "Data", "Training", "Autonomous Vehicles"],
+      "timestamp": "2026-03-31T15:00:00Z"
+    },
+    {
+      "id": "0403-004",
+      "title": "Robot sensors robots को human जैसी touch की feeling दे सकते हैं — Penn State research",
+      "summary": "Penn State के researchers flexible pressure sensors develop कर रहे हैं जो एक साथ texture, temperature और force detect कर सकते हैं, जिनकी sensitivity human fingertips के बराबर है। Sensors एक novel piezoresistive composite material use करते हैं जो हजारों bending cycles के बाद भी functional रहती है।",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-qa-robots-sensors.html",
+      "tags": ["Tactile Sensors", "Penn State", "Soft Robotics"],
+      "timestamp": "2026-03-30T17:00:04Z"
+    },
+    {
+      "id": "0403-005",
+      "title": "Cross-Embodiment skill transfer: अलग-अलग bodies वाले robots अब knowledge share कर सकते हैं",
+      "summary": "Stanford के researchers ने एक ऐसा framework develop किया है जो fundamentally अलग body plans वाले robots — arms, legs, wheels — को manipulation skills share करने की permission देता है, जिन्हें किसी particular physical form से independent abstract 'intention vectors' के रूप में encode किया जाता है।",
+      "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-bodies-skills-intention-based.html",
+      "tags": ["Transfer Learning", "Cross-Embodiment", "Stanford"],
+      "timestamp": "2026-03-30T13:20:04Z"
+    },
+    {
+      "id": "0403-006",
+      "title": "HEAPGrasp ने warehouse tests में novel objects पर 97.3% success rate achieve की",
+      "summary": "HEAPGrasp system hierarchical grasping को real-time haptic feedback के साथ combine करता है और उन objects पर 97.3% success rate achieve करता है जो उसने पहले कभी नहीं देखे हैं, जिनमें highly deformable packaging, slippery produce और oddly-shaped industrial parts शामिल हैं।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-heapgrasp-faster-smarter-robots-tricky.html",
+      "tags": ["Grasping", "Logistics", "Manipulation"],
+      "timestamp": "2026-03-30T11:20:03Z"
+    },
+    {
+      "id": "0403-007",
+      "title": "HomeTask-3000: अब तक का सबसे rigorous household robot benchmark",
+      "summary": "12 universities के एक consortium ने HomeTask-3000 release किया है, जो 47 realistic home layouts में 3,000 multi-step household chore scenarios वाला एक benchmark है। यह benchmark current household robot performance में significant gaps expose करता है, खासकर उन tasks के लिए जिनमें multi-day context retention की जरूरत होती है।",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-benchmark-robots-chores-real.html",
+      "tags": ["Benchmark", "Home Robots", "Research"],
+      "timestamp": "2026-03-29T11:30:02Z"
+    },
+    {
+      "id": "0403-008",
+      "title": "छोटे 3D-printed microrobots केवल physical shape का use करके animals की तरह swim करते हैं",
+      "summary": "Leiden University में develop किए गए microscopic 3D-printed robots बिना sensors, processors या batteries के environmental gradients को navigate और respond करते हैं — पूरी तरह से अपने bodies की physical geometry पर rely करते हुए surrounding fluid के साथ interact करते हैं। यह approach entirely नई classes के cheap, disposable microrobots enable करती है।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-alive-tiny-3d-robots-animals.html",
+      "tags": ["Microrobots", "3D Printing", "Passive Locomotion"],
+      "timestamp": "2026-03-27T09:40:04Z"
+    },
+    {
+      "id": "0403-009",
+      "title": "Digital twins rescue robots को disaster sites map करने में 10x faster मदद करते हैं",
+      "summary": "Real-time 3D point cloud processing algorithms अब disaster response robots को collapsed buildings के accurate digital twin maps seconds में construct करने में enable करते हैं, जिससे वे पिछले SLAM-based approaches की तुलना में बहुत तेज़ी से trapped survivors तक safe paths plan कर सकते हैं।",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-digital-twins-robots-faster-3d.html",
+      "tags": ["Disaster Response", "3D Mapping", "SLAM"],
+      "timestamp": "2026-03-26T15:50:01Z"
+    },
+    {
+      "id": "0403-010",
+      "title": "Harvard का video-diffusion world model robots को act करने से पहले imagine करने देता है",
+      "summary": "Harvard का एक नया AI architecture एक internal 'imagination engine' के रूप में एक video diffusion model use करता है, जिससे robots best को execute करने से पहले सैकड़ों possible actions के outcome को mentally simulate कर सकते हैं। यह approach 30 standard manipulation benchmarks में से 23 पर human-level performance achieve करती है।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-video-based-ai-robots-visual.html",
+      "tags": ["World Model", "Diffusion", "Harvard", "Planning"],
+      "timestamp": "2026-03-26T10:20:03Z"
+    },
+    {
+      "id": "0403-011",
+      "title": "Multi-agent reinforcement learning warehouse robot jams कम करती है, throughput 25% boost होती है",
+      "summary": "500-robot Amazon fulfillment center simulation में deploy किया गया एक dynamic multi-agent RL system ने order throughput को 25% बढ़ाया — jams form होने के बाद react करने की बजाय predicted congestion points के around robots को proactively reroute करके।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ai-warehouse-robot-traffic-boosting.html",
+      "tags": ["Warehouse", "MARL", "Amazon", "Throughput"],
+      "timestamp": "2026-03-26T09:30:01Z"
+    },
+    {
+      "id": "0403-012",
+      "title": "Bat-inspired drones ultrasound use करके zero-visibility fire scenes में navigate करते हैं",
+      "summary": "WPI का bat-inspired drone एक ultrasound echolocation system और एक custom AI का use करके dense smoke और zero-visibility environments में navigate करता है जो reflected signals को 3D map के रूप में interpret करता है। Fire departments अब first-responder reconnaissance के लिए system को pilot कर रहे हैं।",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ultrasound-palm-sized-drones-fog.html",
+      "tags": ["Drones", "Fire Response", "Ultrasound", "Navigation"],
+      "timestamp": "2026-03-26T09:06:49Z"
+    },
+    {
+      "id": "0403-013",
+      "title": "Motorless shape-memory robot hand servo-driven designs से 70% lighter है",
+      "summary": "Electric servo motors की जगह shape-memory alloy wires और एक clever mechanical transmission use करके, researchers ने एक five-fingered robot hand बनाया है जिसका weight सिर्फ 180 grams है — comparable servo-driven designs से 70% lighter — जबकि अभी भी sub-100ms actuation speed achieve करता है।",
+      "image": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robotic-motors-shifting-actuator.html",
+      "tags": ["Robot Hand", "SMA", "Lightweight", "Prosthetics"],
+      "timestamp": "2026-03-25T10:00:04Z"
+    },
+    {
+      "id": "0403-014",
+      "title": "Wristband-controlled prosthetic hand amputees को individual finger control देता है",
+      "summary": "MIT का एक EMG wristband muscle signals read करके prosthetic hand की individual fingers पर real-time control provide करता है। Users 20 hours से कम training में reliable independent finger control achieve करते हैं — conventional myoelectric prosthetics द्वारा required 200+ hours की तुलना में।",
+      "image": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-wristband-enables-wearers-robotic-movements.html",
+      "tags": ["Prosthetics", "EMG", "MIT", "Accessibility"],
+      "timestamp": "2026-03-25T06:00:09Z"
+    },
+    {
+      "id": "0403-015",
+      "title": "Robot tomato picker difficulty-aware harvesting सीखता है, yield 35% improve होती है",
+      "summary": "जिस order में मिलते हैं उसी order में tomatoes pick करने की बजाय, एक नया agricultural robot fruit position, occlusion और stem orientation के based पर harvest difficulty predict करता है, फिर easy targets को prioritize करता है। इस strategy ने controlled greenhouse trials में total harvest yield में 35% improvement किया।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260317064512.htm",
+      "tags": ["AgriRobotics", "Tomato", "AI Planning"],
+      "timestamp": "2026-03-18T00:26:44Z"
+    },
+    {
+      "id": "0403-016",
+      "title": "BRINC Guardian drone: Narcan carry करने वाला और cars chase करने वाला police emergency responder",
+      "summary": "BRINC ने Guardian reveal किया है, जो rapid 911 first response के लिए design किया गया एक law enforcement drone है। यह nationwide coverage के लिए Starlink connectivity integrate करता है, overdose calls पर Narcan deploy कर सकता है, और 60mph पर suspects को pursue करता है। Civil liberties advocates ने system के बारे में significant concerns raise किए हैं।",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/03/brincs-new-police-drone-uses-starlink-carries-narcan-chases-vehicles-at-60mph/",
+      "tags": ["Police", "Drone", "BRINC", "Emergency"],
+      "timestamp": "2026-03-25T21:12:03Z"
+    },
+    {
+      "id": "0403-017",
+      "title": "Australia ने extreme outback heat में solar farms inspect करने के लिए robots deploy किए",
+      "summary": "AI-powered inspection robots Australia के सबसे बड़े solar farms में dangerous human maintenance work की जगह ले रहे हैं, panels clean करने, efficiency measure करने और thermographic cameras use करके faults detect करने के लिए 50°C heat में kilometers of uneven desert terrain traverse करते हैं।",
+      "image": "https://images.unsplash.com/photo-1545987796-200677ee1011?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robots-humans-biggest-solar-farms.html",
+      "tags": ["Solar", "Australia", "Inspection", "Industrial"],
+      "timestamp": "2026-03-25T18:10:07Z"
+    },
+    {
+      "id": "0403-018",
+      "title": "AI वाले search-and-rescue drones ground teams की तुलना में missing persons को 4x faster locate करते हैं",
+      "summary": "Thermal, infrared और visual cameras को AI detection system के साथ integrate करने वाले एक multi-sensor drone platform ने wilderness tests में ground search teams अकेले की तुलना में four times faster missing persons ढूंढे। Technology को Switzerland और Colorado में mountain rescue organizations adopt कर रही हैं।",
+      "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-drones-paired-ai-searchandrescue-teams.html",
+      "tags": ["SAR", "Drones", "Thermal", "Emergency"],
+      "timestamp": "2026-03-24T14:20:05Z"
+    },
+    {
+      "id": "0403-019",
+      "title": "Amazon का Fauna Robotics acquisition: Sprout humanoid homes और hospitals के लिए design किया गया",
+      "summary": "Fauna Robotics के Amazon के acquisition से company का Sprout — एक child-sized, socially-focused humanoid — Amazon family में आता है। Sprout को unstructured environments जैसे living rooms और hospital corridors में function करने के लिए design किया गया है, जो Amazon के existing warehouse robotics fleet को complement करता है।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-amazon-buys-fauna-robotics-maker.html",
+      "tags": ["Amazon", "Humanoid", "Home Robots", "Healthcare"],
+      "timestamp": "2026-03-25T05:30:01Z"
+    },
+    {
+      "id": "0403-020",
+      "title": "Georgia Tech का no-electronics swarm: self-organize करने वाले mechanical robots",
+      "summary": "Georgia Tech के researchers ने purely mechanical robots का एक swarm demonstrate किया है — कोई sensors नहीं, कोई processors नहीं, कोई batteries नहीं — जो physical shape interactions के through self-organized collective behavior achieve करते हैं। यह work swarm intelligence के लिए क्या necessary है इसके बारे में fundamental assumptions को challenge करता है।",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robotic-swarm-electronics-batteries-brains.html",
+      "tags": ["Swarm", "Georgia Tech", "Mechanical", "Self-Organization"],
+      "timestamp": "2026-04-01T10:00:02Z"
+    },
+    {
+      "id": "0403-021",
+      "title": "LLM-controlled ROS robots real time में plain English commands को respond करते हैं",
+      "summary": "एक नई middleware layer GPT-4 level language models को Robot Operating System के साथ integrate करती है, जिससे engineers और non-experts दोनों natural language use करके complex multi-step robot behaviors command कर सकते हैं। System को five different robot platforms पर validate किया गया है।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-combining-robot-llms-natural-language.html",
+      "tags": ["LLM", "ROS", "Natural Language", "Control"],
+      "timestamp": "2026-04-01T08:10:01Z"
+    }
+  ]
+}
