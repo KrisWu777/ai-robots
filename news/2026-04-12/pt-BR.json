@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-12",
+  "featured": {
+    "id": "featured-20260412",
+    "title": "Robô Humanoide Unitree R1 Chega ao AliExpress por Menos de 5.000 Dólares",
+    "summary": "O robô humanoide R1 da Unitree já está disponível globalmente via AliExpress e Alibaba, com preço inicial de aproximadamente 4.000 dólares, tornando-se o robô humanoide comercial mais barato do mundo. O movimento marca um ponto de virada na acessibilidade à IA incorporada, abrindo portas para pesquisadores, desenvolvedores e entusiastas que antes enfrentavam preços de seis dígitos. A TrendForce estima que a produção chinesa de robôs humanoides crescerá 94% em 2026, com Unitree e AgiBot capturando quase 80% da participação global de mercado.",
+    "image": "https://itritech.itri.org.tw/wp-content/uploads/2025/01/206678013_l.jpg",
+    "source": "Interesting Engineering",
+    "url": "https://interestingengineering.com",
+    "tags": [
+      "Unitree",
+      "Humanoide",
+      "Robótica de Consumo",
+      "China"
+    ],
+    "timestamp": "2026-04-09T00:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260412-01",
+      "title": "UniX AI Panther: Primeiro Humanoide de Serviço Implantado em Casas Reais",
+      "summary": "A UniX AI revelou o Panther, um robô humanoide com rodas e braços duplos que a empresa afirma ser o primeiro humanoide de serviço produzido em massa implantado em lares reais. Ao contrário dos humanoides com pernas ainda em laboratório, a base com rodas do Panther permite navegação estável em ambientes domésticos.",
+      "image": "https://n.sinaimg.cn/spider20240617/401/w713h488/20240617/dfe8-68ffaf2726a2fba6217f90dab153b87e.jpg",
+      "source": "Robotics Tomorrow",
+      "url": "https://www.roboticstomorrow.com",
+      "tags": [
+        "Humanoide",
+        "Robótica Doméstica",
+        "UniX AI",
+        "Robôs de Serviço"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-02",
+      "title": "Kia Implantará Robôs Atlas da Boston Dynamics em Plantas dos EUA",
+      "summary": "A Kia anunciou planos para implantar robôs humanoides Atlas da Boston Dynamics em suas plantas de fabricação nos EUA, tornando-se um dos primeiros grandes fabricantes de automóveis a se comprometer com a integração em grande escala de humanoides na linha de produção.",
+      "image": "https://pixabay.com/zh/images/download/tommyvideo-ai-generated-8496132_1920.jpg",
+      "source": "Businesskorea",
+      "url": "https://www.businesskorea.co.kr",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "Manufatura",
+        "Kia"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-03",
+      "title": "Músculos de Fibra Eletrofluídica para Sistemas Robóticos Silenciosos",
+      "summary": "Pesquisadores desenvolveram músculos de fibra eletrofluídica, uma nova classe de atuador macio que gera força controlada sem o ruído e a vibração dos motores tradicionais. As fibras manipulam a pressão de fluido em microcanais via campos elétricos, permitindo atuação silenciosa para próteses e robôs médicos.",
+      "image": "https://i0.wp.com/blog.growin.tv/wp-content/uploads/2025/09/ai-robot-analyzing-stock-market-charts-multiple-screens-showcasing-futuristic-technology-data-driven-trading-insights-369180933.webp?w=800&ssl=1",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html",
+      "tags": [
+        "Robótica Mole",
+        "Atuadores",
+        "Pesquisa",
+        "Próteses"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-04",
+      "title": "Produção Chinesa de Robôs Humanoides Crescerá 94% em 2026",
+      "summary": "A TrendForce prevê que a produção chinesa de robôs humanoides crescerá 94% em 2026, com Unitree e AgiBot capturando quase 80% da participação global de mercado, impulsionados por forte apoio governamental, integração profunda da cadeia de suprimentos e queda rápida nos custos de componentes.",
+      "image": "https://ecfeda1c.rocketcdn.me/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2025/02/ki-system-robotik-Xpert.Digital-169-png.png.webp",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com",
+      "tags": [
+        "China",
+        "Humanoide",
+        "Análise de Mercado",
+        "Unitree"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-05",
+      "title": "Generalist AI Apresenta o Modelo GEN-1 para Robótica no Mundo Real",
+      "summary": "A Generalist AI introduziu o GEN-1, um novo modelo de fundação para tarefas de IA física em ambientes não estruturados do mundo real, capaz de se adaptar a novas tarefas sem treinamento extensivo e projetado como plataforma aberta para múltiplas arquiteturas robóticas.",
+      "image": "https://pixnio.com/free-images/2025/07/09/2025-07-09-04-30-59-1920x1493.jpeg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/generalist-ai-unveils-gen-1-model-claiming-breakthrough-in-real-world-robotic-task-performance/100516/",
+      "tags": [
+        "Modelos de Fundação",
+        "IA Incorporada",
+        "IA Física",
+        "Pesquisa"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-06",
+      "title": "Tennant Lança Varredor Industrial Autônomo X16 Sweep",
+      "summary": "A Tennant Company lançou o X16 Sweep, sua primeira vassoura robótica autônoma para ambientes industriais complexos como armazéns e centros de logística, projetada para operação contínua sem supervisão 24 horas por dia.",
+      "image": "https://img.technews.tw/wp-content/uploads/2025/02/26155614/Figure-AI-Helix-768x400.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/tennant-unveils-new-industrial-sweeping-machine-for-autonomous-round-the-clock-work/100492/",
+      "tags": [
+        "Autônomo",
+        "Robôs Industriais",
+        "Armazém",
+        "Tennant"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-07",
+      "title": "Exército dos EUA Testa Cozinha Robótica para Soldados em Campo",
+      "summary": "O Exército dos EUA está testando um sistema de cozinha robótica autônoma capaz de preparar refeições quentes para soldados em posições avançadas, buscando reduzir a carga logística e liberar pessoal para missões de combate.",
+      "image": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/05/IMG_3830.jpg",
+      "source": "Task & Purpose",
+      "url": "https://taskandpurpose.com",
+      "tags": [
+        "Robôs Militares",
+        "Autônomo",
+        "Defesa",
+        "Robótica de Campo"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-08",
+      "title": "Hai Robotics Inaugura Centro de Inovação EMEA nos Países Baixos",
+      "summary": "A Hai Robotics inaugurou seu Centro de Inovação EMEA em Hoofddorp, reforçando sua presença no mercado europeu de automação de armazéns para atender à demanda crescente por robótica escalável.",
+      "image": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/05/IMG_3818.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/hai-robotics-opens-emea-innovation-center-in-the-netherlands/100520/",
+      "tags": [
+        "Robótica de Armazém",
+        "Hai Robotics",
+        "Europa",
+        "Logística"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-09",
+      "title": "Plus One Robotics Supera 2 Bilhões de Coletas em Automação de Armazéns",
+      "summary": "A Plus One Robotics ultrapassou 2 bilhões de coletas robóticas, um marco que evidencia o rápido crescimento da automação de armazéns impulsionada por IA sob pressão persistente do mercado de trabalho.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Robótica de Armazém",
+        "Logística",
+        "Automação",
+        "Marcos"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-10",
+      "title": "Zhiyuan Robotics Lança Modelo de Fundação Incorporado GO-2",
+      "summary": "A empresa chinesa de robótica Zhiyuan Robotics lançou o GO-2, um modelo de fundação incorporado para capacidades gerais de raciocínio e manipulação em robôs, competindo com Physical Intelligence e DeepMind.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "Modelos de Fundação",
+        "IA Incorporada",
+        "China",
+        "Zhiyuan Robotics"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-11",
+      "title": "Soldagem Robótica da Dextall Alcança 3x a Velocidade Humana em Fachadas",
+      "summary": "A Dextall implantou sistemas de soldagem robótica que operam a três vezes a velocidade dos soldadores humanos para fabricação em escala industrial de painéis de fachada, usando detecção em tempo real e planejamento adaptativo de trajetórias.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Robôs Industriais",
+        "Construção",
+        "Soldagem",
+        "Manufatura"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-12",
+      "title": "SCSP Lança Comissão de Segurança Nacional em Robótica para Manufatura Avançada",
+      "summary": "O Special Competitive Studies Project lançou uma Comissão de Segurança Nacional em Robótica para Manufatura Avançada, respondendo às preocupações com o avanço chinês e suas implicações para a competitividade industrial e cadeias de suprimentos de defesa dos EUA.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Política",
+        "Segurança Nacional",
+        "Manufatura",
+        "Robótica EUA"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-13",
+      "title": "Pássaros Robóticos no Grand Teton para Salvar a Galinha-da-Pradaria",
+      "summary": "Conservacionistas implantaram iscas robóticas de galinha-das-pradarias no Parque Nacional do Grand Teton para ajudar a reviver populações silvestres em declínio, atraindo aves reais para áreas de habitat adequadas.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "SFGATE / Interesting Engineering",
+      "url": "https://www.sfgate.com",
+      "tags": [
+        "Conservação",
+        "Robôs Bio-inspirados",
+        "Vida Selvagem",
+        "Pesquisa"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-14",
+      "title": "Schaeffler Parceria com ROKAE para Industrializar Humanoides na China",
+      "summary": "A fornecedora industrial alemã Schaeffler firmou parceria estratégica com a empresa de robótica chinesa ROKAE para co-desenvolver e escalar componentes e sistemas de robôs humanoides para implantação industrial.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "Humanoide",
+        "Cadeia de Suprimentos",
+        "Schaeffler",
+        "China"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-15",
+      "title": "Tesla Pivota para Robótica e Robotáxis com Queda nas Vendas de Carros",
+      "summary": "A Tesla está acelerando seu programa de robô humanoide Optimus e sua frota de táxis autônomos enquanto as entregas de veículos sinalizam dificuldades no negócio automotivo principal. Elon Musk posiciona o Optimus como uma oportunidade de vários trilhões de dólares.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Humanoide",
+        "Veículos Autônomos"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-16",
+      "title": "SVT Robotics Lança 'Softbot Intelligence' para Dados de Automação em Tempo Real",
+      "summary": "A SVT Robotics lançou o Softbot Intelligence, uma plataforma de dados que agrega métricas de desempenho em tempo real de implantações de automação robótica para otimização por IA e eliminação de silos operacionais.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/svt-robotics-launches-softbot-intelligence-to-power-ai-with-real-time-automation-data/100488/",
+      "tags": [
+        "Robótica de Armazém",
+        "IA",
+        "Plataforma de Dados",
+        "Automação"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-17",
+      "title": "Robô Humanoide Joga Tênis de Mesa com Lenda Esportiva Chinesa",
+      "summary": "Um robô humanoide demonstrou capacidades de tênis de mesa em tempo real jogando com uma lenda esportiva chinesa em evento público, exibindo avanços em rastreamento visual de alta velocidade e manipulação destreza.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com",
+      "tags": [
+        "Humanoide",
+        "Destreza",
+        "China",
+        "Demo"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-18",
+      "title": "Exol Lança Rede de Fulfillment Robótico nos EUA como Serviço",
+      "summary": "A Exol lançou suas primeiras instalações de IA física nos EUA sob modelo fulfillment-as-a-service, permitindo que marcas de e-commerce acessem logística robótica em grande escala sem investimento de capital próprio.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/09/exol-launches-us-robotic-fulfillment-network-with-fulfillment-as-a-service-model/100462/",
+      "tags": [
+        "Logística",
+        "Robótica de Armazém",
+        "Modelo de Negócios",
+        "IA Física"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-19",
+      "title": "MIT CSAIL Apresenta uma Visão Diferente do Futuro da Robótica",
+      "summary": "Pesquisadores do MIT CSAIL questionam as suposições dominantes sobre robôs humanoides de propósito geral, defendendo sistemas específicos para tarefas que possam ser implantados de forma confiável hoje.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "A3 Automate",
+      "url": "https://www.automate.org",
+      "tags": [
+        "Pesquisa",
+        "MIT",
+        "IA Incorporada",
+        "Perspectivas do Setor"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-20",
+      "title": "Programa de Cirurgia Robótica da Onvida Health em Yuma Ganha Atenção Nacional",
+      "summary": "A Onvida Health em Yuma, Arizona ganhou reconhecimento nacional por seu programa de cirurgia robótica, levando procedimentos minimamente invasivos avançados a uma região que antes não os tinha disponíveis.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "AZ Family",
+      "url": "https://www.azfamily.com",
+      "tags": [
+        "Robôs Cirúrgicos",
+        "Medicina",
+        "Saúde",
+        "Acesso à Robótica"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    }
+  ]
+}

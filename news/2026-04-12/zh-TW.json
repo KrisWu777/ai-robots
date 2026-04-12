@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-12",
+  "featured": {
+    "id": "featured-20260412",
+    "title": "Unitree R1人形機器人登陸速賣通，售價不足5000美元",
+    "summary": "Unitree的R1人形機器人現已透過速賣通和阿里巴巴面向全球發售，起售價約4000美元，成為全球最便宜的商用人形機器人。此舉標誌著具身AI可及性邁入新紀元，讓此前需要六位數預算的研究者、開發者和愛好者得以平價入手。TrendForce預測2026年中國人形機器人產量將激增94%，Unitree和AgiBot合計有望佔據全球近80%的市場份額，產業格局正在深刻改變。",
+    "image": "https://itritech.itri.org.tw/wp-content/uploads/2025/01/206678013_l.jpg",
+    "source": "Interesting Engineering",
+    "url": "https://interestingengineering.com",
+    "tags": [
+      "Unitree",
+      "人形機器人",
+      "消費機器人",
+      "中國"
+    ],
+    "timestamp": "2026-04-09T00:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260412-01",
+      "title": "UniX AI Panther：全球首款進入真實家庭的服務型人形機器人",
+      "summary": "UniX AI發布Panther，一款輪式雙臂人形機器人，該公司宣稱這是全球首款大規模量產並實現真實家庭部署的服務型人形機器人。與仍處於實驗室階段的足式人形機器人不同，Panther的輪式底盤可在家庭環境中穩定導航，雙臂架構可執行操作任務，標誌著從受控演示到真正消費級部署的重要跨越。",
+      "image": "https://n.sinaimg.cn/spider20240617/401/w713h488/20240617/dfe8-68ffaf2726a2fba6217f90dab153b87e.jpg",
+      "source": "Robotics Tomorrow",
+      "url": "https://www.roboticstomorrow.com",
+      "tags": [
+        "人形機器人",
+        "家庭機器人",
+        "UniX AI",
+        "服務機器人"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-02",
+      "title": "起亞將在美國工廠部署Boston Dynamics Atlas人形機器人",
+      "summary": "起亞宣布計劃在其美國製造工廠部署Boston Dynamics Atlas人形機器人，成為首批承諾大規模引入人形機器人的主要汽車製造商之一。此合作顯示工業應用正比消費場景更快成熟，越來越多汽車製造商藉助人形機器人應對勞動力短缺及傳統固定臂機器人難以勝任的複雜裝配任務。",
+      "image": "https://pixabay.com/zh/images/download/tommyvideo-ai-generated-8496132_1920.jpg",
+      "source": "Businesskorea",
+      "url": "https://www.businesskorea.co.kr",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "製造業",
+        "起亞"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-03",
+      "title": "電流體纖維人工肌肉有望實現靜音機器人系統",
+      "summary": "研究人員開發出電流體纖維人工肌肉——一種受生物肌肉啟發的新型軟體致動器，無需噪音和振動即可產生受控力。纖維透過電場操控微通道內的流體壓力實現靜音致動，適用於義肢、醫療機器人及在人類環境中工作的社交機器人，有望為需要安靜運行的機器人開闢全新設計空間。",
+      "image": "https://i0.wp.com/blog.growin.tv/wp-content/uploads/2025/09/ai-robot-analyzing-stock-market-charts-multiple-screens-showcasing-futuristic-technology-data-driven-trading-insights-369180933.webp?w=800&ssl=1",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html",
+      "tags": [
+        "軟體機器人",
+        "致動器",
+        "研究",
+        "義肢"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-04",
+      "title": "2026年中國人形機器人產量將激增94%",
+      "summary": "TrendForce預測2026年中國人形機器人產量將激增94%，Unitree和AgiBot合計預計佔據全球人形機器人市場近80%份額。報告將強有力的政府支持、深度供應鏈整合以及零部件成本快速下降列為主要驅動力，此輪產量爆發將在全球需求剛剛起步之際奠定中國的行業主導地位。",
+      "image": "https://ecfeda1c.rocketcdn.me/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2025/02/ki-system-robotik-Xpert.Digital-169-png.png.webp",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com",
+      "tags": [
+        "中國",
+        "人形機器人",
+        "市場分析",
+        "Unitree"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-05",
+      "title": "Generalist AI發布GEN-1模型，面向真實場景機器人任務",
+      "summary": "Generalist AI推出GEN-1，一款專為非結構化真實環境物理AI任務設計的基礎模型。公司稱GEN-1是通用機器人智能的重要突破，無需大量針對性訓練即可適應新任務，作為開放平台構建，旨在跨多種機器人硬體平台整合，有望加速在倉庫、醫院和野外環境中的部署。",
+      "image": "https://pixnio.com/free-images/2025/07/09/2025-07-09-04-30-59-1920x1493.jpeg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/generalist-ai-unveils-gen-1-model-claiming-breakthrough-in-real-world-robotic-task-performance/100516/",
+      "tags": [
+        "基礎模型",
+        "具身AI",
+        "物理AI",
+        "研究"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-06",
+      "title": "Tennant發布X16 Sweep自主工業掃地機器人",
+      "summary": "Tennant公司推出X16 Sweep，其首款專為倉儲、物流中心等複雜工業環境設計的全自主機器人掃地機。設備採用車載感測器在動態空間中自主導航，支援全天候無人值守運行，面向日益增長的無人設施管理需求，協助運營商在大面積場所降低勞動力成本並維持清潔標準。",
+      "image": "https://img.technews.tw/wp-content/uploads/2025/02/26155614/Figure-AI-Helix-768x400.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/tennant-unveils-new-industrial-sweeping-machine-for-autonomous-round-the-clock-work/100492/",
+      "tags": [
+        "自主機器人",
+        "工業機器人",
+        "倉儲",
+        "Tennant"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-07",
+      "title": "美國陸軍測試可為前線士兵烹飪的機器人廚房",
+      "summary": "美國陸軍正在試點一套自主機器人廚房系統，可在前沿部署環境中為士兵準備熱食。系統旨在減輕野戰後勤補給負擔，解放人員專注於作戰任務。若試點成功，這項技術有望重塑軍事野戰保障作業，並在災難救援和偏遠工業區域找到民用應用場景。",
+      "image": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/05/IMG_3830.jpg",
+      "source": "Task & Purpose",
+      "url": "https://taskandpurpose.com",
+      "tags": [
+        "軍事機器人",
+        "自主機器人",
+        "國防",
+        "野外機器人"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-08",
+      "title": "海柔創新荷蘭EMEA創新中心正式揭幕",
+      "summary": "海柔創新在荷蘭霍夫多普正式啟用EMEA創新中心，進一步鞏固其在歐洲倉儲自動化市場的布局。中心將作為彈性自主存取系統的展示與推廣基地，為區域客戶提供整合和客製化服務，呼應歐洲在電商增長和勞動成本攀升下日益旺盛的可擴展倉儲機器人需求。",
+      "image": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/05/IMG_3818.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/hai-robotics-opens-emea-innovation-center-in-the-netherlands/100520/",
+      "tags": [
+        "倉儲機器人",
+        "海柔創新",
+        "歐洲",
+        "物流"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-09",
+      "title": "Plus One Robotics倉儲自動化揀選量突破20億次",
+      "summary": "Plus One Robotics的機器人揀選量已突破20億次，充分說明在持續的勞動市場壓力下，AI驅動的倉儲自動化正在快速擴張。公司的視覺引導機器人揀選系統已部署於多家大型配送運營商，里程碑反映出可靠性的持續提升和客戶採用率的擴大，包裹及電商物流正成為生產級機器人AI的早期驗證場景。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "倉儲機器人",
+        "物流",
+        "自動化",
+        "里程碑"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-10",
+      "title": "智元機器人發布GO-2具身基礎模型",
+      "summary": "中國機器人公司智元機器人發布GO-2，一款旨在賦予機器人通用推理和操作能力的具身基礎模型。模型基於大規模真實世界互動數據訓練，目標是在不同機器人形態之間實現泛化，與Physical Intelligence、DeepMind的同類工作形成競爭，標誌著全球通用機器人大腦的角逐正在加速。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "基礎模型",
+        "具身AI",
+        "中國",
+        "智元機器人"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-11",
+      "title": "Dextall機器人焊接速度達人工3倍，重塑幕牆製造",
+      "summary": "建築科技公司Dextall部署了工業級機器人焊接系統，在幕牆板製造中實現了人工焊接3倍的作業速度。系統借助即時感知和自適應路徑規劃，以穩定品質完成複雜建築構件的焊接，展示了機器人如何在長期抵制自動化的建築行業開闢規模化製造的新路徑。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "工業機器人",
+        "建築",
+        "焊接",
+        "製造業"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-12",
+      "title": "SCSP成立機器人先進製造國家安全委員會",
+      "summary": "特別競爭研究項目（SCSP）成立機器人先進製造國家安全委員會，負責制定政策框架以加速美國機器人製造能力建設。委員會的設立反映出華盛頓對中國快速擴大機器人產量及其對工業競爭力和國防供應鏈影響的日益擔憂，預計將就國內機器人生產激勵措施和勞動力發展提出政策建議。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "政策",
+        "國家安全",
+        "製造業",
+        "美國機器人"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-13",
+      "title": "機器人鳥現身大提頓，助力拯救瀕危松雞",
+      "summary": "保育人士在懷俄明州大提頓國家公園部署仿真機器鼠尾草松雞，透過模擬求偶展示幫助恢復野生族群。機器人吸引真實鳥類進入適宜棲地區域，配合棲地修復工作共同推進，展示了機器人如何走出工業領域、進入生態保育領域，對其他依賴社群行為繁殖的瀕危物種同樣具有潛在應用價值。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "SFGATE / Interesting Engineering",
+      "url": "https://www.sfgate.com",
+      "tags": [
+        "保育",
+        "仿生機器人",
+        "野生動物",
+        "研究"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-14",
+      "title": "Schaeffler與ROKAE合作，加速中國人形機器人產業化",
+      "summary": "德國工業供應商舍弗勒與中國機器人企業節卡機器人（ROKAE）達成策略合作，共同研發和規模化生產用於工業部署的人形機器人零部件和系統。舍弗勒提供精密致動器和軸承專業能力，ROKAE貢獻機器人架構和控制系統，折射出成熟工業製造商在預期量產浪潮到來之前搶先布局人形機器人供應鏈的普遍趨勢。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "人形機器人",
+        "供應鏈",
+        "舍弗勒",
+        "中國"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-15",
+      "title": "特斯拉在汽車銷售承壓之際加速押注機器人和Robotaxi",
+      "summary": "隨著整車交付數據顯示核心汽車業務遭遇阻力，特斯拉正在加速推進Optimus人形機器人項目和自動駕駛計程車車隊。CEO埃隆·馬斯克將Optimus定位為潛在的數兆美元機遇和公司最重要的長期產品，這一策略轉型令特斯拉同時在多條戰線參與競爭，分析師對Optimus能否實現其雄心勃勃的量產時程仍存分歧。",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "特斯拉",
+        "Optimus",
+        "人形機器人",
+        "自動駕駛汽車"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-16",
+      "title": "SVT Robotics推出'Softbot Intelligence'即時自動化數據平台",
+      "summary": "SVT Robotics推出Softbot Intelligence，一款匯聚跨機器人自動化部署即時性能指標的新數據平台，利用AI驅動優化。平台旨在填補倉儲自動化的長期空白：孤立運行的機器人無法將運營洞察反饋給企業系統，透過構建統一數據層協助運營商動態識別低效並調整自動化策略。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/svt-robotics-launches-softbot-intelligence-to-power-ai-with-real-time-automation-data/100488/",
+      "tags": [
+        "倉儲機器人",
+        "AI",
+        "數據平台",
+        "自動化"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-17",
+      "title": "人形機器人與中國乒乓球名將對戰引發廣泛關注",
+      "summary": "一台人形機器人在公開活動中與中國體育名將進行了乒乓球對打，展示了高速視覺追蹤和快速靈巧操控方面的最新進展。此次演示在CGTN播出，凸顯了人形機器人作為中國展示真實靈巧操控能力的高關注度應用，既是真實的研究里程碑，也是中國機器人產業的公共外交展示窗口。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com",
+      "tags": [
+        "人形機器人",
+        "靈巧操控",
+        "中國",
+        "演示"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-18",
+      "title": "Exol在美國推出'服務即履約'機器人配送網絡",
+      "summary": "Exol（前身為GreenBox Logistics）已在美國推出首批物理AI配送設施，採用'履約即服務'模式，讓電商品牌無需自建基礎設施即可獲得大規模機器人物流服務。這一模式類似於雲端運算的轉型——企業外包運算而非自建資料中心——現在被應用於實體物流，旨在讓中型零售商也能平等獲取前沿倉儲自動化能力。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/09/exol-launches-us-robotic-fulfillment-network-with-fulfillment-as-a-service-model/100462/",
+      "tags": [
+        "物流",
+        "倉儲機器人",
+        "商業模式",
+        "物理AI"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-19",
+      "title": "MIT CSAIL提出機器人未來發展的不同視角",
+      "summary": "麻省理工學院CSAIL研究人員發表觀點文章，對人形通用機器人近期發展軌跡的主流假設提出質疑。MIT CSAIL主張聚焦於今天可靠部署的定向任務專用系統，認為泛化能力應透過更好的學習演算法而非機械擬人化硬體逐步湧現，在自動化界引發了關於投資和研究重點應如何布局的討論。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "A3 Automate",
+      "url": "https://www.automate.org",
+      "tags": [
+        "研究",
+        "MIT",
+        "具身AI",
+        "行業觀點"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-20",
+      "title": "尤馬Onvida Health機器人手術項目獲全國矚目",
+      "summary": "亞利桑那州尤馬市的Onvida Health憑借其機器人手術項目獲得全國認可，為當地帶來了此前無法獲得的先進微創手術。項目利用最新手術機器人平台，以更小切口、更快恢復時間和更低併發症率完成複雜手術，折射出機器人手術從大型城市醫療中心向區域和社區醫院擴展的廣泛趨勢。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "AZ Family",
+      "url": "https://www.azfamily.com",
+      "tags": [
+        "手術機器人",
+        "醫療",
+        "健康",
+        "機器人普及"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-12",
+  "featured": {
+    "id": "featured-20260412",
+    "title": "ユニツリーR1人型ロボット、AliExpressで5000ドル以下に",
+    "summary": "ユニツリーのR1人型ロボットがAliExpress・Alibabaを通じて世界中で約4000ドルから購入可能になり、世界最安値の商業用人型ロボットとなった。この動きは具現化AIへのアクセスの転換点となり、研究者・開発者・愛好家に新たな機会をもたらす。TrendForceは2026年に中国の人型ロボット生産が94%増加し、ユニツリーとAgibotが世界市場の約80%を占めると予測している。",
+    "image": "https://itritech.itri.org.tw/wp-content/uploads/2025/01/206678013_l.jpg",
+    "source": "Interesting Engineering",
+    "url": "https://interestingengineering.com",
+    "tags": [
+      "Unitree",
+      "人型ロボット",
+      "コンシューマーロボティクス",
+      "中国"
+    ],
+    "timestamp": "2026-04-09T00:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260412-01",
+      "title": "UniX AI Panther：実際の家庭に展開された初のサービス人型ロボット",
+      "summary": "UniX AIはPantherを発表した。車輪型・デュアルアーム人型ロボットで、同社はこれを量産サービス人型ロボットとして初めて実際の家庭に展開したと主張する。車輪ベースにより家庭環境での安定したナビゲーションが可能。",
+      "image": "https://n.sinaimg.cn/spider20240617/401/w713h488/20240617/dfe8-68ffaf2726a2fba6217f90dab153b87e.jpg",
+      "source": "Robotics Tomorrow",
+      "url": "https://www.roboticstomorrow.com",
+      "tags": [
+        "人型ロボット",
+        "ホームロボティクス",
+        "UniX AI",
+        "サービスロボット"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-02",
+      "title": "KiaがUS工場にBoston Dynamics Atlasを導入へ",
+      "summary": "Kiaは米国製造工場にBoston DynamicsのAtlas人型ロボットを展開する計画を発表し、製造ラインへの大規模な人型ロボット統合にコミットする主要自動車メーカーの一つとなった。",
+      "image": "https://pixabay.com/zh/images/download/tommyvideo-ai-generated-8496132_1920.jpg",
+      "source": "Businesskorea",
+      "url": "https://www.businesskorea.co.kr",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "製造",
+        "Kia"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-03",
+      "title": "電気流体繊維筋肉で静音ロボットシステムが実現可能に",
+      "summary": "研究者たちは電気流体繊維筋肉を開発した。従来モーターの騒音・振動なく制御された力を生成する新しいソフトアクチュエータで、義肢や医療ロボット、社会ロボットへの応用が期待される。",
+      "image": "https://i0.wp.com/blog.growin.tv/wp-content/uploads/2025/09/ai-robot-analyzing-stock-market-charts-multiple-screens-showcasing-futuristic-technology-data-driven-trading-insights-369180933.webp?w=800&ssl=1",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html",
+      "tags": [
+        "ソフトロボティクス",
+        "アクチュエータ",
+        "研究",
+        "義肢"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-04",
+      "title": "中国の人型ロボット生産、2026年に94%急増の見込み",
+      "summary": "TrendForceは2026年に中国の人型ロボット生産が94%増加し、ユニツリーとAgiботが世界市場の約80%を占めると予測している。政府支援の強化、サプライチェーンの統合、部品コストの急低下が主な要因だ。",
+      "image": "https://ecfeda1c.rocketcdn.me/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2025/02/ki-system-robotik-Xpert.Digital-169-png.png.webp",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com",
+      "tags": [
+        "中国",
+        "人型ロボット",
+        "市場分析",
+        "Unitree"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-05",
+      "title": "Generalist AI、実世界ロボットタスク向けGEN-1モデルを発表",
+      "summary": "Generalist AIはGEN-1を発表した。非構造化実環境での物理AIタスク向けに設計されたファウンデーションモデルで、大規模なタスク固有のトレーニングなしに新しいタスクに適応できる。",
+      "image": "https://pixnio.com/free-images/2025/07/09/2025-07-09-04-30-59-1920x1493.jpeg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/generalist-ai-unveils-gen-1-model-claiming-breakthrough-in-real-world-robotic-task-performance/100516/",
+      "tags": [
+        "ファウンデーションモデル",
+        "具身AI",
+        "フィジカルAI",
+        "研究"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-06",
+      "title": "Tennant、自律型産業掃除機X16 Sweepを発表",
+      "summary": "Tennant Companyは倉庫や物流センターなど複雑な工業環境向けの初の完全自律型ロボット掃除機X16 Sweepをリリース。24時間無人稼働が可能。",
+      "image": "https://img.technews.tw/wp-content/uploads/2025/02/26155614/Figure-AI-Helix-768x400.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/tennant-unveils-new-industrial-sweeping-machine-for-autonomous-round-the-clock-work/100492/",
+      "tags": [
+        "自律型",
+        "産業ロボット",
+        "倉庫",
+        "Tennant"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-07",
+      "title": "米陸軍、前線の兵士向けロボットキッチンをテスト中",
+      "summary": "米陸軍は前線展開環境で兵士に温かい食事を提供できる自律型ロボットキッチンシステムの試験を行っている。兵站負担の軽減と戦闘任務への人員集中が目的だ。",
+      "image": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/05/IMG_3830.jpg",
+      "source": "Task & Purpose",
+      "url": "https://taskandpurpose.com",
+      "tags": [
+        "軍事ロボット",
+        "自律型",
+        "防衛",
+        "フィールドロボティクス"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-08",
+      "title": "Hai Robotics、オランダにEMEAイノベーションセンターを開設",
+      "summary": "Hai Roboticsはオランダのホーフドルプに正式にEMEAイノベーションセンターを開設し、欧州倉庫自動化市場での存在感を強化した。",
+      "image": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/05/IMG_3818.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/hai-robotics-opens-emea-innovation-center-in-the-netherlands/100520/",
+      "tags": [
+        "倉庫ロボティクス",
+        "Hai Robotics",
+        "ヨーロッパ",
+        "ロジスティクス"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-09",
+      "title": "Plus One Robotics、倉庫自動化で20億ピックスを達成",
+      "summary": "Plus One Roboticsは20億ロボットピックスを突破し、労働市場の圧力下でAI駆動型倉庫自動化が急速に拡大していることを示す節目となった。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "倉庫ロボティクス",
+        "ロジスティクス",
+        "自動化",
+        "マイルストーン"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-10",
+      "title": "Zhiyuan Robotics、GO-2具身ファウンデーションモデルをリリース",
+      "summary": "中国のロボティクス企業Zhiyuan Roboticsは、ロボットに汎用推論・操作能力を付与するために設計された具身ファウンデーションモデルGO-2をリリースした。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "ファウンデーションモデル",
+        "具身AI",
+        "中国",
+        "Zhiyuan Robotics"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-11",
+      "title": "Dextallのロボット溶接がファサード製造で人間の3倍速を実現",
+      "summary": "建設テック企業Dextallは、産業規模のファサードパネル製造において人間溶接工の3倍の速度で稼働するロボット溶接システムを展開した。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "産業ロボット",
+        "建設",
+        "溶接",
+        "製造"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-12",
+      "title": "SCSPが先進製造向けロボティクス国家安全保障委員会を発足",
+      "summary": "Special Competitive Studies Projectは先進製造のためのロボティクス国家安全保障委員会を発足させた。中国のロボット生産急増への対応として米国の製造能力を加速させる政策枠組みを策定する。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "政策",
+        "国家安全保障",
+        "製造",
+        "米国ロボティクス"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-13",
+      "title": "グランド・ティトンのロボット鳥、絶滅危惧のライチョウを救う",
+      "summary": "自然保護活動家たちはグランド・ティトン国家公園にロボット製ヤマウズラのデコイを設置し、求愛行動を模倣して本物の鳥を適切な生息地に引き寄せ、減少する野生個体群の回復を支援している。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "SFGATE / Interesting Engineering",
+      "url": "https://www.sfgate.com",
+      "tags": [
+        "保護活動",
+        "バイオインスパイアードロボット",
+        "野生生物",
+        "研究"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-14",
+      "title": "SchaefflerとROKAEが中国での人型ロボット産業化を加速",
+      "summary": "ドイツの産業サプライヤーSchaefflerは中国のロボティクス企業ROKAEと戦略的パートナーシップを締結し、産業展開向け人型ロボット部品・システムを共同開発・量産する。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "人型ロボット",
+        "サプライチェーン",
+        "Schaeffler",
+        "中国"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-15",
+      "title": "テスラ、自動車販売低迷の中ロボティクスとロボタクシーに軸足を移す",
+      "summary": "テスラは車両納入数が核心事業の逆風を示す中、OptimisS人型ロボットプログラムと自律ロボタクシー車隊を加速させている。イーロン・マスクはOptimisを数兆ドル規模の機会と位置づけている。",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "テスラ",
+        "Optimus",
+        "人型ロボット",
+        "自動運転車"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-16",
+      "title": "SVT Roboticsがリアルタイム自動化データ向け『Softbot Intelligence』を発表",
+      "summary": "SVT RoboticsはSoftbot Intelligenceを発表した。ロボット自動化展開全体からリアルタイムのパフォーマンス指標を集約してAI最適化を推進するデータプラットフォームだ。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/svt-robotics-launches-softbot-intelligence-to-power-ai-with-real-time-automation-data/100488/",
+      "tags": [
+        "倉庫ロボティクス",
+        "AI",
+        "データプラットフォーム",
+        "自動化"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-17",
+      "title": "人型ロボット、中国卓球レジェンドとラリーを披露",
+      "summary": "人型ロボットが公開イベントで中国スポーツの伝説的人物と卓球でリアルタイムの能力を披露し、高速視覚追跡と素早い巧みな操作の進歩を示した。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com",
+      "tags": [
+        "人型ロボット",
+        "器用さ",
+        "中国",
+        "デモ"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-18",
+      "title": "Exolが米国でサービスとしてのロボットフルフィルメントネットワークを開始",
+      "summary": "Exolは米国でフィジカルAIフルフィルメント施設をfulfillment-as-a-serviceモデルで展開。EC事業者が資本投資なしに大規模ロボット物流にアクセスできる仕組みだ。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/09/exol-launches-us-robotic-fulfillment-network-with-fulfillment-as-a-service-model/100462/",
+      "tags": [
+        "ロジスティクス",
+        "倉庫ロボティクス",
+        "ビジネスモデル",
+        "フィジカルAI"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-19",
+      "title": "MIT CSAILがロボティクスの未来について異なる見解を提示",
+      "summary": "MIT CSAILの研究者たちは、汎用人型ロボットの近期トレンドに関する通説に疑問を呈する論考を発表。今日確実に展開できるタスク特化型システムを重視すべきだと主張している。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "A3 Automate",
+      "url": "https://www.automate.org",
+      "tags": [
+        "研究",
+        "MIT",
+        "具身AI",
+        "業界の視点"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-20",
+      "title": "ユマのOnvida Healthロボット手術プログラムが全国的注目を集める",
+      "summary": "アリゾナ州ユマのOnvida Healthは、これまで利用できなかった高度な低侵襲手術をその地域にもたらすロボット手術プログラムで全国的な認知を獲得している。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "AZ Family",
+      "url": "https://www.azfamily.com",
+      "tags": [
+        "外科手術ロボット",
+        "医療",
+        "ヘルスケア",
+        "ロボティクスのアクセス"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    }
+  ]
+}

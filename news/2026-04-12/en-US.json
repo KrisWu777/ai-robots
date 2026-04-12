@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-12",
+  "featured": {
+    "id": "featured-20260412",
+    "title": "Unitree R1 Humanoid Robot Hits AliExpress for Under $5,000",
+    "summary": "Unitree's R1 humanoid robot is now available globally via AliExpress and Alibaba, priced starting at roughly $4,000 — making it the world's cheapest commercially available humanoid robot. The move marks a watershed moment in embodied AI accessibility, opening the door for researchers, developers, and hobbyists who previously faced six-figure price tags. TrendForce estimates China's humanoid robot output will surge 94% in 2026, with Unitree and AgiBot expected to capture nearly 80% of global market share, signaling a dramatic shift in the competitive landscape.",
+    "image": "https://itritech.itri.org.tw/wp-content/uploads/2025/01/206678013_l.jpg",
+    "source": "Interesting Engineering",
+    "url": "https://interestingengineering.com",
+    "tags": [
+      "Unitree",
+      "Humanoid",
+      "Consumer Robotics",
+      "China"
+    ],
+    "timestamp": "2026-04-09T00:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260412-01",
+      "title": "UniX AI Panther: First Service Humanoid Deployed in Real Homes",
+      "summary": "UniX AI has unveiled Panther, a wheeled dual-arm humanoid robot that the company claims is the world's first mass-produced service humanoid to enter real household deployment. Unlike legged humanoids still in lab settings, Panther's wheeled base enables stable navigation in domestic environments while its dual-arm architecture handles manipulation tasks. The milestone represents a leap from controlled demos to actual consumer-facing deployment.",
+      "image": "https://n.sinaimg.cn/spider20240617/401/w713h488/20240617/dfe8-68ffaf2726a2fba6217f90dab153b87e.jpg",
+      "source": "Robotics Tomorrow",
+      "url": "https://www.roboticstomorrow.com",
+      "tags": [
+        "Humanoid",
+        "Home Robotics",
+        "UniX AI",
+        "Service Robots"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-02",
+      "title": "Kia to Deploy Boston Dynamics Atlas Humanoid Robots in U.S. Plants",
+      "summary": "Kia has announced plans to deploy Boston Dynamics Atlas humanoid robots across its U.S. manufacturing plants, making it one of the first major automakers to commit to large-scale humanoid integration on the factory floor. The partnership signals that industrial use cases are maturing faster than consumer applications, with automakers increasingly turning to humanoids to address labor shortages and handle complex assembly tasks that traditional fixed-arm robots struggle with.",
+      "image": "https://pixabay.com/zh/images/download/tommyvideo-ai-generated-8496132_1920.jpg",
+      "source": "Businesskorea",
+      "url": "https://www.businesskorea.co.kr",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "Manufacturing",
+        "Kia"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-03",
+      "title": "Electrofluidic Fiber Muscles Could Enable Silent Robotic Systems",
+      "summary": "Researchers have developed electrofluidic fiber muscles — a new class of soft actuator inspired by biological muscle — that generate controlled force without the noise and vibration of traditional motors. The fibers work by manipulating fluid pressure within microscale channels via electric fields, enabling silent actuation suitable for prosthetics, medical robots, and social robots operating in human environments. The breakthrough could open new design possibilities for robots that need to operate quietly alongside people.",
+      "image": "https://i0.wp.com/blog.growin.tv/wp-content/uploads/2025/09/ai-robot-analyzing-stock-market-charts-multiple-screens-showcasing-futuristic-technology-data-driven-trading-insights-369180933.webp?w=800&ssl=1",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html",
+      "tags": [
+        "Soft Robotics",
+        "Actuators",
+        "Research",
+        "Prosthetics"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-04",
+      "title": "China's Humanoid Robot Output to Surge 94% in 2026",
+      "summary": "TrendForce forecasts China's humanoid robot production will surge 94% in 2026, with Unitree and AgiBot together expected to capture nearly 80% of global humanoid market share. The report highlights aggressive government support, deep supply chain integration, and rapidly falling component costs as key drivers. This production ramp-up positions China to dominate the nascent humanoid robotics industry just as global demand is beginning to take off.",
+      "image": "https://ecfeda1c.rocketcdn.me/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2025/02/ki-system-robotik-Xpert.Digital-169-png.png.webp",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com",
+      "tags": [
+        "China",
+        "Humanoid",
+        "Market Analysis",
+        "Unitree"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-05",
+      "title": "Generalist AI Unveils GEN-1 Model for Real-World Robotic Tasks",
+      "summary": "Generalist AI has introduced GEN-1, a new foundation model designed specifically for physical AI tasks in unstructured real-world environments. The company claims GEN-1 represents a significant step toward general-purpose robotic intelligence, capable of adapting to novel tasks without extensive per-task training. The model is built as an open platform designed to integrate across multiple robot hardware platforms, potentially accelerating deployment in warehouses, hospitals, and field environments.",
+      "image": "https://pixnio.com/free-images/2025/07/09/2025-07-09-04-30-59-1920x1493.jpeg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/generalist-ai-unveils-gen-1-model-claiming-breakthrough-in-real-world-robotic-task-performance/100516/",
+      "tags": [
+        "Foundation Models",
+        "Embodied AI",
+        "Physical AI",
+        "Research"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-06",
+      "title": "Tennant Unveils X16 Sweep: Autonomous Robotic Industrial Sweeper",
+      "summary": "Tennant Company has launched the X16 Sweep, its first fully autonomous robotic sweeper engineered for complex industrial environments including warehouses and logistics centers. The machine is designed for round-the-clock unsupervised operation, using onboard sensing to navigate dynamic spaces. The X16 targets the growing demand for lights-out facility management as operators seek to reduce labor costs and maintain cleanliness standards across large footprints.",
+      "image": "https://img.technews.tw/wp-content/uploads/2025/02/26155614/Figure-AI-Helix-768x400.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/tennant-unveils-new-industrial-sweeping-machine-for-autonomous-round-the-clock-work/100492/",
+      "tags": [
+        "Autonomous",
+        "Industrial Robots",
+        "Warehouse",
+        "Tennant"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-07",
+      "title": "U.S. Army Tests Robotic Kitchen That Cooks for Soldiers Downrange",
+      "summary": "The U.S. Army is piloting an autonomous robotic kitchen system capable of preparing hot meals for soldiers in forward-deployed environments. The system aims to reduce the logistical burden of field feeding operations and free personnel from non-combat duties. If successful, the technology could reshape military field support operations, with potential civilian applications in disaster relief and remote industrial sites.",
+      "image": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/05/IMG_3830.jpg",
+      "source": "Task & Purpose",
+      "url": "https://taskandpurpose.com",
+      "tags": [
+        "Military Robots",
+        "Autonomous",
+        "Defense",
+        "Field Robotics"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-08",
+      "title": "Hai Robotics Opens EMEA Innovation Center in the Netherlands",
+      "summary": "Hai Robotics has officially inaugurated its EMEA Innovation Center in Hoofddorp, Netherlands, strengthening its foothold in the European warehouse automation market. The center will serve as a hub for demonstrating flexible autonomous storage and retrieval systems and supporting regional customers with integration and customization. The move reflects growing European demand for scalable warehouse robotics as e-commerce and labor costs continue to rise.",
+      "image": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/05/IMG_3818.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/hai-robotics-opens-emea-innovation-center-in-the-netherlands/100520/",
+      "tags": [
+        "Warehouse Robotics",
+        "Hai Robotics",
+        "Europe",
+        "Logistics"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-09",
+      "title": "Plus One Robotics Crosses 2 Billion Picks in Warehouse Automation",
+      "summary": "Plus One Robotics has surpassed 2 billion robotic picks, a milestone that underscores how rapidly AI-driven warehouse automation is scaling under persistent labor market pressures. The company's vision-guided robotic picking systems are deployed across major fulfillment operations, and the milestone reflects both reliability gains and growing customer adoption. The figure highlights how parcel and e-commerce logistics are becoming an early proving ground for production-grade robotic AI.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Warehouse Robotics",
+        "Logistics",
+        "Automation",
+        "Milestones"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-10",
+      "title": "Zhiyuan Robotics Releases GO-2 Embodied Foundation Model",
+      "summary": "Chinese robotics company Zhiyuan Robotics has released GO-2, a new embodied foundation model designed to give robots general-purpose reasoning and manipulation capabilities. The model is trained on large-scale real-world interaction data and aims to generalize across diverse robot morphologies. GO-2 is positioned to compete with similar efforts from Physical Intelligence and DeepMind, signaling that the race for a universal robot brain is intensifying globally.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "Foundation Models",
+        "Embodied AI",
+        "China",
+        "Zhiyuan Robotics"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-11",
+      "title": "Dextall's Robotic Welding Achieves 3x Speed for Facade Manufacturing",
+      "summary": "Construction technology firm Dextall has deployed robotic welding systems that operate at three times the speed of human welders for industrial-scale facade panel manufacturing. The system uses real-time sensing and adaptive path planning to weld complex architectural components with consistent quality. The approach demonstrates how robotics is unlocking new manufacturing-at-scale models for construction, a sector traditionally resistant to automation.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Industrial Robots",
+        "Construction",
+        "Welding",
+        "Manufacturing"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-12",
+      "title": "SCSP Launches National Security Commission on Robotics for Manufacturing",
+      "summary": "The Special Competitive Studies Project (SCSP) has launched a National Security Commission on Robotics for Advanced Manufacturing, tasked with developing a policy framework to accelerate U.S. robotic manufacturing capabilities. The commission reflects growing concern in Washington about China's rapid robotics production ramp-up and its implications for industrial competitiveness and defense supply chains. The initiative is expected to produce recommendations on domestic robot production incentives and workforce development.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Policy",
+        "National Security",
+        "Manufacturing",
+        "US Robotics"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-13",
+      "title": "Robotic Birds Land in Grand Teton to Help Save Vanishing Grouse",
+      "summary": "Conservationists have deployed robotic sage-grouse decoys in Grand Teton National Park to help revive dwindling wild populations by mimicking mating displays. The robots attract real birds to suitable habitat areas and are used in conjunction with habitat restoration efforts. The novel application showcases how robotics is expanding beyond industry into ecological conservation, with potential applications for other threatened species that rely on social behavior for breeding.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "SFGATE / Interesting Engineering",
+      "url": "https://www.sfgate.com",
+      "tags": [
+        "Conservation",
+        "Bio-inspired Robots",
+        "Wildlife",
+        "Research"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-14",
+      "title": "Schaeffler Partners with ROKAE to Industrialize Humanoid Robots in China",
+      "summary": "German industrial supplier Schaeffler has entered a strategic partnership with Chinese robotics firm ROKAE to jointly develop and scale humanoid robot components and systems for industrial deployment. Schaeffler brings precision actuator and bearing expertise while ROKAE contributes robot architecture and control systems. The collaboration reflects a broader trend of established industrial manufacturers embedding themselves in the humanoid supply chain ahead of anticipated volume production.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "Humanoid",
+        "Supply Chain",
+        "Schaeffler",
+        "China"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-15",
+      "title": "Tesla Pivots to Robotics and Robotaxis as Car Sales Soften",
+      "summary": "Tesla is accelerating its focus on the Optimus humanoid robot program and autonomous robotaxi fleet as vehicle delivery figures signal headwinds in its core auto business. CEO Elon Musk has framed Optimus as a potential multi-trillion-dollar opportunity and the company's most important long-term product. The strategic pivot positions Tesla to compete on multiple fronts simultaneously — though analysts remain divided on whether Optimus can meet its ambitious production timelines.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Humanoid",
+        "Autonomous Vehicles"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-16",
+      "title": "SVT Robotics Launches 'Softbot Intelligence' for Real-Time Automation Data",
+      "summary": "SVT Robotics has launched Softbot Intelligence, a new data platform that aggregates real-time performance metrics from across robotic automation deployments to power AI-driven optimization. The platform is designed to address a persistent gap in warehouse automation: robots that operate in silos without feeding operational insight back to enterprise systems. By creating a unified data layer, SVT aims to help operators identify inefficiencies and adapt automation strategies dynamically.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/svt-robotics-launches-softbot-intelligence-to-power-ai-with-real-time-automation-data/100488/",
+      "tags": [
+        "Warehouse Robotics",
+        "AI",
+        "Data Platform",
+        "Automation"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-17",
+      "title": "Humanoid Robot Rallies with Chinese Table Tennis Legend at Event",
+      "summary": "A humanoid robot demonstrated real-time table tennis capabilities by rallying with Chinese sports legend at a public event, showcasing advances in high-speed visual tracking and rapid dexterous manipulation. The demonstration, broadcast on CGTN, highlighted how humanoid robots are being used as high-profile showcase applications in China's push to demonstrate real-world robotic dexterity. Such demos serve both as genuine research milestones and as public diplomacy for China's robotics industry.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com",
+      "tags": [
+        "Humanoid",
+        "Dexterity",
+        "China",
+        "Demo"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-18",
+      "title": "Exol Launches U.S. Robotic Fulfillment Network as Fulfillment-as-a-Service",
+      "summary": "Exol (formerly GreenBox Logistics) has launched its first U.S. physical AI fulfillment facilities operating on a fulfillment-as-a-service model, allowing e-commerce brands to access large-scale robotic logistics without capital investment in their own infrastructure. The model mirrors the cloud computing shift — where companies outsource compute rather than building data centers — applied to physical logistics. Exol aims to democratize access to cutting-edge warehouse automation for mid-market retailers.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/09/exol-launches-us-robotic-fulfillment-network-with-fulfillment-as-a-service-model/100462/",
+      "tags": [
+        "Logistics",
+        "Warehouse Robotics",
+        "Business Model",
+        "Physical AI"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-19",
+      "title": "MIT CSAIL Offers a Different View on the Future of Robotics",
+      "summary": "Researchers at MIT's Computer Science and Artificial Intelligence Laboratory have published a perspective piece challenging some prevailing assumptions about the near-term trajectory of robotics. Rather than focusing on humanoid general-purpose robots, MIT CSAIL argues for more targeted, task-specific systems that can be deployed reliably today, with generalization emerging gradually through better learning algorithms rather than hardware mimicry of humans. The piece has sparked debate within the automation community about where investment and research focus should be directed.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "A3 Automate",
+      "url": "https://www.automate.org",
+      "tags": [
+        "Research",
+        "MIT",
+        "Embodied AI",
+        "Industry Perspectives"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-20",
+      "title": "Onvida Health's Robotic Surgery Program in Yuma Draws National Attention",
+      "summary": "Onvida Health in Yuma, Arizona has attracted national recognition for its robotic surgery program, which has brought advanced minimally invasive procedures previously unavailable in the region. The program uses the latest surgical robotic platforms to perform complex operations with smaller incisions, faster recovery times, and reduced complications. The story reflects a broader trend of robotic surgery expanding beyond major urban medical centers into regional and community hospital settings.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "AZ Family",
+      "url": "https://www.azfamily.com",
+      "tags": [
+        "Surgical Robots",
+        "Medical",
+        "Healthcare",
+        "Robotics Access"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    }
+  ]
+}

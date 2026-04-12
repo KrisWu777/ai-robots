@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-12",
+  "featured": {
+    "id": "featured-20260412",
+    "title": "Le Robot Humanoïde Unitree R1 Disponible sur AliExpress pour Moins de 5 000 $",
+    "summary": "Le robot humanoïde R1 d'Unitree est désormais disponible dans le monde entier via AliExpress et Alibaba, à partir d'environ 4 000 dollars, en faisant le robot humanoïde commercial le moins cher au monde. Cette évolution marque un tournant décisif dans l'accessibilité de l'IA incarnée, ouvrant la voie aux chercheurs, développeurs et passionnés. TrendForce estime que la production chinoise de robots humanoïdes augmentera de 94 % en 2026, Unitree et AgiBot captant près de 80 % des parts du marché mondial.",
+    "image": "https://itritech.itri.org.tw/wp-content/uploads/2025/01/206678013_l.jpg",
+    "source": "Interesting Engineering",
+    "url": "https://interestingengineering.com",
+    "tags": [
+      "Unitree",
+      "Humanoïde",
+      "Robotique Grand Public",
+      "Chine"
+    ],
+    "timestamp": "2026-04-09T00:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260412-01",
+      "title": "UniX AI Panther : Premier Robot Humanoïde de Service Déployé dans de Vrais Foyers",
+      "summary": "UniX AI a dévoilé Panther, un robot humanoïde à roues et double bras que l'entreprise affirme être le premier humanoïde de service produit en masse et déployé dans de vrais foyers. Contrairement aux humanoïdes à pattes encore en laboratoire, la base à roues de Panther permet une navigation stable dans les environnements domestiques.",
+      "image": "https://n.sinaimg.cn/spider20240617/401/w713h488/20240617/dfe8-68ffaf2726a2fba6217f90dab153b87e.jpg",
+      "source": "Robotics Tomorrow",
+      "url": "https://www.roboticstomorrow.com",
+      "tags": [
+        "Humanoïde",
+        "Robotique Domestique",
+        "UniX AI",
+        "Robots de Service"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-02",
+      "title": "Kia Déploiera des Robots Atlas de Boston Dynamics dans ses Usines Américaines",
+      "summary": "Kia a annoncé son intention de déployer des robots humanoïdes Atlas de Boston Dynamics dans ses usines de fabrication aux États-Unis, devenant l'un des premiers grands constructeurs automobiles à s'engager dans une intégration à grande échelle des humanoïdes sur la chaîne de production.",
+      "image": "https://pixabay.com/zh/images/download/tommyvideo-ai-generated-8496132_1920.jpg",
+      "source": "Businesskorea",
+      "url": "https://www.businesskorea.co.kr",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "Fabrication",
+        "Kia"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-03",
+      "title": "Des Muscles Électrofluidiques en Fibre pour des Robots Silencieux",
+      "summary": "Des chercheurs ont mis au point des muscles en fibre électrofluidique — un nouveau type d'actionneur souple générant une force contrôlée sans bruit ni vibration. Ces fibres manipulent la pression d'un fluide dans des microcanaux via des champs électriques, permettant une actuation silencieuse pour les prothèses et les robots sociaux.",
+      "image": "https://i0.wp.com/blog.growin.tv/wp-content/uploads/2025/09/ai-robot-analyzing-stock-market-charts-multiple-screens-showcasing-futuristic-technology-data-driven-trading-insights-369180933.webp?w=800&ssl=1",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-electrofluidic-fiber-muscles-enable-silent.html",
+      "tags": [
+        "Robotique Souple",
+        "Actionneurs",
+        "Recherche",
+        "Prothèses"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-04",
+      "title": "La Production Chinoise de Robots Humanoïdes Augmentera de 94 % en 2026",
+      "summary": "TrendForce prévoit une hausse de 94 % de la production chinoise de robots humanoïdes en 2026, Unitree et AgiBot devant capter près de 80 % des parts du marché mondial. Le rapport cite un fort soutien gouvernemental, une intégration profonde de la chaîne d'approvisionnement et une chute rapide des coûts des composants.",
+      "image": "https://ecfeda1c.rocketcdn.me/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2025/02/ki-system-robotik-Xpert.Digital-169-png.png.webp",
+      "source": "TrendForce",
+      "url": "https://www.trendforce.com",
+      "tags": [
+        "Chine",
+        "Humanoïde",
+        "Analyse de Marché",
+        "Unitree"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-05",
+      "title": "Generalist AI Présente le Modèle GEN-1 pour la Robotique dans le Monde Réel",
+      "summary": "Generalist AI a introduit GEN-1, un modèle de fondation conçu pour les tâches d'IA physique dans des environnements non structurés, capable de s'adapter à de nouvelles tâches sans entraînement extensif et conçu comme plateforme ouverte compatible avec plusieurs architectures robotiques.",
+      "image": "https://pixnio.com/free-images/2025/07/09/2025-07-09-04-30-59-1920x1493.jpeg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/generalist-ai-unveils-gen-1-model-claiming-breakthrough-in-real-world-robotic-task-performance/100516/",
+      "tags": [
+        "Modèles de Fondation",
+        "IA Incarnée",
+        "IA Physique",
+        "Recherche"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-06",
+      "title": "Tennant Dévoile la Balayeuse Industrielle Autonome X16 Sweep",
+      "summary": "Tennant Company a lancé la X16 Sweep, sa première balayeuse robotique autonome pour environnements industriels complexes. La machine navigue de façon autonome dans des espaces dynamiques et est conçue pour fonctionner 24h/24 sans surveillance.",
+      "image": "https://img.technews.tw/wp-content/uploads/2025/02/26155614/Figure-AI-Helix-768x400.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/tennant-unveils-new-industrial-sweeping-machine-for-autonomous-round-the-clock-work/100492/",
+      "tags": [
+        "Autonome",
+        "Robots Industriels",
+        "Entrepôt",
+        "Tennant"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-07",
+      "title": "L'Armée Américaine Teste une Cuisine Robotisée pour les Soldats",
+      "summary": "L'armée américaine expérimente un système de cuisine robotique autonome capable de préparer des repas chauds pour les soldats déployés en avant-poste. Le système vise à réduire la charge logistique et à libérer du personnel pour les missions de combat.",
+      "image": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/05/IMG_3830.jpg",
+      "source": "Task & Purpose",
+      "url": "https://taskandpurpose.com",
+      "tags": [
+        "Robots Militaires",
+        "Autonome",
+        "Défense",
+        "Robotique de Terrain"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-08",
+      "title": "Hai Robotics Inaugure son Centre d'Innovation EMEA aux Pays-Bas",
+      "summary": "Hai Robotics a officiellement inauguré son Centre d'Innovation EMEA à Hoofddorp, renforçant sa présence sur le marché européen de l'automatisation d'entrepôts. Le centre servira de vitrine pour les systèmes flexibles de stockage et récupération autonomes.",
+      "image": "https://cn.technode.com/wp-content/blogs.dir/18/files/2025/05/IMG_3818.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/hai-robotics-opens-emea-innovation-center-in-the-netherlands/100520/",
+      "tags": [
+        "Robotique d'Entrepôt",
+        "Hai Robotics",
+        "Europe",
+        "Logistique"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-09",
+      "title": "Plus One Robotics Franchit le Cap des 2 Milliards de Prises en Entrepôt",
+      "summary": "Plus One Robotics a dépassé 2 milliards de prises robotiques, un jalon illustrant l'essor rapide de l'automatisation d'entrepôts dopée par l'IA face aux tensions persistantes du marché du travail.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Robotique d'Entrepôt",
+        "Logistique",
+        "Automatisation",
+        "Jalons"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-10",
+      "title": "Zhiyuan Robotics Lance le Modèle de Fondation Incarné GO-2",
+      "summary": "La société chinoise Zhiyuan Robotics a lancé GO-2, un modèle de fondation incarné pour doter les robots de capacités générales de raisonnement et de manipulation, en compétition avec Physical Intelligence et DeepMind.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "Modèles de Fondation",
+        "IA Incarnée",
+        "Chine",
+        "Zhiyuan Robotics"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-11",
+      "title": "La Soudure Robotique de Dextall Atteint 3x la Vitesse Humaine pour les Façades",
+      "summary": "Dextall a déployé des systèmes de soudure robotique opérant à trois fois la vitesse des soudeurs humains pour la fabrication à l'échelle industrielle de panneaux de façade, grâce à la détection en temps réel et la planification adaptative de trajectoires.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Robots Industriels",
+        "Construction",
+        "Soudure",
+        "Fabrication"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-12",
+      "title": "Le SCSP Lance une Commission de Sécurité Nationale sur la Robotique",
+      "summary": "Le Special Competitive Studies Project a lancé une Commission de Sécurité Nationale sur la Robotique pour la Fabrication Avancée, chargée de développer un cadre politique pour accélérer les capacités robotiques américaines face à la montée en puissance de la Chine.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Politique",
+        "Sécurité Nationale",
+        "Fabrication",
+        "Robotique US"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-13",
+      "title": "Des Oiseaux Robotiques au Grand Teton pour Sauver le Tétras en Danger",
+      "summary": "Des défenseurs de l'environnement ont déployé des leurres robotiques de tétras des armoises dans le parc national du Grand Teton pour aider à revitaliser des populations sauvages en déclin en imitant leurs parades nuptiales.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "SFGATE / Interesting Engineering",
+      "url": "https://www.sfgate.com",
+      "tags": [
+        "Conservation",
+        "Robots Bio-inspirés",
+        "Faune Sauvage",
+        "Recherche"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-14",
+      "title": "Schaeffler s'Associe à ROKAE pour Industrialiser les Robots Humanoïdes en Chine",
+      "summary": "Le fournisseur industriel allemand Schaeffler a conclu un partenariat stratégique avec la société de robotique chinoise ROKAE pour co-développer et mettre à l'échelle des composants et systèmes de robots humanoïdes destinés au déploiement industriel.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "Humanoïde",
+        "Chaîne d'Approvisionnement",
+        "Schaeffler",
+        "Chine"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-15",
+      "title": "Tesla Pivote vers la Robotique et les Robotaxis Face au Recul des Ventes Auto",
+      "summary": "Tesla accélère son programme de robot humanoïde Optimus et sa flotte de taxis autonomes alors que les livraisons de véhicules signalent des difficultés dans son activité automobile principale. Elon Musk positionne Optimus comme une opportunité de plusieurs milliers de milliards de dollars.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Humanoïde",
+        "Véhicules Autonomes"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-16",
+      "title": "SVT Robotics Lance 'Softbot Intelligence' pour les Données d'Automatisation",
+      "summary": "SVT Robotics a lancé Softbot Intelligence, une plateforme de données agrégant les métriques de performance en temps réel des déploiements d'automatisation robotique pour alimenter l'optimisation par IA et combler les silos opérationnels.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/svt-robotics-launches-softbot-intelligence-to-power-ai-with-real-time-automation-data/100488/",
+      "tags": [
+        "Robotique d'Entrepôt",
+        "IA",
+        "Plateforme de Données",
+        "Automatisation"
+      ],
+      "timestamp": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-17",
+      "title": "Un Robot Humanoïde Joue au Ping-Pong avec une Légende Chinoise",
+      "summary": "Un robot humanoïde a démontré ses capacités de tennis de table en temps réel face à une légende sportive chinoise lors d'un événement public, illustrant les progrès en suivi visuel haute vitesse et manipulation rapide.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com",
+      "tags": [
+        "Humanoïde",
+        "Dextérité",
+        "Chine",
+        "Démonstration"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-18",
+      "title": "Exol Lance un Réseau de Fulfillment Robotique aux États-Unis en Mode Service",
+      "summary": "Exol a lancé ses premières installations de fulfillment en IA physique aux États-Unis selon un modèle fulfillment-as-a-service, permettant aux marques e-commerce d'accéder à une logistique robotique à grande échelle sans investissement en capital.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/09/exol-launches-us-robotic-fulfillment-network-with-fulfillment-as-a-service-model/100462/",
+      "tags": [
+        "Logistique",
+        "Robotique d'Entrepôt",
+        "Modèle Commercial",
+        "IA Physique"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-19",
+      "title": "Le MIT CSAIL Offre une Vision Alternative du Futur de la Robotique",
+      "summary": "Des chercheurs du MIT CSAIL remettent en question les hypothèses dominantes sur la trajectoire à court terme de la robotique, préconisant des systèmes ciblés spécifiques aux tâches plutôt que des humanoïdes polyvalents.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "A3 Automate",
+      "url": "https://www.automate.org",
+      "tags": [
+        "Recherche",
+        "MIT",
+        "IA Incarnée",
+        "Perspectives Sectorielles"
+      ],
+      "timestamp": "2026-04-09T00:00:00Z"
+    },
+    {
+      "id": "art-20260412-20",
+      "title": "Le Programme de Chirurgie Robotique d'Onvida Health à Yuma Attire l'Attention Nationale",
+      "summary": "Onvida Health à Yuma, Arizona a obtenu une reconnaissance nationale pour son programme de chirurgie robotique, apportant des procédures mini-invasives avancées à une région qui en était auparavant privée.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "AZ Family",
+      "url": "https://www.azfamily.com",
+      "tags": [
+        "Robots Chirurgicaux",
+        "Médical",
+        "Santé",
+        "Accès à la Robotique"
+      ],
+      "timestamp": "2026-04-11T00:00:00Z"
+    }
+  ]
+}
