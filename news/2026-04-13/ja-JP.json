@@ -1,0 +1,299 @@
+{
+  "date": "2026-04-13",
+  "featured": {
+    "id": "featured-20260413",
+    "title": "北京ヒューマノイドロボット・ハーフマラソン：21台が歴史的レース前の夜間テストを完走",
+    "summary": "北京E-Town地区は世界初のヒューマノイドロボット・ハーフマラソンの大規模な夜間テストを完了し、中国トップメーカー21台の二足歩行ロボットが公式コース21.0975kmのタイムトライアルを走破した。4月19日に開催予定の本大会には、Unitree、傅利葉インテリジェンスほか十数社のロボットが出場し、次世代移動AIの総合ストレステストと位置付けられている。",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "CGTN / Xinhua",
+    "url": "https://news.cgtn.com",
+    "tags": [
+      "ヒューマノイド",
+      "中国",
+      "ハーフマラソン"
+    ],
+    "timestamp": "2026-04-13T06:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260413-01",
+      "title": "Unitree R1、スプリント10m/sを達成——人間の限界に接近",
+      "summary": "Unitree Roboticsが公開した新ベンチマークデータによると、ヒューマノイドロボットR1は制御されたスプリント試験で毎秒10メートルを記録し、エリート短距離選手の上限約12m/sに迫った。この成果は旧G1プラットフォームを基盤とし、リアルタイム姿勢制御と脚アクチュエータのトルク密度における進歩を示している。Unitreeは今週からAliExpressでR1を5,000ドル以下でグローバル販売すると発表した。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "AASTOCKS / eWeek",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Unitree",
+        "ヒューマノイド",
+        "速度"
+      ],
+      "timestamp": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-02",
+      "title": "1X Technologies、Neoヒューマノイド1万台の大型展開契約を締結",
+      "summary": "ノルウェーのヒューマノイドスタートアップ1X Technologiesは、Neo ヒューマノイドロボット1万台を物流・製造・サービス分野に展開する画期的な商業契約を締結した。これはヒューマノイドプラットフォームとして過去最大のフリート契約であり、企業が二足歩行ロボットの実世界ワークフローへの活用に自信を深めていることを示している。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "1X Technologies",
+        "Neo",
+        "展開"
+      ],
+      "timestamp": "2026-04-12T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-03",
+      "title": "UniX AI Panther、量産ヒューマノイドとして初めて実際の家庭に導入",
+      "summary": "UniX AIは、自社開発マルチモーダルモデルUniX-LMを搭載したヒューマノイドロボットPantherが中国の一般家庭への実導入を開始したと発表し、二足歩行ロボットの量産家庭用展開として初めて検証されたケースだと主張している。Pantherは料理・洗濯物の折りたたみ・高齢者ケアを応答遅延100ミリ秒未満で行える。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "Robotics Tomorrow / Business Insider",
+      "url": "https://www.roboticstomorrow.com",
+      "tags": [
+        "UniX AI",
+        "Panther",
+        "家庭用ロボット"
+      ],
+      "timestamp": "2026-04-11T09:30:00Z"
+    },
+    {
+      "id": "art-20260413-04",
+      "title": "サムスン、毎秒17回の意思決定が可能なヒューマノイド脳技術を取得",
+      "summary": "サムスン電子は、ヒューマノイドロボットがリアルタイムで毎秒最大17回の物理的意思決定を行えるニューラル推論チップアーキテクチャの主要IPを取得した。これは既存の組み込みコントローラ比約3倍の改善にあたる。韓国AIスタートアップから取得した技術は、今年後半に発表予定のサムスン次世代ヒューマノイドプラットフォームを狙ったものだ。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com",
+      "tags": [
+        "サムスン",
+        "ヒューマノイド",
+        "AIチップ"
+      ],
+      "timestamp": "2026-04-12T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-05",
+      "title": "Generalist AI、GEN-1を発表——実世界のロボットタスクで突破口と主張",
+      "summary": "スタートアップGeneralist AIは、タスク固有のファインチューニングなしに言語とビデオ入力のみでRoboSuiteベンチマーク42タスク中38タスクで最先端性能を達成すると主張するロボット操作用基盤モデルGEN-1を発表した。GEN-1は物理動作をシーケンスとして表現する新たな時空間トークナイザを採用し、未見環境へのゼロショット汎化を実現する。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/generalist-ai-unveils-gen-1-model-claiming-breakthrough-in-real-world-robotic-task-performance",
+      "tags": [
+        "Generalist AI",
+        "基盤モデル",
+        "GEN-1"
+      ],
+      "timestamp": "2026-04-11T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-06",
+      "title": "ヒューマノイドロボット、4月19日の北京ハーフマラソンへ出走準備完了",
+      "summary": "2026年4月19日に北京E-Townで開催される世界初の二足歩行ロボット競技耐久レース「第1回ロボットハーフマラソン」に20チーム以上の参加が確定した。CNNと環球時報によると、Unitree G1・傅利葉GR-2など複数の大学チームも参加する。レースは速さだけでなく、騒音・変動照明・不整地での無人ナビゲーション耐性も試される。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "CNN / Global Times",
+      "url": "https://edition.cnn.com",
+      "tags": [
+        "ヒューマノイド",
+        "ハーフマラソン",
+        "北京"
+      ],
+      "timestamp": "2026-04-12T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-07",
+      "title": "中国のヒューマノイドロボット生産、2025年に94%増へ——量産フェーズに突入",
+      "summary": "新たな業界データによると、UBTECH・Unitree・傅利葉インテリジェンスなど中国メーカーの工場出荷台数が年間10万台を超え、前年比94%増が見込まれる。この急増は政府補助金・アクチュエータコスト低下・自動車・電子部品の組み立てラインからの企業注文急増によって牽引されている。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Gizchina",
+      "url": "https://www.gizchina.com",
+      "tags": [
+        "中国",
+        "ヒューマノイド",
+        "製造"
+      ],
+      "timestamp": "2026-04-11T06:00:00Z"
+    },
+    {
+      "id": "art-20260413-08",
+      "title": "ビンガムトン大学、歩いて話すロボット盲導犬を開発",
+      "summary": "ビンガムトン大学のエンジニアが、大規模言語モデルインターフェースを搭載した四足ロボット盲導犬を開発した。Unitree Go2改造プラットフォームをベースに、LiDAR障害物検知とリアルタイムシーン実況を組み合わせ、口頭の質問にも応答しながらナビゲートする。視覚障害者12名を対象とした野外試験で、タスク完了率91%を記録した。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "盲導犬",
+        "四足歩行",
+        "アクセシビリティ"
+      ],
+      "timestamp": "2026-04-12T03:00:00Z"
+    },
+    {
+      "id": "art-20260413-09",
+      "title": "Tennant、X16 Sweep発売——24時間稼働対応の初の自律型産業掃除ロボット",
+      "summary": "Tennantが発売したX16 Sweepは、倉庫・工場・空港などの大規模産業施設向けに設計した重負荷自律ロボット掃除機で、無人での継続稼働が可能だ。ステレオカメラと超音波センサアレイによるリアルタイム経路計画を採用し、1回の充電で最大55,000m²を清掃できる。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/tennant-unveils-new-industrial-sweeping-machine-for-autonomous-round-the-clock-work",
+      "tags": [
+        "Tennant",
+        "自律型",
+        "倉庫"
+      ],
+      "timestamp": "2026-04-10T10:00:00Z"
+    },
+    {
+      "id": "art-20260413-10",
+      "title": "Honor、MWC上海向けヒューマノイドロボットを発表——コンシューマロボット市場に参入",
+      "summary": "中国スマートフォン大手Honorが、Mobile World Congress上海での展示を予定するヒューマノイドロボットを発表し、エンボディードAI市場に参入する最新の家電ブランドとなった。身長約1.65mのロボットにはHonorのMagicOS AIプラットフォームが搭載され、音声対話・物体操作・自律ナビゲーションが可能だ。",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Mashable",
+      "url": "https://mashable.com",
+      "tags": [
+        "Honor",
+        "ヒューマノイド",
+        "コンシューマ"
+      ],
+      "timestamp": "2026-04-12T02:00:00Z"
+    },
+    {
+      "id": "art-20260413-11",
+      "title": "Hai Robotics、オランダにEMEAイノベーションセンターを開設——欧州倉庫自動化に注力",
+      "summary": "Hai Roboticsがオランダのホーフドルプに欧州メダルイノベーションセンターを正式開設し、欧州市場への最大のコミットメントを示した。センターはHaiのACRシステムのR&D・顧客統合・アフターサービスの地域拠点となる。オランダ施設ではAI駆動のスロット最適化モジュールもパイロット運用し、ピッキングパス距離の最大30%削減を目指す。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/hai-robotics-opens-emea-innovation-center-in-the-netherlands",
+      "tags": [
+        "Hai Robotics",
+        "倉庫",
+        "欧州"
+      ],
+      "timestamp": "2026-04-11T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-12",
+      "title": "SPEAR-1：50ms制御ループを実現したオープンソースロボットコントローラ",
+      "summary": "産業用ロボットアームとコボット向けに設計された新しいオープンソース組み込みコントローラSPEAR-1が発表された。汎用ARMハードウェア上でエンドツーエンド50msの制御ループを実現し、ROS 2・MoveIt 2・EtherCAT/PROFINETなど主要フィールドバスプロトコルとのプリビルト統合を提供する。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "オープンソース",
+        "ROS2",
+        "コントローラ"
+      ],
+      "timestamp": "2026-04-12T01:00:00Z"
+    },
+    {
+      "id": "art-20260413-13",
+      "title": "SVT Robotics、Softbot Intelligenceを発表——AIモデルへのリアルタイム自動化データ供給を実現",
+      "summary": "SVT RoboticsがSoftbot Intelligenceを公開した。倉庫自動化システム（AMR・コンベアネットワーク・仕分け設備）のリアルタイムテレメトリを集約し、企業AIモデルにストリーミングするデータ取得・正規化プラットフォームだ。同社は早期採用企業が90日以内に計画外ダウンタイムを22%削減したと述べている。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/svt-robotics-launches-softbot-intelligence-to-power-ai-with-real-time-automation-data",
+      "tags": [
+        "SVT Robotics",
+        "自動化",
+        "AIデータ"
+      ],
+      "timestamp": "2026-04-10T09:00:00Z"
+    },
+    {
+      "id": "art-20260413-14",
+      "title": "テスラ、FSD論争の中でOptimus量産ロードマップを公表",
+      "summary": "テスラCEOイーロン・マスクが投資家向けイベントでOptimus ヒューマノイドロボットの生産目標を明示：2026年末までに10万台、2027年までに年間100万台。テスラはFSDからのクロスプラットフォーム転移学習がロボット専用トレーニングデータ比でOptimusの器用さ改善を40%加速していると主張した。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "テスラ",
+        "Optimus",
+        "量産"
+      ],
+      "timestamp": "2026-04-12T00:00:00Z"
+    },
+    {
+      "id": "art-20260413-15",
+      "title": "ロボット鳥がライチョウの求愛行動を模倣し、絶滅危惧種の保護に貢献",
+      "summary": "スコットランドの辺鄙な荒野に実物大の電動ライチョウ模型が投入され、求愛ディスプレイを演じて野鳥を保護繁殖区に誘引する、新しい自然保護戦略が「Interesting Engineering」に報告された。ロボットはクロライチョウの求愛レックの全レパートリーを再現し、観察された野生のメスの87%が本物のオスと同様の反応を示した。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "自然保護",
+        "バイオロボット",
+        "野生動物"
+      ],
+      "timestamp": "2026-04-11T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-16",
+      "title": "米陸軍、前線部隊向けに熱食を提供するロボット野戦炊事車をテスト中",
+      "summary": "「Task & Purpose」によると、米陸軍はコンテナ型自律厨房システムを評価中だ。調理師なしで1日最大800人分の熱食を提供でき、モジュール式アームとコンベアで食材準備から盛り付けまでをこなす。フォートブラッグでの野外テストでは発電機電源で72時間連続稼働しノーメカニカルフォールトを達成した。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Task & Purpose",
+      "url": "https://taskandpurpose.com",
+      "tags": [
+        "軍事",
+        "自律型",
+        "食料ロボット"
+      ],
+      "timestamp": "2026-04-12T03:30:00Z"
+    },
+    {
+      "id": "art-20260413-17",
+      "title": "中国の卓球レジェンドがヒューマノイドロボットと対決——スポーツ外交イベントで披露",
+      "summary": "CGTNによると、中米両国の関係者が出席した北京のスポーツ外交イベントで中国の卓球レジェンドがヒューマノイドロボットとのエキシビションマッチを行った。毎秒120フレームの高速ビジョンシステムを備えたロボットはラリーを成功させ、レクリエーションレベルの人間選手と同等のペースでプレーした。",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com",
+      "tags": [
+        "ヒューマノイド",
+        "中国",
+        "スポーツ"
+      ],
+      "timestamp": "2026-04-12T02:30:00Z"
+    },
+    {
+      "id": "art-20260413-18",
+      "title": "ロボット犬が農場をパトロール——高価値トウモロコシ畑を盗難から守る",
+      "summary": "「Future Farming」によると、欧州と北米の多くの農場がBoston Dynamics Spot・Unitree Go2改造機など四足ロボット犬を夜間の自律警備巡回に採用し、農作物の盗難・破壊行為を抑止している。サーマルカメラとLTE通信を備え、不法侵入を検知すると即座に農場主へ通知する。早期採用者は盗難事件が70%減少したと報告している。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Future Farming",
+      "url": "https://www.futurefarming.com",
+      "tags": [
+        "農業",
+        "四足歩行",
+        "セキュリティ"
+      ],
+      "timestamp": "2026-04-11T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-19",
+      "title": "メラニア・トランプとブリジット・マクロン、パリAIサミットでヒューマノイドロボットと対面",
+      "summary": "米国ファーストレディのメラニア・トランプとフランスのブリジット・マクロン夫人が、国際AI ガバナンス枠組みをテーマとした外交イベント「パリAI・社会サミット」でヒューマノイドロボットと対話した。パリ・サクレー大学系スタートアップが開発したこのロボットは、リアルタイム多言語対話とジェスチャーミラーリングを披露した。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "外交",
+        "ヒューマノイド",
+        "AIガバナンス"
+      ],
+      "timestamp": "2026-04-12T01:30:00Z"
+    },
+    {
+      "id": "art-20260413-20",
+      "title": "オープンソース二足歩行キット「Bimo」v1.0リリース——約800ドルでDIYヒューマノイド",
+      "summary": "独立系ロボットエンジニアが、3Dプリント部品と市販サーボモータで約800ドルで組み立てられる完全オープンソース二足歩行ロボット「Bimo Robotics Kit v1.0」を公開した。48時間以内にGitHubスター数2,000超を達成した。BimoはシンプルなPDバランスコントローラを採用しROS 2 Humbleをサポートしており、予算の限られた研究者・愛好家・大学ラボにも利用しやすい。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics",
+      "tags": [
+        "オープンソース",
+        "DIY",
+        "二足歩行"
+      ],
+      "timestamp": "2026-04-12T00:30:00Z"
+    }
+  ]
+}

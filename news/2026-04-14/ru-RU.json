@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-14",
+  "featured": {
+    "id": "featured-20260414",
+    "title": "Chery стала первым автопроизводителем, продающим потребительского гуманоида за $42 000 — новая эра для массового воплощённого ИИ",
+    "summary": "Chery Automobile объявила о выпуске потребительского гуманоидного робота по цене около $42 000, став первым традиционным автопроизводителем на рынке домашних роботов. Робот оснащён двуручными манипуляторами, поддерживает естественный язык и помогает в домашних делах.",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/13/chinese-automaker-chery-begins-selling-humanoid-robot-to-consumers-for-42000-each",
+    "tags": [
+      "Chery",
+      "Humanoid",
+      "Consumer",
+      "China"
+    ],
+    "timestamp": "2026-04-13T09:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260414-01",
+      "title": "Kuka запускает стратегию Automation 2.0: переосмысление промышленного производства с облачной роботизированной платформой на базе ИИ",
+      "summary": "Kuka Robotics представила новую стратегию «Automation 2.0», поместив облачную платформу с нативным ИИ в центр своей экосистемы промышленных роботов. Новая платформа поддерживает координацию роботов между заводами и оптимизирует расписание через цифровые двойники.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/kuka-outlines-automation-2-0-strategy-combining-ai-software-with-industrial-robotics",
+      "tags": [
+        "Kuka",
+        "Industrial",
+        "AI"
+      ],
+      "timestamp": "2026-04-13T08:30:00Z"
+    },
+    {
+      "id": "art-20260414-02",
+      "title": "Hyundai объявляет об инвестициях в $26 млрд в США с акцентом на производство роботов и электромобилей",
+      "summary": "Группа Hyundai объявила о масштабных инвестициях в $26 млрд в США, включая специализированный завод по производству роботов в штате Джорджия и планы по серийному производству роботов Atlas следующего поколения от Boston Dynamics.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "UPI / National Today",
+      "url": "https://www.upi.com",
+      "tags": [
+        "Hyundai",
+        "Boston Dynamics",
+        "Investment"
+      ],
+      "timestamp": "2026-04-13T07:00:00Z"
+    },
+    {
+      "id": "art-20260414-03",
+      "title": "Более 100 роботов завершили ночные тесты перед марафоном в Пекине, установив коллективный рекорд",
+      "summary": "За несколько недель до старта полумарафона гуманоидных роботов в Пекине более ста роботов прошли стресс-тесты на городских улицах. Ночное тестирование также оценило способность роботов уклоняться от препятствий в реальном времени в условиях динамичной толпы.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "eWeek / NBC News",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Humanoid",
+        "Half-Marathon",
+        "Beijing"
+      ],
+      "timestamp": "2026-04-13T06:30:00Z"
+    },
+    {
+      "id": "art-20260414-04",
+      "title": "Тайвань объявляет о создании центра робототехники за $629 млн для превращения в мировой хаб по производству гуманоидов",
+      "summary": "Правительство Тайваня объявило о строительстве национального центра исследований и производства робототехники более чем за $600 млн, ориентированного на гуманоидных роботов и промышленную автоматизацию.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/taiwan-launches-national-robotics-center-with-629-million-startup-funding-plan",
+      "tags": [
+        "Taiwan",
+        "Policy",
+        "Funding"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    },
+    {
+      "id": "art-20260414-05",
+      "title": "Locus Robotics запускает платформу Array: единый программный стек для управления парками складских роботов",
+      "summary": "Locus Robotics представила платформу Array, позволяющую управлять роботами нескольких брендов и моделей через единый интерфейс, устраняя зависимость от одного поставщика в складской автоматизации.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "The Robot Report / Supply & Demand Chain Executive",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T07:30:00Z"
+    },
+    {
+      "id": "art-20260414-06",
+      "title": "Четвероногий робот KAIST Кореи автономно перемещается в завалах для спасения выживших при катастрофах",
+      "summary": "Корейский институт науки и технологий (KAIST) представил четвероногого робота, предназначенного для реагирования на катастрофы, способного автономно перемещаться в завалах разрушенных зданий и определять местонахождение пострадавших.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=800&h=500&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "KAIST",
+        "Quadruped",
+        "Search and Rescue"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-07",
+      "title": "Гуманоидный робот из Гонконга демонстрирует боксёрский бой, показывая восприятие в реальном времени в динамичных условиях",
+      "summary": "Научный парк Гонконга показал видео гуманоидного робота, тренирующегося в боксе с человеком, который отслеживает быстро движущегося противника в режиме реального времени.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&h=500&fit=crop",
+      "source": "TechXplore / AP",
+      "url": "https://techxplore.com/news/2026-04-humanoid-robots-language-skills-hong.html",
+      "tags": [
+        "UBTech",
+        "Humanoid",
+        "Hong Kong"
+      ],
+      "timestamp": "2026-04-13T04:30:00Z"
+    },
+    {
+      "id": "art-20260414-08",
+      "title": "Исследование Forbes: 88% робототехнических проектов терпят неудачу на этапе первоначального внедрения",
+      "summary": "Исследование Forbes показало, что корпоративные проекты по роботизации автоматизации имеют высокий риск раннего провала: интеграция систем, обучение сотрудников и реорганизация процессов — главные причины неудач.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Forbes",
+      "url": "https://www.forbes.com",
+      "tags": [
+        "Humanoid",
+        "Research",
+        "Home Robotics"
+      ],
+      "timestamp": "2026-04-13T06:00:00Z"
+    },
+    {
+      "id": "art-20260414-09",
+      "title": "Польский фермер использует гуманоидного робота для отпугивания кабанов, экономя тысячи на заграждениях",
+      "summary": "Польский фермер заменил традиционные заборы гуманоидным роботом, отпугивающим кабанов акустическим и визуальным воздействием, экономя тысячи евро в год.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "7NEWS / Futurism",
+      "url": "https://futurism.com",
+      "tags": [
+        "Humanoid",
+        "Wildlife",
+        "Poland"
+      ],
+      "timestamp": "2026-04-13T05:30:00Z"
+    },
+    {
+      "id": "art-20260414-10",
+      "title": "Шэньчжэнь вводит в эксплуатацию первую полностью автоматизированную производственную линию гуманоидных роботов мощностью более 100 единиц в сутки",
+      "summary": "Производитель роботов из Шэньчжэня объявил о запуске полностью автоматизированной сборочной линии гуманоидных роботов мощностью более 100 единиц в сутки.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Macao News",
+      "url": "https://macaonews.org",
+      "tags": [
+        "Shenzhen",
+        "China",
+        "Manufacturing"
+      ],
+      "timestamp": "2026-04-13T04:00:00Z"
+    },
+    {
+      "id": "art-20260414-11",
+      "title": "Армия Южной Кореи развёртывает роботов-солдат с модульными платформами для разведки и боевых задач",
+      "summary": "Министерство обороны Южной Кореи объявило о пилотном проекте по развёртыванию роботов-солдат в приграничных районах с использованием модульных беспилотных систем для разведывательных, логистических и боевых миссий.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com",
+      "tags": [
+        "Military",
+        "South Korea",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T03:30:00Z"
+    },
+    {
+      "id": "art-20260414-12",
+      "title": "Kia представляет стратегию в области робототехники: использование автомобильных производственных мощностей для производства воплощённых ИИ-систем в масштабе",
+      "summary": "Kia Motors представила стратегическое видение в области робототехники, планируя применить автомобильные производственные процессы и стандарты качества к масштабному производству роботов.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "AI Business",
+      "url": "https://aibusiness.com",
+      "tags": [
+        "Kia",
+        "Humanoid",
+        "Delivery"
+      ],
+      "timestamp": "2026-04-13T03:00:00Z"
+    },
+    {
+      "id": "art-20260414-13",
+      "title": "PeritasAI и NVIDIA запускают хирургического ИИ-ассистента, направляющего хирургов в реальном времени",
+      "summary": "PeritasAI и NVIDIA разработали систему хирургического наведения в реальном времени на платформе NVIDIA Holoscan Edge AI, способную рекомендовать наилучшие практики на основе доказательств в ходе операций.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / PeritasAI",
+      "url": "https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_real_time_ai",
+      "tags": [
+        "Surgical Robot",
+        "NVIDIA",
+        "Medical AI"
+      ],
+      "timestamp": "2026-04-13T02:30:00Z"
+    },
+    {
+      "id": "art-20260414-14",
+      "title": "Transitive 2.0 выпущен как открытый исходный код: единая платформа для развёртывания роботов от нескольких поставщиков",
+      "summary": "Transitive Robotics выпустила версию 2.0 своей платформы с открытым исходным кодом, предлагая стандартизированные интерфейсы интеграции и унифицированное управление роботами различных марок и моделей.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Open Source",
+        "Fleet Management",
+        "Transitive"
+      ],
+      "timestamp": "2026-04-13T02:00:00Z"
+    },
+    {
+      "id": "art-20260414-15",
+      "title": "Новый рандомизированный алгоритм решает проблему взаимоблокировки роботов в сетке, повышая эффективность на 40%",
+      "summary": "Исследователи предложили новый алгоритм на основе рандомизации, эффективно решающий проблемы взаимоблокировки в сетке в многороботных системах, повышая эффективность планирования примерно на 40%.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com",
+      "tags": [
+        "Algorithm",
+        "Warehouse",
+        "Research"
+      ],
+      "timestamp": "2026-04-13T01:30:00Z"
+    },
+    {
+      "id": "art-20260414-16",
+      "title": "RoboSense получает заказ на лидары на $26 млн для систем восприятия роботов следующего поколения",
+      "summary": "RoboSense объявила о получении заказа на автомобильные лидары на сумму $26 млн для использования в системах восприятия как автономного вождения, так и гуманоидных роботов.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "Sensors"
+      ],
+      "timestamp": "2026-04-13T01:00:00Z"
+    },
+    {
+      "id": "art-20260414-17",
+      "title": "Huayan Robotics представляет роботизированные решения на Hannover Messe, обозначая новое направление промышленной автоматизации",
+      "summary": "Huayan Robotics представила на Hannover Messe 2026 роботизированные решения следующего поколения для электронного производства, логистической сортировки и прецизионной сборки.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "Business Insider Markets",
+      "url": "https://markets.businessinsider.com",
+      "tags": [
+        "Huayan",
+        "HANNOVER MESSE",
+        "Europe"
+      ],
+      "timestamp": "2026-04-13T00:30:00Z"
+    },
+    {
+      "id": "art-20260414-18",
+      "title": "Boston Dynamics размышляет над вызовами роботов второго поколения: реальный прогресс — в непрерывном развёртывании",
+      "summary": "Инженерная команда Boston Dynamics опубликовала аналитическую статью о ключевых технических проблемах коммерческих роботов второго поколения, подчёркивая, что непрерывная надёжная эксплуатация в реальных условиях — главный показатель.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / Boston Dynamics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skg5ki/boston_dynamics_on_why_second_gen_robots_are",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "Reliability"
+      ],
+      "timestamp": "2026-04-13T00:00:00Z"
+    },
+    {
+      "id": "art-20260414-19",
+      "title": "Украинские дроновые силы впервые захватили пленного исключительно с помощью дронов без участия наземных войск",
+      "summary": "По имеющимся данным, украинские силы специальных операций провели первую успешную операцию по захвату пленного только с помощью дронов: несколько дронов в скоординированном строю вынудили российского солдата сдаться без участия наземных бойцов.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com",
+      "tags": [
+        "Military",
+        "Drone",
+        "Ukraine"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-20",
+      "title": "Инженер по этике технологий основывает консультационную компанию по этике роботов для помощи предприятиям в создании ответственных ИИ-рамок",
+      "summary": "Бывший инженер по этике крупной технологической компании официально основал консультационную фирму по этике робототехники и ИИ, специализирующуюся на системах управления соответствием для разработки роботизированных систем.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving",
+      "tags": [
+        "Ethics",
+        "Military Robotics",
+        "Community"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    }
+  ]
+}

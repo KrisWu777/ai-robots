@@ -1,0 +1,299 @@
+{
+  "date": "2026-04-13",
+  "featured": {
+    "id": "featured-20260413",
+    "title": "बीजिंग ह्यूमनॉइड रोबोट हाफ-मैराथन: ऐतिहासिक दौड़ से पहले 21 रोबोट ने रात्रि परीक्षण पूरा किया",
+    "summary": "बीजिंग के E-Town जिले ने दुनिया के पहले ह्यूमनॉइड रोबोट हाफ-मैराथन का पूर्ण-स्तरीय रात्रि परीक्षण पूरा किया, जिसमें शीर्ष चीनी निर्माताओं के 21 द्विपाद रोबोट ने आधिकारिक 21.0975 किमी के मार्ग पर समयबद्ध दौड़ें पूरी कीं। 19 अप्रैल को होने वाले इस ऐतिहासिक आयोजन में Unitree, Fourier Intelligence और दर्जनभर से अधिक कंपनियों के रोबोट आगामी पीढ़ी के लोकोमोशन AI की परीक्षा देंगे।",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "CGTN / Xinhua",
+    "url": "https://news.cgtn.com",
+    "tags": [
+      "ह्यूमनॉइड",
+      "चीन",
+      "हाफ-मैराथन"
+    ],
+    "timestamp": "2026-04-13T06:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260413-01",
+      "title": "Unitree R1 ह्यूमनॉइड 10 मीटर/सेकेंड की रफ्तार पर पहुंचा, मानव सीमा के करीब",
+      "summary": "Unitree Robotics ने नए बेंचमार्क डेटा जारी किए जो R1 ह्यूमनॉइड रोबोट को नियंत्रित sprint परीक्षणों में 10 मीटर प्रति सेकेंड तक पहुंचते दिखाते हैं — जो कुलीन धावकों की ~12 मीटर/सेकेंड की सीमा के करीब है। Unitree का कहना है कि R1 इस सप्ताह AliExpress पर $5,000 से कम में उपलब्ध होगा।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "AASTOCKS / eWeek",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Unitree",
+        "ह्यूमनॉइड",
+        "गति"
+      ],
+      "timestamp": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-02",
+      "title": "1X Technologies ने 10,000 Neo ह्यूमनॉइड रोबोट तैनात करने का ऐतिहासिक समझौता किया",
+      "summary": "नॉर्वेजियन स्टार्टअप 1X Technologies ने लॉजिस्टिक्स, मैन्युफैक्चरिंग और सेवा क्षेत्रों में 10,000 Neo ह्यूमनॉइड रोबोट तैनात करने का एक महत्वपूर्ण वाणिज्यिक समझौता किया है। यह किसी ह्यूमनॉइड प्लेटफॉर्म के लिए अब तक की सबसे बड़ी फ्लीट प्रतिबद्धता है।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "1X Technologies",
+        "Neo",
+        "तैनाती"
+      ],
+      "timestamp": "2026-04-12T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-03",
+      "title": "UniX AI Panther: असली घरों में तैनात होने वाला पहला बड़े पैमाने पर उत्पादित ह्यूमनॉइड",
+      "summary": "UniX AI ने घोषणा की है कि UniX-LM मल्टीमॉडल मॉडल से संचालित Panther ह्यूमनॉइड रोबोट चीन के निजी घरों में तैनात होना शुरू हो गया है। Panther खाना पकाने, कपड़े तह करने और बुजुर्गों की देखभाल में 100 ms से कम latency के साथ सहायता कर सकता है।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "Robotics Tomorrow / Business Insider",
+      "url": "https://www.roboticstomorrow.com",
+      "tags": [
+        "UniX AI",
+        "Panther",
+        "होम रोबोट"
+      ],
+      "timestamp": "2026-04-11T09:30:00Z"
+    },
+    {
+      "id": "art-20260413-04",
+      "title": "Samsung ने ह्यूमनॉइड ब्रेन टेक्नोलॉजी हासिल की: प्रति सेकेंड 17 निर्णय",
+      "summary": "Samsung Electronics ने एक न्यूरल-इनफरेंस चिप आर्किटेक्चर के लिए महत्वपूर्ण बौद्धिक संपदा सुरक्षित कर ली है जो ह्यूमनॉइड रोबोट को प्रति सेकेंड 17 real-time निर्णय लेने में सक्षम बनाती है — मौजूदा एम्बेडेड कंट्रोलर से ~3× सुधार। तकनीक एक कोरियाई AI स्टार्टअप से अधिग्रहित की गई।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com",
+      "tags": [
+        "Samsung",
+        "ह्यूमनॉइड",
+        "AI चिप"
+      ],
+      "timestamp": "2026-04-12T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-05",
+      "title": "Generalist AI ने GEN-1 लॉन्च किया: असली रोबोट कार्यों में सफलता का दावा",
+      "summary": "स्टार्टअप Generalist AI ने रोबोटिक manipulation के लिए GEN-1 foundation model लॉन्च किया। कंपनी का दावा है कि केवल भाषा और वीडियो इनपुट से, बिना किसी task-specific fine-tuning के, यह RoboSuite benchmark की 42 में से 38 कार्यों में state-of-the-art प्रदर्शन करता है।",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/generalist-ai-unveils-gen-1-model-claiming-breakthrough-in-real-world-robotic-task-performance",
+      "tags": [
+        "Generalist AI",
+        "Foundation Model",
+        "GEN-1"
+      ],
+      "timestamp": "2026-04-11T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-06",
+      "title": "ह्यूमनॉइड रोबोट 19 अप्रैल को बीजिंग हाफ-मैराथन में दौड़ने के लिए तैयार",
+      "summary": "20 से अधिक टीमों ने 19 अप्रैल 2026 को बीजिंग के पहले E-Town रोबोट हाफ-मैराथन में भागीदारी की पुष्टि की है — एक 21 किमी की दौड़ जिसे द्विपाद मशीनों के लिए दुनिया का पहला प्रतिस्पर्धी धीरज आयोजन कहा जा रहा है। प्रतिभागियों में Unitree G1, Fourier GR-2 और कई विश्वविद्यालय टीमें शामिल हैं।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "CNN / Global Times",
+      "url": "https://edition.cnn.com",
+      "tags": [
+        "ह्यूमनॉइड",
+        "हाफ-मैराथन",
+        "बीजिंग"
+      ],
+      "timestamp": "2026-04-12T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-07",
+      "title": "चीन का ह्यूमनॉइड रोबोट उत्पादन 2025 में 94% बढ़ने के रास्ते पर",
+      "summary": "नए उद्योग डेटा से पता चलता है कि UBTECH, Unitree और Fourier Intelligence सहित चीनी ह्यूमनॉइड रोबोट निर्माताओं का वार्षिक उत्पादन 1 लाख इकाई से अधिक हो गया है, और साल-दर-साल 94% की वृद्धि अपेक्षित है।",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Gizchina",
+      "url": "https://www.gizchina.com",
+      "tags": [
+        "चीन",
+        "ह्यूमनॉइड",
+        "निर्माण"
+      ],
+      "timestamp": "2026-04-11T06:00:00Z"
+    },
+    {
+      "id": "art-20260413-08",
+      "title": "Binghamton शोधकर्ताओं ने चलने और बात करने वाला रोबोटिक गाइड डॉग बनाया",
+      "summary": "Binghamton University के इंजीनियरों ने एक quadruped रोबोटिक गाइड डॉग विकसित किया है जो बड़े language model interface से लैस है और दृष्टिबाधित उपयोगकर्ताओं को प्राकृतिक भाषा में आसपास के वातावरण का वर्णन करता है। 12 नेत्रहीन प्रतिभागियों के साथ field trial में 91% task-completion दर दर्ज की गई।",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "गाइड डॉग",
+        "Quadruped",
+        "पहुंच"
+      ],
+      "timestamp": "2026-04-12T03:00:00Z"
+    },
+    {
+      "id": "art-20260413-09",
+      "title": "Tennant ने X16 Sweep लॉन्च किया: 24/7 स्वायत्त संचालन के लिए पहली औद्योगिक स्वीपर",
+      "summary": "Tennant Company ने X16 Sweep भारी-शुल्क स्वायत्त रोबोटिक स्वीपर लॉन्च किया है जो गोदामों, कारखानों और हवाई अड्डों जैसी बड़ी औद्योगिक सुविधाओं में निरंतर, मानव रहित संचालन के लिए डिज़ाइन किया गया है। यह एक चार्ज में 55,000 m² तक साफ कर सकता है।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/tennant-unveils-new-industrial-sweeping-machine-for-autonomous-round-the-clock-work",
+      "tags": [
+        "Tennant",
+        "स्वायत्त",
+        "गोदाम"
+      ],
+      "timestamp": "2026-04-10T10:00:00Z"
+    },
+    {
+      "id": "art-20260413-10",
+      "title": "Honor ने MWC शंघाई के लिए ह्यूमनॉइड रोबोट का खुलासा किया, कंज्यूमर रोबोटिक्स में प्रवेश",
+      "summary": "चीनी smartphone दिग्गज Honor ने एक ह्यूमनॉइड रोबोट का खुलासा किया जिसे वह MWC शंघाई में प्रदर्शित करने की योजना बना रहा है, embodied AI क्षेत्र में प्रवेश करने वाला नवीनतम consumer electronics ब्रांड बन गया है।",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Mashable",
+      "url": "https://mashable.com",
+      "tags": [
+        "Honor",
+        "ह्यूमनॉइड",
+        "कंज्यूमर"
+      ],
+      "timestamp": "2026-04-12T02:00:00Z"
+    },
+    {
+      "id": "art-20260413-11",
+      "title": "Hai Robotics ने नीदरलैंड में EMEA Innovation Center खोला",
+      "summary": "Hai Robotics ने नीदरलैंड के Hoofddorp में EMEA Innovation Center का उद्घाटन किया, जो यूरोपीय बाजार के प्रति कंपनी की सबसे महत्वपूर्ण प्रतिबद्धता है। यह केंद्र Hai के ACR systems के लिए e-commerce में R&D, customer integration और after-sales support का क्षेत्रीय hub होगा।",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/hai-robotics-opens-emea-innovation-center-in-the-netherlands",
+      "tags": [
+        "Hai Robotics",
+        "गोदाम",
+        "यूरोप"
+      ],
+      "timestamp": "2026-04-11T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-12",
+      "title": "SPEAR-1: 50ms control loop के साथ open-source रोबोट controller",
+      "summary": "SPEAR-1 नाम का एक नया open-source embedded controller घोषित किया गया है जो industrial robot arms और cobots को मानक ARM hardware पर 50ms end-to-end control loop के साथ target करता है। SPEAR-1 में ROS 2, MoveIt 2 और प्रमुख fieldbus protocols के लिए pre-built integrations हैं।",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Open Source",
+        "ROS2",
+        "Controller"
+      ],
+      "timestamp": "2026-04-12T01:00:00Z"
+    },
+    {
+      "id": "art-20260413-13",
+      "title": "SVT Robotics ने Softbot Intelligence लॉन्च किया: AI models को real-time automation data",
+      "summary": "SVT Robotics ने Softbot Intelligence जारी किया है — एक data-capture और normalization platform जो warehouse automation systems से live telemetry aggregate करता है और इसे real-time में enterprise AI models को stream करता है। SVT का कहना है कि early adopters ने 90 दिनों में unplanned downtime 22% कम की।",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/svt-robotics-launches-softbot-intelligence-to-power-ai-with-real-time-automation-data",
+      "tags": [
+        "SVT Robotics",
+        "Automation",
+        "AI Data"
+      ],
+      "timestamp": "2026-04-10T09:00:00Z"
+    },
+    {
+      "id": "art-20260413-14",
+      "title": "Tesla ने FSD विवाद के बीच Optimus production roadmap का खुलासा किया",
+      "summary": "Tesla CEO Elon Musk ने investor event में Optimus ह्यूमनॉइड रोबोट के updated production targets की जानकारी दी: 2026 के अंत तक 1 लाख units और 2027 तक सालाना 10 लाख units। Tesla ने कहा कि FSD से cross-platform transfer learning, Optimus की dexterity improvements को 40% तेज कर रहा है।",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "उत्पादन"
+      ],
+      "timestamp": "2026-04-12T00:00:00Z"
+    },
+    {
+      "id": "art-20260413-15",
+      "title": "रोबोटिक पक्षी लुप्तप्राय ग्राउस प्रजाति को बचाने के लिए संभोग प्रदर्शन की नकल करते हैं",
+      "summary": "शोधकर्ताओं ने Scotland के दूरदराज के moorland में जीवन आकार के animatronic रोबोटिक ग्राउस तैनात किए हैं जो संभोग प्रदर्शन करते हैं और जंगली पक्षियों को संरक्षित प्रजनन क्षेत्रों में आकर्षित करते हैं। देखी गई 87% जंगली मादाओं ने असली नर की तरह प्रतिक्रिया दी।",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "संरक्षण",
+        "Bio-Robotics",
+        "वन्यजीव"
+      ],
+      "timestamp": "2026-04-11T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-16",
+      "title": "US Army अग्रिम मोर्चे पर सैनिकों के लिए hot meals बनाने वाला robotic kitchen परीक्षण कर रही है",
+      "summary": "Task & Purpose के अनुसार, US Army एक containerized autonomous kitchen system का मूल्यांकन कर रही है जो प्रतिदिन 800 सैनिकों के लिए बिना on-site cook के hot meals तैयार कर सकती है। Fort Bragg में field tests में system ने 72 घंटे बिना किसी mechanical failure के generator power पर लगातार काम किया।",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Task & Purpose",
+      "url": "https://taskandpurpose.com",
+      "tags": [
+        "Military",
+        "Autonomous",
+        "Food Robotics"
+      ],
+      "timestamp": "2026-04-12T03:30:00Z"
+    },
+    {
+      "id": "art-20260413-17",
+      "title": "चीनी table tennis legend ने sport diplomacy event में ह्यूमनॉइड रोबोट को चुनौती दी",
+      "summary": "CGTN के अनुसार, बीजिंग में US और Chinese officials की उपस्थिति वाले high-profile sports diplomacy event में एक Chinese table tennis legend ने ह्यूमनॉइड रोबोट के साथ demonstration match खेला। रोबोट 120 fps पर balls track करने वाले high-speed vision system से लैस था।",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com",
+      "tags": [
+        "ह्यूमनॉइड",
+        "चीन",
+        "खेल"
+      ],
+      "timestamp": "2026-04-12T02:30:00Z"
+    },
+    {
+      "id": "art-20260413-18",
+      "title": "रोबोटिक dogs अब खेतों में patrols करते हैं, मूल्यवान मकई की फसल की रक्षा करते हैं",
+      "summary": "Future Farming के अनुसार, यूरोप और उत्तरी अमेरिका के बढ़ते हुए खेतों में quadruped robot dogs को रात के autonomous security patrols के रूप में तैनात किया जा रहा है। Thermal cameras और LTE connectivity से लैस, robots रात को परिधि का गश्त करते हैं और intrusions का real-time अलर्ट देते हैं।",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Future Farming",
+      "url": "https://www.futurefarming.com",
+      "tags": [
+        "कृषि",
+        "Quadruped",
+        "सुरक्षा"
+      ],
+      "timestamp": "2026-04-11T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-19",
+      "title": "Melania Trump और Brigitte Macron ने Paris AI Summit में ह्यूमनॉइड रोबोट से मुलाकात की",
+      "summary": "US First Lady Melania Trump और French First Lady Brigitte Macron ने international AI governance frameworks पर focused Paris's AI & Society Summit के दौरान एक ह्यूमनॉइड रोबोट के साथ interact किया। Paris-Saclay से जुड़े startup द्वारा विकसित रोबोट ने real-time multilingual dialogue और gesture mirroring का प्रदर्शन किया।",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "कूटनीति",
+        "ह्यूमनॉइड",
+        "AI Governance"
+      ],
+      "timestamp": "2026-04-12T01:30:00Z"
+    },
+    {
+      "id": "art-20260413-20",
+      "title": "Open-source Bimo bipedal kit v1.0 तक पहुंचा: $800 में DIY ह्यूमनॉइड",
+      "summary": "एक independent robotics engineer ने Bimo Robotics Kit का v1.0 release किया — एक fully open-source bipedal robot जिसे commodity 3D-printed parts और off-the-shelf servo motors से लगभग $800 में assemble किया जा सकता है। 48 घंटों में 2,000 से अधिक GitHub stars मिले। Bimo ROS 2 Humble support करता है।",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics",
+      "tags": [
+        "Open Source",
+        "DIY",
+        "Bipedal"
+      ],
+      "timestamp": "2026-04-12T00:30:00Z"
+    }
+  ]
+}

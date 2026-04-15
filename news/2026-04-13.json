@@ -1,0 +1,299 @@
+{
+  "date": "2026-04-13",
+  "featured": {
+    "id": "featured-20260413",
+    "title": "Beijing Humanoid Robot Half-Marathon: 21 Robots Complete Night Test Runs Ahead of Historic Race",
+    "summary": "Beijing's E-Town district completed a full-scale night test for the world's first humanoid robot half-marathon, with 21 bipedal robots from leading Chinese manufacturers completing timed runs on the official 21.0975 km course. The unprecedented event — scheduled for April 19 — will pit robots from Unitree, Fourier Intelligence, and more than a dozen other firms against each other in what organizers describe as a landmark stress-test for next-generation locomotion AI. The night runs confirmed stable real-time navigation across uneven terrain, marking a pivotal moment for China's push to dominate embodied AI.",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "CGTN / Xinhua",
+    "url": "https://news.cgtn.com",
+    "tags": [
+      "Humanoid",
+      "China",
+      "Half-Marathon"
+    ],
+    "timestamp": "2026-04-13T06:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260413-01",
+      "title": "Unitree R1 Humanoid Sprints 10 m/s, Approaches Peak Human Running Speed",
+      "summary": "Unitree Robotics has released new benchmark data showing its R1 humanoid robot achieving 10 metres per second in controlled sprint tests — close to the ~12 m/s ceiling of elite human sprinters. The feat builds on the company's earlier G1 platform and underscores advances in real-time balance control and leg-actuator torque density. Unitree says the R1 will be available globally on AliExpress starting this week for under $5,000, making it the most accessible high-performance humanoid on the market.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "AASTOCKS / eWeek",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Unitree",
+        "Humanoid",
+        "Speed"
+      ],
+      "timestamp": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-02",
+      "title": "1X Technologies Inks Deal to Deploy 10,000 Neo Humanoid Robots Across Industries",
+      "summary": "Norwegian humanoid startup 1X Technologies has signed a landmark commercial agreement to deploy 10,000 units of its Neo humanoid robot across logistics, manufacturing, and services verticals. The deal, the largest fleet commitment for a humanoid platform to date, signals accelerating confidence from enterprise customers that bipedal robots can reliably handle unstructured real-world workflows. 1X says Neo can operate 20+ hours per charge and has been refined through millions of hours of teleoperation training data.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "1X Technologies",
+        "Neo",
+        "Deployment"
+      ],
+      "timestamp": "2026-04-12T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-03",
+      "title": "UniX AI Panther Becomes First Mass-Produced Humanoid in Real Household Deployment",
+      "summary": "UniX AI has announced that its Panther humanoid robot — powered by the company's proprietary UniX-LM multimodal model — has begun live deployment in private homes across China, claiming the first verified mass-production household rollout of any bipedal robot. The Panther can perform tasks including meal preparation, laundry folding, and elderly care assistance with sub-100 ms response latency. The company says it is now accepting pre-orders internationally.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "Robotics Tomorrow / Business Insider",
+      "url": "https://www.roboticstomorrow.com",
+      "tags": [
+        "UniX AI",
+        "Panther",
+        "Home Robot"
+      ],
+      "timestamp": "2026-04-11T09:30:00Z"
+    },
+    {
+      "id": "art-20260413-04",
+      "title": "Samsung Acquires Humanoid Robot Brain Tech Capable of 17 Decisions Per Second",
+      "summary": "Samsung Electronics has secured key intellectual property for a neural-inference chip architecture that enables humanoid robots to make up to 17 real-time physical decisions per second — a roughly 3× improvement over current embedded controllers. The technology, acquired from a Korean AI startup, is targeted at Samsung's forthcoming humanoid robotics platform expected to be unveiled later this year. Analysts see the move as Samsung positioning to compete directly with Boston Dynamics, Unitree, and Agility in the industrial humanoid market.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com",
+      "tags": [
+        "Samsung",
+        "Humanoid",
+        "AI Chip"
+      ],
+      "timestamp": "2026-04-12T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-05",
+      "title": "Generalist AI Unveils GEN-1: Foundation Model Claims Breakthrough in Physical Robot Tasks",
+      "summary": "Startup Generalist AI has launched GEN-1, a foundation model purpose-built for robotic manipulation that the company says achieves state-of-the-art performance on 38 out of 42 RoboSuite benchmark tasks using only language and video inputs — no task-specific fine-tuning required. GEN-1 uses a novel spatial-temporal tokenizer to represent physical actions as sequences, enabling zero-shot generalization to unseen environments. The model is available via API for robotics researchers and OEM integrators.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/generalist-ai-unveils-gen-1-model-claiming-breakthrough-in-real-world-robotic-task-performance",
+      "tags": [
+        "Generalist AI",
+        "Foundation Model",
+        "GEN-1"
+      ],
+      "timestamp": "2026-04-11T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-06",
+      "title": "Humanoid Robots Set to Compete in Beijing Half-Marathon on April 19",
+      "summary": "More than 20 teams are confirmed to enter humanoid robots in Beijing's inaugural E-Town Robot Half-Marathon on April 19, 2026 — a 21 km race billed as the world's first competitive endurance event for bipedal machines. CNN and Global Times report that participants include Unitree G1, Fourier GR-2, and multiple university entrants. The race tests not just speed but navigational resilience: robots must handle crowd noise, variable lighting, and uneven pavement without human intervention.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "CNN / Global Times",
+      "url": "https://edition.cnn.com",
+      "tags": [
+        "Humanoid",
+        "Half-Marathon",
+        "Beijing"
+      ],
+      "timestamp": "2026-04-12T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-07",
+      "title": "China's Humanoid Robot Production Set for 94% Growth in 2025, Enters Mass Production Phase",
+      "summary": "New industry data cited by Gizchina and Aaj TV shows Chinese humanoid robot production is on track for a 94% year-on-year increase, with factory output from manufacturers including UBTECH, Unitree, and Fourier Intelligence surpassing 100,000 units annually. The surge is driven by government subsidies, falling actuator costs, and surging enterprise orders from automotive and electronics assembly lines. Analysts forecast China will supply over 60% of the global humanoid market by 2027.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Gizchina",
+      "url": "https://www.gizchina.com",
+      "tags": [
+        "China",
+        "Humanoid",
+        "Manufacturing"
+      ],
+      "timestamp": "2026-04-11T06:00:00Z"
+    },
+    {
+      "id": "art-20260413-08",
+      "title": "Binghamton Researchers Build Robotic Guide Dogs That Walk — and Talk",
+      "summary": "Engineers at Binghamton University have developed a quadruped robotic guide dog equipped with a large language model interface that allows it to describe its surroundings to visually impaired users in natural speech. The robot, based on a modified Unitree Go2 platform, combines LiDAR-based obstacle detection with real-time scene narration, navigating environments and answering verbal queries simultaneously. The team says a field trial with 12 blind participants showed a 91% task-completion rate across indoor and outdoor routes.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Guide Dog",
+        "Quadruped",
+        "Accessibility"
+      ],
+      "timestamp": "2026-04-12T03:00:00Z"
+    },
+    {
+      "id": "art-20260413-09",
+      "title": "Tennant Launches X16 Sweep: First Fully Autonomous Industrial Floor Cleaner for 24/7 Operation",
+      "summary": "Tennant Company has unveiled the X16 Sweep, a heavy-duty autonomous robotic sweeper designed for continuous, unmanned operation across large-format industrial facilities including warehouses, factories, and airports. The machine uses a stereo-camera and ultrasonic sensor array for real-time path planning and can clean up to 55,000 m² per charge. Tennant positions the X16 as a replacement for human-operated ride-on sweepers during overnight and weekend shifts when facilities are unoccupied.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/tennant-unveils-new-industrial-sweeping-machine-for-autonomous-round-the-clock-work",
+      "tags": [
+        "Tennant",
+        "Autonomous",
+        "Warehouse"
+      ],
+      "timestamp": "2026-04-10T10:00:00Z"
+    },
+    {
+      "id": "art-20260413-10",
+      "title": "Honor Unveils Humanoid Robot Ahead of MWC Shanghai, Enters Consumer Robotics Race",
+      "summary": "Chinese smartphone giant Honor has revealed a humanoid robot it plans to showcase at Mobile World Congress Shanghai, becoming the latest consumer electronics brand to enter the embodied AI space. The robot, which stands roughly 1.65 m and features Honor's MagicOS AI platform, is capable of voice interaction, object manipulation, and autonomous navigation. Honor's entry signals a broader push by device makers to leverage existing AI and sensor supply chains for the next hardware platform cycle.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Mashable",
+      "url": "https://mashable.com",
+      "tags": [
+        "Honor",
+        "Humanoid",
+        "Consumer"
+      ],
+      "timestamp": "2026-04-12T02:00:00Z"
+    },
+    {
+      "id": "art-20260413-11",
+      "title": "Hai Robotics Opens EMEA Innovation Center in the Netherlands, Targets European Warehouse Automation",
+      "summary": "Hai Robotics has officially opened its EMEA Innovation Center in Hoofddorp, Netherlands, marking the company's most significant commitment to the European market. The facility will serve as a regional hub for R&D, customer integration, and aftersales support for Hai's Autonomous Case-handling Robot (ACR) systems used in e-commerce fulfilment. The Netherlands site will also pilot a new AI-driven slotting optimization module aimed at reducing pick path distances by up to 30%.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/hai-robotics-opens-emea-innovation-center-in-the-netherlands",
+      "tags": [
+        "Hai Robotics",
+        "Warehouse",
+        "Europe"
+      ],
+      "timestamp": "2026-04-11T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-12",
+      "title": "SPEAR-1: Open-Source Robot Brain Enters Industrial Robotics with 50ms Latency Control Loop",
+      "summary": "A new open-source embedded controller called SPEAR-1 has been announced, targeting industrial robot arms and cobots with a 50 ms end-to-end control loop running on commodity ARM hardware. SPEAR-1 ships with prebuilt integrations for ROS 2, MoveIt 2, and major fieldbus protocols (EtherCAT, PROFINET), and the project has already attracted contributions from engineers at several major OEMs. Its creators say SPEAR-1 aims to do for motion control what Linux did for server operating systems.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Open Source",
+        "ROS2",
+        "Controller"
+      ],
+      "timestamp": "2026-04-12T01:00:00Z"
+    },
+    {
+      "id": "art-20260413-13",
+      "title": "SVT Robotics Launches Softbot Intelligence to Feed Real-Time Automation Data into AI Models",
+      "summary": "SVT Robotics has released Softbot Intelligence, a data-capture and normalization platform that aggregates live telemetry from warehouse automation systems — AMRs, conveyor networks, sortation equipment — and streams it to enterprise AI models in real time. The platform is designed to close the 'sensor-to-decision' gap that currently prevents AI copilots from acting on accurate floor-level data. SVT says early adopters have reduced unplanned downtime by 22% within 90 days of deployment.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/svt-robotics-launches-softbot-intelligence-to-power-ai-with-real-time-automation-data",
+      "tags": [
+        "SVT Robotics",
+        "Automation",
+        "AI Data"
+      ],
+      "timestamp": "2026-04-10T09:00:00Z"
+    },
+    {
+      "id": "art-20260413-14",
+      "title": "Tesla Outlines Optimus Production Roadmap Amid FSD Policy Controversy",
+      "summary": "Tesla CEO Elon Musk detailed updated production targets for the Optimus humanoid robot at an investor event, reiterating a goal of manufacturing 100,000 units by end of 2026 and one million annually by 2027. The announcement came alongside controversy over Tesla's Full Self-Driving software, which critics argue shares safety-testing methodologies with the Optimus program. Tesla maintained that cross-platform AI transfer learning from FSD is accelerating Optimus dexterity improvements by 40% compared to purely robot-specific training data.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Production"
+      ],
+      "timestamp": "2026-04-12T00:00:00Z"
+    },
+    {
+      "id": "art-20260413-15",
+      "title": "Robotic Birds Mimic Grouse Mating Displays to Save Vanishing Species",
+      "summary": "Researchers have deployed life-size animatronic robotic grouse in remote Scottish moorland to demonstrate courtship displays and attract wild birds to protected breeding zones, in a novel conservation strategy reported by Interesting Engineering. The robots replicate the full repertoire of male black grouse lek behavior — tail fanning, wing-drooping, and vocalizations — with 87% of observed wild females responding as if to a live male. The team believes robotic decoys could be a scalable tool for restoring populations of ground-nesting birds whose mating sites have been disrupted by human activity.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Conservation",
+        "Bio-Robotics",
+        "Wildlife"
+      ],
+      "timestamp": "2026-04-11T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-16",
+      "title": "US Army Tests Robotic Kitchen That Cooks Hot Meals for Forward-Deployed Soldiers",
+      "summary": "The US Army is evaluating a containerized autonomous kitchen system capable of preparing hot meals for up to 800 soldiers per day without a human cook on-site, according to Task & Purpose. The robotic galley — developed by a defense contractor — uses a modular arm-and-conveyor architecture to handle ingredient prep, cooking, portioning, and tray assembly. Field tests at Fort Bragg showed the system operating continuously for 72 hours on generator power with no mechanical failures, a requirement for forward operating base deployment.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Task & Purpose",
+      "url": "https://taskandpurpose.com",
+      "tags": [
+        "Military",
+        "Autonomous",
+        "Food Robotics"
+      ],
+      "timestamp": "2026-04-12T03:30:00Z"
+    },
+    {
+      "id": "art-20260413-17",
+      "title": "Chinese Table Tennis Champion Rallies with Humanoid Robot at Cultural Exchange Event",
+      "summary": "A Chinese table tennis legend faced off against a humanoid robot in a demonstration match at a high-profile sports-diplomacy event in Beijing attended by US and Chinese officials, as reported by CGTN. The robot — equipped with a high-speed vision system capable of tracking balls at 120 fps — successfully returned volleys and matched the pace of recreational-level human play. The event was staged to showcase China's embodied AI capabilities ahead of the Beijing humanoid half-marathon and drew significant international media coverage.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com",
+      "tags": [
+        "Humanoid",
+        "China",
+        "Sports"
+      ],
+      "timestamp": "2026-04-12T02:30:00Z"
+    },
+    {
+      "id": "art-20260413-18",
+      "title": "Robotic Guard Dogs Now Patrolling Arable Farms to Protect High-Value Corn Crops",
+      "summary": "A growing number of arable farms in Europe and North America are deploying quadruped robot dogs — primarily Boston Dynamics Spot and Unitree Go2 variants — as autonomous security patrols to deter crop theft and vandalism, Future Farming reports. Equipped with thermal cameras and LTE connectivity, the robots patrol perimeters overnight and alert farm managers to intrusions in real time. Early adopters report a 70% reduction in crop theft incidents and return-on-investment within 18 months compared to traditional human security.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Future Farming",
+      "url": "https://www.futurefarming.com",
+      "tags": [
+        "Agriculture",
+        "Quadruped",
+        "Security"
+      ],
+      "timestamp": "2026-04-11T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-19",
+      "title": "Melania Trump and Brigitte Macron Greet Humanoid Robot at Paris AI & Diplomacy Summit",
+      "summary": "US First Lady Melania Trump and French First Lady Brigitte Macron interacted with a humanoid robot during a joint visit to Paris's AI & Society Summit, a diplomatic event focused on international AI governance frameworks. The robot — a French-developed system from a startup affiliated with Paris-Saclay — demonstrated real-time multilingual dialogue and gesture mirroring. The optics underscored how humanoid robots are increasingly being deployed as soft-power showcases at high-level political events.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Diplomacy",
+        "Humanoid",
+        "AI Governance"
+      ],
+      "timestamp": "2026-04-12T01:30:00Z"
+    },
+    {
+      "id": "art-20260413-20",
+      "title": "Open-Source Bimo Bipedal Kit Reaches v1.0: DIY Humanoid for $800 in Parts",
+      "summary": "An independent robotics engineer has released v1.0 of the Bimo Robotics Kit, a fully open-source bipedal robot that can be assembled from commodity 3D-printed parts and off-the-shelf servo motors for approximately $800. Shared via Reddit's r/robotics community, the project has attracted over 2,000 GitHub stars within 48 hours of release. Bimo uses a simplified PD balance controller and supports ROS 2 Humble, making it accessible to researchers, hobbyists, and university labs that lack budgets for commercial humanoid platforms.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics",
+      "tags": [
+        "Open Source",
+        "DIY",
+        "Bipedal"
+      ],
+      "timestamp": "2026-04-12T00:30:00Z"
+    }
+  ]
+}

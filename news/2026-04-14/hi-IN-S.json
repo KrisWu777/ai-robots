@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-14",
+  "featured": {
+    "id": "featured-20260414",
+    "title": "Chery $42,000 में consumer humanoid robot बेचने वाली पहली automaker बनी — mass-market embodied AI के नए era का signal",
+    "summary": "Chery Automobile ने लगभग $42,000 की price पर एक consumer humanoid robot launch किया, जो home robot market में enter करने वाला पहला traditional automaker बन गया। Robot में bimanual manipulation, natural language interaction और household task assistance की capability है।",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/13/chinese-automaker-chery-begins-selling-humanoid-robot-to-consumers-for-42000-each",
+    "tags": [
+      "Chery",
+      "Humanoid",
+      "Consumer",
+      "China"
+    ],
+    "timestamp": "2026-04-13T09:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260414-01",
+      "title": "KUKA ने Automation 2.0 strategy launch की: AI-powered robot cloud platform से industrial manufacturing को reshape किया",
+      "summary": "KUKA Robotics ने अपनी नई 'Automation 2.0' strategy present की जो AI-native cloud platform को industrial robot ecosystem के center में रखती है। नया platform factories के बीच robot coordination support करता है और digital twin के through scheduling optimize करता है।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/kuka-outlines-automation-2-0-strategy-combining-ai-software-with-industrial-robotics",
+      "tags": [
+        "Kuka",
+        "Industrial",
+        "AI"
+      ],
+      "timestamp": "2026-04-13T08:30:00Z"
+    },
+    {
+      "id": "art-20260414-02",
+      "title": "Hyundai ने US में $26 billion investment announce की जिसमें robotics और EV factory शामिल हैं",
+      "summary": "Hyundai Group ने US में $26 billion का बड़ा investment announce किया, जिसमें Georgia में एक dedicated robot manufacturing factory और Boston Dynamics के next-generation Atlas robots के mass production के plans शामिल हैं।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "UPI / National Today",
+      "url": "https://www.upi.com",
+      "tags": [
+        "Hyundai",
+        "Boston Dynamics",
+        "Investment"
+      ],
+      "timestamp": "2026-04-13T07:00:00Z"
+    },
+    {
+      "id": "art-20260414-03",
+      "title": "100 से ज्यादा robots ने Beijing marathon के लिए night tests complete किए — collective robot running का record",
+      "summary": "Beijing humanoid robot half-marathon शुरू होने में कुछ weeks बाकी हैं और 100 से अधिक robots ने urban streets पर stress tests complete किए। Night test ने dynamic crowd में real-time obstacle avoidance ability का भी evaluation किया।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "eWeek / NBC News",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Humanoid",
+        "Half-Marathon",
+        "Beijing"
+      ],
+      "timestamp": "2026-04-13T06:30:00Z"
+    },
+    {
+      "id": "art-20260414-04",
+      "title": "Taiwan ने humanoid robot global manufacturing hub बनने के लिए $629 million robotics center announce किया",
+      "summary": "Taiwan government ने $600 million से अधिक के national robotics research और production center construction announce किया, जो humanoid robots और industrial automation पर focused होगा।",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/taiwan-launches-national-robotics-center-with-629-million-startup-funding-plan",
+      "tags": [
+        "Taiwan",
+        "Policy",
+        "Funding"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    },
+    {
+      "id": "art-20260414-05",
+      "title": "Locus Robotics ने Array platform launch किया: warehouse robot fleet management के लिए single software stack",
+      "summary": "Locus Robotics ने Array platform present किया जो unified interface से multiple brands और models के robots manage करने की facility देता है, warehouse automation में vendor lock-in eliminate करता है।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "The Robot Report / Supply & Demand Chain Executive",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T07:30:00Z"
+    },
+    {
+      "id": "art-20260414-06",
+      "title": "South Korea के KAIST का quadruped robot disasters में debris में autonomously navigate करके survivors को rescue करता है",
+      "summary": "Korean Institute of Science and Technology (KAIST) ने disaster response के लिए designed एक quadruped robot demonstrate किया जो collapsed buildings के debris में autonomously navigate कर सकता है।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=800&h=500&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "KAIST",
+        "Quadruped",
+        "Search and Rescue"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-07",
+      "title": "Hong Kong के humanoid robot ने boxing demo किया — unstructured dynamic environment में real-time perception दिखाई",
+      "summary": "Hong Kong Science Park ने एक humanoid robot का video show किया जो एक human के साथ boxing practice करता है और real-time में fast-moving opponent को track करता है।",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&h=500&fit=crop",
+      "source": "TechXplore / AP",
+      "url": "https://techxplore.com/news/2026-04-humanoid-robots-language-skills-hong.html",
+      "tags": [
+        "UBTech",
+        "Humanoid",
+        "Hong Kong"
+      ],
+      "timestamp": "2026-04-13T04:30:00Z"
+    },
+    {
+      "id": "art-20260414-08",
+      "title": "Forbes survey: 88% robotics projects initial deployment stage में fail होते हैं — और solution क्या है",
+      "summary": "Forbes research ने find किया कि corporate robot automation projects को early failure का high risk है, system integration, employee training और process redesign main reasons हैं।",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Forbes",
+      "url": "https://www.forbes.com",
+      "tags": [
+        "Humanoid",
+        "Research",
+        "Home Robotics"
+      ],
+      "timestamp": "2026-04-13T06:00:00Z"
+    },
+    {
+      "id": "art-20260414-09",
+      "title": "Polish farmer ने wild boars को भगाने के लिए humanoid robot use किया, fencing costs में thousands की savings",
+      "summary": "एक Polish farmer ने traditional fences की जगह acoustic और visual deterrence से wild boars को भगाने वाले humanoid robot use किया, हर साल thousands of euros की savings की।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "7NEWS / Futurism",
+      "url": "https://futurism.com",
+      "tags": [
+        "Humanoid",
+        "Wildlife",
+        "Poland"
+      ],
+      "timestamp": "2026-04-13T05:30:00Z"
+    },
+    {
+      "id": "art-20260414-10",
+      "title": "Shenzhen ने पहली fully automated humanoid robot production line start की, per day 100 से अधिक units",
+      "summary": "Shenzhen के एक robot manufacturer ने per day 100 से अधिक units की capacity वाली humanoid robots की fully automated assembly line के operation announce किया।",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Macao News",
+      "url": "https://macaonews.org",
+      "tags": [
+        "Shenzhen",
+        "China",
+        "Manufacturing"
+      ],
+      "timestamp": "2026-04-13T04:00:00Z"
+    },
+    {
+      "id": "art-20260414-11",
+      "title": "South Korean army ने reconnaissance और combat के लिए modular platforms के साथ robot soldiers deploy किए",
+      "summary": "South Korea के Defense Ministry ने border areas में robot soldier pilot project announce किया, reconnaissance, logistics और combat support missions के लिए modular unmanned systems deploy किए।",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com",
+      "tags": [
+        "Military",
+        "South Korea",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T03:30:00Z"
+    },
+    {
+      "id": "art-20260414-12",
+      "title": "Kia ने robotics strategy present की: embodied AI systems के mass production के लिए automotive manufacturing capabilities use",
+      "summary": "Kia Motors ने अपना robotics strategic vision present किया, robots के mass production में automotive-grade manufacturing processes और quality standards apply करने के plans के साथ।",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "AI Business",
+      "url": "https://aibusiness.com",
+      "tags": [
+        "Kia",
+        "Humanoid",
+        "Delivery"
+      ],
+      "timestamp": "2026-04-13T03:00:00Z"
+    },
+    {
+      "id": "art-20260414-13",
+      "title": "PeritasAI और NVIDIA ने AI surgical assistant launch किया जो operations के दौरान real-time में surgeons को guide करता है",
+      "summary": "PeritasAI और NVIDIA ने NVIDIA Holoscan edge AI platform पर एक surgical real-time guidance system develop किया जो operations के दौरान evidence-based best practices recommend कर सकता है।",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / PeritasAI",
+      "url": "https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_real_time_ai",
+      "tags": [
+        "Surgical Robot",
+        "NVIDIA",
+        "Medical AI"
+      ],
+      "timestamp": "2026-04-13T02:30:00Z"
+    },
+    {
+      "id": "art-20260414-14",
+      "title": "Transitive 2.0 open source release: multi-vendor robot deployment के लिए unified framework",
+      "summary": "Transitive Robotics ने अपने open-source framework का version 2.0 release किया, जो different brands और models के robots के लिए standardized integration interfaces और unified management provide करता है।",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Open Source",
+        "Fleet Management",
+        "Transitive"
+      ],
+      "timestamp": "2026-04-13T02:00:00Z"
+    },
+    {
+      "id": "art-20260414-15",
+      "title": "New randomness algorithm ने robot grid deadlock problem solve किया, efficiency में 40% improvement",
+      "summary": "Researchers ने एक new randomization-based algorithm propose किया जो multi-robot systems में grid deadlock problems effectively solve करता है, scheduling efficiency में approximately 40% improvement करता है।",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com",
+      "tags": [
+        "Algorithm",
+        "Warehouse",
+        "Research"
+      ],
+      "timestamp": "2026-04-13T01:30:00Z"
+    },
+    {
+      "id": "art-20260414-16",
+      "title": "RoboSense को next-generation robot perception systems के लिए $26 million LiDAR order मिला",
+      "summary": "RoboSense ने $26 million value का automotive-grade LiDAR purchase order announce किया, जो autonomous driving और humanoid robots दोनों के perception systems में use के लिए है।",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "Sensors"
+      ],
+      "timestamp": "2026-04-13T01:00:00Z"
+    },
+    {
+      "id": "art-20260414-17",
+      "title": "Huayan Robotics ने Hannover Messe में robotics solutions present किए, industrial automation की new direction indicate की",
+      "summary": "Huayan Robotics ने 2026 Hannover Messe में electronic manufacturing, logistics sorting और precision assembly के लिए next-generation robotics solutions present किए।",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "Business Insider Markets",
+      "url": "https://markets.businessinsider.com",
+      "tags": [
+        "Huayan",
+        "HANNOVER MESSE",
+        "Europe"
+      ],
+      "timestamp": "2026-04-13T00:30:00Z"
+    },
+    {
+      "id": "art-20260414-18",
+      "title": "Boston Dynamics ने second-generation robot challenges पर reflect किया: real progress continuous deployment में है",
+      "summary": "Boston Dynamics की engineering team ने second-generation commercial robots की core technical challenges पर एक thoughtful article publish किया, confirm किया कि real environments में reliable continuous operation key metric है।",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / Boston Dynamics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skg5ki/boston_dynamics_on_why_second_gen_robots_are",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "Reliability"
+      ],
+      "timestamp": "2026-04-13T00:00:00Z"
+    },
+    {
+      "id": "art-20260414-19",
+      "title": "Ukraine की drone forces ने ground troops के बिना पहली बार only drones से prisoner capture किया",
+      "summary": "Reports के according, Ukraine की special operations forces ने पहला drone-only prisoner capture operation successfully execute किया: कई drones ने coordinated formation में ground soldiers के बिना एक Russian soldier को surrender करवाया।",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com",
+      "tags": [
+        "Military",
+        "Drone",
+        "Ukraine"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-20",
+      "title": "Tech ethics engineer ने robot ethics consultancy firm found की, companies को responsible AI frameworks build करने में help के लिए",
+      "summary": "एक major tech company के former ethics engineer ने officially एक robotics और AI ethics consultancy firm found की, जो robotic system development के लिए compliance governance frameworks में specialize करती है।",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving",
+      "tags": [
+        "Ethics",
+        "Military Robotics",
+        "Community"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    }
+  ]
+}

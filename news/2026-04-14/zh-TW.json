@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-14",
+  "featured": {
+    "id": "featured-20260414",
+    "title": "奇瑞成為首家銷售消費級人形機器人的汽車製造商，售價約4.2萬美元——標誌著大眾化具身AI新紀元到來",
+    "summary": "奇瑞汽車宣布推出售價約4.2萬美元的消費級人形機器人，成為首家進軍家用機器人市場的傳統汽車製造商。這款機器人具備雙臂操作、自然語言互動及家務輔助能力，標誌著人形機器人從工業應用邁向消費普及的重要轉折點。",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/13/chinese-automaker-chery-begins-selling-humanoid-robot-to-consumers-for-42000-each",
+    "tags": [
+      "Chery",
+      "Humanoid",
+      "Consumer",
+      "China"
+    ],
+    "timestamp": "2026-04-13T09:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260414-01",
+      "title": "庫卡推出自動化2.0策略：透過AI驅動的機器人雲平台重塑工業製造",
+      "summary": "庫卡機器人發布全新「自動化2.0」策略，將AI原生雲平台置於其工業機器人生態系統的核心。新平台支援工廠之間的跨站點機器人協同，並利用數位孿生技術提升調度效率，實現真正的自適應製造。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/kuka-outlines-automation-2-0-strategy-combining-ai-software-with-industrial-robotics",
+      "tags": [
+        "Kuka",
+        "Industrial",
+        "AI"
+      ],
+      "timestamp": "2026-04-13T08:30:00Z"
+    },
+    {
+      "id": "art-20260414-02",
+      "title": "現代汽車宣布260億美元美國投資計畫，機器人與電動車工廠占據重要份額",
+      "summary": "現代汽車集團宣布在美國進行260億美元的大規模投資，其中包括在喬治亞州建設的專用機器人製造工廠，並計畫批量生產Boston Dynamics下一代Atlas機器人。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "UPI / National Today",
+      "url": "https://www.upi.com",
+      "tags": [
+        "Hyundai",
+        "Boston Dynamics",
+        "Investment"
+      ],
+      "timestamp": "2026-04-13T07:00:00Z"
+    },
+    {
+      "id": "art-20260414-03",
+      "title": "北京馬拉松逾百台機器人完成夜間測試——創下規模最大的集體機器人跑步紀錄",
+      "summary": "距北京人形機器人半程馬拉松開幕僅剩數週，逾百台機器人在城市街道上完成壓力測試。本次夜間測試同步評估了機器人在動態人群中的即時避障能力及穩定性表現。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "eWeek / NBC News",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Humanoid",
+        "Half-Marathon",
+        "Beijing"
+      ],
+      "timestamp": "2026-04-13T06:30:00Z"
+    },
+    {
+      "id": "art-20260414-04",
+      "title": "台灣宣布6.29億美元機器人研究中心建設計畫，目標成為人形機器人全球製造樞紐",
+      "summary": "台灣政府宣布斥資逾6億美元建設國家機器人研究與生產中心，重點發展人形機器人及工業自動化技術，旨在與韓國、日本爭奪全球機器人供應鏈核心地位。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/taiwan-launches-national-robotics-center-with-629-million-startup-funding-plan",
+      "tags": [
+        "Taiwan",
+        "Policy",
+        "Funding"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    },
+    {
+      "id": "art-20260414-05",
+      "title": "Locus Robotics推出Array平台：單一軟體棧統一管理倉儲機器人機群",
+      "summary": "Locus Robotics發布Array平台，支援透過統一介面管理多品牌、多型號機器人機隊，徹底打破倉儲自動化的供應商鎖定困局，並實現工作量的智能動態分配。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "The Robot Report / Supply & Demand Chain Executive",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T07:30:00Z"
+    },
+    {
+      "id": "art-20260414-06",
+      "title": "韓國KAIST研發四足機器人，可在廢墟中自主搜救倖存者",
+      "summary": "韓國科學技術院（KAIST）展示了一款專為災難應變設計的四足機器人，能夠在倒塌建築的瓦礫中自主導航，並利用多模態感測器陣列精準定位受困人員。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=800&h=500&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "KAIST",
+        "Quadruped",
+        "Search and Rescue"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-07",
+      "title": "香港人形機器人完成拳擊演示——在非結構化動態對抗中展現即時感知能力",
+      "summary": "香港科技園展示了一台人形機器人與真人進行拳擊練習的影片，機器人能夠即時追蹤快速移動的人類對手並作出動態回應，展現了當前機器人感知與控制系統的顯著進步。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&h=500&fit=crop",
+      "source": "TechXplore / AP",
+      "url": "https://techxplore.com/news/2026-04-humanoid-robots-language-skills-hong.html",
+      "tags": [
+        "UBTech",
+        "Humanoid",
+        "Hong Kong"
+      ],
+      "timestamp": "2026-04-13T04:30:00Z"
+    },
+    {
+      "id": "art-20260414-08",
+      "title": "富比士調查揭示：88%的機器人專案在初始部署階段失敗——並提出了解決之道",
+      "summary": "富比士最新研究發現，企業機器人自動化專案面臨極高的早期失敗風險，核心癥結在於系統整合、員工訓練及流程重設計等方面的不足，並提出了提升機器人部署成功率的實用解決框架。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Forbes",
+      "url": "https://www.forbes.com",
+      "tags": [
+        "Humanoid",
+        "Research",
+        "Home Robotics"
+      ],
+      "timestamp": "2026-04-13T06:00:00Z"
+    },
+    {
+      "id": "art-20260414-09",
+      "title": "波蘭農場主引入人形機器人驅趕野豬，節省了圍欄建設的高額成本",
+      "summary": "波蘭一農場主用一台人形機器人代替傳統圍欄，透過聲光威嚇成功驅離野豬群，每年節省數千歐元的圍欄及損失費用，此舉引發國際媒體廣泛關注。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "7NEWS / Futurism",
+      "url": "https://futurism.com",
+      "tags": [
+        "Humanoid",
+        "Wildlife",
+        "Poland"
+      ],
+      "timestamp": "2026-04-13T05:30:00Z"
+    },
+    {
+      "id": "art-20260414-10",
+      "title": "深圳建成首條人形機器人全自動生產線，日產能超百台",
+      "summary": "深圳一家機器人製造商宣布，其人形機器人全自動裝配線正式投入運營，日產能超過100台。這是全球首條驗證人形機器人量產可行性的商業生產線。",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Macao News",
+      "url": "https://macaonews.org",
+      "tags": [
+        "Shenzhen",
+        "China",
+        "Manufacturing"
+      ],
+      "timestamp": "2026-04-13T04:00:00Z"
+    },
+    {
+      "id": "art-20260414-11",
+      "title": "韓國軍隊部署機器人士兵：模組化平台同時支援偵察與作戰任務",
+      "summary": "韓國國防部宣布在邊境地區啟動機器人士兵試點專案，部署模組化無人系統，可在偵察、後勤支援及作戰支持等任務間靈活切換。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com",
+      "tags": [
+        "Military",
+        "South Korea",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T03:30:00Z"
+    },
+    {
+      "id": "art-20260414-12",
+      "title": "起亞發布機器人策略：將汽車製造能力複用於大規模生產具身AI系統",
+      "summary": "起亞汽車公布機器人策略願景，計畫將汽車級製造工藝和品質標準應用於機器人規模化生產，目標是在2030年代成為全球頂級機器人製造商之一。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "AI Business",
+      "url": "https://aibusiness.com",
+      "tags": [
+        "Kia",
+        "Humanoid",
+        "Delivery"
+      ],
+      "timestamp": "2026-04-13T03:00:00Z"
+    },
+    {
+      "id": "art-20260414-13",
+      "title": "PeritasAI聯合NVIDIA推出AI外科助手，可在手術中即時提示最優操作路徑",
+      "summary": "PeritasAI與NVIDIA合作，在NVIDIA Holoscan邊緣AI平台上開發了一套外科手術即時指導系統，能夠在手術進行中向術者推薦循證最優操作方案，提升手術精準度與安全性。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / PeritasAI",
+      "url": "https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_real_time_ai",
+      "tags": [
+        "Surgical Robot",
+        "NVIDIA",
+        "Medical AI"
+      ],
+      "timestamp": "2026-04-13T02:30:00Z"
+    },
+    {
+      "id": "art-20260414-14",
+      "title": "Transitive 2.0開源發布：統一框架支援多廠商機器人聯合部署",
+      "summary": "Transitive Robotics發布2.0版開源框架，實現對多品牌、多型號機器人的標準化整合介面與統一管理，大幅降低混合機器人環境的開發與維運複雜度。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Open Source",
+        "Fleet Management",
+        "Transitive"
+      ],
+      "timestamp": "2026-04-13T02:00:00Z"
+    },
+    {
+      "id": "art-20260414-15",
+      "title": "新型隨機演算法破解機器人交通網格死鎖難題，效率提升40%",
+      "summary": "研究人員提出一種基於隨機化的新演算法，可有效解決多機器人系統中常見的網格死鎖問題。在密集倉儲場景的測試中，整體調度效率提升約40%。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com",
+      "tags": [
+        "Algorithm",
+        "Warehouse",
+        "Research"
+      ],
+      "timestamp": "2026-04-13T01:30:00Z"
+    },
+    {
+      "id": "art-20260414-16",
+      "title": "速騰聚創斬獲2600萬美元車規級雷射雷達大訂單，助力下一代機器人感知系統",
+      "summary": "速騰聚創宣布獲得價值2600萬美元的車規級雷射雷達採購訂單，產品將同時應用於自動駕駛和人形機器人的感知系統，凸顯雷射雷達技術在兩大市場的戰略價值。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "Sensors"
+      ],
+      "timestamp": "2026-04-13T01:00:00Z"
+    },
+    {
+      "id": "art-20260414-17",
+      "title": "華燕智能攜多款機器人亮相漢諾威工業博覽會，展示工業自動化新方向",
+      "summary": "華燕智能在2026年漢諾威工業博覽會上展示了面向電子製造、物流分揀和精密裝配等場景的新一代機器人解決方案，受到全球工業界的廣泛關注。",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "Business Insider Markets",
+      "url": "https://markets.businessinsider.com",
+      "tags": [
+        "Huayan",
+        "HANNOVER MESSE",
+        "Europe"
+      ],
+      "timestamp": "2026-04-13T00:30:00Z"
+    },
+    {
+      "id": "art-20260414-18",
+      "title": "Boston Dynamics談第二代機器人挑戰：真正的進步在於持續部署而非一次性演示",
+      "summary": "Boston Dynamics工程團隊發表深度文章，探討第二代商用機器人面臨的核心技術挑戰，重申公司判斷機器人能力的核心指標不是實驗室演示，而是在真實環境中的可靠持續運行。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / Boston Dynamics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skg5ki/boston_dynamics_on_why_second_gen_robots_are",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "Reliability"
+      ],
+      "timestamp": "2026-04-13T00:00:00Z"
+    },
+    {
+      "id": "art-20260414-19",
+      "title": "烏克蘭無人機部隊首次實現僅用無人機捕俘——無需地面部隊介入",
+      "summary": "據報道，烏克蘭特種作戰部隊成功實施首次純無人機捕俘行動：多架無人機協同編隊，在無地面士兵參與的情況下，將一名俄羅斯士兵逼降並護送至控制區。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com",
+      "tags": [
+        "Military",
+        "Drone",
+        "Ukraine"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-20",
+      "title": "科技倫理工程師創立機器人倫理諮詢公司，協助企業構建負責任的AI部署框架",
+      "summary": "一位前大型科技公司倫理工程師正式創立機器人與AI倫理諮詢公司，專注於為機器人系統開發提供合規治理框架，將倫理評估無縫嵌入企業產品迭代流程。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving",
+      "tags": [
+        "Ethics",
+        "Military Robotics",
+        "Community"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    }
+  ]
+}

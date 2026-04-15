@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-14",
+  "featured": {
+    "id": "featured-20260414",
+    "title": "चेरी $42,000 में उपभोक्ता ह्यूमनॉइड रोबोट बेचने वाली पहली ऑटोमेकर बनी — मास-मार्केट एम्बॉडीड AI के नए युग का संकेत",
+    "summary": "चेरी ऑटोमोबाइल ने लगभग $42,000 की कीमत पर एक उपभोक्ता ह्यूमनॉइड रोबोट लॉन्च किया, जो घरेलू रोबोट बाजार में प्रवेश करने वाला पहला पारंपरिक ऑटोमेकर बन गया। रोबोट में बायमैनुअल मैनिपुलेशन, प्राकृतिक भाषा इंटरैक्शन और घरेलू कार्यों में सहायता की क्षमता है।",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/13/chinese-automaker-chery-begins-selling-humanoid-robot-to-consumers-for-42000-each",
+    "tags": [
+      "Chery",
+      "Humanoid",
+      "Consumer",
+      "China"
+    ],
+    "timestamp": "2026-04-13T09:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260414-01",
+      "title": "KUKA ने Automation 2.0 रणनीति लॉन्च की: AI-संचालित रोबोट क्लाउड प्लेटफॉर्म से औद्योगिक विनिर्माण का पुनर्निर्माण",
+      "summary": "KUKA Robotics ने अपनी नई 'Automation 2.0' रणनीति पेश की, जो AI-नेटिव क्लाउड प्लेटफॉर्म को अपने औद्योगिक रोबोट इकोसिस्टम के केंद्र में रखती है। नया प्लेटफॉर्म कारखानों के बीच रोबोट समन्वय का समर्थन करता है और डिजिटल ट्विन के माध्यम से शेड्यूलिंग को अनुकूलित करता है।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/kuka-outlines-automation-2-0-strategy-combining-ai-software-with-industrial-robotics",
+      "tags": [
+        "Kuka",
+        "Industrial",
+        "AI"
+      ],
+      "timestamp": "2026-04-13T08:30:00Z"
+    },
+    {
+      "id": "art-20260414-02",
+      "title": "Hyundai ने अमेरिका में $26 बिलियन निवेश की घोषणा की जिसमें रोबोटिक्स और EV फैक्ट्री शामिल",
+      "summary": "Hyundai Group ने अमेरिका में $26 बिलियन का बड़ा निवेश घोषित किया, जिसमें जॉर्जिया में एक समर्पित रोबोट विनिर्माण कारखाना और Boston Dynamics के अगली पीढ़ी के Atlas रोबोट के बड़े पैमाने पर उत्पादन की योजना शामिल है।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "UPI / National Today",
+      "url": "https://www.upi.com",
+      "tags": [
+        "Hyundai",
+        "Boston Dynamics",
+        "Investment"
+      ],
+      "timestamp": "2026-04-13T07:00:00Z"
+    },
+    {
+      "id": "art-20260414-03",
+      "title": "100 से अधिक रोबोट ने बीजिंग मैराथन के लिए रात्रि परीक्षण पूरे किए — सामूहिक रोबोट रनिंग का रिकॉर्ड",
+      "summary": "बीजिंग ह्यूमनॉइड रोबोट हाफ-मैराथन शुरू होने में कुछ सप्ताह बचे हैं, और 100 से अधिक रोबोट ने शहरी सड़कों पर तनाव परीक्षण पूरे किए। रात्रि परीक्षण ने गतिशील भीड़ में रियल-टाइम बाधा से बचने की क्षमता का भी मूल्यांकन किया।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "eWeek / NBC News",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Humanoid",
+        "Half-Marathon",
+        "Beijing"
+      ],
+      "timestamp": "2026-04-13T06:30:00Z"
+    },
+    {
+      "id": "art-20260414-04",
+      "title": "ताइवान ने ह्यूमनॉइड रोबोट के वैश्विक विनिर्माण केंद्र बनने के लिए $629 मिलियन रोबोटिक्स केंद्र की घोषणा की",
+      "summary": "ताइवान सरकार ने $600 मिलियन से अधिक के राष्ट्रीय रोबोटिक्स अनुसंधान और उत्पादन केंद्र के निर्माण की घोषणा की, जो ह्यूमनॉइड रोबोट और औद्योगिक स्वचालन पर केंद्रित होगा।",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/taiwan-launches-national-robotics-center-with-629-million-startup-funding-plan",
+      "tags": [
+        "Taiwan",
+        "Policy",
+        "Funding"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    },
+    {
+      "id": "art-20260414-05",
+      "title": "Locus Robotics ने Array प्लेटफॉर्म लॉन्च किया: गोदाम रोबोट बेड़े प्रबंधन के लिए एकल सॉफ्टवेयर स्टैक",
+      "summary": "Locus Robotics ने Array प्लेटफॉर्म पेश किया जो एकीकृत इंटरफेस से कई ब्रांड और मॉडल के रोबोट प्रबंधित करने की सुविधा देता है, गोदाम स्वचालन में वेंडर लॉक-इन को समाप्त करता है।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "The Robot Report / Supply & Demand Chain Executive",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T07:30:00Z"
+    },
+    {
+      "id": "art-20260414-06",
+      "title": "दक्षिण कोरिया के KAIST का चतुष्पाद रोबोट आपदाओं में मलबे में स्वायत्त रूप से नेविगेट करके बचे लोगों को बचाता है",
+      "summary": "कोरियाई विज्ञान और प्रौद्योगिकी संस्थान (KAIST) ने आपदा प्रतिक्रिया के लिए डिज़ाइन किया गया एक चतुष्पाद रोबोट प्रदर्शित किया जो ध्वस्त इमारतों के मलबे में स्वायत्त रूप से नेविगेट कर सकता है।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=800&h=500&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "KAIST",
+        "Quadruped",
+        "Search and Rescue"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-07",
+      "title": "हांगकांग के ह्यूमनॉइड रोबोट ने बॉक्सिंग डेमो किया — अनस्ट्रक्चर्ड डायनामिक वातावरण में रियल-टाइम पर्सेप्शन दिखाई",
+      "summary": "हांगकांग साइंस पार्क ने एक ह्यूमनॉइड रोबोट का वीडियो दिखाया जो एक इंसान के साथ बॉक्सिंग प्रैक्टिस करता है और रियल-टाइम में तेज गति से चलने वाले प्रतिद्वंद्वी को ट्रैक करता है।",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&h=500&fit=crop",
+      "source": "TechXplore / AP",
+      "url": "https://techxplore.com/news/2026-04-humanoid-robots-language-skills-hong.html",
+      "tags": [
+        "UBTech",
+        "Humanoid",
+        "Hong Kong"
+      ],
+      "timestamp": "2026-04-13T04:30:00Z"
+    },
+    {
+      "id": "art-20260414-08",
+      "title": "Forbes सर्वेक्षण: 88% रोबोटिक्स प्रोजेक्ट प्रारंभिक तैनाती चरण में विफल होते हैं — और समाधान क्या है",
+      "summary": "Forbes के शोध ने पाया कि कॉर्पोरेट रोबोट ऑटोमेशन प्रोजेक्ट को जल्दी विफलता का उच्च जोखिम है, सिस्टम इंटीग्रेशन, कर्मचारी प्रशिक्षण और प्रक्रिया पुनर्डिजाइन मुख्य कारण हैं।",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Forbes",
+      "url": "https://www.forbes.com",
+      "tags": [
+        "Humanoid",
+        "Research",
+        "Home Robotics"
+      ],
+      "timestamp": "2026-04-13T06:00:00Z"
+    },
+    {
+      "id": "art-20260414-09",
+      "title": "पोलिश किसान ने जंगली सूअरों को भगाने के लिए ह्यूमनॉइड रोबोट का उपयोग किया, बाड़ की लागत में हजारों की बचत की",
+      "summary": "एक पोलिश किसान ने पारंपरिक बाड़ की जगह ध्वनिक और दृश्य निवारण से जंगली सूअरों को भगाने वाले ह्यूमनॉइड रोबोट का उपयोग किया, जिससे हर साल हजारों यूरो की बचत हुई।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "7NEWS / Futurism",
+      "url": "https://futurism.com",
+      "tags": [
+        "Humanoid",
+        "Wildlife",
+        "Poland"
+      ],
+      "timestamp": "2026-04-13T05:30:00Z"
+    },
+    {
+      "id": "art-20260414-10",
+      "title": "शेनझेन ने पहली पूरी तरह से स्वचालित ह्यूमनॉइड रोबोट उत्पादन लाइन शुरू की, प्रति दिन 100 से अधिक इकाइयां",
+      "summary": "शेनझेन के एक रोबोट निर्माता ने प्रति दिन 100 से अधिक इकाइयों की क्षमता वाली ह्यूमनॉइड रोबोट की पूरी तरह से स्वचालित असेंबली लाइन के संचालन की घोषणा की।",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Macao News",
+      "url": "https://macaonews.org",
+      "tags": [
+        "Shenzhen",
+        "China",
+        "Manufacturing"
+      ],
+      "timestamp": "2026-04-13T04:00:00Z"
+    },
+    {
+      "id": "art-20260414-11",
+      "title": "दक्षिण कोरियाई सेना ने टोही और युद्ध के लिए मॉड्यूलर प्लेटफॉर्म के साथ रोबोट सैनिकों को तैनात किया",
+      "summary": "दक्षिण कोरिया के रक्षा मंत्रालय ने सीमावर्ती क्षेत्रों में रोबोट सैनिक पायलट परियोजना की घोषणा की, टोही, रसद और युद्ध समर्थन मिशनों के लिए मॉड्यूलर मानवरहित प्रणालियां तैनात की।",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com",
+      "tags": [
+        "Military",
+        "South Korea",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T03:30:00Z"
+    },
+    {
+      "id": "art-20260414-12",
+      "title": "Kia ने रोबोटिक्स रणनीति प्रस्तुत की: एम्बॉडीड AI सिस्टम के बड़े पैमाने पर उत्पादन के लिए ऑटोमोटिव विनिर्माण क्षमताओं का उपयोग",
+      "summary": "Kia Motors ने अपना रोबोटिक्स रणनीतिक दृष्टिकोण प्रस्तुत किया, रोबोट के बड़े पैमाने पर उत्पादन में ऑटोमोटिव-ग्रेड विनिर्माण प्रक्रियाओं और गुणवत्ता मानकों को लागू करने की योजना बनाई।",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "AI Business",
+      "url": "https://aibusiness.com",
+      "tags": [
+        "Kia",
+        "Humanoid",
+        "Delivery"
+      ],
+      "timestamp": "2026-04-13T03:00:00Z"
+    },
+    {
+      "id": "art-20260414-13",
+      "title": "PeritasAI और NVIDIA ने AI सर्जिकल असिस्टेंट लॉन्च किया जो ऑपरेशन के दौरान रियल-टाइम में सर्जनों को गाइड करता है",
+      "summary": "PeritasAI और NVIDIA ने NVIDIA Holoscan एज AI प्लेटफॉर्म पर एक सर्जिकल रियल-टाइम गाइडेंस सिस्टम विकसित किया जो ऑपरेशन के दौरान साक्ष्य-आधारित सर्वोत्तम प्रथाओं की सिफारिश कर सकता है।",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / PeritasAI",
+      "url": "https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_real_time_ai",
+      "tags": [
+        "Surgical Robot",
+        "NVIDIA",
+        "Medical AI"
+      ],
+      "timestamp": "2026-04-13T02:30:00Z"
+    },
+    {
+      "id": "art-20260414-14",
+      "title": "Transitive 2.0 ओपन सोर्स के रूप में जारी: मल्टी-वेंडर रोबोट तैनाती के लिए एकीकृत ढांचा",
+      "summary": "Transitive Robotics ने अपने ओपन-सोर्स फ्रेमवर्क का संस्करण 2.0 जारी किया, जो विभिन्न ब्रांड और मॉडल के रोबोट के लिए मानकीकृत एकीकरण इंटरफेस और एकीकृत प्रबंधन प्रदान करता है।",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Open Source",
+        "Fleet Management",
+        "Transitive"
+      ],
+      "timestamp": "2026-04-13T02:00:00Z"
+    },
+    {
+      "id": "art-20260414-15",
+      "title": "नए रैंडमनेस एल्गोरिदम ने रोबोट ग्रिड डेडलॉक समस्या को हल किया, दक्षता में 40% सुधार",
+      "summary": "शोधकर्ताओं ने एक नया रैंडमाइजेशन-आधारित एल्गोरिदम प्रस्तावित किया जो मल्टी-रोबोट सिस्टम में ग्रिड डेडलॉक समस्याओं को प्रभावी ढंग से हल करता है, शेड्यूलिंग दक्षता में लगभग 40% सुधार करता है।",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com",
+      "tags": [
+        "Algorithm",
+        "Warehouse",
+        "Research"
+      ],
+      "timestamp": "2026-04-13T01:30:00Z"
+    },
+    {
+      "id": "art-20260414-16",
+      "title": "RoboSense ने अगली पीढ़ी के रोबोट पर्सेप्शन सिस्टम के लिए $26 मिलियन LiDAR ऑर्डर प्राप्त किया",
+      "summary": "RoboSense ने $26 मिलियन मूल्य के ऑटोमोटिव-ग्रेड LiDAR खरीद ऑर्डर की घोषणा की, जो ऑटोनॉमस ड्राइविंग और ह्यूमनॉइड रोबोट दोनों के पर्सेप्शन सिस्टम में उपयोग के लिए है।",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "Sensors"
+      ],
+      "timestamp": "2026-04-13T01:00:00Z"
+    },
+    {
+      "id": "art-20260414-17",
+      "title": "Huayan Robotics ने Hannover Messe में रोबोटिक्स समाधान प्रस्तुत किए, औद्योगिक स्वचालन की नई दिशा का संकेत",
+      "summary": "Huayan Robotics ने 2026 Hannover Messe में इलेक्ट्रॉनिक विनिर्माण, लॉजिस्टिक्स सॉर्टिंग और सटीक असेंबली के लिए अगली पीढ़ी के रोबोटिक्स समाधान प्रस्तुत किए।",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "Business Insider Markets",
+      "url": "https://markets.businessinsider.com",
+      "tags": [
+        "Huayan",
+        "HANNOVER MESSE",
+        "Europe"
+      ],
+      "timestamp": "2026-04-13T00:30:00Z"
+    },
+    {
+      "id": "art-20260414-18",
+      "title": "Boston Dynamics ने दूसरी पीढ़ी के रोबोट चुनौतियों पर विचार किया: वास्तविक प्रगति निरंतर तैनाती में है",
+      "summary": "Boston Dynamics की इंजीनियरिंग टीम ने दूसरी पीढ़ी के वाणिज्यिक रोबोट की मुख्य तकनीकी चुनौतियों पर एक विचारशील लेख प्रकाशित किया, पुष्टि की कि वास्तविक वातावरण में विश्वसनीय निरंतर संचालन मुख्य मीट्रिक है।",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / Boston Dynamics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skg5ki/boston_dynamics_on_why_second_gen_robots_are",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "Reliability"
+      ],
+      "timestamp": "2026-04-13T00:00:00Z"
+    },
+    {
+      "id": "art-20260414-19",
+      "title": "यूक्रेन की ड्रोन सेना ने जमीनी सैनिकों के बिना पहली बार केवल ड्रोन से कैदी बनाया",
+      "summary": "रिपोर्ट के अनुसार, यूक्रेन की विशेष अभियान सेनाओं ने पहला केवल-ड्रोन कैदी-कब्जे का ऑपरेशन सफलतापूर्वक अंजाम दिया: कई ड्रोनों ने समन्वित गठन में जमीनी सैनिकों के बिना एक रूसी सैनिक को आत्मसमर्पण करवाया।",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com",
+      "tags": [
+        "Military",
+        "Drone",
+        "Ukraine"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-20",
+      "title": "टेक एथिक्स इंजीनियर ने रोबोट एथिक्स कंसल्टेंसी फर्म की स्थापना की, कंपनियों को जिम्मेदार AI ढांचे बनाने में मदद करने के लिए",
+      "summary": "एक प्रमुख टेक कंपनी के पूर्व एथिक्स इंजीनियर ने आधिकारिक तौर पर एक रोबोटिक्स और AI एथिक्स कंसल्टेंसी फर्म की स्थापना की, जो रोबोटिक सिस्टम विकास के लिए अनुपालन प्रशासन ढांचे में विशेषज्ञता रखती है।",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving",
+      "tags": [
+        "Ethics",
+        "Military Robotics",
+        "Community"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    }
+  ]
+}

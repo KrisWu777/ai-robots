@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-14",
+  "featured": {
+    "id": "featured-20260414",
+    "title": "Chery se torna o primeiro fabricante de automóveis a vender robô humanoide de consumo a US$ 42.000 — sinal de uma nova era para IA incorporada em massa",
+    "summary": "A Chery Automobile anunciou um robô humanoide de consumo com preço de cerca de US$ 42.000, tornando-se o primeiro fabricante de automóveis tradicional a entrar no mercado de robôs domésticos. O robô conta com manipulação bimanual, interação em linguagem natural e assistência em tarefas domésticas.",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/13/chinese-automaker-chery-begins-selling-humanoid-robot-to-consumers-for-42000-each",
+    "tags": [
+      "Chery",
+      "Humanoid",
+      "Consumer",
+      "China"
+    ],
+    "timestamp": "2026-04-13T09:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260414-01",
+      "title": "Kuka lança estratégia Automation 2.0: remodela fabricação industrial com plataforma robótica em nuvem orientada por IA",
+      "summary": "A Kuka Robotics apresentou sua nova estratégia 'Automation 2.0', colocando uma plataforma em nuvem nativa de IA no núcleo de seu ecossistema de robôs industriais. A nova plataforma permite coordenação robótica entre plantas e otimiza o agendamento via gêmeos digitais.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/kuka-outlines-automation-2-0-strategy-combining-ai-software-with-industrial-robotics",
+      "tags": [
+        "Kuka",
+        "Industrial",
+        "AI"
+      ],
+      "timestamp": "2026-04-13T08:30:00Z"
+    },
+    {
+      "id": "art-20260414-02",
+      "title": "Hyundai anuncia investimento de US$ 26 bilhões nos EUA com foco em fabricação robótica e de veículos elétricos",
+      "summary": "O Grupo Hyundai anunciou um investimento de US$ 26 bilhões nos EUA, incluindo uma fábrica dedicada a robôs na Geórgia e planos para produzir em massa a próxima geração de robôs Atlas da Boston Dynamics.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "UPI / National Today",
+      "url": "https://www.upi.com",
+      "tags": [
+        "Hyundai",
+        "Boston Dynamics",
+        "Investment"
+      ],
+      "timestamp": "2026-04-13T07:00:00Z"
+    },
+    {
+      "id": "art-20260414-03",
+      "title": "Mais de 100 robôs completam testes noturnos para a maratona de Pequim, estabelecendo um recorde coletivo",
+      "summary": "A poucas semanas do início da meia-maratona de robôs humanoides de Pequim, mais de cem robôs realizaram testes de estresse nas ruas urbanas. O teste noturno também avaliou a evasão de obstáculos em tempo real entre multidões dinâmicas.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "eWeek / NBC News",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Humanoid",
+        "Half-Marathon",
+        "Beijing"
+      ],
+      "timestamp": "2026-04-13T06:30:00Z"
+    },
+    {
+      "id": "art-20260414-04",
+      "title": "Taiwan anuncia centro robótico de US$ 629 milhões para se tornar hub global de fabricação de robôs humanoides",
+      "summary": "O governo de Taiwan anunciou a construção de um centro nacional de pesquisa e produção robótica por mais de US$ 600 milhões, com foco em robôs humanoides e automação industrial.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/taiwan-launches-national-robotics-center-with-629-million-startup-funding-plan",
+      "tags": [
+        "Taiwan",
+        "Policy",
+        "Funding"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    },
+    {
+      "id": "art-20260414-05",
+      "title": "Locus Robotics lança plataforma Array: uma única pilha de software para gerenciar frotas de robôs de armazém",
+      "summary": "A Locus Robotics apresentou a plataforma Array, que permite gerenciar robôs de múltiplas marcas e modelos a partir de uma interface unificada, eliminando a dependência de fornecedor na automação de armazéns.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "The Robot Report / Supply & Demand Chain Executive",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T07:30:00Z"
+    },
+    {
+      "id": "art-20260414-06",
+      "title": "Quadrúpede do KAIST da Coreia navega escombros de forma autônoma para resgatar sobreviventes em desastres",
+      "summary": "O Instituto Coreano de Ciência e Tecnologia (KAIST) apresentou um robô quadrúpede projetado para resposta a desastres, capaz de navegar de forma autônoma nos escombros de edifícios desabados e localizar pessoas presas.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=800&h=500&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "KAIST",
+        "Quadruped",
+        "Search and Rescue"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-07",
+      "title": "Robô humanoide de Hong Kong realiza demonstração de boxe mostrando percepção em tempo real em ambientes dinâmicos",
+      "summary": "O Hong Kong Science Park apresentou um vídeo de um robô humanoide praticando boxe com um humano, rastreando em tempo real um oponente humano em movimento rápido.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&h=500&fit=crop",
+      "source": "TechXplore / AP",
+      "url": "https://techxplore.com/news/2026-04-humanoid-robots-language-skills-hong.html",
+      "tags": [
+        "UBTech",
+        "Humanoid",
+        "Hong Kong"
+      ],
+      "timestamp": "2026-04-13T04:30:00Z"
+    },
+    {
+      "id": "art-20260414-08",
+      "title": "Estudo da Forbes revela que 88% dos projetos robóticos falham na fase inicial de implantação",
+      "summary": "Uma pesquisa da Forbes descobriu que os projetos de automação robótica corporativa têm alto risco de falha precoce, sendo integração de sistemas, treinamento de funcionários e redesenho de processos as principais causas.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Forbes",
+      "url": "https://www.forbes.com",
+      "tags": [
+        "Humanoid",
+        "Research",
+        "Home Robotics"
+      ],
+      "timestamp": "2026-04-13T06:00:00Z"
+    },
+    {
+      "id": "art-20260414-09",
+      "title": "Fazendeiro polonês usa robô humanoide para assustar javalis, economizando milhares em custos de cerca",
+      "summary": "Um fazendeiro polonês substituiu cercas tradicionais por um robô humanoide que assusta javalis por meio de dissuasão acústica e visual, economizando milhares de euros por ano.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "7NEWS / Futurism",
+      "url": "https://futurism.com",
+      "tags": [
+        "Humanoid",
+        "Wildlife",
+        "Poland"
+      ],
+      "timestamp": "2026-04-13T05:30:00Z"
+    },
+    {
+      "id": "art-20260414-10",
+      "title": "Shenzhen inaugura primeira linha de produção totalmente automatizada de robôs humanoides com mais de 100 unidades por dia",
+      "summary": "Um fabricante de robôs de Shenzhen anunciou a inauguração de uma linha de montagem totalmente automatizada para robôs humanoides com capacidade de mais de 100 unidades por dia.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Macao News",
+      "url": "https://macaonews.org",
+      "tags": [
+        "Shenzhen",
+        "China",
+        "Manufacturing"
+      ],
+      "timestamp": "2026-04-13T04:00:00Z"
+    },
+    {
+      "id": "art-20260414-11",
+      "title": "Exército sul-coreano implanta soldados robóticos com plataformas modulares para reconhecimento e combate",
+      "summary": "O Ministério da Defesa da Coreia do Sul anunciou um projeto piloto de soldados robóticos em zonas de fronteira, implantando sistemas não tripulados modulares para missões de reconhecimento, logística e apoio ao combate.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com",
+      "tags": [
+        "Military",
+        "South Korea",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T03:30:00Z"
+    },
+    {
+      "id": "art-20260414-12",
+      "title": "Kia apresenta estratégia robótica: reutilizar capacidades de fabricação automotiva para produzir sistemas de IA corpórea em escala",
+      "summary": "A Kia Motors apresentou sua visão estratégica robótica, com planos para aplicar processos de fabricação e padrões de qualidade automotivos à produção em escala de robôs.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "AI Business",
+      "url": "https://aibusiness.com",
+      "tags": [
+        "Kia",
+        "Humanoid",
+        "Delivery"
+      ],
+      "timestamp": "2026-04-13T03:00:00Z"
+    },
+    {
+      "id": "art-20260414-13",
+      "title": "PeritasAI e NVIDIA lançam assistente cirúrgico de IA que orienta cirurgiões em tempo real",
+      "summary": "A PeritasAI e a NVIDIA desenvolveram um sistema de orientação cirúrgica em tempo real na plataforma de IA de borda Holoscan da NVIDIA, capaz de recomendar as melhores práticas baseadas em evidências durante as operações.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / PeritasAI",
+      "url": "https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_real_time_ai",
+      "tags": [
+        "Surgical Robot",
+        "NVIDIA",
+        "Medical AI"
+      ],
+      "timestamp": "2026-04-13T02:30:00Z"
+    },
+    {
+      "id": "art-20260414-14",
+      "title": "Transitive 2.0 lançado como código aberto: estrutura unificada para implantação de robôs de vários fornecedores",
+      "summary": "A Transitive Robotics lançou a versão 2.0 de sua estrutura de código aberto, oferecendo interfaces de integração padronizadas e gerenciamento unificado para robôs de várias marcas e modelos.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Open Source",
+        "Fleet Management",
+        "Transitive"
+      ],
+      "timestamp": "2026-04-13T02:00:00Z"
+    },
+    {
+      "id": "art-20260414-15",
+      "title": "Novo algoritmo de aleatoriedade resolve problema de bloqueio em grade de robôs, melhorando eficiência em 40%",
+      "summary": "Pesquisadores propuseram um novo algoritmo baseado em aleatorização que resolve efetivamente os problemas de bloqueio em grade em sistemas multi-robôs, melhorando a eficiência de agendamento em cerca de 40%.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com",
+      "tags": [
+        "Algorithm",
+        "Warehouse",
+        "Research"
+      ],
+      "timestamp": "2026-04-13T01:30:00Z"
+    },
+    {
+      "id": "art-20260414-16",
+      "title": "RoboSense obtém pedido de LiDAR de US$ 26 milhões para sistemas de percepção robótica de próxima geração",
+      "summary": "A RoboSense anunciou um pedido de LiDAR de qualidade automotiva no valor de US$ 26 milhões, para aplicação em sistemas de percepção tanto de direção autônoma quanto de robôs humanoides.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "Sensors"
+      ],
+      "timestamp": "2026-04-13T01:00:00Z"
+    },
+    {
+      "id": "art-20260414-17",
+      "title": "Huayan Robotics apresenta soluções robóticas na Hannover Messe, sinalizando nova direção para automação industrial",
+      "summary": "A Huayan Robotics apresentou na Feira de Hanover 2026 soluções robóticas de próxima geração para fabricação eletrônica, triagem logística e montagem de precisão.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "Business Insider Markets",
+      "url": "https://markets.businessinsider.com",
+      "tags": [
+        "Huayan",
+        "HANNOVER MESSE",
+        "Europe"
+      ],
+      "timestamp": "2026-04-13T00:30:00Z"
+    },
+    {
+      "id": "art-20260414-18",
+      "title": "Boston Dynamics reflete sobre desafios de robôs de segunda geração: o progresso real está na implantação contínua",
+      "summary": "A equipe de engenharia da Boston Dynamics publicou um artigo reflexivo sobre os desafios técnicos centrais dos robôs comerciais de segunda geração, reafirmando que a operação confiável contínua em ambientes reais é a métrica-chave.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / Boston Dynamics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skg5ki/boston_dynamics_on_why_second_gen_robots_are",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "Reliability"
+      ],
+      "timestamp": "2026-04-13T00:00:00Z"
+    },
+    {
+      "id": "art-20260414-19",
+      "title": "Forças de drones da Ucrânia realizam primeira captura somente com drones, sem necessidade de tropas terrestres",
+      "summary": "Segundo relatos, as forças de operações especiais da Ucrânia realizaram com sucesso a primeira operação de captura somente com drones: vários drones em formação coordenada fizeram um soldado russo se render sem a participação de soldados terrestres.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com",
+      "tags": [
+        "Military",
+        "Drone",
+        "Ukraine"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-20",
+      "title": "Engenheiro de ética tecnológica funda empresa de consultoria em ética robótica para ajudar empresas a construir estruturas de IA responsável",
+      "summary": "Um ex-engenheiro de ética de uma grande empresa de tecnologia fundou oficialmente uma empresa de consultoria em ética de robótica e IA, especializada em estruturas de governança de conformidade para desenvolvimento de sistemas robóticos.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving",
+      "tags": [
+        "Ethics",
+        "Military Robotics",
+        "Community"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    }
+  ]
+}

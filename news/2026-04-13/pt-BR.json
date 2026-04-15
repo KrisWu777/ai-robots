@@ -1,0 +1,299 @@
+{
+  "date": "2026-04-13",
+  "featured": {
+    "id": "featured-20260413",
+    "title": "Meia-maratona de robôs humanoides em Pequim: 21 robôs completam testes noturnos antes da corrida histórica",
+    "summary": "O distrito E-Town de Pequim completou um teste noturno em escala completa da primeira meia-maratona mundial de robôs humanoides, com 21 robôs bípedes dos principais fabricantes chineses completando corridas cronometradas no percurso oficial de 21,0975 km. O evento está previsto para 19 de abril e vai colocar robôs da Unitree, Fourier Intelligence e mais de uma dúzia de empresas em competição, num teste de resistência para a IA de locomoção de próxima geração.",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "CGTN / Xinhua",
+    "url": "https://news.cgtn.com",
+    "tags": [
+      "Humanoide",
+      "China",
+      "Meia-Maratona"
+    ],
+    "timestamp": "2026-04-13T06:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260413-01",
+      "title": "Humanoide Unitree R1 atinge 10 m/s em sprint, aproximando-se do limite humano",
+      "summary": "A Unitree Robotics publicou novos dados de benchmark mostrando seu robô humanoide R1 atingindo 10 metros por segundo em testes de sprint controlados, próximo ao teto de ~12 m/s dos velocistas de elite. O feito baseia-se na plataforma G1 anterior e ressalta os avanços em controle de equilíbrio em tempo real. A Unitree afirma que o R1 estará disponível globalmente no AliExpress esta semana por menos de 5.000 dólares.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "AASTOCKS / eWeek",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Unitree",
+        "Humanoide",
+        "Velocidade"
+      ],
+      "timestamp": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-02",
+      "title": "1X Technologies assina acordo para implantar 10.000 robôs humanoides Neo",
+      "summary": "A startup norueguesa 1X Technologies assinou um acordo comercial histórico para implantar 10.000 unidades de seu robô humanoide Neo em logística, manufatura e serviços. É o maior compromisso de frota para uma plataforma humanoide até hoje. A 1X afirma que o Neo opera por mais de 20 horas por carga e foi aperfeiçoado com milhões de horas de dados de treinamento por teleoperação.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "1X Technologies",
+        "Neo",
+        "Implantação"
+      ],
+      "timestamp": "2026-04-12T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-03",
+      "title": "UniX AI Panther torna-se o primeiro humanoide de produção em massa implantado em residências reais",
+      "summary": "A UniX AI anunciou que seu robô humanoide Panther, alimentado pelo modelo multimodal UniX-LM, começou a ser implantado em residências particulares na China. O Panther pode preparar refeições, dobrar roupas e auxiliar nos cuidados de idosos com latência de resposta inferior a 100 ms. A empresa já aceita pré-encomendas internacionais.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "Robotics Tomorrow / Business Insider",
+      "url": "https://www.roboticstomorrow.com",
+      "tags": [
+        "UniX AI",
+        "Panther",
+        "Robô Doméstico"
+      ],
+      "timestamp": "2026-04-11T09:30:00Z"
+    },
+    {
+      "id": "art-20260413-04",
+      "title": "Samsung adquire tecnologia de cérebro robótico: 17 decisões por segundo",
+      "summary": "A Samsung Electronics garantiu propriedade intelectual chave de uma arquitetura de chip de inferência neural que permite a robôs humanoides tomar até 17 decisões físicas em tempo real por segundo, uma melhoria de ~3× em relação aos controladores embarcados atuais. A tecnologia foi adquirida de uma startup coreana de IA e visa a próxima plataforma humanoide da Samsung, esperada para o final do ano.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com",
+      "tags": [
+        "Samsung",
+        "Humanoide",
+        "Chip IA"
+      ],
+      "timestamp": "2026-04-12T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-05",
+      "title": "Generalist AI lança GEN-1: modelo fundacional para tarefas robóticas reais",
+      "summary": "A startup Generalist AI lançou o GEN-1, um modelo fundacional projetado para manipulação robótica que atinge, segundo a empresa, desempenho de ponta em 38 das 42 tarefas do benchmark RoboSuite usando apenas entradas de linguagem e vídeo, sem ajuste fino específico por tarefa. O GEN-1 usa um tokenizador espaço-temporal para representar ações físicas como sequências, permitindo generalização zero-shot.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/generalist-ai-unveils-gen-1-model-claiming-breakthrough-in-real-world-robotic-task-performance",
+      "tags": [
+        "Generalist AI",
+        "Modelo Fundacional",
+        "GEN-1"
+      ],
+      "timestamp": "2026-04-11T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-06",
+      "title": "Robôs humanoides se preparam para correr a meia-maratona de Pequim em 19 de abril",
+      "summary": "Mais de 20 equipes confirmaram participação na primeira Meia-Maratona Robot de E-Town em Pequim, em 19 de abril de 2026, uma corrida de 21 km considerada o primeiro evento de resistência competitivo do mundo para máquinas bípedes. A corrida testa não apenas velocidade, mas também resiliência de navegação diante de ruído, iluminação variável e pavimento irregular.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "CNN / Global Times",
+      "url": "https://edition.cnn.com",
+      "tags": [
+        "Humanoide",
+        "Meia-Maratona",
+        "Pequim"
+      ],
+      "timestamp": "2026-04-12T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-07",
+      "title": "Produção de robôs humanoides na China deve crescer 94% em 2025",
+      "summary": "Novos dados do setor mostram que a produção chinesa de robôs humanoides está a caminho de um aumento anual de 94%, com fábricas da UBTECH, Unitree e Fourier Intelligence superando 100.000 unidades anuais. O aumento é impulsionado por subsídios governamentais, redução de custos de atuadores e pedidos crescentes de empresas de montagem automotiva e eletrônica.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Gizchina",
+      "url": "https://www.gizchina.com",
+      "tags": [
+        "China",
+        "Humanoide",
+        "Manufatura"
+      ],
+      "timestamp": "2026-04-11T06:00:00Z"
+    },
+    {
+      "id": "art-20260413-08",
+      "title": "Pesquisadores de Binghamton criam cães-guia robóticos que caminham e falam",
+      "summary": "Engenheiros da Universidade de Binghamton desenvolveram um cão-guia robótico quadrúpede equipado com uma interface de modelo de linguagem de grande escala que descreve o ambiente ao redor para usuários com deficiência visual em linguagem natural. O robô combina detecção de obstáculos LiDAR com narração de cenas em tempo real. Um ensaio de campo com 12 participantes cegos mostrou taxa de conclusão de tarefas de 91%.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Cão-Guia",
+        "Quadrúpede",
+        "Acessibilidade"
+      ],
+      "timestamp": "2026-04-12T03:00:00Z"
+    },
+    {
+      "id": "art-20260413-09",
+      "title": "Tennant lança X16 Sweep: vassoura industrial autônoma para operação 24/7",
+      "summary": "A Tennant Company apresentou o X16 Sweep, uma vassoura robótica industrial pesada projetada para operação contínua sem tripulação em grandes instalações industriais como armazéns, fábricas e aeroportos. Utiliza uma matriz de câmeras estéreo e sensores ultrassônicos para planejamento de rota em tempo real e pode limpar até 55.000 m² por carga.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/tennant-unveils-new-industrial-sweeping-machine-for-autonomous-round-the-clock-work",
+      "tags": [
+        "Tennant",
+        "Autônomo",
+        "Armazém"
+      ],
+      "timestamp": "2026-04-10T10:00:00Z"
+    },
+    {
+      "id": "art-20260413-10",
+      "title": "Honor apresenta robô humanoide para o MWC Xangai e entra no mercado de robótica de consumo",
+      "summary": "A gigante chinesa de smartphones Honor revelou um robô humanoide que planeja exibir no Mobile World Congress de Xangai, tornando-se a mais recente marca de eletrônicos de consumo a entrar no espaço de IA incorporada. O robô, com cerca de 1,65 m de altura, possui a plataforma de IA MagicOS da Honor e é capaz de interação por voz, manipulação de objetos e navegação autônoma.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Mashable",
+      "url": "https://mashable.com",
+      "tags": [
+        "Honor",
+        "Humanoide",
+        "Consumo"
+      ],
+      "timestamp": "2026-04-12T02:00:00Z"
+    },
+    {
+      "id": "art-20260413-11",
+      "title": "Hai Robotics inaugura Centro de Inovação EMEA nos Países Baixos",
+      "summary": "A Hai Robotics inaugurou oficialmente seu Centro de Inovação EMEA em Hoofddorp, Países Baixos. A instalação servirá como hub regional de P&D, integração de clientes e suporte pós-venda para os sistemas ACR da Hai no e-commerce. O centro também vai pilotar um novo módulo de otimização de posições com IA para reduzir distâncias de separação em até 30%.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/hai-robotics-opens-emea-innovation-center-in-the-netherlands",
+      "tags": [
+        "Hai Robotics",
+        "Armazém",
+        "Europa"
+      ],
+      "timestamp": "2026-04-11T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-12",
+      "title": "SPEAR-1: controlador robótico open source com laço de controle de 50 ms",
+      "summary": "Um novo controlador embarcado open source chamado SPEAR-1 foi anunciado para braços robóticos industriais e cobots, com um laço de controle ponta a ponta de 50 ms em hardware ARM padrão. O SPEAR-1 inclui integrações prontas para ROS 2, MoveIt 2 e principais protocolos de fieldbus. Seus criadores dizem que o SPEAR-1 visa fazer pelo controle de movimento o que o Linux fez pelos sistemas operacionais de servidor.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Open Source",
+        "ROS2",
+        "Controlador"
+      ],
+      "timestamp": "2026-04-12T01:00:00Z"
+    },
+    {
+      "id": "art-20260413-13",
+      "title": "SVT Robotics lança Softbot Intelligence para alimentar modelos de IA com dados de automação em tempo real",
+      "summary": "A SVT Robotics publicou o Softbot Intelligence, uma plataforma de captura e normalização de dados que agrega telemetria ao vivo de sistemas de automação de armazéns e a transmite em tempo real para modelos de IA empresariais. A SVT afirma que os primeiros adotantes reduziram o tempo de inatividade não planejado em 22% em 90 dias.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/svt-robotics-launches-softbot-intelligence-to-power-ai-with-real-time-automation-data",
+      "tags": [
+        "SVT Robotics",
+        "Automação",
+        "Dados IA"
+      ],
+      "timestamp": "2026-04-10T09:00:00Z"
+    },
+    {
+      "id": "art-20260413-14",
+      "title": "Tesla apresenta roteiro de produção do Optimus em meio à polêmica do FSD",
+      "summary": "O CEO da Tesla, Elon Musk, detalhou metas atualizadas de produção para o robô humanoide Optimus em um evento para investidores, reiterando o objetivo de fabricar 100.000 unidades até o final de 2026 e um milhão anualmente até 2027. A Tesla afirmou que a aprendizagem por transferência entre plataformas do FSD está acelerando as melhorias de destreza do Optimus em 40%.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Produção"
+      ],
+      "timestamp": "2026-04-12T00:00:00Z"
+    },
+    {
+      "id": "art-20260413-15",
+      "title": "Pássaros robóticos imitam dança de acasalamento de grouse para salvar espécie ameaçada",
+      "summary": "Pesquisadores implantaram grouses robóticos animatrônicos em tamanho real em charnecas remotas da Escócia para demonstrar exibições de acasalamento e atrair pássaros silvestres para zonas de reprodução protegidas. Os robôs replicam todo o repertório do comportamento de lek do galo-lira, com 87% das fêmeas silvestres observadas respondendo como se fosse um macho real.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Conservação",
+        "Biorrobótica",
+        "Vida Selvagem"
+      ],
+      "timestamp": "2026-04-11T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-16",
+      "title": "Exército dos EUA testa cozinha robótica que prepara refeições quentes para soldados no campo",
+      "summary": "O Exército dos EUA está avaliando um sistema de cozinha autônoma em contêiner capaz de preparar refeições quentes para até 800 soldados por dia sem cozinheiro no local. O sistema robótico de galé de campo usa uma arquitetura de braço modular e esteira. Os testes de campo em Fort Bragg mostraram que o sistema operou continuamente por 72 horas sem falhas mecânicas.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Task & Purpose",
+      "url": "https://taskandpurpose.com",
+      "tags": [
+        "Militar",
+        "Autônomo",
+        "Robótica Alimentar"
+      ],
+      "timestamp": "2026-04-12T03:30:00Z"
+    },
+    {
+      "id": "art-20260413-17",
+      "title": "Campeão chinês de tênis de mesa desafia robô humanoide em evento de diplomacia esportiva",
+      "summary": "Uma lenda chinesa do tênis de mesa enfrentou um robô humanoide em uma partida de exibição em Pequim com funcionários dos EUA e da China presentes, segundo a CGTN. O robô, equipado com sistema de visão de alta velocidade capaz de rastrear bolas a 120 fps, devolveu golpes com sucesso e se alinhou ao ritmo de um jogador humano recreativo.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com",
+      "tags": [
+        "Humanoide",
+        "China",
+        "Esporte"
+      ],
+      "timestamp": "2026-04-12T02:30:00Z"
+    },
+    {
+      "id": "art-20260413-18",
+      "title": "Cães robóticos patrulham fazendas para proteger plantações de milho de alto valor",
+      "summary": "Um número crescente de fazendas na Europa e América do Norte está implantando cães robôs quadrúpedes como patrulhas de segurança noturnas autônomas para dissuadir roubo e vandalismo de culturas. Equipados com câmeras térmicas e conectividade LTE, os robôs patrulham perímetros à noite. Os primeiros adotantes relatam redução de 70% nos incidentes de roubo de culturas.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Future Farming",
+      "url": "https://www.futurefarming.com",
+      "tags": [
+        "Agricultura",
+        "Quadrúpede",
+        "Segurança"
+      ],
+      "timestamp": "2026-04-11T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-19",
+      "title": "Melania Trump e Brigitte Macron cumprimentam robô humanoide na Cúpula de IA em Paris",
+      "summary": "A Primeira-Dama dos EUA, Melania Trump, e a Primeira-Dama francesa, Brigitte Macron, interagiram com um robô humanoide durante uma visita conjunta à Cúpula de IA & Sociedade em Paris, um evento diplomático focado em estruturas internacionais de governança de IA. O robô, desenvolvido por uma startup afiliada a Paris-Saclay, demonstrou diálogo multilíngue em tempo real e espelhamento de gestos.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Diplomacia",
+        "Humanoide",
+        "Governança IA"
+      ],
+      "timestamp": "2026-04-12T01:30:00Z"
+    },
+    {
+      "id": "art-20260413-20",
+      "title": "Kit bípede open source Bimo alcança v1.0: robô humanoide DIY por 800 dólares",
+      "summary": "Um engenheiro de robótica independente publicou a v1.0 do Bimo Robotics Kit, um robô bípede totalmente open source que pode ser montado com peças impressas em 3D e servomotores padrão por aproximadamente 800 dólares. O projeto acumulou mais de 2.000 estrelas no GitHub em 48 horas. O Bimo usa um controlador de equilíbrio PD simplificado e suporta ROS 2 Humble.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics",
+      "tags": [
+        "Open Source",
+        "DIY",
+        "Bípede"
+      ],
+      "timestamp": "2026-04-12T00:30:00Z"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "date": "2026-04-13",
+  "featured": {
+    "id": "featured-20260413",
+    "title": "Nusu Maratoni ya Roboti za Kibinadamu Beijing: Roboti 21 Zinamaliza Majaribio ya Usiku Kabla ya Mbio za Kihistoria",
+    "summary": "Wilaya ya E-Town ya Beijing ilikamilisha majaribio makubwa ya usiku ya nusu maratoni ya kwanza duniani ya roboti za kibinadamu, ambapo roboti 21 za miguu miwili kutoka kwa watengenezaji wakubwa wa China zilikimbia umbali wa rasmi wa kilomita 21.0975. Tukio linalopangwa kwa Aprili 19 litaona roboti kutoka Unitree, Fourier Intelligence na makampuni zaidi ya dazeni moja yakishindana katika mtihani wa teknolojia ya harakati ya AI ya kizazi kipya.",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "CGTN / Xinhua",
+    "url": "https://news.cgtn.com",
+    "tags": [
+      "Roboti ya Kibinadamu",
+      "China",
+      "Nusu Maratoni"
+    ],
+    "timestamp": "2026-04-13T06:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260413-01",
+      "title": "Roboti Unitree R1 Inafika 10 m/s katika Sprint, Inakaribia Kikomo cha Binadamu",
+      "summary": "Unitree Robotics imetoa data mpya za kipimo inayoonyesha roboti yake ya kibinadamu R1 ikifikia mita 10 kwa sekunde katika majaribio ya sprint yaliyodhibitiwa, karibu na kikomo cha ~12 m/s cha wanamichezo wa mbio wabora. Unitree inasema R1 itapatikana duniani kwenye AliExpress wiki hii kwa chini ya dola 5,000.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "AASTOCKS / eWeek",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Unitree",
+        "Roboti ya Kibinadamu",
+        "Kasi"
+      ],
+      "timestamp": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-02",
+      "title": "1X Technologies Inaingia Mkataba wa Kupeleka Roboti 10,000 za Neo",
+      "summary": "Startup ya Norway 1X Technologies imesaini mkataba mkubwa wa kibiashara wa kupeleka vitengo 10,000 vya roboti yake ya kibinadamu Neo katika sekta za usafirishaji, utengenezaji na huduma. Hii ni ahadi kubwa zaidi ya meli kwa jukwaa la roboti ya kibinadamu hadi sasa.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "1X Technologies",
+        "Neo",
+        "Upelekaji"
+      ],
+      "timestamp": "2026-04-12T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-03",
+      "title": "UniX AI Panther: Roboti ya Kwanza ya Kibinadamu Iliyozalishwa kwa Wingi Kupelekwa Nyumbani",
+      "summary": "UniX AI imetangaza kwamba roboti yake ya kibinadamu Panther, inayotumia mfano wake wa multimodal UniX-LM, imeanza kupelekwa katika nyumba za kibinafsi nchini China. Panther inaweza kupika chakula, kukunjua nguo na kusaidia wazee kwa muda wa majibu chini ya ms 100.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "Robotics Tomorrow / Business Insider",
+      "url": "https://www.roboticstomorrow.com",
+      "tags": [
+        "UniX AI",
+        "Panther",
+        "Roboti ya Nyumbani"
+      ],
+      "timestamp": "2026-04-11T09:30:00Z"
+    },
+    {
+      "id": "art-20260413-04",
+      "title": "Samsung Inapata Teknolojia ya Ubongo wa Roboti: Maamuzi 17 kwa Sekunde",
+      "summary": "Samsung Electronics imepata haki muhimu za kiakili kwa usanifu wa chip ya uchunguzi wa neva unaowezesha roboti za kibinadamu kufanya maamuzi 17 ya kimwili kwa wakati halisi kwa sekunde, uboreshaji wa ~3× ukilinganisha na vidhibiti vya sasa. Teknolojia ilipatikana kutoka kampuni ndogo ya AI ya Korea.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com",
+      "tags": [
+        "Samsung",
+        "Roboti ya Kibinadamu",
+        "Chip ya AI"
+      ],
+      "timestamp": "2026-04-12T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-05",
+      "title": "Generalist AI Inazindua GEN-1: Mfano wa Msingi kwa Kazi za Roboti Halisi",
+      "summary": "Startup Generalist AI imezindua GEN-1, mfano wa msingi uliobuniwa kwa udhibiti wa roboti unaodaiwa kufikia utendaji wa juu zaidi katika 38 kati ya 42 kazi za kipimo cha RoboSuite ukitumia tu lugha na ingizo la video bila urekebishaji maalum wa kazi.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/generalist-ai-unveils-gen-1-model-claiming-breakthrough-in-real-world-robotic-task-performance",
+      "tags": [
+        "Generalist AI",
+        "Mfano wa Msingi",
+        "GEN-1"
+      ],
+      "timestamp": "2026-04-11T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-06",
+      "title": "Roboti za Kibinadamu Zinajiandaa Kushiriki Nusu Maratoni ya Beijing Aprili 19",
+      "summary": "Timu zaidi ya 20 zimethibitisha ushiriki katika Nusu Maratoni ya Kwanza ya Robot ya E-Town Beijing tarehe 19 Aprili 2026, mbio za km 21 zinazosifiwa kama tukio la kwanza duniani la mashindano ya uvumilivu kwa mashine za miguu miwili. Washiriki ni pamoja na Unitree G1, Fourier GR-2 na timu kadhaa za vyuo vikuu.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "CNN / Global Times",
+      "url": "https://edition.cnn.com",
+      "tags": [
+        "Roboti ya Kibinadamu",
+        "Nusu Maratoni",
+        "Beijing"
+      ],
+      "timestamp": "2026-04-12T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-07",
+      "title": "Uzalishaji wa Roboti za Kibinadamu China Unatarajiwa Kukua kwa 94% mwaka 2025",
+      "summary": "Data mpya za sekta zinaonyesha kwamba uzalishaji wa roboti za kibinadamu za China unakwenda kuelekea ongezeko la 94% mwaka hadi mwaka, huku viwanda vya UBTECH, Unitree na Fourier Intelligence vikizidi vitengo 100,000 kwa mwaka.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Gizchina",
+      "url": "https://www.gizchina.com",
+      "tags": [
+        "China",
+        "Roboti ya Kibinadamu",
+        "Utengenezaji"
+      ],
+      "timestamp": "2026-04-11T06:00:00Z"
+    },
+    {
+      "id": "art-20260413-08",
+      "title": "Watafiti wa Binghamton Wanaunda Mbwa wa Mwongozo wa Roboti Wanaotembea na Kuzungumza",
+      "summary": "Wahandisi wa Chuo Kikuu cha Binghamton wameunda mbwa wa mwongozo wa roboti wa miguu minne aliye na kiolesura cha mfano mkubwa wa lugha anayeweza kuelezea mazingira yake kwa watumiaji wenye ulemavu wa maono kwa lugha ya asili. Jaribio la uwanja na washiriki 12 wasioona lilionyesha kiwango cha ukamilishaji wa kazi cha 91%.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Mbwa wa Mwongozo",
+        "Miguu Minne",
+        "Upatikanaji"
+      ],
+      "timestamp": "2026-04-12T03:00:00Z"
+    },
+    {
+      "id": "art-20260413-09",
+      "title": "Tennant Inazindua X16 Sweep: Kizingiti cha Kwanza cha Viwanda cha Kujitegemea kwa Kazi za Saa 24",
+      "summary": "Tennant Company imezindua X16 Sweep, kizingiti kikubwa cha roboti kinachoundwa kwa uendeshaji wa kudumu bila wafanyakazi katika vifaa vikubwa vya viwanda kama ghala, viwanda na viwanja vya ndege. Inaweza kusafisha hadi m² 55,000 kwa chaji moja.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/tennant-unveils-new-industrial-sweeping-machine-for-autonomous-round-the-clock-work",
+      "tags": [
+        "Tennant",
+        "Kujitegemea",
+        "Ghala"
+      ],
+      "timestamp": "2026-04-10T10:00:00Z"
+    },
+    {
+      "id": "art-20260413-10",
+      "title": "Honor Inaonyesha Roboti ya Kibinadamu kwa MWC Shanghai, Inaingia Soko la Roboti za Watumiaji",
+      "summary": "Kampuni kubwa ya simu za China Honor imefunua roboti ya kibinadamu inayopanga kuonyesha katika Mobile World Congress Shanghai, kuwa chapa ya hivi karibuni ya elektroni za watumiaji kuingia katika nafasi ya AI iliyowekwa mwilini.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Mashable",
+      "url": "https://mashable.com",
+      "tags": [
+        "Honor",
+        "Roboti ya Kibinadamu",
+        "Watumiaji"
+      ],
+      "timestamp": "2026-04-12T02:00:00Z"
+    },
+    {
+      "id": "art-20260413-11",
+      "title": "Hai Robotics Inafungua Kituo cha Uvumbuzi cha EMEA nchini Uholanzi",
+      "summary": "Hai Robotics imefungua rasmi Kituo chake cha Uvumbuzi cha EMEA huko Hoofddorp, Uholanzi, kikwazo muhimu zaidi cha kampuni kwa soko la Ulaya. Kituo kitakuwa kitovu cha kikanda cha R&D, ushirikiano na wateja na usaidizi wa baada ya mauzo kwa mifumo ya ACR ya Hai katika biashara ya mtandaoni.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/hai-robotics-opens-emea-innovation-center-in-the-netherlands",
+      "tags": [
+        "Hai Robotics",
+        "Ghala",
+        "Ulaya"
+      ],
+      "timestamp": "2026-04-11T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-12",
+      "title": "SPEAR-1: Kidhibiti cha Roboti cha Chanzo Wazi chenye Mzunguko wa Udhibiti wa ms 50",
+      "summary": "Kidhibiti kipya cha embedded cha chanzo wazi kiitwacho SPEAR-1 kimetangazwa, kinacholenga mikono ya roboti ya viwanda na cobots na mzunguko wa udhibiti wa ms 50 kutoka mwanzo hadi mwisho kwenye vifaa vya kawaida vya ARM. SPEAR-1 inakuja na integratiakwa ajili ya ROS 2, MoveIt 2 na itifaki kuu za fieldbus.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Chanzo Wazi",
+        "ROS2",
+        "Kidhibiti"
+      ],
+      "timestamp": "2026-04-12T01:00:00Z"
+    },
+    {
+      "id": "art-20260413-13",
+      "title": "SVT Robotics Inazindua Softbot Intelligence ili Kulisha Mifano ya AI kwa Data ya Otomatiki kwa Wakati Halisi",
+      "summary": "SVT Robotics imechapisha Softbot Intelligence, jukwaa la kukusanya na kurekebisha data linalochanganya telemetry ya moja kwa moja kutoka mifumo ya otomatiki ya ghala na kuipeleka kwa mifano ya AI ya biashara kwa wakati halisi. SVT inasema watumiaji wa mapema walipunguza muda wa kukaa bila kupangwa kwa 22% ndani ya siku 90.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/svt-robotics-launches-softbot-intelligence-to-power-ai-with-real-time-automation-data",
+      "tags": [
+        "SVT Robotics",
+        "Otomatiki",
+        "Data ya AI"
+      ],
+      "timestamp": "2026-04-10T09:00:00Z"
+    },
+    {
+      "id": "art-20260413-14",
+      "title": "Tesla Inatoa Ramani ya Uzalishaji wa Optimus Kati ya Mgogoro wa FSD",
+      "summary": "Mkurugenzi Mtendaji wa Tesla Elon Musk alieleza malengo yaliyosasishwa ya uzalishaji wa roboti ya kibinadamu Optimus: vitengo 100,000 ifikapo mwisho wa 2026 na milioni moja kwa mwaka ifikapo 2027. Tesla ilisema kwamba ujifunzaji wa uhamisho wa mseto kutoka FSD unakuza maboresho ya ustadi wa Optimus kwa 40%.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Uzalishaji"
+      ],
+      "timestamp": "2026-04-12T00:00:00Z"
+    },
+    {
+      "id": "art-20260413-15",
+      "title": "Ndege za Roboti Zinaiga Dansi ya Kupendana ya Grouse ili Kuokoa Spishi Inayopotea",
+      "summary": "Watafiti wameweka ndege za roboti za ukubwa wa kawaida wa animatronic katika nyanda za mbali za Scotland ili kuonyesha maonyesho ya kupendana na kuvutia ndege wa porini kwenye maeneo ya kuzaliana yaliyohifadhiwa. Roboti zinaiga tabia zote za lek ya jogoo mweusi wa Uingereza, na 87% ya majike ya porini yaliyozingatiwa yalijibu kana kwamba ni dume halisi.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Uhifadhi",
+        "Bioroboti",
+        "Wanyamapori"
+      ],
+      "timestamp": "2026-04-11T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-16",
+      "title": "Jeshi la Marekani Linajaribio Jikoni ya Roboti Inayopika Chakula Moto kwa Askari Wanaopigana Mbele",
+      "summary": "Jeshi la Marekani linatathmini mfumo wa jikoni wa kujitegemea ulio ndani ya kontena unaoweza kupika chakula moto kwa hadi askari 800 kwa siku bila mpishi mahali. Majaribio ya uwanja huko Fort Bragg yalionyesha mfumo ukifanya kazi kwa masaa 72 mfululizo kwenye nguvu ya jenereta bila kushindwa kwa mitambo.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Task & Purpose",
+      "url": "https://taskandpurpose.com",
+      "tags": [
+        "Kijeshi",
+        "Kujitegemea",
+        "Roboti za Chakula"
+      ],
+      "timestamp": "2026-04-12T03:30:00Z"
+    },
+    {
+      "id": "art-20260413-17",
+      "title": "Bingwa wa Ping Pong wa China Anapigana na Roboti ya Kibinadamu katika Tukio la Kidiplomasia la Michezo",
+      "summary": "Hadithi ya ping pong ya China alipigana dhidi ya roboti ya kibinadamu katika mechi ya maonyesho huko Beijing na maafisa wa China na Marekani waliopo, kulingana na CGTN. Roboti iliyo na mfumo wa maono wa kasi wa juu unaofuatilia mipira kwa fps 120 iliweza kurejesha mipigo kwa mwendo wa mchezaji wa burudani.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com",
+      "tags": [
+        "Roboti ya Kibinadamu",
+        "China",
+        "Michezo"
+      ],
+      "timestamp": "2026-04-12T02:30:00Z"
+    },
+    {
+      "id": "art-20260413-18",
+      "title": "Mbwa wa Roboti Wanaifanya Doria Katika Mashamba ili Kulinda Mazao ya Mahindi ya Thamani Kubwa",
+      "summary": "Idadi inayoongezeka ya mashamba ya kulima huko Ulaya na Amerika Kaskazini yanaweka mbwa wa roboti wa miguu minne kama doria za usalama za kujitegemea za usiku ili kuzuia wizi na uharibifu wa mazao. Waliowekwa vyombo vya kamera za joto na mawasiliano ya LTE, roboti hufanya doria ya mipaka usiku na kutahadharisha wamiliki wa mashamba kuhusu uvamizi kwa wakati halisi.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Future Farming",
+      "url": "https://www.futurefarming.com",
+      "tags": [
+        "Kilimo",
+        "Miguu Minne",
+        "Usalama"
+      ],
+      "timestamp": "2026-04-11T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-19",
+      "title": "Melania Trump na Brigitte Macron Wanakutana na Roboti ya Kibinadamu katika Mkutano wa AI wa Paris",
+      "summary": "Bi Mkuu wa Kwanza wa Marekani Melania Trump na Bi Mkuu wa Kwanza wa Ufaransa Brigitte Macron waliingiliana na roboti ya kibinadamu wakati wa ziara ya pamoja kwenye Mkutano wa AI & Jamii wa Paris, tukio la kidiplomasia linaloangazia mifumo ya kimataifa ya utawala wa AI.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "Kidiplomasia",
+        "Roboti ya Kibinadamu",
+        "Utawala wa AI"
+      ],
+      "timestamp": "2026-04-12T01:30:00Z"
+    },
+    {
+      "id": "art-20260413-20",
+      "title": "Seti ya Miguu Miwili ya Chanzo Wazi ya Bimo Inafikia v1.0: Roboti ya Kibinadamu ya DIY kwa Dola 800",
+      "summary": "Mhandisi huru wa roboti amechapisha v1.0 ya Bimo Robotics Kit, roboti ya miguu miwili ya chanzo wazi kabisa inayoweza kukusanywa kutoka sehemu za kawaida za 3D na servo motors kwa takriban dola 800. Mradi uliundwa zaidi ya nyota 2,000 za GitHub ndani ya saa 48. Bimo inatumia kidhibiti cha PD kilichorahisishwa na inasaidia ROS 2 Humble.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics",
+      "tags": [
+        "Chanzo Wazi",
+        "DIY",
+        "Miguu Miwili"
+      ],
+      "timestamp": "2026-04-12T00:30:00Z"
+    }
+  ]
+}

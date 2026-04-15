@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-14",
+  "featured": {
+    "id": "featured-20260414",
+    "title": "Chery Becomes First Automaker to Sell Consumer Humanoid Robot at $42,000 — Signals New Era for Mass-Market Embodied AI",
+    "summary": "Chinese automaker Chery has begun selling its self-developed humanoid robot directly to consumers at approximately $42,000 per unit, marking the first time a major automotive manufacturer has moved a humanoid platform into a retail channel. The robot stands 1.68m tall, has 40 degrees of freedom, and is designed for household assistance, elder care, and light industrial tasks. Chery's move follows a broader pattern of Chinese car brands pivoting into robotics — echoing Hyundai's Boston Dynamics strategy — and sets a new benchmark for what \"affordable\" consumer humanoids could look like as the sector scales toward mass production.",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/13/chinese-automaker-chery-begins-selling-humanoid-robot-to-consumers-for-42000-each",
+    "tags": [
+      "Chery",
+      "Humanoid",
+      "Consumer",
+      "China"
+    ],
+    "timestamp": "2026-04-13T09:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260414-01",
+      "title": "Kuka Unveils 'Automation 2.0' Strategy: AI Software Fused with Industrial Robotics",
+      "summary": "Industrial robot maker Kuka has outlined a sweeping new technology direction it calls 'Automation 2.0', centred on integrating large AI models directly into its robot controller stack. The strategy prioritises AI-assisted programming, natural-language task specification, and self-optimising motion planning — reducing the need for specialist integrators. Kuka says its first Automation 2.0-enabled arm will ship in Q3 2026, with a retrofit software module for existing installations to follow in 2027.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/kuka-outlines-automation-2-0-strategy-combining-ai-software-with-industrial-robotics",
+      "tags": [
+        "Kuka",
+        "Industrial",
+        "AI"
+      ],
+      "timestamp": "2026-04-13T08:30:00Z"
+    },
+    {
+      "id": "art-20260414-02",
+      "title": "Hyundai Plans $26B US Investment, Frames Robotics and AI as Core Growth Pillars",
+      "summary": "Hyundai Motor Group has announced a $26 billion US investment plan through 2030 that explicitly positions robotics and AI as strategic growth pillars alongside EV manufacturing. The plan includes expanding Boston Dynamics' manufacturing footprint in the US, building a new AI research campus in San Jose, and trialling Spot and Atlas deployments across its US production lines. Analysts say the scale of the commitment elevates Hyundai into the top tier of Western-aligned robotics investors.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "UPI / National Today",
+      "url": "https://www.upi.com",
+      "tags": [
+        "Hyundai",
+        "Boston Dynamics",
+        "Investment"
+      ],
+      "timestamp": "2026-04-13T07:00:00Z"
+    },
+    {
+      "id": "art-20260414-03",
+      "title": "100+ Humanoid Robots Confirmed for Beijing Half-Marathon on April 19, Night Trials Show 40% Running Freely",
+      "summary": "More than 100 humanoid robots are now confirmed to participate in the Beijing E-Town half-marathon on April 19, up from 20 teams reported last week, following an open registration surge. Night trial footage shared on Reddit's r/robotics and covered by NBC News and eWeek shows roughly 40% of competing robots completing sustained runs without stops, while others still require intermittent human resets. Organisers say the expanded field makes it the largest simultaneous deployment of bipedal robots in public space ever attempted.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "eWeek / NBC News",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Humanoid",
+        "Half-Marathon",
+        "Beijing"
+      ],
+      "timestamp": "2026-04-13T06:30:00Z"
+    },
+    {
+      "id": "art-20260414-04",
+      "title": "Taiwan Launches $629M National Robotics Center to Build Homegrown Robotics Industry",
+      "summary": "Taiwan's government has launched a new national robotics centre alongside a NT$20 billion (~$629 million) startup funding initiative aimed at seeding a domestic robotics supply chain. The centre, co-located with ITRI in Hsinchu, will focus on precision actuators, robot vision, and AI motion planning — technologies where Taiwan currently depends on imports from Japan and Germany. Officials say the goal is to have 10 commercially viable Taiwanese robotics startups within five years.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/taiwan-launches-national-robotics-center-with-629-million-startup-funding-plan",
+      "tags": [
+        "Taiwan",
+        "Policy",
+        "Funding"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    },
+    {
+      "id": "art-20260414-05",
+      "title": "Locus Robotics Launches 'Locus Array': Physical AI Platform for Fully Autonomous Warehouse Fulfillment",
+      "summary": "Locus Robotics has announced Locus Array, a new class of robotics platform it describes as 'physical AI' — a fully autonomous fulfilment system that combines multi-agent AMRs, fixed manipulation arms, and a centralised AI orchestration layer. Unlike Locus's earlier guided-autonomy products, Array requires no pre-mapped warehouse layout and adapts in real time to changing inventory configurations. The company says pilot customers have achieved pick rates of 450 units per hour with zero human pickers on the floor.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "The Robot Report / Supply & Demand Chain Executive",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T07:30:00Z"
+    },
+    {
+      "id": "art-20260414-06",
+      "title": "KAIST Quadruped Robot Navigates Hazardous Terrain Autonomously While Carrying Heavy Loads",
+      "summary": "A KAIST research team has published a quadrupedal robot system that combines terrain estimation via proprioception — without cameras or LiDAR — with real-time hazard detection and dynamic load balancing, allowing it to traverse rubble, steep inclines, and flooded surfaces while carrying payloads up to 30 kg. The system demonstrated 97% success on a standardised obstacle course modelled on disaster-response scenarios. TechXplore reports the team is in discussions with South Korean civil defence agencies for field trials.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=800&h=500&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "KAIST",
+        "Quadruped",
+        "Search and Rescue"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-07",
+      "title": "Humanoid Robots Demonstrate Language Skills and Boxing in Hong Kong Tech Showcase",
+      "summary": "A public exhibition in Hong Kong featured humanoid robots — roughly the size of primary school students — delivering spontaneous multilingual speeches and engaging in sparring demonstrations, drawing widespread coverage from TechXplore, AP, and The Globe and Mail. The robots, built by Shenzhen-based startup UBTech, used real-time speech synthesis and adversarial motion planning to respond to audience prompts and adapt to unexpected opponent movements. The event is seen as a test of public acceptance for urban humanoid deployment in dense Asian cities.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&h=500&fit=crop",
+      "source": "TechXplore / AP",
+      "url": "https://techxplore.com/news/2026-04-humanoid-robots-language-skills-hong.html",
+      "tags": [
+        "UBTech",
+        "Humanoid",
+        "Hong Kong"
+      ],
+      "timestamp": "2026-04-13T04:30:00Z"
+    },
+    {
+      "id": "art-20260414-08",
+      "title": "Forbes: Humanoid Robots Fail 88% of Household Tasks — But Progress Is Accelerating",
+      "summary": "A new Forbes analysis drawing on recent benchmark studies finds that current humanoid robots fail 88% of typical household tasks when tested in unstructured home environments — tasks like folding irregular laundry, pouring liquids without spilling, or retrieving objects from cluttered drawers. However, the same analysis notes that failure rates have dropped from ~97% in 2024 to 88% in 2026, and that with model updates, some systems improve week-on-week. The article argues this trajectory, if sustained, puts reliable home helpers on a 3–5 year horizon.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Forbes",
+      "url": "https://www.forbes.com",
+      "tags": [
+        "Humanoid",
+        "Research",
+        "Home Robotics"
+      ],
+      "timestamp": "2026-04-13T06:00:00Z"
+    },
+    {
+      "id": "art-20260414-09",
+      "title": "Poland Deploys Humanoid Robot to Chase Wild Boars from Urban Parks",
+      "summary": "Polish municipal authorities in Wrocław have deployed a humanoid robot equipped with motion sensors and a directional sound system to deter wild boars that have been invading city parks and residential areas. The robot — operated remotely and programmed for semi-autonomous patrol — chases boars with simulated predator sounds and LED deterrents. 7NEWS and Futurism report that the pilot has reduced boar incursions by 65% in the test area over six weeks, prompting neighbouring municipalities to request deployments.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "7NEWS / Futurism",
+      "url": "https://futurism.com",
+      "tags": [
+        "Humanoid",
+        "Wildlife",
+        "Poland"
+      ],
+      "timestamp": "2026-04-13T05:30:00Z"
+    },
+    {
+      "id": "art-20260414-10",
+      "title": "Shenzhen Opens China's First Pilot Production Line Dedicated to Humanoid Robots",
+      "summary": "Shenzhen has inaugurated what Chinese state media describe as the country's first dedicated humanoid robot pilot production line, housed in a 40,000 m² facility in the Longhua district. The line, operated by a consortium of local manufacturers, is designed to produce up to 1,000 humanoid units per month initially and scale to 10,000 by year-end. Macao News reports that the facility emphasises domestic supply-chain resilience, with over 80% of components sourced from Guangdong province.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Macao News",
+      "url": "https://macaonews.org",
+      "tags": [
+        "Shenzhen",
+        "China",
+        "Manufacturing"
+      ],
+      "timestamp": "2026-04-13T04:00:00Z"
+    },
+    {
+      "id": "art-20260414-11",
+      "title": "South Korea's Army Launches AI and Robotics Combat Support Initiative",
+      "summary": "South Korea's Army has announced a formal initiative to integrate AI and robotic systems into frontline combat support roles, including logistics drones, autonomous medical evacuation vehicles, and remote-operated IED-clearing robots. The Korea Herald reports that the programme, budgeted at ₩1.2 trillion (~$870 million) over five years, will prioritise domestic procurement from Samsung Techwin, Hanwha, and Hyundai Rotem. Field trials are scheduled to begin in 2027 along the DMZ.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com",
+      "tags": [
+        "Military",
+        "South Korea",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T03:30:00Z"
+    },
+    {
+      "id": "art-20260414-12",
+      "title": "Kia Unveils Robotics Strategy: Humanoids for Car Assembly Lines and Last-Mile Delivery",
+      "summary": "Kia has outlined a robotics strategy that envisions deploying humanoid robots on its own assembly lines by 2027 and using wheeled delivery robots for last-mile logistics by 2026. AI Business reports that Kia has partnered with its parent Hyundai Motor Group to leverage Boston Dynamics' Atlas platform for factory use, while developing a proprietary four-wheeled delivery robot for suburban package routes. The strategy represents a direct competitive response to Tesla's Optimus factory deployment plans.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "AI Business",
+      "url": "https://aibusiness.com",
+      "tags": [
+        "Kia",
+        "Humanoid",
+        "Delivery"
+      ],
+      "timestamp": "2026-04-13T03:00:00Z"
+    },
+    {
+      "id": "art-20260414-13",
+      "title": "PeritasAI and NVIDIA Isaac Enable Real-Time AI Awareness in Surgical Robotics",
+      "summary": "PeritasAI has announced a collaboration with NVIDIA using the Isaac robotics platform to embed real-time AI scene understanding into surgical robot systems. The integration allows surgical arms to detect unexpected anatomical variations, instrument misalignment, and bleeding events in under 50 ms, automatically pausing or alerting the surgeon. The system is currently in regulatory review with the FDA and is expected to enter clinical trials at three US hospitals in Q4 2026.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / PeritasAI",
+      "url": "https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_real_time_ai",
+      "tags": [
+        "Surgical Robot",
+        "NVIDIA",
+        "Medical AI"
+      ],
+      "timestamp": "2026-04-13T02:30:00Z"
+    },
+    {
+      "id": "art-20260414-14",
+      "title": "Transitive Robotics Launches Open-Source Transitive 2.0 Framework for Robot Fleet Management",
+      "summary": "Transitive Robotics has released Transitive 2.0, a major update to its open-source framework for managing heterogeneous robot fleets. New in v2.0 are a unified teleoperation API supporting 15 robot platforms, a real-time WebRTC video relay with sub-50ms latency, and a plug-in architecture for integrating third-party AI models. The Robot Report notes that Transitive 2.0 is aimed squarely at logistics operators running mixed fleets of AMRs, humanoids, and fixed automation.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Open Source",
+        "Fleet Management",
+        "Transitive"
+      ],
+      "timestamp": "2026-04-13T02:00:00Z"
+    },
+    {
+      "id": "art-20260414-15",
+      "title": "Randomness Algorithm Solves Deadlock in Multi-Robot Warehouse Systems",
+      "summary": "Researchers have published a counterintuitive finding: injecting controlled randomness into the path-planning algorithms of warehouse robot fleets eliminates deadlock scenarios that deterministic approaches struggle with. The algorithm, tested on a simulated fleet of 500 AMRs in a dense grid warehouse, reduced average gridlock incidents from 14 per hour to 0.3 per hour. Neuroscience News reports that the technique — inspired by stochastic resonance in biological neural networks — is already being evaluated by two major warehouse automation vendors.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com",
+      "tags": [
+        "Algorithm",
+        "Warehouse",
+        "Research"
+      ],
+      "timestamp": "2026-04-13T01:30:00Z"
+    },
+    {
+      "id": "art-20260414-16",
+      "title": "RoboSense Active Camera Secures Order from Major Humanoid Firm, Signals Sensor Race Heating Up",
+      "summary": "RoboSense has confirmed that its Active Camera series — a combined LiDAR and RGB sensor designed for high-speed human-environment perception — has secured a volume order from an undisclosed leading humanoid robotics manufacturer. The Active Camera resolves point clouds at 200 fps with 0.1° angular resolution, outperforming most current spinning LiDAR units in close-range dexterity applications. Gasgoo reports the deal validates RoboSense's pivot from automotive LiDAR toward the humanoid-robot sensor market.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "Sensors"
+      ],
+      "timestamp": "2026-04-13T01:00:00Z"
+    },
+    {
+      "id": "art-20260414-17",
+      "title": "Huayan Robotics Debuts at HANNOVER MESSE 2026 After IPO, Targets European Industrial Market",
+      "summary": "Chinese industrial automation firm Huayan Robotics is making its HANNOVER MESSE debut fresh off a domestic IPO, bringing a portfolio of collaborative robot arms, autonomous mobile platforms, and an AI-powered welding system to European audiences. Business Insider Markets reports that Huayan raised ¥1.8 billion (~$250 million) in its IPO and plans to use the funds to establish a European service centre in Frankfurt and pursue distribution partnerships with German integrators.",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "Business Insider Markets",
+      "url": "https://markets.businessinsider.com",
+      "tags": [
+        "Huayan",
+        "HANNOVER MESSE",
+        "Europe"
+      ],
+      "timestamp": "2026-04-13T00:30:00Z"
+    },
+    {
+      "id": "art-20260414-18",
+      "title": "Boston Dynamics: Second-Generation Robots Are Where Real Commercial Progress Happens",
+      "summary": "Zack Jackowski, VP of Atlas Product at Boston Dynamics, has given a candid interview explaining that the company's first-generation robots were primarily research instruments — impressive but commercially fragile — and that genuine progress only becomes possible in the second generation when learnings from real-world failure are embedded into hardware and software. Jackowski says Atlas Gen 2 has achieved 6× the reliability of Gen 1 in factory trials and that this is the threshold where enterprise customers can actually plan production schedules around robot uptime.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / Boston Dynamics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skg5ki/boston_dynamics_on_why_second_gen_robots_are",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "Reliability"
+      ],
+      "timestamp": "2026-04-13T00:00:00Z"
+    },
+    {
+      "id": "art-20260414-19",
+      "title": "Ukrainian Forces Capture Russian Position Using Only Drones — No Infantry Involved",
+      "summary": "Ukraine's military has reported the first confirmed instance of capturing an enemy fortified position using only autonomous and semi-autonomous drones, without any ground infantry assault. The operation involved a coordinated swarm of FPV attack drones, loitering munitions, and surveillance UAVs that degraded defences, suppressed reinforcements, and confirmed capture. Defence analysts cited by NBC News say the event is a strategic inflection point that will accelerate military robotics procurement globally.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com",
+      "tags": [
+        "Military",
+        "Drone",
+        "Ukraine"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-20",
+      "title": "Engineer Quits Robotics Job Over Weaponisation Concerns, Launches Ethical Robotics Consultancy",
+      "summary": "A robotics engineer who quit a well-funded startup after it pivoted toward weaponised platforms has published a widely-read Reddit post and follow-up interview detailing the ethical reasoning behind the decision and announcing a new consultancy focused on helping robotics companies build governance frameworks for dual-use technologies. The post has sparked significant discussion in the robotics community about accountability, the pace of military robotics adoption, and what professional obligations engineers have when products can cause harm.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving",
+      "tags": [
+        "Ethics",
+        "Military Robotics",
+        "Community"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    }
+  ]
+}

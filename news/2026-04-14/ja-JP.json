@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-14",
+  "featured": {
+    "id": "featured-20260414",
+    "title": "奇瑞、消費者向けヒューマノイドロボットを42,000ドルで販売する初の自動車メーカーに——マス市場向け具身AI新時代の幕開け",
+    "summary": "奇瑞汽車が約42,000ドルの消費者向けヒューマノイドロボットを発表し、家庭用ロボット市場に参入した初の伝統的自動車メーカーとなった。このロボットは両手操作、自然言語対話、家事支援などの機能を備えている。",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/13/chinese-automaker-chery-begins-selling-humanoid-robot-to-consumers-for-42000-each",
+    "tags": [
+      "Chery",
+      "Humanoid",
+      "Consumer",
+      "China"
+    ],
+    "timestamp": "2026-04-13T09:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260414-01",
+      "title": "クカ、Automation 2.0戦略を発表——AIクラウドロボットプラットフォームで産業製造を刷新",
+      "summary": "クカ・ロボティクスは新たな「Automation 2.0」戦略を発表し、AI対応クラウドプラットフォームを産業用ロボットエコシステムの中核に据えた。新プラットフォームは工場間のロボット連携をサポートし、デジタルツインによるスケジュール最適化を実現する。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/kuka-outlines-automation-2-0-strategy-combining-ai-software-with-industrial-robotics",
+      "tags": [
+        "Kuka",
+        "Industrial",
+        "AI"
+      ],
+      "timestamp": "2026-04-13T08:30:00Z"
+    },
+    {
+      "id": "art-20260414-02",
+      "title": "現代自動車、米国260億ドル投資を発表——ロボット製造とEV工場が中心",
+      "summary": "現代自動車グループは米国への260億ドル大規模投資を発表。ジョージア州に専用ロボット工場を建設し、ボストン・ダイナミクスの次世代Atlasロボットの量産を計画している。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "UPI / National Today",
+      "url": "https://www.upi.com",
+      "tags": [
+        "Hyundai",
+        "Boston Dynamics",
+        "Investment"
+      ],
+      "timestamp": "2026-04-13T07:00:00Z"
+    },
+    {
+      "id": "art-20260414-03",
+      "title": "100台以上のロボットが北京マラソン夜間テストを完走——集団ロボット走行の新記録を樹立",
+      "summary": "北京ヒューマノイドロボット・ハーフマラソン開幕まで数週間となった中、100台以上のロボットが市街地での負荷テストを実施。夜間テストでは動的な群衆の中でのリアルタイム障害物回避能力も評価された。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "eWeek / NBC News",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Humanoid",
+        "Half-Marathon",
+        "Beijing"
+      ],
+      "timestamp": "2026-04-13T06:30:00Z"
+    },
+    {
+      "id": "art-20260414-04",
+      "title": "台湾、6億2900万ドルのロボット研究センター設立を発表——ヒューマノイドロボットの世界製造拠点を目指す",
+      "summary": "台湾政府は6億ドル超の国立ロボット研究・生産センター建設を発表。ヒューマノイドロボットと産業用自動化技術を重点分野とし、韓国・日本との競争を見据えた戦略だ。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/taiwan-launches-national-robotics-center-with-629-million-startup-funding-plan",
+      "tags": [
+        "Taiwan",
+        "Policy",
+        "Funding"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    },
+    {
+      "id": "art-20260414-05",
+      "title": "ロカス・ロボティクス、Arrayプラットフォーム発表——倉庫ロボット群を単一ソフトウェアスタックで統合管理",
+      "summary": "ロカス・ロボティクスがArrayプラットフォームを発表。統一インターフェースで複数ブランド・複数機種のロボットを管理でき、倉庫自動化における特定ベンダー依存を解消。負荷の動的配分も実現する。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "The Robot Report / Supply & Demand Chain Executive",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T07:30:00Z"
+    },
+    {
+      "id": "art-20260414-06",
+      "title": "韓国KAISTの四足歩行ロボット、災害時の瓦礫を自律走行して生存者を救出",
+      "summary": "韓国科学技術院（KAIST）が災害対応用の四足歩行ロボットを披露。倒壊建物の瓦礫の中を自律走行し、マルチモーダルセンサーアレイで要救助者の位置を特定できる。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=800&h=500&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "KAIST",
+        "Quadruped",
+        "Search and Rescue"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-07",
+      "title": "香港のヒューマノイドロボットがボクシングデモを披露——非構造的・動的環境でのリアルタイム知覚を実証",
+      "summary": "香港サイエンスパークが公開した動画には、ヒューマノイドロボットが人間とボクシングの組み手をする様子が映っており、素早く動く人間の動きをリアルタイムで追尾。ロボットの知覚・制御技術の大幅な進歩を示した。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&h=500&fit=crop",
+      "source": "TechXplore / AP",
+      "url": "https://techxplore.com/news/2026-04-humanoid-robots-language-skills-hong.html",
+      "tags": [
+        "UBTech",
+        "Humanoid",
+        "Hong Kong"
+      ],
+      "timestamp": "2026-04-13T04:30:00Z"
+    },
+    {
+      "id": "art-20260414-08",
+      "title": "フォーブス調査：88%のロボットプロジェクトが初期導入段階で失敗——その理由と対策",
+      "summary": "フォーブスの調査によると、企業のロボット自動化プロジェクトは初期段階での失敗リスクが高く、システム統合・従業員トレーニング・プロセス再設計の不備が主な原因とされている。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Forbes",
+      "url": "https://www.forbes.com",
+      "tags": [
+        "Humanoid",
+        "Research",
+        "Home Robotics"
+      ],
+      "timestamp": "2026-04-13T06:00:00Z"
+    },
+    {
+      "id": "art-20260414-09",
+      "title": "ポーランドの農家、ヒューマノイドロボットでイノシシを撃退——フェンス費用の節約に成功",
+      "summary": "ポーランドの農家が従来のフェンスの代わりにヒューマノイドロボットを使い、音声・視覚的威嚇でイノシシを追い払うことに成功。年間数千ユーロのフェンス費用や被害額を節約した。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "7NEWS / Futurism",
+      "url": "https://futurism.com",
+      "tags": [
+        "Humanoid",
+        "Wildlife",
+        "Poland"
+      ],
+      "timestamp": "2026-04-13T05:30:00Z"
+    },
+    {
+      "id": "art-20260414-10",
+      "title": "深圳、ヒューマノイドロボットの完全自動化生産ラインを稼働——日産100台超を達成",
+      "summary": "深圳のロボットメーカーが、ヒューマノイドロボットの完全自動化組み立てラインの稼働を発表。日産100台超を達成しており、量産実現可能性を実証する世界初の商業ラインとなる。",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Macao News",
+      "url": "https://macaonews.org",
+      "tags": [
+        "Shenzhen",
+        "China",
+        "Manufacturing"
+      ],
+      "timestamp": "2026-04-13T04:00:00Z"
+    },
+    {
+      "id": "art-20260414-11",
+      "title": "韓国軍、偵察・戦闘対応のモジュラー型ロボット兵士を展開",
+      "summary": "韓国国防省が国境地帯でのロボット兵士パイロットプログラムを発表。偵察・後方支援・戦闘支援の各任務に柔軟に切り替えられるモジュラー型無人システムを展開している。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com",
+      "tags": [
+        "Military",
+        "South Korea",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T03:30:00Z"
+    },
+    {
+      "id": "art-20260414-12",
+      "title": "起亜、ロボット戦略を発表——自動車製造能力を活かして具身AIシステムを大規模生産へ",
+      "summary": "起亜自動車が具身AIシステムの大規模生産に向け、自動車グレードの製造プロセスと品質基準をロボット生産に応用する戦略ビジョンを公表した。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "AI Business",
+      "url": "https://aibusiness.com",
+      "tags": [
+        "Kia",
+        "Humanoid",
+        "Delivery"
+      ],
+      "timestamp": "2026-04-13T03:00:00Z"
+    },
+    {
+      "id": "art-20260414-13",
+      "title": "PeritasAI×NVIDIAが外科手術AIアシスタントを発表——手術中にリアルタイムで最適手順を提示",
+      "summary": "PeritasAIとNVIDIAがNVIDIA Holoscanエッジ AIプラットフォーム上に手術リアルタイムガイダンスシステムを開発。手術中にエビデンスに基づく最善手順を術者に推奨できる。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / PeritasAI",
+      "url": "https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_real_time_ai",
+      "tags": [
+        "Surgical Robot",
+        "NVIDIA",
+        "Medical AI"
+      ],
+      "timestamp": "2026-04-13T02:30:00Z"
+    },
+    {
+      "id": "art-20260414-14",
+      "title": "Transitive 2.0、オープンソースで公開——マルチベンダーロボット展開の統合フレームワーク",
+      "summary": "Transitive Roboticsがオープンソースフレームワークv2.0を公開。複数ブランド・複数機種のロボットに標準化された統合インターフェースと統一管理を提供し、混合ロボット環境の複雑さを大幅に削減する。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Open Source",
+        "Fleet Management",
+        "Transitive"
+      ],
+      "timestamp": "2026-04-13T02:00:00Z"
+    },
+    {
+      "id": "art-20260414-15",
+      "title": "新ランダム化アルゴリズムでロボットのグリッドデッドロック問題を解消——効率40%向上",
+      "summary": "研究者がランダム化ベースの新アルゴリズムを提案。マルチロボットシステムのグリッドデッドロック問題を効果的に解消し、密集倉庫環境でのスケジューリング効率を約40%改善した。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com",
+      "tags": [
+        "Algorithm",
+        "Warehouse",
+        "Research"
+      ],
+      "timestamp": "2026-04-13T01:30:00Z"
+    },
+    {
+      "id": "art-20260414-16",
+      "title": "RoboSense、次世代ロボット知覚システム向けに2600万ドルのLiDARを受注",
+      "summary": "RoboSenseが車載グレードLiDARの2600万ドル調達を発表。自動運転とヒューマノイドロボットの両市場の知覚システムに活用される。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "Sensors"
+      ],
+      "timestamp": "2026-04-13T01:00:00Z"
+    },
+    {
+      "id": "art-20260414-17",
+      "title": "Huayan Robotics、ハノーバーメッセに出展——産業自動化の新方向を提示",
+      "summary": "Huayan Roboticsが2026年ハノーバーメッセで電子製造・物流仕分け・精密組み立て向けの次世代ロボットソリューションを展示し、世界の産業界から注目を集めた。",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "Business Insider Markets",
+      "url": "https://markets.businessinsider.com",
+      "tags": [
+        "Huayan",
+        "HANNOVER MESSE",
+        "Europe"
+      ],
+      "timestamp": "2026-04-13T00:30:00Z"
+    },
+    {
+      "id": "art-20260414-18",
+      "title": "ボストン・ダイナミクス、第2世代ロボットの課題を語る——真の進歩は継続展開にあり",
+      "summary": "ボストン・ダイナミクスのエンジニアリングチームが第2世代商用ロボットの技術的課題について深掘り記事を発表。実環境での継続的な信頼性の高い運用こそが重要指標だと改めて強調した。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / Boston Dynamics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skg5ki/boston_dynamics_on_why_second_gen_robots_are",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "Reliability"
+      ],
+      "timestamp": "2026-04-13T00:00:00Z"
+    },
+    {
+      "id": "art-20260414-19",
+      "title": "ウクライナのドローン部隊、地上部隊なしで初の「ドローンのみ」捕虜拿捕を実現",
+      "summary": "報告によると、ウクライナ特殊作戦部隊が初の「ドローンのみ」捕虜拿捕作戦を成功させた。複数のドローンが協調編隊を組み、地上兵士なしでロシア兵1名を降伏させ、管制区域まで誘導した。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com",
+      "tags": [
+        "Military",
+        "Drone",
+        "Ukraine"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-20",
+      "title": "テック倫理エンジニア、ロボット倫理コンサルティング会社を設立——企業の責任あるAI導入フレームワーク構築を支援",
+      "summary": "大手テック企業の元倫理エンジニアがロボット・AIの倫理コンサルティング会社を正式設立。企業のロボットシステム開発にコンプライアンス・ガバナンスフレームワークを組み込むことに特化している。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving",
+      "tags": [
+        "Ethics",
+        "Military Robotics",
+        "Community"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    }
+  ]
+}

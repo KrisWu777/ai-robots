@@ -1,0 +1,299 @@
+{
+  "date": "2026-04-13",
+  "featured": {
+    "id": "featured-20260413",
+    "title": "北京人形機器人半程馬拉松：21台機器人完成夜間測試，迎接歷史性賽事",
+    "summary": "北京經濟技術開發區（亦莊）完成了全球首屆人形機器人半程馬拉松的全要素夜間測試，21台雙足機器人在全程21.0975公里的正式賽道上完成計時跑。本次賽事定於4月19日舉行，參賽機器人來自宇樹科技、傅利葉智能及十餘家頂尖廠商。夜跑測試驗證了機器人在崎嶇地面上穩定的即時導航能力，標誌著中國具身AI發展的重要里程碑。",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "CGTN / Xinhua",
+    "url": "https://news.cgtn.com",
+    "tags": [
+      "人形機器人",
+      "中國",
+      "半程馬拉松"
+    ],
+    "timestamp": "2026-04-13T06:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260413-01",
+      "title": "宇樹R1人形機器人衝刺達每秒10公尺，逼近人類極限",
+      "summary": "宇樹科技發布R1人形機器人最新基準測試，在受控衝刺測試中達每秒10公尺，接近精英人類運動員約12公尺/秒的上限。該成果建立在早期G1平台基礎上，展示了即時平衡控制與腿部執行器扭矩密度的顯著提升。宇樹表示，R1本週將透過速賣通向全球發售，售價低於5000美元，是市面上最平價的高效能人形機器人。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "AASTOCKS / eWeek",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "宇樹",
+        "人形機器人",
+        "速度"
+      ],
+      "timestamp": "2026-04-12T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-02",
+      "title": "1X Technologies簽署部署1萬台Neo人形機器人的重磅協議",
+      "summary": "挪威人形機器人新創公司1X Technologies已簽署一項里程碑式商業協議，將在物流、製造及服務領域部署10,000台Neo人形機器人。這是迄今為止人形平台最大的機隊商業承諾，顯示企業客戶對雙足機器人處理非結構化真實工作流的信心持續提升。1X表示Neo單次充電可運行20小時以上，並已透過數百萬小時的遙操作訓練資料不斷精進。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "1X Technologies",
+        "Neo",
+        "部署"
+      ],
+      "timestamp": "2026-04-12T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-03",
+      "title": "UniX AI Panther成為首款進入真實家庭的量產人形機器人",
+      "summary": "UniX AI宣布，搭載自研UniX-LM多模態模型的Panther人形機器人已在中國多個家庭中實際部署，聲稱這是任何雙足機器人首次經驗證的量產家用落地。Panther可執行備餐、折疊衣物和長者照護等任務，回應延遲低於100毫秒。公司表示現已開放國際預訂。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "Robotics Tomorrow / Business Insider",
+      "url": "https://www.roboticstomorrow.com",
+      "tags": [
+        "UniX AI",
+        "Panther",
+        "家用機器人"
+      ],
+      "timestamp": "2026-04-11T09:30:00Z"
+    },
+    {
+      "id": "art-20260413-04",
+      "title": "三星取得人形機器人大腦技術：每秒可做17次決策",
+      "summary": "三星電子已取得一項神經推論晶片架構的核心知識產權，使人形機器人每秒最多可做出17次即時物理決策——比現有嵌入式控制器提升約3倍。該技術來自韓國一家AI新創公司，目標為三星即將推出的人形機器人平台，預計今年稍晚正式發布。分析師認為此舉顯示三星正直接挑戰Boston Dynamics、宇樹和Agility等企業級人形機器人廠商。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com",
+      "tags": [
+        "三星",
+        "人形機器人",
+        "AI晶片"
+      ],
+      "timestamp": "2026-04-12T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-05",
+      "title": "Generalist AI發布GEN-1：聲稱在真實機器人任務中取得突破",
+      "summary": "Generalist AI新創公司推出GEN-1基礎模型，專為機器人操控設計。公司表示，僅憑語言和影片輸入、無需任務特定微調，GEN-1在RoboSuite基準42項任務中的38項達到最先進水準。GEN-1採用全新時空標記器將物理動作表示為序列，實現對未見環境的零樣本泛化，並已透過API向機器人研究人員和OEM整合商開放。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/generalist-ai-unveils-gen-1-model-claiming-breakthrough-in-real-world-robotic-task-performance",
+      "tags": [
+        "Generalist AI",
+        "基礎模型",
+        "GEN-1"
+      ],
+      "timestamp": "2026-04-11T08:00:00Z"
+    },
+    {
+      "id": "art-20260413-06",
+      "title": "人形機器人將於4月19日參加北京半程馬拉松",
+      "summary": "超過20支隊伍已確認參加4月19日在北京亦莊舉辦的首屆機器人半程馬拉松——一場21公里的競速賽事，被譽為全球首個雙足機器人競技耐力賽事。CNN和《環球時報》報道，參賽選手包括宇樹G1、傅利葉GR-2及多所高校團隊。賽事不僅考驗速度，還將測試機器人在噪音、變光照及不平整路面下無人干預的導航韌性。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "CNN / Global Times",
+      "url": "https://edition.cnn.com",
+      "tags": [
+        "人形機器人",
+        "半程馬拉松",
+        "北京"
+      ],
+      "timestamp": "2026-04-12T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-07",
+      "title": "中國人形機器人產量預計2025年增長94%，進入規模化量產階段",
+      "summary": "最新行業資料顯示，包括優必選、宇樹科技和傅利葉智能在內的中國人形機器人製造商年產量已突破10萬台，同比增速有望達94%。這一增長受政府補貼、執行器成本下降及汽車和電子裝配線企業訂單激增共同驅動。分析師預測，中國將於2027年前佔據全球人形機器人市場60%以上的供應份額。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Gizchina",
+      "url": "https://www.gizchina.com",
+      "tags": [
+        "中國",
+        "人形機器人",
+        "製造業"
+      ],
+      "timestamp": "2026-04-11T06:00:00Z"
+    },
+    {
+      "id": "art-20260413-08",
+      "title": "賓漢頓大學研發會說話的機器人導盲犬",
+      "summary": "賓漢頓大學工程師開發出一款四足機器人導盲犬，整合大型語言模型介面，可將周圍環境以自然語言即時描述給視障用戶。該機器人基於改裝版宇樹Go2平台，結合LiDAR障礙偵測與即時場景旁白，在導航同時可回答口頭查詢。團隊報告指出，在對12名視障參與者的實地測試中，室內外路線任務完成率達91%。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "導盲犬",
+        "四足機器人",
+        "無障礙"
+      ],
+      "timestamp": "2026-04-12T03:00:00Z"
+    },
+    {
+      "id": "art-20260413-09",
+      "title": "Tennant發布X16 Sweep：首款支持全天候自主作業的工業掃地機器人",
+      "summary": "Tennant公司發布X16 Sweep重型自主掃地機器人，專為倉庫、工廠和機場等大型工業場所設計，支援無人連續作業。設備採用立體攝影機與超音波感測器陣列實現即時路徑規劃，單次充電可清潔約55,000平方公尺。Tennant將其定位為夜班及週末無人值守時替代有人駕駛掃地車的理想方案。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/tennant-unveils-new-industrial-sweeping-machine-for-autonomous-round-the-clock-work",
+      "tags": [
+        "Tennant",
+        "自主清潔",
+        "倉儲物流"
+      ],
+      "timestamp": "2026-04-10T10:00:00Z"
+    },
+    {
+      "id": "art-20260413-10",
+      "title": "Honor發布人形機器人，備戰MWC上海，進軍消費機器人市場",
+      "summary": "中國智慧型手機品牌榮耀（Honor）發布一款人形機器人，並計畫在MWC上海亮相，成為最新入局具身AI賽道的消費電子品牌。該機器人身高約1.65公尺，搭載榮耀自研MagicOS AI平台，支援語音互動、物件操控和自主導航。榮耀的入局顯示消費電子廠商正藉助現有AI與感測器供應鏈優勢搶佔下一個硬體平台週期。",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Mashable",
+      "url": "https://mashable.com",
+      "tags": [
+        "榮耀",
+        "人形機器人",
+        "消費電子"
+      ],
+      "timestamp": "2026-04-12T02:00:00Z"
+    },
+    {
+      "id": "art-20260413-11",
+      "title": "海柔創新在荷蘭開設EMEA創新中心，佈局歐洲倉儲自動化",
+      "summary": "海柔創新已在荷蘭胡夫多普正式開設EMEA創新中心，標誌著公司對歐洲市場最重要的一次戰略承諾。該中心將作為海柔ACR系統的區域研發、客戶整合和售後服務中樞。荷蘭基地還將試驗全新AI驅動的貨位最佳化模組，目標是將揀貨路徑縮短最多30%。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/11/hai-robotics-opens-emea-innovation-center-in-the-netherlands",
+      "tags": [
+        "海柔創新",
+        "倉儲",
+        "歐洲"
+      ],
+      "timestamp": "2026-04-11T07:00:00Z"
+    },
+    {
+      "id": "art-20260413-12",
+      "title": "SPEAR-1開源機器人控制器發布：50毫秒控制迴路賦能工業機器人",
+      "summary": "全新開源嵌入式控制器SPEAR-1正式發布，面向工業機械臂和協作機器人，在通用ARM硬體上實現50毫秒端到端控制迴路。SPEAR-1預置ROS 2、MoveIt 2及主流現場總線協定（EtherCAT、PROFINET）整合，已吸引多家主要OEM工程師貢獻程式碼。創始團隊表示，SPEAR-1旨在對運動控制領域做出類似Linux對伺服器作業系統的變革性貢獻。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "開源",
+        "ROS2",
+        "控制器"
+      ],
+      "timestamp": "2026-04-12T01:00:00Z"
+    },
+    {
+      "id": "art-20260413-13",
+      "title": "SVT Robotics推出Softbot Intelligence，為AI模型注入即時自動化數據",
+      "summary": "SVT Robotics發布Softbot Intelligence資料擷取與標準化平台，將倉儲自動化系統（AMR、輸送網路、分揀設備）的即時遙測資料匯聚後流式傳輸至企業AI模型。該平台旨在彌合目前阻礙AI助手取得準確現場資料的「感測-決策」鴻溝。SVT表示，早期用戶在部署90天內將計畫外停機時間降低了22%。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/10/svt-robotics-launches-softbot-intelligence-to-power-ai-with-real-time-automation-data",
+      "tags": [
+        "SVT Robotics",
+        "自動化",
+        "AI數據"
+      ],
+      "timestamp": "2026-04-10T09:00:00Z"
+    },
+    {
+      "id": "art-20260413-14",
+      "title": "特斯拉公布Optimus量產路線圖，FSD爭議持續延燒",
+      "summary": "特斯拉CEO埃隆·馬斯克在投資者活動中詳述Optimus人形機器人最新產量目標：2026年底前生產10萬台，2027年實現年產百萬台。此次發布伴隨特斯拉FSD軟體爭議——批評者認為其與Optimus專案共享安全測試方法。特斯拉堅稱，FSD跨平台遷移學習已使Optimus靈巧性提升速度比純機器人專項訓練數據快40%。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "特斯拉",
+        "Optimus",
+        "量產"
+      ],
+      "timestamp": "2026-04-12T00:00:00Z"
+    },
+    {
+      "id": "art-20260413-15",
+      "title": "仿生機器鳥模擬松雞求偶展示，助力瀕危物種族群復育",
+      "summary": "研究人員在蘇格蘭偏遠荒野部署了等比例仿生機器松雞，透過模擬雄性求偶展示吸引野生鳥類前往保護繁殖區，此新穎保育策略由《趣味工程》報導。機器人完整複製了雄性黑松雞求偶場的全部行為——展尾、垂翅和鳴叫——觀測到的87%野生雌性表現出與對真實雄性相同的回應。研究團隊認為機器人誘鳥可成為規模化復育受人類活動影響而失去繁殖地之地面築巢鳥類族群的有效工具。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "生態保育",
+        "仿生機器人",
+        "野生動物"
+      ],
+      "timestamp": "2026-04-11T05:00:00Z"
+    },
+    {
+      "id": "art-20260413-16",
+      "title": "美國陸軍測試機器人野戰廚房，可為前沿部署士兵烹製熱食",
+      "summary": "據《任務與目的》報導，美國陸軍正在評估一套貨櫃化自主廚房系統，無需廚師即可每日為最多800名士兵提供熱食。由一家國防承包商研發的機器人野戰炊事設備採用模組化機械臂與輸送帶架構，完成食材預處理、烹飪、分量和托盤裝配全流程。在布拉格堡的實地測試中，系統以發電機供電連續運行72小時無機械故障，滿足前進作戰基地部署需求。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Task & Purpose",
+      "url": "https://taskandpurpose.com",
+      "tags": [
+        "軍事",
+        "自主系統",
+        "食品機器人"
+      ],
+      "timestamp": "2026-04-12T03:30:00Z"
+    },
+    {
+      "id": "art-20260413-17",
+      "title": "中國乒乓球名將與人形機器人對決，展示具身AI實力",
+      "summary": "據CGTN報導，在北京舉行的一場匯聚中美官員的高規格體育外交活動上，一位中國乒乓球名將與人形機器人進行了示範對決。該機器人配備每秒120幀的高速視覺系統，成功接球並以休閒級人類對手的節奏回擊。此次活動旨在展示中國具身AI能力，距北京人形機器人半程馬拉松不足一週，吸引大量國際媒體關注。",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "CGTN",
+      "url": "https://news.cgtn.com",
+      "tags": [
+        "人形機器人",
+        "中國",
+        "體育"
+      ],
+      "timestamp": "2026-04-12T02:30:00Z"
+    },
+    {
+      "id": "art-20260413-18",
+      "title": "機器狗巡邏農田，保護高價值農作物免遭盜竊",
+      "summary": "據《未來農業》報導，歐洲和北美越來越多的農場開始部署四足機器狗——主要為Boston Dynamics Spot和宇樹Go2改裝版——作為夜間自主安保巡邏，以嚇阻農作物盜竊和破壞行為。機器人配備熱成像攝影機和LTE連線，在發現入侵時即時向農場主報警。早期用戶報告農作物失竊事件減少70%，並在18個月內回收傳統人工安保成本。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Future Farming",
+      "url": "https://www.futurefarming.com",
+      "tags": [
+        "農業",
+        "四足機器人",
+        "安防"
+      ],
+      "timestamp": "2026-04-11T04:00:00Z"
+    },
+    {
+      "id": "art-20260413-19",
+      "title": "梅拉尼婭·川普與布麗姬特·馬克宏在巴黎AI峰會上與人形機器人互動",
+      "summary": "美國第一夫人梅拉尼婭·川普與法國第一夫人布麗姬特·馬克宏在巴黎「AI與社會峰會」期間與一台人形機器人互動，該峰會聚焦於國際AI治理框架。這台由巴黎-薩克雷大學附屬新創公司研發的法國機器人展示了即時多語言對話和姿態鏡像功能。此次活動凸顯人形機器人日益被用作高級政治場合軟實力展示工具的趨勢。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "National Today",
+      "url": "https://nationaltoday.com",
+      "tags": [
+        "外交",
+        "人形機器人",
+        "AI治理"
+      ],
+      "timestamp": "2026-04-12T01:30:00Z"
+    },
+    {
+      "id": "art-20260413-20",
+      "title": "Bimo雙足機器人套件發布v1.0：800美元零件打造開源人形",
+      "summary": "一位獨立機器人工程師發布Bimo Robotics Kit v1.0——一款完全開源的雙足機器人，使用量產3D列印零件和現貨伺服機，組裝成本約800美元。該專案發布48小時內在Reddit r/robotics社群引發熱烈迴響，GitHub星標數突破2,000。Bimo採用簡化PD平衡控制器，支援ROS 2 Humble，使缺乏商用人形機器人預算的研究人員、愛好者和高校實驗室也能輕鬆上手。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics",
+      "tags": [
+        "開源",
+        "自製",
+        "雙足機器人"
+      ],
+      "timestamp": "2026-04-12T00:30:00Z"
+    }
+  ]
+}

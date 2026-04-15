@@ -1,0 +1,300 @@
+{
+  "date": "2026-04-14",
+  "featured": {
+    "id": "featured-20260414",
+    "title": "奇瑞成为首家销售消费级人形机器人的汽车制造商，售价约30万元人民币——标志着大众化具身AI新时代来临",
+    "summary": "奇瑞汽车宣布推出售价约30万元人民币（约4.2万美元）的消费级人形机器人，成为首家进军家用机器人市场的传统汽车制造商。这款机器人具备双臂操作、自然语言交互及家务辅助能力，标志着人形机器人从工业应用迈向消费普及的重要转折点。",
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=600&fit=crop",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/13/chinese-automaker-chery-begins-selling-humanoid-robot-to-consumers-for-42000-each",
+    "tags": [
+      "Chery",
+      "Humanoid",
+      "Consumer",
+      "China"
+    ],
+    "timestamp": "2026-04-13T09:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260414-01",
+      "title": "库卡推出自动化2.0战略：通过AI驱动的机器人云平台重塑工业制造",
+      "summary": "库卡机器人发布全新'自动化2.0'战略，将AI原生云平台置于其工业机器人生态系统的核心。新平台支持工厂之间的跨站点机器人协同，并利用数字孪生技术提升调度效率，实现真正的自适应制造。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/kuka-outlines-automation-2-0-strategy-combining-ai-software-with-industrial-robotics",
+      "tags": [
+        "Kuka",
+        "Industrial",
+        "AI"
+      ],
+      "timestamp": "2026-04-13T08:30:00Z"
+    },
+    {
+      "id": "art-20260414-02",
+      "title": "现代汽车宣布260亿美元美国投资计划，机器人与电动汽车工厂占据重要份额",
+      "summary": "现代汽车集团宣布在美国进行260亿美元的大规模投资，其中包括在乔治亚州建设的专用机器人制造工厂，并计划批量生产Boston Dynamics下一代Atlas机器人。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "UPI / National Today",
+      "url": "https://www.upi.com",
+      "tags": [
+        "Hyundai",
+        "Boston Dynamics",
+        "Investment"
+      ],
+      "timestamp": "2026-04-13T07:00:00Z"
+    },
+    {
+      "id": "art-20260414-03",
+      "title": "北京马拉松百余台机器人完成夜间测试——创下规模最大的集体机器人跑步纪录",
+      "summary": "距北京人形机器人半程马拉松开幕仅剩数周，逾百台机器人在城市街道上完成压力测试。本次夜间测试同步评估了机器人在动态人群中的实时避障能力及稳定性表现。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "eWeek / NBC News",
+      "url": "https://www.eweek.com",
+      "tags": [
+        "Humanoid",
+        "Half-Marathon",
+        "Beijing"
+      ],
+      "timestamp": "2026-04-13T06:30:00Z"
+    },
+    {
+      "id": "art-20260414-04",
+      "title": "台湾宣布6.29亿美元机器人研究中心建设计划，目标成为人形机器人全球制造枢纽",
+      "summary": "台湾政府宣布斥资逾6亿美元建设国家机器人研究与生产中心，重点发展人形机器人及工业自动化技术，旨在与韩国、日本争夺全球机器人供应链核心地位。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/13/taiwan-launches-national-robotics-center-with-629-million-startup-funding-plan",
+      "tags": [
+        "Taiwan",
+        "Policy",
+        "Funding"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    },
+    {
+      "id": "art-20260414-05",
+      "title": "Locus Robotics推出Array平台：单一软件栈统一管理仓储机器人集群",
+      "summary": "Locus Robotics发布Array平台，支持通过统一界面管理多品牌、多型号机器人机队，彻底打破仓储自动化的供应商锁定困局，并实现工作量的智能动态分配。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "The Robot Report / Supply & Demand Chain Executive",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T07:30:00Z"
+    },
+    {
+      "id": "art-20260414-06",
+      "title": "韩国KAIST研发四足机器人，可在废墟中自主搜救幸存者",
+      "summary": "韩国科学技术院（KAIST）展示了一款专为灾难响应设计的四足机器人，能够在倒塌建筑的瓦砾中自主导航，并利用多模态传感器阵列精准定位被困人员。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=800&h=500&fit=crop",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "KAIST",
+        "Quadruped",
+        "Search and Rescue"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-07",
+      "title": "香港人形机器人完成拳击演示——在非结构化动态对抗中展现实时感知能力",
+      "summary": "香港科技园展示了一台人形机器人与真人进行拳击演练的视频，机器人能够实时追踪快速移动的人类对手并作出动态响应，展现了当前机器人感知与控制系统的显著进步。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=800&h=500&fit=crop",
+      "source": "TechXplore / AP",
+      "url": "https://techxplore.com/news/2026-04-humanoid-robots-language-skills-hong.html",
+      "tags": [
+        "UBTech",
+        "Humanoid",
+        "Hong Kong"
+      ],
+      "timestamp": "2026-04-13T04:30:00Z"
+    },
+    {
+      "id": "art-20260414-08",
+      "title": "福布斯调查揭示：88%的机器人项目在初始部署阶段失败——并给出了应对之道",
+      "summary": "福布斯最新研究发现，企业机器人自动化项目面临极高的早期失败风险，核心症结在于系统集成、员工培训及流程重设计等方面的不足，并提出了提升机器人部署成功率的实用解决框架。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Forbes",
+      "url": "https://www.forbes.com",
+      "tags": [
+        "Humanoid",
+        "Research",
+        "Home Robotics"
+      ],
+      "timestamp": "2026-04-13T06:00:00Z"
+    },
+    {
+      "id": "art-20260414-09",
+      "title": "波兰农场主引入人形机器人驱赶野猪，节省了围栏建设的高额成本",
+      "summary": "波兰一农场主用一台人形机器人代替传统围栏，通过声光威慑成功驱离野猪群，每年节省数千欧元的围栏及损失费用，此举引发国际媒体广泛关注。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "7NEWS / Futurism",
+      "url": "https://futurism.com",
+      "tags": [
+        "Humanoid",
+        "Wildlife",
+        "Poland"
+      ],
+      "timestamp": "2026-04-13T05:30:00Z"
+    },
+    {
+      "id": "art-20260414-10",
+      "title": "深圳建成首条人形机器人全自动生产线，日产能超100台",
+      "summary": "深圳一家机器人制造商宣布，其人形机器人全自动装配线正式投入运营，日产能超过100台。这是全球首条验证人形机器人量产可行性的商业生产线。",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Macao News",
+      "url": "https://macaonews.org",
+      "tags": [
+        "Shenzhen",
+        "China",
+        "Manufacturing"
+      ],
+      "timestamp": "2026-04-13T04:00:00Z"
+    },
+    {
+      "id": "art-20260414-11",
+      "title": "韩国军队部署机器人士兵：模块化平台同时支持侦察与战斗任务",
+      "summary": "韩国国防部宣布在边境地区启动机器人士兵试点项目，部署模块化无人系统，可在侦察、后勤支援及作战支持等任务间灵活切换。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "The Korea Herald",
+      "url": "https://www.koreaherald.com",
+      "tags": [
+        "Military",
+        "South Korea",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-13T03:30:00Z"
+    },
+    {
+      "id": "art-20260414-12",
+      "title": "起亚发布机器人战略：将汽车制造能力复用于大规模生产具身AI系统",
+      "summary": "起亚汽车公布机器人战略愿景，计划将汽车级制造工艺和质量标准应用于机器人规模化生产，目标是在2030年代成为全球顶级机器人制造商之一。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "AI Business",
+      "url": "https://aibusiness.com",
+      "tags": [
+        "Kia",
+        "Humanoid",
+        "Delivery"
+      ],
+      "timestamp": "2026-04-13T03:00:00Z"
+    },
+    {
+      "id": "art-20260414-13",
+      "title": "PeritasAI联合NVIDIA推出AI外科助手，可在手术中实时提示最优操作路径",
+      "summary": "PeritasAI与NVIDIA合作，在NVIDIA Holoscan边缘AI平台上开发了一套外科手术实时指导系统，能够在手术进行中向术者推荐循证最优操作方案，提升手术精准度与安全性。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / PeritasAI",
+      "url": "https://www.reddit.com/r/robotics/comments/1skgc65/peritasai_and_nvidia_isaac_enabling_real_time_ai",
+      "tags": [
+        "Surgical Robot",
+        "NVIDIA",
+        "Medical AI"
+      ],
+      "timestamp": "2026-04-13T02:30:00Z"
+    },
+    {
+      "id": "art-20260414-14",
+      "title": "Transitive 2.0开源发布：统一框架支持多厂商机器人联合部署",
+      "summary": "Transitive Robotics发布2.0版开源框架，实现对多品牌、多型号机器人的标准化集成接口与统一管理，大幅降低混合机器人环境的开发与运维复杂度。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Open Source",
+        "Fleet Management",
+        "Transitive"
+      ],
+      "timestamp": "2026-04-13T02:00:00Z"
+    },
+    {
+      "id": "art-20260414-15",
+      "title": "新型随机算法破解机器人交通网格死锁难题，效率提升40%",
+      "summary": "研究人员提出一种基于随机化的新算法，可有效解决多机器人系统中常见的网格死锁问题。在密集仓储场景的测试中，整体调度效率提升约40%。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Neuroscience News",
+      "url": "https://neurosciencenews.com",
+      "tags": [
+        "Algorithm",
+        "Warehouse",
+        "Research"
+      ],
+      "timestamp": "2026-04-13T01:30:00Z"
+    },
+    {
+      "id": "art-20260414-16",
+      "title": "速腾聚创斩获2600万美元车规级激光雷达大订单，助力下一代机器人感知系统",
+      "summary": "速腾聚创宣布获得价值2600万美元的车规级激光雷达采购订单，产品将同时应用于自动驾驶和人形机器人的感知系统，凸显激光雷达技术在两大市场的战略价值。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Gasgoo",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "Sensors"
+      ],
+      "timestamp": "2026-04-13T01:00:00Z"
+    },
+    {
+      "id": "art-20260414-17",
+      "title": "华燕智能携多款机器人亮相汉诺威工业博览会，展示工业自动化新方向",
+      "summary": "华燕智能在2026年汉诺威工业博览会上展示了面向电子制造、物流分拣和精密装配等场景的新一代机器人解决方案，受到全球工业界的广泛关注。",
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop",
+      "source": "Business Insider Markets",
+      "url": "https://markets.businessinsider.com",
+      "tags": [
+        "Huayan",
+        "HANNOVER MESSE",
+        "Europe"
+      ],
+      "timestamp": "2026-04-13T00:30:00Z"
+    },
+    {
+      "id": "art-20260414-18",
+      "title": "Boston Dynamics谈第二代机器人挑战：真正的进步在于持续部署而非一次性演示",
+      "summary": "Boston Dynamics工程团队发表深度文章，探讨第二代商用机器人面临的核心技术挑战，重申公司判断机器人能力的核心指标不是实验室演示，而是在真实环境中的可靠持续运行。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics / Boston Dynamics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skg5ki/boston_dynamics_on_why_second_gen_robots_are",
+      "tags": [
+        "Boston Dynamics",
+        "Atlas",
+        "Reliability"
+      ],
+      "timestamp": "2026-04-13T00:00:00Z"
+    },
+    {
+      "id": "art-20260414-19",
+      "title": "乌克兰无人机部队首次实现仅用无人机捕俘——无需地面部队介入",
+      "summary": "据报道，乌克兰特种作战部队成功实施首次纯无人机捕俘行动：多架无人机协同编队，在无地面士兵参与的情况下，将一名俄罗斯士兵逼降并护送至控制区。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com",
+      "tags": [
+        "Military",
+        "Drone",
+        "Ukraine"
+      ],
+      "timestamp": "2026-04-13T05:00:00Z"
+    },
+    {
+      "id": "art-20260414-20",
+      "title": "科技伦理工程师创立机器人伦理咨询公司，帮助企业构建负责任的AI部署框架",
+      "summary": "一位前大型科技公司伦理工程师正式创立机器人与AI伦理咨询公司，专注于为机器人系统开发提供合规治理框架，将伦理评估无缝嵌入企业产品迭代流程。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1skn0jj/i_quit_my_robotics_job_because_they_were_moving",
+      "tags": [
+        "Ethics",
+        "Military Robotics",
+        "Community"
+      ],
+      "timestamp": "2026-04-13T08:00:00Z"
+    }
+  ]
+}
