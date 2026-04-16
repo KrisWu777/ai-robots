@@ -1,0 +1,318 @@
+{
+  "date": "2026-04-15",
+  "featured": {
+    "id": "featured-20260415",
+    "title": "Boston DynamicsとGoogle DeepMindがGemini RoboticsをSpotに統合——産業用ロボットが「推論ネイティブ」時代へ突入",
+    "summary": "Boston DynamicsはGoogle DeepMindと連携し、Gemini RoboticsモデルをSpotロボットに直接組み込み、リアルタイム視覚推論と自然言語指示理解を必要とする点検タスクを実現した。実演では、Gemini搭載のSpotが観察内容への質問に回答し、異常を検出し、事前プログラムされたルールなしに点検ルートを自律的に調整してみせた。この連携は、タスクスクリプト型産業ロボットから真の推論ネイティブ自律エージェントへの歴史的転換を象徴する。",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-open-a-door.jpg?id=57467838&width=1200",
+    "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-google-deepmind-spot-gemini",
+    "tags": [
+      "Boston Dynamics",
+      "Google DeepMind",
+      "Gemini",
+      "Spot"
+    ],
+    "timestamp": "2026-04-14T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260415-01",
+      "title": "Google DeepMind、Gemini Robotics-ER 1.6リリース——現実世界のロボットタスク向け「推論ファースト」モデル",
+      "summary": "Google DeepMindはGemini Robotics-ER 1.6を公開した。強化された具身推論モデルで、物理ロボットの空間理解、物体操作、マルチステップタスク計画を大幅に向上させる。操作ベンチマークで新たな最高スコアを達成し、少量のファインチューニングで未知環境にも対応可能だ。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "Foundation Model"
+      ],
+      "timestamp": "2026-04-14T17:00:00Z"
+    },
+    {
+      "id": "art-20260415-02",
+      "title": "Unitree H1ヒューマノイドが時速10m/sのスプリントを達成——業界で「速さ=良さ」論争が勃発",
+      "summary": "Unitree Roboticsのヒューマノイドロボット H1が毎秒10メートルという速度を実証し、二足歩行ロボットの従来速度記録を更新した。しかしロボット工学コミュニティでは、安定性・操作精度・エネルギー効率が重要な商用展開において生の速度指標に意味があるか、活発な議論が起きている。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Yicai Global",
+      "url": "https://www.yicaiglobal.com",
+      "tags": [
+        "Unitree",
+        "Humanoid",
+        "Speed Record"
+      ],
+      "timestamp": "2026-04-14T12:00:00Z"
+    },
+    {
+      "id": "art-20260415-03",
+      "title": "UnitreeのG1ヒューマノイドがAliExpressに登場、$4,370——フルサイズ人型ロボット史上最安値",
+      "summary": "UnitreeのG1ヒューマノイドロボットがAliExpressで$4,370で発売開始。消費者市場でこれまでで最も手頃な価格のフルサイズヒューマノイドとなった。簡略化された構成は研究者・開発者・早期採用者を対象とし、中国が人型ロボットハードウェアのコモディティ化と開発者エコシステム構築を加速させる動きだ。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "The Tech Buzz",
+      "url": "https://www.techbuzz.ai",
+      "tags": [
+        "Unitree",
+        "Consumer",
+        "Price",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-14T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-04",
+      "title": "テスラが上海ギガファクトリーでOptimusヒューマノイドロボットの生産を検討——グローバル供給拡大へ",
+      "summary": "報告によると、テスラは上海ギガファクトリーをOptimusヒューマノイドロボットの生産拠点として活用する計画を検討中。テキサスの施設を補完しつつ、製造コスト削減とアジアのヒューマノイド部品サプライチェーンへのアクセスが狙いだ。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Tech in Asia",
+      "url": "https://www.techinasia.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Manufacturing",
+        "Shanghai"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-05",
+      "title": "北京ハーフマラソンのフルプロセス試験走行が完了——ヒューマノイドロボットが史上初の競技マラソンへ準備万端",
+      "summary": "2026年北京ヒューマノイドロボット・ハーフマラソンの組織委員会が、複数メーカーのロボットが本番さながらの条件でコースを完走する総合リハーサルを実施。月末開催予定のこのイベントはヒューマノイドロボット専用の史上初の競技マラソンとなる。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Asian News Network",
+      "url": "https://asianews.network",
+      "tags": [
+        "Beijing",
+        "Marathon",
+        "Humanoid",
+        "China"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-06",
+      "title": "バイラル動画：Unitree G1ロボットがワルシャワの駐車場でイノシシの群れを追い散らす——農家が柵を廃棄",
+      "summary": "ポーランド・ワルシャワの駐車場でUnitree G1ヒューマノイドロボットがイノシシの群れを追い散らす動画がSNSで爆発的に拡散し、数百万回再生を突破。地元農家が電気柵の代替として導入したロボットが移動と騒音で動物を効果的に追い払い、ヒューマノイドの実用価値を示す意外な宣伝効果をもたらした。",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?auto=webp&s=preview",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk",
+      "tags": [
+        "Unitree",
+        "Viral",
+        "Humanoid",
+        "Poland"
+      ],
+      "timestamp": "2026-04-14T22:00:00Z"
+    },
+    {
+      "id": "art-20260415-07",
+      "title": "奇瑞がAiMOGA Roboticsと提携、2026北京モーターショーで知能エコシステム拡大を発表",
+      "summary": "奇瑞汽車は2026年北京モーターショー（Auto China 2026）でAiMOGA Roboticsとの新たな提携を発表。自動車とヒューマノイドロボットプラットフォームを統合したクロスドメイン知能エコシステムの構築を目指す。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Macau Business",
+      "url": "https://macaubusiness.com",
+      "tags": [
+        "Chery",
+        "AiMOGA",
+        "Auto China",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260415-08",
+      "title": "Locus Roboticsが「Locus Array」を発表——人間のピッカー不要の完全自律フルフィルメントへ",
+      "summary": "Locus Roboticsは、人間のピッカーなしで完全自律フルフィルメント運営を実現する新プラットフォーム「Locus Array」を発表。自律型モバイルロボット、AI駆動のオーケストレーション、モジュラーハードウェアアーキテクチャを統合し、人手なしでエンドツーエンドの倉庫業務を実現する。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Supply Chain Dive",
+      "url": "https://www.sdcexec.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous",
+        "Fulfillment"
+      ],
+      "timestamp": "2026-04-13T14:00:00Z"
+    },
+    {
+      "id": "art-20260415-09",
+      "title": "クカが「Automation 2.0」を発表——AIネイティブソフトウェアが工場間のロボット群を連携管理",
+      "summary": "クカ・ロボティクスが「Automation 2.0」戦略を詳説。複数の工場サイトにわたるロボット群を同時に協調運用するAIネイティブのクラウドソフトウェアプラットフォームが核心だ。デジタルツイン、機械学習ベースのスケジューリング、リアルタイムデータ共有で稼働率を最大化し、ダウンタイムを削減する。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Kuka",
+        "Automation",
+        "AI Platform",
+        "Industry 4.0"
+      ],
+      "timestamp": "2026-04-13T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-10",
+      "title": "PIA Automationが産業向けに具身AI・ヒューマノイドロボティクス事業部を発足",
+      "summary": "ドイツに本拠を置くオートメーションインテグレーターのPIA Automationが、製造環境向けに具身AIとヒューマノイドロボティクスに特化した専用事業部を立ち上げた。新部門は組立・品質管理・マテリアルハンドリングにおけるヒューマノイド展開のアプリケーションパッケージを開発する。",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "PIA Automation",
+        "Embodied AI",
+        "Industrial",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-11",
+      "title": "CVPR 2026特集：AI基盤研究がロボティクスイノベーションの次の飛躍を牽引",
+      "summary": "CVPR 2026では、視覚言語モデル、拡散ベースのモーションプランニング、ワールドモデルの進歩が物理ロボットの能力向上に直結していることを示す研究が多数発表された。主なハイライトは、自然言語によるゼロショットグラスピング、ビデオからのポリシー学習、器用な操作向けのリアルタイム3Dシーン再構築など。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Newswise",
+      "url": "https://www.newswise.com",
+      "tags": [
+        "CVPR",
+        "Research",
+        "AI",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260415-12",
+      "title": "中国ロボット企業が四足歩行ロボットを主要収益源に——ヒューマノイドR&Dの資金を供給",
+      "summary": "サウスチャイナ・モーニング・ポストの分析によると、中国のロボット企業はヒューマノイドではなく四足歩行ロボットの販売を主要収益源として活用している。Unitreeなどの企業は点検・警備・エンターテインメント顧客に年間数千台のロボット犬を出荷し、安定したキャッシュフローを生み出している。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "China",
+        "Quadruped",
+        "Unitree",
+        "Revenue"
+      ],
+      "timestamp": "2026-04-14T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-13",
+      "title": "ウクライナの軍用ロボット急増——ドローンへの電子戦リスクが地上自律システムの需要を押し上げる",
+      "summary": "Ars Technicaの報道によると、ドローン群への電子戦脅威への懸念が高まる中、ウクライナ軍は自律型地上ロボットプログラムを劇的に拡大。国防テック企業がロジスティクス、傷病者搬送、爆発物処理向けのロボットを開発しており、一部はすでに最前線に展開されている。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "Ukraine",
+        "Military",
+        "Autonomous",
+        "Defense"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260415-14",
+      "title": "ヒューマノイドロボット市場、2032年に1兆ドル規模へ——新たな市場分析",
+      "summary": "新しい市場レポートで、AIの能力向上・ハードウェアコスト低下・企業需要の急増が三位一体となり、グローバルなヒューマノイドロボット市場が2032年に1兆ドルに達すると予測された。2028年までに最も成長するセグメントは倉庫物流・高齢者介護・製造組立の3分野。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "Table Briefings",
+      "url": "https://table.media",
+      "tags": [
+        "Market",
+        "Humanoid",
+        "Investment",
+        "Forecast"
+      ],
+      "timestamp": "2026-04-14T11:00:00Z"
+    },
+    {
+      "id": "art-20260415-15",
+      "title": "KEENONロボティクスがInterclean Amsterdam 2026で自律清掃技術を披露",
+      "summary": "KEENON Roboticsが2026年Interclean Amsterdam展示会に最新の自律清掃ロボットラインナップを出展し、商業・医療環境での完全自律床清掃・消毒・廃棄物収集を実演。リアルタイム障害物回避、リモート車両管理、多言語音声インタラクション機能を搭載している。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "KEENON",
+        "Cleaning Robot",
+        "Service Robot"
+      ],
+      "timestamp": "2026-04-14T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-16",
+      "title": "テナントがBrain Corpとの提携を深化——商業清掃ロボットの大規模展開を加速",
+      "summary": "テナント・カンパニーがBrain Corpとの提携拡大を発表し、商業用フロアクリーニングマシンへのAI自律性統合をさらに深める。小売り・物流・空港の大規模施設での自己走行清掃ロボットの展開を加速し、遠隔監視と予知保全に注力する。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Tennant",
+        "Brain Corp",
+        "Cleaning Robot",
+        "Autonomy"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    },
+    {
+      "id": "art-20260415-17",
+      "title": "TechXplore：危険察知・経路自律計画・重荷負重越障——新型全地形対応危険路線ナビゲーションロボット",
+      "summary": "研究者が、環境危険をリアルタイムで感知し、最も安全な通過経路を自律的に選択しながら困難な地形でペイロードの安定を維持するロボットを開発した。建設・鉱山・災害救援環境での安全な積載走行という重要なギャップを埋める成果だ。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com",
+      "tags": [
+        "Research",
+        "Navigation",
+        "Locomotion",
+        "Safety"
+      ],
+      "timestamp": "2026-04-13T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-18",
+      "title": "ヒューマノイドロボットが腱組織工学研究に活用——メカノトランスダクションの新発見",
+      "summary": "科学者が、ヒューマノイドロボット負荷プラットフォームが実験室の腱組織構造体に制御された機械的刺激を確実に与え、腱修復を促進するメカノトランスダクション経路を活性化できることを示す研究成果を発表した。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org",
+      "tags": [
+        "Medical",
+        "Research",
+        "Humanoid",
+        "Biomedical"
+      ],
+      "timestamp": "2026-04-14T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-19",
+      "title": "RoboSenseのActive Cameraシリーズが大手ヒューマノイドロボット企業から大口受注を獲得",
+      "summary": "RoboSenseがActive Cameraセンサーシリーズで著名なヒューマノイドロボットメーカーから大規模な商業注文を獲得し、ヒューマノイド用途での初の大規模展開を達成したと発表。高解像度イメージングとアクティブデプスセンシングを組み合わせ、器用な操作に必要な豊富な環境認知を実現する。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "Sensors",
+        "Humanoid",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-14T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-20",
+      "title": "ロボット自動化がアルミニウム精錬を再形成——高温重工業における歴史的突破",
+      "summary": "Mining Technologyが、アルミニウム精錬作業へのロボット自動化の初の大規模展開を報告。極端な高温と有毒なガスが従来は自動化を困難にしていたが、耐熱ハードウェアを備えた産業用ロボットがオーストラリアと中東の施設でタッピング・陽極交換・品質サンプリング作業を担うようになった。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com",
+      "tags": [
+        "Industrial Robot",
+        "Manufacturing",
+        "Mining",
+        "Automation"
+      ],
+      "timestamp": "2026-04-14T05:00:00Z"
+    }
+  ]
+}

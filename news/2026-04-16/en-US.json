@@ -1,0 +1,321 @@
+{
+  "date": "2026-04-16",
+  "featured": {
+    "id": "featured-20260416",
+    "title": "Skild AI Acquires Zebra Technologies' Robotics Automation Business — Consolidating AI-Native Robot Intelligence",
+    "summary": "Skild AI, the Pittsburgh-based embodied AI startup backed by Jeff Bezos and SoftBank, has acquired Zebra Technologies' entire robotics automation division — including its autonomous mobile robot (AMR) software platform and customer contracts. The deal marks one of the largest robotics M&A moves of 2026, positioning Skild to instantly deploy its foundation model across a fleet of industrial AMRs already operating in warehouses and manufacturing facilities worldwide. Zebra had been quietly building its robotics portfolio through earlier acquisitions of Fetch Robotics, and the handoff to Skild signals a strategic shift: hardware incumbents are ceding ground to AI-first players who can offer generalist robot intelligence across platforms.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com",
+    "tags": [
+      "Skild AI",
+      "Zebra Technologies",
+      "Acquisition",
+      "AMR"
+    ],
+    "timestamp": "2026-04-15T21:32:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260416-01",
+      "title": "Hyundai Deploys Autonomous Firefighting Robots to Shield First Responders",
+      "summary": "Hyundai has deployed a fleet of autonomous firefighting robots capable of navigating burning structures, spraying water, and relaying thermal sensor data to incident commanders — all without putting human firefighters at risk. The wheeled robots, developed in partnership with a Korean fire safety authority, use a combination of LIDAR, thermal cameras, and onboard AI to map and navigate smoke-filled environments. Hyundai plans to expand deployments to industrial sites and tunnel infrastructure across South Korea by the end of 2026.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "ThomasNet",
+      "url": "https://www.thomasnet.com",
+      "tags": [
+        "Hyundai",
+        "Firefighting",
+        "Safety",
+        "Autonomous"
+      ],
+      "timestamp": "2026-04-15T18:00:00Z"
+    },
+    {
+      "id": "art-20260416-02",
+      "title": "Accenture Takes Strategic Stake in General Robotics to Scale GRID Physical AI Platform",
+      "summary": "Accenture has made a strategic investment in Israel-based General Robotics, maker of the GRID platform — an AI-powered system that gives industrial robots the ability to handle unstructured tasks like bin picking, kitting, and quality inspection without manual programming. The deal accelerates deployment of physical AI across Accenture's manufacturing clients, who have been asking for robot systems that don't require weeks of re-configuration every time a product changes. General Robotics says the investment will fund global go-to-market expansion and deeper integration with Accenture's Industry X practice.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": [
+        "Accenture",
+        "General Robotics",
+        "Physical AI",
+        "Investment"
+      ],
+      "timestamp": "2026-04-15T14:00:00Z"
+    },
+    {
+      "id": "art-20260416-03",
+      "title": "Agibot's G2 Humanoid Begins Live Production Duty on Chinese Electronics Line",
+      "summary": "Chinese humanoid robotics company Agibot has deployed its G2 humanoid robot on an active, industrial-scale electronics production line — described as a world first for general-purpose humanoids working in live manufacturing environments rather than controlled demos. The G2 robots handle component assembly tasks that previously required skilled human labor, operating alongside human workers on the same line. Agibot says the G2's embodied AI stack, trained using sim-to-real reinforcement learning, allows it to adapt to production line variations in real time without reprogramming.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Agibot",
+        "Humanoid",
+        "Manufacturing",
+        "Embodied AI"
+      ],
+      "timestamp": "2026-04-15T11:00:00Z"
+    },
+    {
+      "id": "art-20260416-04",
+      "title": "Flexiv Showcases Adaptive Robot Arms at Hannover Messe — Targeting Industrial Dexterity Gap",
+      "summary": "Chinese-American robotics company Flexiv used its Hannover Messe 2026 debut to demonstrate its Rizon adaptive robot arm performing live assembly, force-sensitive insertion, and surface polishing tasks — applications where traditional industrial arms fail due to lack of compliance and dexterity. Flexiv's robots combine force-torque sensing, impedance control, and on-device AI to handle variable manufacturing conditions without rigid fixturing. The company is positioning itself between traditional industrial arm makers like Fanuc and the new wave of humanoid startups, targeting near-term commercial deployment across automotive and electronics sectors.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "Flexiv",
+        "Hannover Messe",
+        "Industrial Robotics",
+        "Dexterity"
+      ],
+      "timestamp": "2026-04-15T09:00:00Z"
+    },
+    {
+      "id": "art-20260416-05",
+      "title": "Barclays: Drone and Robot Delivery Could Cut Last-Mile Costs to $1 Per Order",
+      "summary": "A new Barclays research report projects that the combination of autonomous delivery drones and sidewalk robots could reduce last-mile food and package delivery costs to under $1 per order within five years — a 90% reduction from current courier-based economics. The analysis models scenarios where drone delivery handles suburban routes while ground robots cover dense urban areas, with AI dispatch systems routing orders dynamically between modalities. Barclays identifies regulatory approval timelines as the primary constraint on deployment speed, not the underlying technology.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com",
+      "tags": [
+        "Drone Delivery",
+        "Last-Mile",
+        "Economics",
+        "Automation"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260416-06",
+      "title": "PIA Automation Launches Embodied AI and Humanoid Robotics Division for Industry",
+      "summary": "German-Austrian automation integrator PIA Automation has formally launched a dedicated Embodied AI and Humanoid Robotics division, combining its decades of automotive assembly integration experience with new humanoid robot platforms from multiple vendors. PIA says the division will offer complete solution packages — from humanoid hardware selection and workcell design to AI model training and ongoing operation support — targeting automotive OEMs and tier-1 suppliers transitioning to mixed human-robot production lines. The launch follows rising customer demand from clients who want to pilot humanoids but lack in-house robotics expertise.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/pia-automation-launches-embodied-ai-and-humanoid-robotics-division-targeting-industrial-applications/100591/",
+      "tags": [
+        "PIA Automation",
+        "Humanoid",
+        "Industry",
+        "Integration"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-07",
+      "title": "CP Group Acquires Recycleye to Bring AI Robotic Sorting to Waste Management",
+      "summary": "Thai conglomerate CP Group has acquired UK-based Recycleye, an AI-powered robotic sorting company that uses computer vision and robotic arms to sort recyclable materials at high speed and accuracy. The acquisition gives CP Group access to Recycleye's proprietary waste identification AI — trained on millions of material samples — and its deployed fleet of sorting robots operating across European recycling facilities. CP plans to integrate Recycleye's technology into waste management operations across Asia, where manual sorting remains dominant and contamination rates are high.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Recycling",
+        "AI Vision",
+        "Acquisition",
+        "Automation"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260416-08",
+      "title": "Former Xpeng Autonomous Driving Chief Joins EngineAI to Lead Humanoid Locomotion R&D",
+      "summary": "Dr. Shengkai Li, former head of autonomous driving research at Xpeng Motors, has joined EngineAI — the Chinese humanoid robotics startup behind the PM01 and SE01 platforms — as chief robotics scientist, with a focus on humanoid locomotion and whole-body control. The appointment signals a growing talent migration from the autonomous vehicle industry to humanoid robotics, as researchers find that the perception, planning, and motion control challenges closely mirror each other. EngineAI recently completed a $100M Series B and is targeting commercial deployment by late 2026.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "CnEVPost",
+      "url": "https://cnevpost.com",
+      "tags": [
+        "EngineAI",
+        "Talent",
+        "Humanoid",
+        "China"
+      ],
+      "timestamp": "2026-04-15T05:30:00Z"
+    },
+    {
+      "id": "art-20260416-09",
+      "title": "Teradyne Robotics Highlights Mobile Cobot and AI Pallet Handling at MODEX 2026",
+      "summary": "Teradyne's robotics portfolio — spanning Universal Robots cobots, Mobile Industrial Robots (MIR) AMRs, and AutoGuide autonomous forklifts — took center stage at MODEX 2026, where the company demonstrated a fully integrated warehouse cell combining mobile cobots with AI-powered pallet identification and handling. The demo showed a MIR robot autonomously picking up a loaded pallet, navigating to a conveyor, and using a UR20 cobot arm to depalletize individual boxes — all without human intervention. Teradyne says the integrated stack is now commercially available as a pre-validated kit for distribution centers.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Modern Materials Handling",
+      "url": "https://www.mmh.com",
+      "tags": [
+        "Teradyne",
+        "Cobot",
+        "Warehouse",
+        "MODEX"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260416-10",
+      "title": "Robotic Hand for Tactile Sign Language Enables Deaf-Blind Communication Breakthrough",
+      "summary": "Researchers have demonstrated a robotic hand system that reproduces tactile sign language — a touch-based communication method used by deaf-blind individuals — with enough fidelity to convey meaning in real time. The system uses force-controlled actuators and a learned motion model to replicate the hand shapes and movements of Protactile American Sign Language, a relatively new and highly expressive communication form. In user studies, deaf-blind participants reported significantly faster communication speeds compared to existing assistive devices, pointing toward a practical assistive robotics application with direct human benefit.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/robotic_hand_designed_for_tactile_sign_language_communication/",
+      "tags": [
+        "Assistive Tech",
+        "Soft Robotics",
+        "Sign Language",
+        "Research"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-11",
+      "title": "Joule Heating Enables Self-Folding Origami Robots — No Motors Required",
+      "summary": "AZoRobotics reports on a new class of soft robots that use Joule heating — passing electrical current through shape-memory alloy elements embedded in paper-like substrate — to fold themselves into complex 3D structures without any mechanical actuators or motors. Inspired by origami, the robots can transition between flat and volumetric forms in seconds, making them candidates for deployable medical devices, space structures, and miniaturized inspection tools that need to be flat during transport. The research team demonstrated grippers, crawlers, and enclosures that fold and unfold on-demand from a single sheet of material.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": [
+        "Soft Robotics",
+        "Origami",
+        "Research",
+        "Actuation"
+      ],
+      "timestamp": "2026-04-15T03:30:00Z"
+    },
+    {
+      "id": "art-20260416-12",
+      "title": "Smarter Inspections: Boston Dynamics Teaches Spot to Reason with Google Gemini",
+      "summary": "Boston Dynamics has published a detailed breakdown of how Spot uses Google's Gemini Robotics language-vision model to perform reasoning-driven industrial inspections — reading gauges, interpreting warning lights, identifying anomalies, and generating natural-language reports for human operators. The integration moves Spot beyond pre-programmed inspection routes into adaptive, context-aware behavior: the robot can be given a high-level instruction like \"check the pump room\" and determine which instruments to read, what constitutes an anomaly, and how to escalate findings. Early pilots at industrial facilities show a 40% reduction in inspection time and higher fault-detection rates versus manual rounds.",
+      "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200",
+      "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+      "tags": [
+        "Boston Dynamics",
+        "Spot",
+        "Gemini",
+        "Inspection"
+      ],
+      "timestamp": "2026-04-14T19:45:01Z"
+    },
+    {
+      "id": "art-20260416-13",
+      "title": "TechXplore: New Robot Autonomously Sees Hazards, Plans Routes, and Carries Heavy Loads",
+      "summary": "Researchers have demonstrated a mobile robot platform that combines real-time hazard detection, autonomous route planning, and high payload carrying in a single system — addressing a key gap in logistics robots that typically sacrifice one capability for another. The robot uses a multi-modal sensor stack to identify obstacles, unstable terrain, and environmental hazards, then dynamically replans its route while maintaining load stability. The team tested the platform in simulated construction and warehouse environments, where it successfully navigated dynamic obstacles while carrying loads up to 50kg.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "Mobile Robotics",
+        "Hazard Detection",
+        "Logistics",
+        "Research"
+      ],
+      "timestamp": "2026-04-13T13:20:08Z"
+    },
+    {
+      "id": "art-20260416-14",
+      "title": "Gemini Robotics-ER 1.6 Pushes Embodied Reasoning — Instrument Reading Jumps from 23% to 81%",
+      "summary": "Google DeepMind's latest update to its Gemini Robotics-ER model — version 1.6 — delivers dramatic improvements on embodied reasoning benchmarks, with instrument reading accuracy jumping from 23% to 81% in standardized evaluations. The model uses an enhanced cross-modal attention mechanism to better ground language instructions in spatial robot coordinates, and a new temporal context window that lets the robot track state changes across longer manipulation sequences. DeepMind says ER 1.6 is already deployed in Boston Dynamics' Spot and is available to robotics researchers through the Gemini API.",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "Embodied AI",
+        "Benchmark"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260416-15",
+      "title": "Unitree Announces Free U.S. Shipping for Humanoid Robots — Direct Challenge to Import Tariffs",
+      "summary": "Unitree Robotics has announced it will absorb all U.S. shipping and import costs for its humanoid robot line — including the G1 and H1 models — in a direct response to ongoing tariff pressures on Chinese tech hardware. The company says the move is designed to maintain its competitive price advantage in the U.S. market, where the G1 retails at $4,370 and the H1 at $39,000 before duties. The announcement was timed alongside AliExpress beginning direct sales of the G1 to U.S. consumers, marking the first time a humanoid robot has been sold through a major e-commerce marketplace without an enterprise contract.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "Unitree",
+        "Pricing",
+        "U.S. Market",
+        "Tariffs"
+      ],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260416-16",
+      "title": "Humanoid Robot Half-Marathon Draws Alibaba and Honor — Embodied AI Gets Endurance Test",
+      "summary": "A humanoid robot half-marathon event in China attracted teams backed by Alibaba, Honor, and a coalition of top robotics labs, with competitors completing 21km courses to benchmark energy efficiency, gait stability, and thermal management in extended autonomous operation. The event, distinct from the Beijing full marathon event of previous months, focused specifically on AI-driven gait optimization — robots that could dynamically adjust stride patterns to conserve battery had a measurable advantage. Results are being shared as open benchmarks to advance the broader field of humanoid endurance locomotion.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com",
+      "tags": [
+        "Humanoid",
+        "Marathon",
+        "Alibaba",
+        "Locomotion"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-17",
+      "title": "3D-Printed 6-Axis Robotic Arm: Open-Source Graduation Project Inspires Maker Community",
+      "summary": "A graduating engineering student has released a fully open-source 6-axis robotic arm design, 3D-printable with off-the-shelf servo motors and a Raspberry Pi controller, that has gone viral in the robotics maker community. The design achieves a 500g payload capacity, sub-millimeter repeatability, and full ROS2 compatibility — capabilities previously requiring commercial systems costing tens of thousands of dollars. The project includes complete CAD files, assembly guides, and pre-trained motion profiles, and has already been forked over 3,000 times on GitHub within days of release.",
+      "image": "https://external-preview.redd.it/OHdnNXQ2MTV3ZHZnMcaAhWmEFpYenH8rtwcfDLl6pb_g6w-r2uTVvvvkT.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/",
+      "tags": [
+        "Open Source",
+        "DIY",
+        "Maker",
+        "3D Printing"
+      ],
+      "timestamp": "2026-04-15T10:00:00Z"
+    },
+    {
+      "id": "art-20260416-18",
+      "title": "RoboSense Active Camera Series Wins Order from Top Humanoid Robotics Firm",
+      "summary": "RoboSense, the Chinese LiDAR and intelligent sensing company, has secured a major production order for its Active Camera series from a leading humanoid robotics manufacturer — widely speculated to be Unitree or BYD's humanoid division. The Active Camera integrates structured light depth sensing, RGB imaging, and on-chip AI inference in a single compact module optimized for robot hand and head-mounting positions. RoboSense says the sensor achieves sub-millimeter depth accuracy at close range, enabling dexterous manipulation tasks that previously required expensive time-of-flight LiDAR systems.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "Sensing",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T06:30:00Z"
+    },
+    {
+      "id": "art-20260416-19",
+      "title": "Humanoid Robotics Market on Track for $1 Trillion Valuation by 2032 — New Forecast",
+      "summary": "A new market analysis projects the global humanoid robotics industry will reach a $1 trillion total addressable market by 2032, driven by falling hardware costs, maturing AI foundation models, and accelerating commercial deployments in manufacturing, logistics, and elder care. The report identifies Asia — particularly China, South Korea, and Japan — as the primary production and initial deployment geography, with North America and Europe following as regulatory frameworks catch up. The authors highlight the concentration risk of AI capabilities among a handful of foundation model providers as the key structural uncertainty in the forecast.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "openPR",
+      "url": "https://www.openpr.com",
+      "tags": [
+        "Market Analysis",
+        "Humanoid",
+        "Industry",
+        "Forecast"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-20",
+      "title": "Digital Manufacturing Platforms Are Slashing Time-to-Market for Robotics Companies",
+      "summary": "A new analysis from Robotics & Automation News examines how cloud-based digital manufacturing platforms — combining simulation, digital twins, and AI-assisted workcell design — are cutting robotics product development timelines from 18 months to under 6 months for leading firms. The platforms allow engineers to validate robot programs, test safety boundaries, and iterate on gripper designs in simulation before any physical hardware is built or installed. The article profiles three robotics startups that credit digital manufacturing infrastructure with allowing them to reach first customer shipments with teams of under 20 engineers.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/reducing-time-to-market-in-robotics-with-digital-manufacturing-platforms/100592/",
+      "tags": [
+        "Digital Twin",
+        "Manufacturing",
+        "Development",
+        "Simulation"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    }
+  ]
+}

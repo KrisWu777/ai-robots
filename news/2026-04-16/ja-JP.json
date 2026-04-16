@@ -1,0 +1,321 @@
+{
+  "date": "2026-04-16",
+  "featured": {
+    "id": "featured-20260416",
+    "title": "Skild AIがZebra TechnologiesのロボティクスオートメーションビジネスをM&A——AI統合型ロボット知能の集約へ",
+    "summary": "ジェフ・ベゾスとSoftBankの出資を受けるピッツバーグ拠点の具身型AIスタートアップSkild AIが、Zebra TechnologiesのロボティクスオートメーションAMRソフトウェアプラットフォームと顧客契約を含む全部門を買収した。2026年のロボティクス業界における最大規模のM&Aとなる本件により、Skildは世界中の倉庫・製造施設で稼働中の産業用AMRフリートに自社基盤モデルを即時展開できる体制を整えた。ZebraはFetch Roboticsなどの買収を通じてロボティクスポートフォリオを構築してきたが、今回のSkildへの事業移管はひとつの戦略的転換を示している——ハードウェア大手がAIファーストのプレーヤーにイニシアチブを渡しつつある。",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com",
+    "tags": [
+      "Skild AI",
+      "Zebra Technologies",
+      "M&A",
+      "AMR"
+    ],
+    "timestamp": "2026-04-15T21:32:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260416-01",
+      "title": "現代自動車、消防ロボットを展開——ファーストレスポンダーの安全を守る",
+      "summary": "現代自動車は自律型消防ロボットの小隊を展開した。炎上中の建物内を走行し、放水し、熱センサーデータを現場指揮官にリレーする機能を持ち、消防士を危険にさらすことなく活動できる。車輪型ロボットはLiDAR・熱カメラ・搭載AIを組み合わせ、煙で満たされた環境をマッピングしながら自律移動する。2026年末までに韓国の工業施設やトンネルへの展開拡大を計画。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "ThomasNet",
+      "url": "https://www.thomasnet.com",
+      "tags": [
+        "現代自動車",
+        "消防ロボット",
+        "安全",
+        "自律"
+      ],
+      "timestamp": "2026-04-15T18:00:00Z"
+    },
+    {
+      "id": "art-20260416-02",
+      "title": "AccentureがGeneral Roboticsに戦略投資——GRIDフィジカルAIプラットフォームを拡張",
+      "summary": "AccentureはイスラエルのGeneral Roboticsに戦略投資を実施した。同社のGRIDプラットフォームは産業用ロボットに、手動プログラミングなしでビンピッキング・キッティング・品質検査などの非構造化タスクを処理させるAI駆動システムだ。今回の取引によりAccentureの製造業顧客へのフィジカルAI展開が加速する。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": [
+        "Accenture",
+        "General Robotics",
+        "フィジカルAI",
+        "投資"
+      ],
+      "timestamp": "2026-04-15T14:00:00Z"
+    },
+    {
+      "id": "art-20260416-03",
+      "title": "AigobotのG2人型ロボット、中国の電子部品生産ラインで実働開始——世界初",
+      "summary": "中国の人型ロボット企業AigobotがG2を稼働中の産業用電子部品生産ラインに投入した。汎用人型ロボットが実際の製造現場で従業員と並んで作業する世界初の事例とされる。G2はシム・トゥ・リアル強化学習で訓練した具身型AIスタックにより、再プログラミングなしで生産ラインの変化にリアルタイム適応する。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Agibot",
+        "人型ロボット",
+        "製造",
+        "具身型AI"
+      ],
+      "timestamp": "2026-04-15T11:00:00Z"
+    },
+    {
+      "id": "art-20260416-04",
+      "title": "Flexiv、ハノーバーメッセで適応型ロボットアームを展示——産業用デクスタリティ課題に挑む",
+      "summary": "米中ロボティクス企業FlexivはHannover Messe 2026デビューで、適応型ロボットアームRizonの組み立て・力制御挿入・表面研磨のライブデモを披露した。力トルクセンシング・インピーダンス制御・オンデバイスAIを組み合わせ、剛性治具なしで変動する製造条件に対応する。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "Flexiv",
+        "ハノーバーメッセ",
+        "産業ロボット",
+        "デクスタリティ"
+      ],
+      "timestamp": "2026-04-15T09:00:00Z"
+    },
+    {
+      "id": "art-20260416-05",
+      "title": "バークレイズ：ドローンとロボット配送でラストマイルコストが1ドルを下回る可能性",
+      "summary": "バークレイズの新リポートは、自律配送ドローンと歩道走行ロボットの組み合わせにより、5年以内に食品・荷物のラストマイル配送コストを1注文あたり1ドル未満に抑えられると予測する。現在のクーリエ経済比で90%削減になる計算だ。規制当局の承認スケジュールが技術ではなく速度の制約要因とする。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com",
+      "tags": [
+        "ドローン配送",
+        "ラストマイル",
+        "経済効果",
+        "自動化"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260416-06",
+      "title": "PIA Automation、産業向け具身型AIと人型ロボティクス部門を正式発足",
+      "summary": "独墺オートメーションインテグレーターPIA Automationが具身型AIと人型ロボティクスの専門部門を正式に立ち上げた。自動車組み立て統合の数十年の経験と各社の人型ロボットプラットフォームを組み合わせ、ハードウェア選定から継続運用支援までの包括的ソリューションを提供する。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/pia-automation-launches-embodied-ai-and-humanoid-robotics-division-targeting-industrial-applications/100591/",
+      "tags": [
+        "PIA Automation",
+        "人型ロボット",
+        "産業",
+        "インテグレーション"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-07",
+      "title": "CP GroupがRecycleyeを買収——AI駆動ロボット選別を廃棄物管理へ展開",
+      "summary": "タイのCPグループが英国のRecycleyeを買収した。コンピュータビジョンとロボットアームを使い高速・高精度でリサイクル材料を選別するAIロボット企業だ。アジア全土の廃棄物管理事業にRecycleyeのAI技術と欧州で稼働中のロボットフリートを統合する計画。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "リサイクル",
+        "AIビジョン",
+        "買収",
+        "自動化"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260416-08",
+      "title": "小鵬自動運転元トップがEngineAIに入社——人型ロボット歩行R&Dを主導",
+      "summary": "Xpeng Motors元自動運転研究責任者のShengkai Li博士がEngineAIにチーフロボティクスサイエンティストとして入社、人型ロボットの歩行制御と全身コントロールを担当する。自動運転業界から人型ロボット業界への人材移動の加速を示す採用事例だ。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "CnEVPost",
+      "url": "https://cnevpost.com",
+      "tags": [
+        "EngineAI",
+        "人材",
+        "人型ロボット",
+        "中国"
+      ],
+      "timestamp": "2026-04-15T05:30:00Z"
+    },
+    {
+      "id": "art-20260416-09",
+      "title": "TeradyneロボティクスがMODEX 2026でモバイルコボットとAIパレット処理を披露",
+      "summary": "TeradyneのロボティクスポートフォリオはMODEX 2026でモバイルコボットとAIパレット識別・処理を組み合わせた完全統合倉庫セルを実演。パレット取得から個箱デパレまで人間の介入なしに動作するシステムを、配送センター向けの事前検証済みキットとして販売開始した。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Modern Materials Handling",
+      "url": "https://www.mmh.com",
+      "tags": [
+        "Teradyne",
+        "コボット",
+        "倉庫",
+        "MODEX"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260416-10",
+      "title": "触覚手話用ロボットハンド——盲ろう者コミュニケーションに突破口",
+      "summary": "研究者がリアルタイムで意味を伝えられる精度で触覚手話を再現するロボットハンドシステムを発表した。力制御アクチュエータと学習型動作モデルでProtactile ASLの手形と動きを再現する。ユーザー研究では既存支援機器と比較し大幅にコミュニケーション速度が向上した。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/robotic_hand_designed_for_tactile_sign_language_communication/",
+      "tags": [
+        "支援技術",
+        "ソフトロボット",
+        "手話",
+        "研究"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-11",
+      "title": "ジュール加熱でモーターなしの自己折り畳みオリガミロボットが実現",
+      "summary": "AZoRoboticによると、形状記憶合金のジュール加熱を利用してメカニカルアクチュエータなしに複雑な三次元構造に折り畳まれるソフトロボットの新クラスが登場した。オリガミに着想を得たこれらのロボットは数秒でフラット形状と立体形状を切り替えられ、展開型医療デバイスや宇宙構造物への応用が期待される。",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": [
+        "ソフトロボット",
+        "オリガミ",
+        "研究",
+        "アクチュエーション"
+      ],
+      "timestamp": "2026-04-15T03:30:00Z"
+    },
+    {
+      "id": "art-20260416-12",
+      "title": "スマート点検：Boston DynamicsがSpotにGoogle Geminiによる推論を習得させる",
+      "summary": "Boston DynamicsはSpotがGoogleのGemini Roboticsモデルを使って推論駆動の産業点検を行う仕組みを詳述した。計器の読み取り・警告灯の解釈・異常検知・自然言語レポート生成を実現する。初期パイロットでは点検時間を40%削減し、故障検出率も手動巡回を上回った。",
+      "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200",
+      "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+      "tags": [
+        "Boston Dynamics",
+        "Spot",
+        "Gemini",
+        "点検"
+      ],
+      "timestamp": "2026-04-14T19:45:01Z"
+    },
+    {
+      "id": "art-20260416-13",
+      "title": "TechXplore：危険を検知し経路を計画、重荷を運ぶ新型ロボット",
+      "summary": "研究者が、リアルタイム危険検知・自律経路計画・高ペイロード搭載を単一システムに統合したモバイルロボットプラットフォームを発表した。模擬建設現場と倉庫での試験で、最大50kgの荷物を抱えながら動的障害物を回避することに成功した。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "モバイルロボット",
+        "危険検知",
+        "物流",
+        "研究"
+      ],
+      "timestamp": "2026-04-13T13:20:08Z"
+    },
+    {
+      "id": "art-20260416-14",
+      "title": "Gemini Robotics-ER 1.6が具身推論を強化——計器読み取り精度が23%から81%に向上",
+      "summary": "Google DeepMindのGemini Robotics-ER 1.6が具身推論ベンチマークで劇的な改善を達成、計器読み取り精度が23%から81%に向上した。強化されたクロスモーダルアテンション機構と新たな時系列コンテキストウィンドウを採用し、Gemini APIで研究者に公開されている。",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "具身AI",
+        "ベンチマーク"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260416-15",
+      "title": "Unitree、関税対策として人型ロボットの米国向け送料無料を発表",
+      "summary": "Unitree Roboticsは中国製テックハードウェアへの関税圧力への直接対応として、人型ロボット製品ラインの米国向け送料・輸入費用を全額負担すると発表した。AliExpressでのG1直販開始と同タイミングの発表で、人型ロボットが主要ECプラットフォームで販売される初のケースとなった。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "Unitree",
+        "価格",
+        "米国市場",
+        "関税"
+      ],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260416-16",
+      "title": "人型ロボットハーフマラソンがAlibabaとHonorを招集——具身AIの耐久テスト",
+      "summary": "中国で開催された人型ロボットハーフマラソンには、AlibabaとHonor、一流ロボティクス研究機関のチームが参加し21kmを走破。長時間自律動作時のエネルギー効率・歩行安定性・熱管理をベンチマーク化した。結果はオープンベンチマークとして公開される。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com",
+      "tags": [
+        "人型ロボット",
+        "マラソン",
+        "Alibaba",
+        "歩行制御"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-17",
+      "title": "3Dプリント6軸ロボットアーム：卒業制作のオープンソース設計がメイカーコミュニティを席巻",
+      "summary": "工学系の卒業生が、市販サーボモーターとRaspberry Piで3Dプリントできる6軸ロボットアームの完全オープンソース設計を公開した。500gペイロード・サブミリメートル繰り返し精度・ROS2対応を実現し、公開数日でGitHubフォーク数が3000を超えた。",
+      "image": "https://external-preview.redd.it/OHdnNXQ2MTV3ZHZnMcaAhWmEFpYenH8rtwcfDLl6pb_g6w-r2uTVvvvkT.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/",
+      "tags": [
+        "オープンソース",
+        "DIY",
+        "メイカー",
+        "3Dプリント"
+      ],
+      "timestamp": "2026-04-15T10:00:00Z"
+    },
+    {
+      "id": "art-20260416-18",
+      "title": "RoboSenseのアクティブカメラシリーズが人型ロボット大手から大型受注を獲得",
+      "summary": "RoboSenseが人型ロボット大手からアクティブカメラシリーズの大型量産受注を獲得した。構造光深度センシング・RGBイメージング・オンチップAI推論をコンパクトモジュールに統合し、精密マニピュレーションに必要なサブミリメートルの深度精度を実現する。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "センシング",
+        "人型ロボット"
+      ],
+      "timestamp": "2026-04-15T06:30:00Z"
+    },
+    {
+      "id": "art-20260416-19",
+      "title": "人型ロボット市場は2032年に1兆ドル規模へ——最新市場予測",
+      "summary": "新たな市場分析は、ハードウェアコスト低下・AIの基盤モデル成熟・製造・物流・介護でのビジネス展開加速を背景に、グローバルな人型ロボット産業の総アドレス可能市場が2032年に1兆ドルに達すると予測する。主な不確実要因は少数の基盤モデルプロバイダーへのAI能力の集中と指摘している。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "openPR",
+      "url": "https://www.openpr.com",
+      "tags": [
+        "市場分析",
+        "人型ロボット",
+        "産業",
+        "予測"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-20",
+      "title": "デジタルマニュファクチャリングプラットフォームがロボティクス企業の市場投入時間を大幅短縮",
+      "summary": "Robotics & Automation Newsの分析によると、シミュレーション・デジタルツイン・AI支援ワークセル設計を組み合わせたクラウド型デジタルマニュファクチャリングプラットフォームが、主要ロボティクス企業の製品開発期間を18ヶ月から6ヶ月未満に短縮しているという。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/reducing-time-to-market-in-robotics-with-digital-manufacturing-platforms/100592/",
+      "tags": [
+        "デジタルツイン",
+        "製造",
+        "開発",
+        "シミュレーション"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    }
+  ]
+}

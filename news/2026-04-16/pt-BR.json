@@ -1,0 +1,321 @@
+{
+  "date": "2026-04-16",
+  "featured": {
+    "id": "featured-20260416",
+    "title": "Skild AI adquire negócio de automação robótica da Zebra Technologies e consolida inteligência robótica nativa de IA",
+    "summary": "A Skild AI, startup de IA incorporada sediada em Pittsburgh e apoiada por Jeff Bezos e pela SoftBank, adquiriu toda a divisão de automação robótica da Zebra Technologies — incluindo sua plataforma de software de robôs móveis autônomos (AMR) e contratos com clientes. A operação representa uma das maiores fusões e aquisições do setor robótico em 2026, permitindo à Skild implantar seu modelo fundacional imediatamente em uma frota de AMRs industriais já em operação em armazéns e plantas de fabricação ao redor do mundo. A Zebra havia construído seu portfólio robótico por meio de aquisições anteriores — incluindo a Fetch Robotics — e a transferência para a Skild sinaliza uma mudança estratégica: os players tradicionais de hardware estão cedendo espaço para empresas com IA como eixo central, capazes de oferecer inteligência robótica generalista em múltiplas plataformas.",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com",
+    "tags": [
+      "Skild AI",
+      "Zebra Technologies",
+      "Aquisição",
+      "AMR"
+    ],
+    "timestamp": "2026-04-15T21:32:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260416-01",
+      "title": "Hyundai implanta robôs bombeiros autônomos para proteger socorristas",
+      "summary": "A Hyundai implantou uma frota de robôs bombeiros autônomos capazes de navegar por edifícios em chamas, lançar água e transmitir dados de sensores térmicos a comandantes de incidentes — sem expor bombeiros humanos ao perigo. Os robôs com rodas combinam LIDAR, câmeras térmicas e IA embarcada para mapear e navegar em ambientes tomados por fumaça. A Hyundai planeja expandir as implantações a instalações industriais e infraestruturas de túneis na Coreia do Sul até o final de 2026.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "ThomasNet",
+      "url": "https://www.thomasnet.com",
+      "tags": [
+        "Hyundai",
+        "Robôs Bombeiros",
+        "Segurança",
+        "Autônomo"
+      ],
+      "timestamp": "2026-04-15T18:00:00Z"
+    },
+    {
+      "id": "art-20260416-02",
+      "title": "Accenture faz investimento estratégico na General Robotics para escalar a plataforma GRID de IA física",
+      "summary": "A Accenture realizou um investimento estratégico na israelense General Robotics, criadora da plataforma GRID — um sistema baseado em IA que permite a robôs industriais lidar com tarefas não estruturadas como separação de peças, kitting e inspeção de qualidade sem programação manual. A operação acelera a implantação de IA física nos clientes industriais da Accenture.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": [
+        "Accenture",
+        "General Robotics",
+        "IA Física",
+        "Investimento"
+      ],
+      "timestamp": "2026-04-15T14:00:00Z"
+    },
+    {
+      "id": "art-20260416-03",
+      "title": "Robôs humanoides G2 da Agibot iniciam produção em linha eletrônica chinesa",
+      "summary": "A empresa chinesa de robótica humanoide Agibot implantou seu robô humanoide G2 em uma linha de produção eletrônica industrial ativa — descrita como a primeira vez no mundo que robôs humanoides de propósito geral trabalham em ambientes de fabricação reais. Os robôs G2 realizam tarefas de montagem de componentes ao lado de trabalhadores humanos, adaptando-se em tempo real graças a um stack de IA incorporada treinado com aprendizado por reforço sim-to-real.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Agibot",
+        "Humanoide",
+        "Fabricação",
+        "IA Incorporada"
+      ],
+      "timestamp": "2026-04-15T11:00:00Z"
+    },
+    {
+      "id": "art-20260416-04",
+      "title": "Flexiv exibe braços robóticos adaptativos na Hannover Messe para atacar o déficit de destreza industrial",
+      "summary": "A empresa sino-americana Flexiv usou sua estreia na Hannover Messe 2026 para demonstrar ao vivo seu braço robótico adaptativo Rizon realizando montagem, inserção com controle de força e polimento de superfícies. Os robôs Flexiv combinam sensores de força-torque, controle de impedância e IA no dispositivo para lidar com condições variáveis de fabricação sem gabaritos rígidos.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "Flexiv",
+        "Hannover Messe",
+        "Robótica Industrial",
+        "Destreza"
+      ],
+      "timestamp": "2026-04-15T09:00:00Z"
+    },
+    {
+      "id": "art-20260416-05",
+      "title": "Barclays: drones e robôs poderiam reduzir o custo da entrega a domicílio para R$ 1 por pedido",
+      "summary": "Um relatório do Barclays projeta que a combinação de drones de entrega autônomos e robôs de calçada poderia reduzir os custos da última milha em alimentos e encomendas para menos de 1 dólar por pedido em cinco anos — redução de 90% em relação à economia atual dos mensageiros. O Barclays aponta que o calendário de aprovação regulatória, e não a tecnologia subjacente, é a principal restrição ao ritmo de implantação.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com",
+      "tags": [
+        "Entrega por Drone",
+        "Última Milha",
+        "Economia",
+        "Automação"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260416-06",
+      "title": "PIA Automation lança divisão de IA incorporada e robótica humanoide para aplicações industriais",
+      "summary": "O integrador de automação germano-austríaco PIA Automation lançou formalmente uma divisão dedicada a IA incorporada e robótica humanoide, combinando décadas de experiência em integração de montagem automotiva com plataformas de robôs humanoides de múltiplos fornecedores. A divisão oferecerá pacotes completos de soluções voltados a montadoras e fornecedores de nível 1.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/pia-automation-launches-embodied-ai-and-humanoid-robotics-division-targeting-industrial-applications/100591/",
+      "tags": [
+        "PIA Automation",
+        "Humanoide",
+        "Indústria",
+        "Integração"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-07",
+      "title": "CP Group adquire Recycleye para levar triagem robótica com IA ao gerenciamento de resíduos",
+      "summary": "O conglomerado tailandês CP Group adquiriu a britânica Recycleye, empresa de triagem robótica baseada em IA que utiliza visão computacional e braços robóticos para separar materiais recicláveis com alta velocidade e precisão. A aquisição dá ao CP Group acesso à IA de identificação de resíduos da Recycleye e sua frota de robôs implantada em instalações de reciclagem europeias.",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Reciclagem",
+        "Visão IA",
+        "Aquisição",
+        "Automação"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260416-08",
+      "title": "Ex-chefe de direção autônoma da Xpeng entra na EngineAI para liderar P&D de locomoção humanoide",
+      "summary": "O Dr. Shengkai Li, ex-responsável pela pesquisa de direção autônoma da Xpeng Motors, ingressou na EngineAI — startup chinesa de robótica humanoide — como cientista-chefe de robótica, com foco em locomoção humanoide e controle de corpo inteiro. A contratação evidencia a crescente migração de talentos da indústria de veículos autônomos para a robótica humanoide.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "CnEVPost",
+      "url": "https://cnevpost.com",
+      "tags": [
+        "EngineAI",
+        "Talentos",
+        "Humanoide",
+        "China"
+      ],
+      "timestamp": "2026-04-15T05:30:00Z"
+    },
+    {
+      "id": "art-20260416-09",
+      "title": "Teradyne Robotics destaca cobot móvel e paletização com IA no MODEX 2026",
+      "summary": "O portfólio robótico da Teradyne esteve em destaque no MODEX 2026 com uma demonstração de uma célula de armazém totalmente integrada combinando cobots móveis com identificação e manuseio de paletes assistidos por IA, operando sem intervenção humana da coleta do palete até a despaletização de caixas individuais.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Modern Materials Handling",
+      "url": "https://www.mmh.com",
+      "tags": [
+        "Teradyne",
+        "Cobot",
+        "Armazém",
+        "MODEX"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260416-10",
+      "title": "Mão robótica para língua de sinais tátil: avanço na comunicação de pessoas surdocegas",
+      "summary": "Pesquisadores apresentaram um sistema de mão robótica que reproduz a língua de sinais tátil com fidelidade suficiente para transmitir significado em tempo real. O sistema usa atuadores com controle de força e um modelo de movimento aprendido para replicar as formas de mão do Protactile ASL, demonstrando velocidades de comunicação significativamente superiores a dispositivos assistivos existentes.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/robotic_hand_designed_for_tactile_sign_language_communication/",
+      "tags": [
+        "Tecnologia Assistiva",
+        "Robótica Mole",
+        "Língua de Sinais",
+        "Pesquisa"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-11",
+      "title": "Aquecimento Joule viabiliza robôs origami autodobráveis — sem motores",
+      "summary": "A AZoRobotics relata uma nova classe de robôs macios que usam o aquecimento Joule em ligas com memória de forma para se dobrar em estruturas tridimensionais complexas sem nenhum atuador mecânico. Inspirados no origami, esses robôs transitam entre formas planas e volumétricas em segundos, com aplicações em dispositivos médicos, estruturas espaciais e ferramentas de inspeção miniaturizadas.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": [
+        "Robótica Mole",
+        "Origami",
+        "Pesquisa",
+        "Atuação"
+      ],
+      "timestamp": "2026-04-15T03:30:00Z"
+    },
+    {
+      "id": "art-20260416-12",
+      "title": "Inspeções mais inteligentes: Boston Dynamics ensina o Spot a raciocinar com o Google Gemini",
+      "summary": "A Boston Dynamics detalhou como o Spot usa o modelo de visão e linguagem Gemini Robotics do Google para realizar inspeções industriais baseadas em raciocínio — lendo medidores, interpretando luzes de alerta e gerando relatórios em linguagem natural. Pilotos iniciais em instalações industriais mostram redução de 40% no tempo de inspeção.",
+      "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200",
+      "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+      "tags": [
+        "Boston Dynamics",
+        "Spot",
+        "Gemini",
+        "Inspeção"
+      ],
+      "timestamp": "2026-04-14T19:45:01Z"
+    },
+    {
+      "id": "art-20260416-13",
+      "title": "TechXplore: novo robô detecta perigos, planeja rotas e transporta cargas pesadas de forma autônoma",
+      "summary": "Pesquisadores apresentaram uma plataforma robótica móvel que combina detecção de perigos em tempo real, planejamento autônomo de rotas e alta capacidade de carga em um único sistema. Testada em ambientes simulados de construção e armazém, a plataforma navegou com sucesso com cargas de até 50 kg frente a obstáculos dinâmicos.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "Robótica Móvel",
+        "Detecção de Perigos",
+        "Logística",
+        "Pesquisa"
+      ],
+      "timestamp": "2026-04-13T13:20:08Z"
+    },
+    {
+      "id": "art-20260416-14",
+      "title": "Gemini Robotics-ER 1.6 aprimora raciocínio incorporado: leitura de instrumentos salta de 23% para 81%",
+      "summary": "A mais recente atualização do modelo Gemini Robotics-ER do Google DeepMind — versão 1.6 — entrega melhorias expressivas nos benchmarks de raciocínio incorporado, com a precisão de leitura de instrumentos passando de 23% para 81%. O modelo já está implantado no Spot da Boston Dynamics e disponível para pesquisadores via API Gemini.",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "IA Incorporada",
+        "Benchmark"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260416-15",
+      "title": "Unitree anuncia frete grátis para os EUA de robôs humanoides como resposta a tarifas de importação",
+      "summary": "A Unitree Robotics anunciou que arcará com todos os custos de envio e importação para os EUA de sua linha de robôs humanoides, respondendo diretamente às pressões tarifárias sobre hardware tecnológico chinês. O anúncio coincide com o início das vendas diretas do G1 para consumidores americanos no AliExpress, a primeira vez que um robô humanoide é vendido por um grande marketplace de e-commerce.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "Unitree",
+        "Preço",
+        "Mercado EUA",
+        "Tarifas"
+      ],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260416-16",
+      "title": "Meia maratona de robôs humanoides atrai Alibaba e Honor em teste de resistência de IA incorporada",
+      "summary": "Um evento de meia maratona para robôs humanoides realizado na China reuniu equipes apoiadas por Alibaba, Honor e laboratórios de robótica de ponta para comparar eficiência energética, estabilidade de marcha e gestão térmica em operação autônoma prolongada. Os resultados serão compartilhados como benchmarks abertos para avançar no campo da locomoção de resistência.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com",
+      "tags": [
+        "Humanoide",
+        "Maratona",
+        "Alibaba",
+        "Locomoção"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-17",
+      "title": "Braço robótico de 6 eixos impresso em 3D: projeto de conclusão de curso open source agita a comunidade maker",
+      "summary": "Um estudante de engenharia publicou o design completo em open source de um braço robótico de 6 eixos imprimível em 3D com servomotores comerciais e Raspberry Pi, alcançando 500 g de carga útil, repetibilidade submilimétrica e compatibilidade com ROS2. O projeto acumulou mais de 3.000 forks no GitHub em poucos dias.",
+      "image": "https://external-preview.redd.it/OHdnNXQ2MTV3ZHZnMcaAhWmEFpYenH8rtwcfDLl6pb_g6w-r2uTVvvvkT.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/",
+      "tags": [
+        "Open Source",
+        "DIY",
+        "Maker",
+        "Impressão 3D"
+      ],
+      "timestamp": "2026-04-15T10:00:00Z"
+    },
+    {
+      "id": "art-20260416-18",
+      "title": "Série Active Camera da RoboSense recebe grande pedido de empresa líder em robótica humanoide",
+      "summary": "A RoboSense garantiu um grande pedido de produção para sua série Active Camera de um fabricante líder de robôs humanoides. A câmera ativa integra detecção de profundidade por luz estruturada, imagem RGB e inferência IA em chip em um módulo compacto, atingindo precisão de profundidade submilimétrica para tarefas de manipulação delicada.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "Sensores",
+        "Humanoide"
+      ],
+      "timestamp": "2026-04-15T06:30:00Z"
+    },
+    {
+      "id": "art-20260416-19",
+      "title": "Mercado de robôs humanoides a caminho de US$ 1 trilhão em 2032 segundo novas previsões",
+      "summary": "Uma nova análise de mercado projeta que a indústria global de robôs humanoides atingirá um mercado total endereçável de US$ 1 trilhão em 2032, impulsionada pela queda nos custos de hardware, maturação dos modelos fundacionais de IA e aceleração das implantações comerciais em fabricação, logística e cuidados para idosos.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "openPR",
+      "url": "https://www.openpr.com",
+      "tags": [
+        "Análise de Mercado",
+        "Humanoide",
+        "Indústria",
+        "Previsão"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-20",
+      "title": "Plataformas de fabricação digital estão reduzindo drasticamente o tempo de comercialização em robótica",
+      "summary": "Uma análise da Robotics & Automation News mostra que plataformas de fabricação digital em nuvem — combinando simulação, gêmeos digitais e design de células assistido por IA — estão reduzindo os prazos de desenvolvimento de produtos robóticos de 18 meses para menos de 6 meses nas empresas líderes do setor.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/reducing-time-to-market-in-robotics-with-digital-manufacturing-platforms/100592/",
+      "tags": [
+        "Gêmeo Digital",
+        "Fabricação",
+        "Desenvolvimento",
+        "Simulação"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    }
+  ]
+}

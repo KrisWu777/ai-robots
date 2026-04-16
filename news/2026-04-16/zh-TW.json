@@ -1,0 +1,321 @@
+{
+  "date": "2026-04-16",
+  "featured": {
+    "id": "featured-20260416",
+    "title": "Skild AI收購斑馬技術機器人自動化業務——整合AI原生機器人智慧",
+    "summary": "由傑夫·貝索斯和軟銀支持的匹茲堡具身AI新創公司Skild AI，已收購斑馬技術的整個機器人自動化部門，包含其自主移動機器人（AMR）軟體平台及客戶合約。這是2026年機器人領域規模最大的併購交易之一，使Skild能夠將其基礎模型迅速部署至已在全球倉儲和製造設施中運營的AMR機隊。斑馬先前透過收購Fetch Robotics積累了機器人業務，此次移交給Skild意味著一個策略轉型訊號：硬體廠商正將市場主導權讓渡給能夠跨平台提供通用機器人智慧的AI優先企業。",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com",
+    "tags": [
+      "Skild AI",
+      "斑馬技術",
+      "併購",
+      "AMR"
+    ],
+    "timestamp": "2026-04-15T21:32:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260416-01",
+      "title": "現代部署自主消防機器人，保護第一線救難人員",
+      "summary": "現代汽車已部署一批自主消防機器人，能在燃燒建築內導航、噴水並向事故指揮官傳送熱感測器資料，全程無需消防員進入危險現場。這些輪式機器人結合光達、熱像儀和車載AI，在充滿煙霧的環境中建圖並自主導航。現代計畫於2026年底將部署範圍擴展至韓國的工業園區和隧道基礎設施。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "ThomasNet",
+      "url": "https://www.thomasnet.com",
+      "tags": [
+        "現代",
+        "消防機器人",
+        "安全",
+        "自主"
+      ],
+      "timestamp": "2026-04-15T18:00:00Z"
+    },
+    {
+      "id": "art-20260416-02",
+      "title": "埃森哲策略入股General Robotics，加速GRID物理AI平台規模化",
+      "summary": "埃森哲對以色列General Robotics進行了策略投資，後者開發的GRID平台賦予工業機器人無需手動程式設計即可處理無序任務（如料箱揀選、配套組裝和品質檢測）的能力。此次交易將加速物理AI在埃森哲製造業客戶中的部署，這些客戶一直在尋找無需每次產品更換時重新配置的機器人系統。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": [
+        "埃森哲",
+        "General Robotics",
+        "物理AI",
+        "投資"
+      ],
+      "timestamp": "2026-04-15T14:00:00Z"
+    },
+    {
+      "id": "art-20260416-03",
+      "title": "智元機器人G2人形機器人正式上崗中國電子生產線",
+      "summary": "中國人形機器人公司智元機器人已將其G2人形機器人部署至一條正常運作的工業級電子產品生產線——被稱為通用人形機器人在真實製造環境而非受控演示中作業的全球首例。G2機器人承擔此前需要熟練工人完成的零組件裝配任務，與人類工人並肩工作於同一產線。智元表示，G2基於模擬到真實強化學習訓練的具身AI架構，能夠即時適應生產線變化，無需重新程式設計。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "智元機器人",
+        "人形機器人",
+        "製造",
+        "具身AI"
+      ],
+      "timestamp": "2026-04-15T11:00:00Z"
+    },
+    {
+      "id": "art-20260416-04",
+      "title": "非夕科技自適應機器人亮相漢諾威工業博覽會，瞄準工業靈巧性缺口",
+      "summary": "中美機器人公司非夕科技在漢諾威工業博覽會2026首秀中，展示了其Rizon自適應機械臂在裝配、力控插入和表面拋光任務中的即時演示。非夕的機器人將力矩感測、阻抗控制與邊緣AI相結合，無需剛性夾具即可應對可變製造條件，瞄準汽車和電子行業的近期商業部署。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "非夕科技",
+        "漢諾威工博會",
+        "工業機器人",
+        "靈巧性"
+      ],
+      "timestamp": "2026-04-15T09:00:00Z"
+    },
+    {
+      "id": "art-20260416-05",
+      "title": "巴克萊：無人機與機器人配送可將最後一哩成本降至每單1美元",
+      "summary": "巴克萊最新研究報告預測，自主配送無人機與人行道機器人的組合，可在五年內將餐飲和包裹最後一哩配送成本降至每單1美元以下——較目前快遞經濟模式降低90%。報告指出，監管審批時間表是制約部署速度的首要因素，而非底層技術本身。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com",
+      "tags": [
+        "無人機配送",
+        "最後一哩",
+        "經濟學",
+        "自動化"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260416-06",
+      "title": "PIA Automation成立具身AI與人形機器人事業部，服務工業應用",
+      "summary": "德奧自動化整合商PIA Automation正式成立具身AI與人形機器人專屬事業部，結合公司數十年汽車裝配整合經驗與多家供應商的人形機器人平台，提供涵蓋硬體選型到持續運營支援的完整解決方案。此次成立反映了客戶對人形機器人試點需求的持續上升，但其內部普遍缺乏專業機器人技術能力。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/pia-automation-launches-embodied-ai-and-humanoid-robotics-division-targeting-industrial-applications/100591/",
+      "tags": [
+        "PIA Automation",
+        "人形機器人",
+        "工業",
+        "整合"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-07",
+      "title": "CP集團收購Recycleye，將AI機器人分選引入廢棄物管理",
+      "summary": "泰國正大集團已收購英國AI機器人分選公司Recycleye，後者利用電腦視覺和機械臂對可回收材料進行高速、高精度分選。此次收購使正大集團獲得Recycleye在歐洲回收設施中運營的機器人分選機隊及其專有廢棄物識別AI。正大計畫將Recycleye技術整合至亞洲各地廢棄物管理業務。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "廢棄物回收",
+        "AI視覺",
+        "併購",
+        "自動化"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260416-08",
+      "title": "前小鵬自動駕駛負責人加入EngineAI，主導人形機器人運動研究",
+      "summary": "前小鵬汽車自動駕駛研究負責人李聖凱博士已加入中國人形機器人新創公司EngineAI，出任首席機器人科學家，專注於人形機器人運動與全身控制研究。這一任命標誌著自動駕駛領域人才向人形機器人行業加速流動。EngineAI近期完成B輪1億美元融資，目標於2026年底實現商業部署。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "CnEVPost",
+      "url": "https://cnevpost.com",
+      "tags": [
+        "EngineAI",
+        "人才",
+        "人形機器人",
+        "中國"
+      ],
+      "timestamp": "2026-04-15T05:30:00Z"
+    },
+    {
+      "id": "art-20260416-09",
+      "title": "泰瑞達機器人在MODEX 2026展示移動協作機器人與AI碼板處理",
+      "summary": "泰瑞達在MODEX 2026展示了移動協作機器人與AI碼板識別處理的全整合倉儲作業單元，其中MIR自主移動機器人自主取走滿載棧板後，由UR20協作臂完成單箱卸棧，全程無需人工介入。泰瑞達表示，該整合方案現已作為面向配送中心的預驗證套件正式上市。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Modern Materials Handling",
+      "url": "https://www.mmh.com",
+      "tags": [
+        "泰瑞達",
+        "協作機器人",
+        "倉儲",
+        "MODEX"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260416-10",
+      "title": "觸覺手語機器人手：為視盲聾啞人士通訊帶來突破",
+      "summary": "研究人員展示了一款能夠再現觸覺手語的機器人手系統，其精度足以即時傳達語義，可望為視盲聾啞人士帶來更快速的輔助溝通體驗。系統採用力控致動器和學習動作模型，複現原始美國觸覺手語的手型和動作，用戶研究顯示通訊速度顯著優於現有輔助裝置。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/robotic_hand_designed_for_tactile_sign_language_communication/",
+      "tags": [
+        "輔助技術",
+        "軟體機器人",
+        "手語",
+        "研究"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-11",
+      "title": "焦耳加熱實現自折疊折紙機器人——無需任何馬達",
+      "summary": "AZoRobotics報導了一類新型軟體機器人，透過焦耳加熱形狀記憶合金元件，可在無需任何機械致動器或馬達的情況下自主折疊成複雜三維結構。受折紙藝術啟發，這些機器人能在數秒內於平面與立體形態間切換，研究團隊展示了可按需從單片材料折疊展開的夾持器、爬行器和封閉結構。",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": [
+        "軟體機器人",
+        "折紙",
+        "研究",
+        "致動器"
+      ],
+      "timestamp": "2026-04-15T03:30:00Z"
+    },
+    {
+      "id": "art-20260416-12",
+      "title": "更智慧的巡檢：波士頓動力教會Spot用Google Gemini推理",
+      "summary": "波士頓動力詳細介紹了Spot如何利用Google Gemini機器人語言視覺模型進行推理驅動的工業巡檢——讀取儀表、解讀警告燈、識別異常並為操作員生成自然語言報告。在工業設施的早期試點中，巡檢時間縮短40%，故障檢測率高於人工巡檢。",
+      "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200",
+      "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+      "tags": [
+        "波士頓動力",
+        "Spot",
+        "Gemini",
+        "工業檢測"
+      ],
+      "timestamp": "2026-04-14T19:45:01Z"
+    },
+    {
+      "id": "art-20260416-13",
+      "title": "TechXplore：新型機器人自主感知危險、規劃路線並負重前行",
+      "summary": "研究人員展示了一款移動機器人平台，將即時危險偵測、自主路徑規劃和高載重攜帶集於一體。研究團隊在模擬建築工地和倉庫環境中測試，機器人在動態障礙物間成功完成最高50公斤載重的導航任務。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "移動機器人",
+        "危險偵測",
+        "物流",
+        "研究"
+      ],
+      "timestamp": "2026-04-13T13:20:08Z"
+    },
+    {
+      "id": "art-20260416-14",
+      "title": "Gemini Robotics-ER 1.6提升具身推理能力——儀表讀取準確率從23%躍升至81%",
+      "summary": "Google DeepMind發布Gemini Robotics-ER模型最新版本1.6，儀表讀取準確率從23%躍升至81%。該模型採用增強版跨模態注意力機制與新型時序上下文視窗，已部署於波士頓動力Spot，並透過Gemini API向機器人研究人員開放。",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/",
+      "tags": [
+        "Google DeepMind",
+        "Gemini機器人",
+        "具身AI",
+        "基準測試"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260416-15",
+      "title": "宇樹宣布免費寄送人形機器人至美國——直接應對進口關稅壓力",
+      "summary": "宇樹機器人宣布將承擔其人形機器人產品線運抵美國的全部運費和進口費用，以直接應對中國科技硬體持續承壓的關稅形勢。此公告與AliExpress開始向美國消費者直銷G1同步發布，標誌著人形機器人首次無需企業合約即可透過主流電商平台購買。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "宇樹",
+        "價格",
+        "美國市場",
+        "關稅"
+      ],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260416-16",
+      "title": "人形機器人半程馬拉松吸引阿里巴巴和榮耀參賽——具身AI接受耐久測試",
+      "summary": "中國舉辦的人形機器人半程馬拉松賽事吸引了阿里巴巴、榮耀及多家頂尖機器人實驗室參賽，參賽者完成21公里賽程以檢驗長時間自主運行的能源效率、步態穩定性和熱管理能力。賽事結果將作為開放基準公開分享，推動人形機器人耐力運動領域整體發展。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com",
+      "tags": [
+        "人形機器人",
+        "馬拉松",
+        "阿里巴巴",
+        "運動控制"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-17",
+      "title": "3D列印六軸機械臂：開源畢業專題激發創客社群熱潮",
+      "summary": "一名工程系畢業生發布了完全開源的六軸機械臂設計，可使用現成伺服馬達和樹莓派控制器進行3D列印，實現500公克有效載重和亞毫米重複定位精度，並全面相容ROS2，發布數日內在GitHub上已被fork超過3000次。",
+      "image": "https://external-preview.redd.it/OHdnNXQ2MTV3ZHZnMcaAhWmEFpYenH8rtwcfDLl6pb_g6w-r2uTVvvvkT.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/",
+      "tags": [
+        "開源",
+        "DIY",
+        "創客",
+        "3D列印"
+      ],
+      "timestamp": "2026-04-15T10:00:00Z"
+    },
+    {
+      "id": "art-20260416-18",
+      "title": "速騰聚創主動相機系列獲人形機器人頭部企業大單",
+      "summary": "速騰聚創已獲得一家人形機器人頭部製造商的主動相機系列大批量訂單。主動相機將結構光深度感測、RGB成像和晶片內AI推理集成於單一緊湊模組，在近距離可實現亞毫米級深度精度，使精細操作任務無需昂貴飛行時間光達系統即可完成。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "速騰聚創",
+        "光達",
+        "感測器",
+        "人形機器人"
+      ],
+      "timestamp": "2026-04-15T06:30:00Z"
+    },
+    {
+      "id": "art-20260416-19",
+      "title": "人形機器人市場2032年有望達1兆美元規模——最新預測",
+      "summary": "最新市場分析預測，在硬體成本下降、AI基礎模型趨於成熟及商業部署加速的推動下，全球人形機器人產業2032年總可尋址市場將達1兆美元，亞洲為主要生產和初期部署地區，報告並將AI能力集中於少數基礎模型供應商列為最主要的結構性不確定因素。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "openPR",
+      "url": "https://www.openpr.com",
+      "tags": [
+        "市場分析",
+        "人形機器人",
+        "行業",
+        "預測"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-20",
+      "title": "數位製造平台正大幅壓縮機器人企業產品上市週期",
+      "summary": "雲端數位製造平台——集仿真、數位孿生和AI輔助工作站設計於一體——正將領先機器人企業的產品研發週期從18個月壓縮至6個月以內，使工程師能在物理硬體搭建前於仿真環境中驗證程式、測試安全邊界並迭代夾爪設計。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/reducing-time-to-market-in-robotics-with-digital-manufacturing-platforms/100592/",
+      "tags": [
+        "數位孿生",
+        "製造",
+        "研發",
+        "仿真"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "date": "2026-04-15",
+  "featured": {
+    "id": "featured-20260415",
+    "title": "Boston Dynamics and Google DeepMind Integrate Gemini Robotics into Spot — Ushering in Reasoning-Native Industrial Robots",
+    "summary": "Boston Dynamics has partnered with Google DeepMind to embed the Gemini Robotics model directly into its Spot robot, enabling inspection tasks that require on-the-fly visual reasoning and natural language instruction. In a live demonstration, Spot equipped with Gemini could answer questions about what it observed, identify anomalies, and adapt its inspection route without pre-programmed rules. The collaboration marks a pivotal shift from task-scripted industrial robots to truly reasoning-native autonomous agents — a milestone with major implications for energy, manufacturing, and infrastructure sectors.",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-open-a-door.jpg?id=57467838&width=1200",
+    "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-google-deepmind-spot-gemini",
+    "tags": [
+      "Boston Dynamics",
+      "Google DeepMind",
+      "Gemini",
+      "Spot"
+    ],
+    "timestamp": "2026-04-14T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260415-01",
+      "title": "Google DeepMind Releases Gemini Robotics-ER 1.6: A Reasoning-First Model for Real-World Robot Tasks",
+      "summary": "Google DeepMind released Gemini Robotics-ER 1.6, an enhanced embodied reasoning model that significantly improves spatial understanding, object manipulation, and multi-step task planning for physical robots. The model achieves new state-of-the-art scores on manipulation benchmarks and can handle novel environments with minimal fine-tuning. Its release alongside the Boston Dynamics Spot integration signals DeepMind's intent to establish Gemini as the dominant AI backbone for real-world robotics.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "Foundation Model"
+      ],
+      "timestamp": "2026-04-14T17:00:00Z"
+    },
+    {
+      "id": "art-20260415-02",
+      "title": "Unitree H1 Humanoid Hits 10 m/s Sprint Speed — Industry Debates Whether Faster Means Better",
+      "summary": "Unitree Robotics has demonstrated its H1 humanoid robot sprinting at 10 meters per second, smashing previous speed records for bipedal robots. The milestone has sparked debate within the robotics community about whether raw speed is a meaningful metric for commercial deployment, where stability, manipulation, and energy efficiency matter more. Chinese robotics firms, including Unitree, are increasingly using performance records as a differentiation strategy in a rapidly crowding market.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Yicai Global",
+      "url": "https://www.yicaiglobal.com",
+      "tags": [
+        "Unitree",
+        "Humanoid",
+        "Speed Record"
+      ],
+      "timestamp": "2026-04-14T12:00:00Z"
+    },
+    {
+      "id": "art-20260415-03",
+      "title": "Unitree's $4,370 G1 Humanoid Robot Goes on Sale via AliExpress — Lowest Price Yet for a Full Humanoid",
+      "summary": "Unitree's G1 humanoid robot is now available for purchase through AliExpress at $4,370, making it by far the most affordable full humanoid robot on the consumer market. The stripped-down configuration targets researchers, developers, and early adopters who want to experiment with bipedal robotics without enterprise price tags. The listing signals China's push to commoditize humanoid hardware and build a developer ecosystem.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "The Tech Buzz",
+      "url": "https://www.techbuzz.ai",
+      "tags": [
+        "Unitree",
+        "Consumer",
+        "Price",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-14T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-04",
+      "title": "Tesla Eyes Shanghai Gigafactory for Optimus Humanoid Robot Production — Expanding Global Supply",
+      "summary": "Reports indicate Tesla is planning to leverage its Gigafactory Shanghai as a production base for Optimus humanoid robots, complementing its Texas facilities. The move would allow Tesla to tap lower manufacturing costs and access Asian supply chains critical for humanoid components. Analysts view the Shanghai expansion as a key step in Tesla's ambition to deploy millions of Optimus units across factories globally by 2030.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Tech in Asia",
+      "url": "https://www.techinasia.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Manufacturing",
+        "Shanghai"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-05",
+      "title": "Beijing Half-Marathon Full-Process Test Run Completed — Humanoid Robots Ready for Historic Race",
+      "summary": "Organizers of the 2026 Beijing Humanoid Robot Half-Marathon conducted a comprehensive full-process test run, with robots from multiple manufacturers completing the entire course under race conditions. The event, scheduled for later this month, will be the first competitive marathon open exclusively to humanoid robots. The test confirmed readiness across energy management, terrain adaptation, and crowd navigation — marking a new milestone in long-endurance humanoid performance.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Asian News Network",
+      "url": "https://asianews.network",
+      "tags": [
+        "Beijing",
+        "Marathon",
+        "Humanoid",
+        "China"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-06",
+      "title": "Viral: Unitree G1 Robot Chases Wild Boar Herd Through Warsaw Parking Lot — Farmer Ditches Fences",
+      "summary": "A video of a Unitree G1 humanoid robot sprinting after a herd of wild boars in a Warsaw, Poland parking lot has gone massively viral, amassing millions of views across social media. The robot, deployed by a local farmer as an alternative to electric fencing, effectively cleared the animals using motion and noise. The clip has become an unexpected showcase of practical humanoid utility — and a PR bonanza for Unitree.",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?auto=webp&s=preview",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk",
+      "tags": [
+        "Unitree",
+        "Viral",
+        "Humanoid",
+        "Poland"
+      ],
+      "timestamp": "2026-04-14T22:00:00Z"
+    },
+    {
+      "id": "art-20260415-07",
+      "title": "Chery Partners with AiMOGA Robotics to Expand Intelligent Ecosystem at Auto China 2026",
+      "summary": "Chery Automobile announced a new partnership with AiMOGA Robotics at Auto China 2026, aiming to build a cross-domain intelligent ecosystem combining automotive and humanoid robot platforms. The collaboration will explore shared sensor suites, AI decision systems, and a unified software stack across Chery's vehicles and its recently launched consumer humanoid robot. The deal reflects the broader convergence trend between automotive OEMs and the robotics industry.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Macau Business",
+      "url": "https://macaubusiness.com",
+      "tags": [
+        "Chery",
+        "AiMOGA",
+        "Auto China",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260415-08",
+      "title": "Locus Robotics Launches 'Locus Array' for Fully Autonomous Fulfillment — No Human Pickers Required",
+      "summary": "Locus Robotics unveiled Locus Array, a new platform designed to enable fully autonomous fulfillment operations with zero human pickers. The system integrates autonomous mobile robots, AI-powered orchestration, and a modular hardware architecture to handle goods-to-person, put-wall sorting, and outbound packing entirely without human workers in the loop. Locus positions Array as a response to rising labor costs and the industry's push toward lights-out warehouse operations.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Supply Chain Dive",
+      "url": "https://www.sdcexec.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous",
+        "Fulfillment"
+      ],
+      "timestamp": "2026-04-13T14:00:00Z"
+    },
+    {
+      "id": "art-20260415-09",
+      "title": "Kuka Unveils 'Automation 2.0': AI-Native Software Platform Connects Robots Across Factory Sites",
+      "summary": "Kuka Robotics detailed its Automation 2.0 strategy, centered on an AI-native cloud software platform that enables coordinated operation of robot fleets across multiple factory sites simultaneously. The platform uses digital twins, machine learning-based scheduling, and real-time data sharing to maximize utilization and reduce downtime. Kuka is positioning the initiative as a response to demand from large manufacturers for cross-site operational coherence beyond what traditional PLC-based systems can offer.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Kuka",
+        "Automation",
+        "AI Platform",
+        "Industry 4.0"
+      ],
+      "timestamp": "2026-04-13T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-10",
+      "title": "PIA Automation Launches Embodied AI and Humanoid Robotics Division for Industrial Applications",
+      "summary": "German-headquartered automation integrator PIA Automation has launched a dedicated business segment targeting embodied AI and humanoid robotics for manufacturing environments. The new division will develop application packages for humanoid deployment in assembly, quality control, and material handling — sectors where general-purpose humanoids have historically struggled with integration complexity. PIA brings 30+ years of automotive automation expertise to a market increasingly hungry for turnkey humanoid solutions.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "PIA Automation",
+        "Embodied AI",
+        "Industrial",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-11",
+      "title": "CVPR 2026 Highlights: AI Foundations Are Powering the Next Leap in Robotics Innovation",
+      "summary": "The Computer Vision and Pattern Recognition (CVPR) 2026 conference is showcasing a wave of research demonstrating how advances in vision-language models, diffusion-based motion planning, and world models are directly enabling more capable physical robots. Key highlights include zero-shot grasping from natural language, video-to-policy learning, and real-time 3D scene reconstruction for dexterous manipulation — all pointing to a future where robotics capability tracks AI progress almost directly.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Newswise",
+      "url": "https://www.newswise.com",
+      "tags": [
+        "CVPR",
+        "Research",
+        "AI",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260415-12",
+      "title": "Chinese Robotics Firms Pivot to Quadruped Dogs as Major Revenue Drivers",
+      "summary": "A South China Morning Post analysis reveals that Chinese robotics companies are increasingly relying on quadruped robot sales — not humanoids — as their primary revenue source. Firms like Unitree, Deep Robotics, and Ghost Robotics China are shipping thousands of robot dogs to inspection, security, and entertainment clients annually, generating stable cash flow that funds their higher-profile humanoid R&D programs. The trend highlights a pragmatic commercialization path while humanoid markets mature.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "China",
+        "Quadruped",
+        "Unitree",
+        "Revenue"
+      ],
+      "timestamp": "2026-04-14T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-13",
+      "title": "Ukraine's Military Robot Surge Accelerates as Drone Risks Push Demand for Ground Autonomous Systems",
+      "summary": "Ars Technica reports that Ukraine's military is dramatically scaling up its autonomous ground robot program as concerns mount about electronic warfare threats to drone fleets. Ukrainian defense tech firms are developing wheeled and tracked robots for logistics, casualty evacuation, and explosive ordnance disposal, with several systems already deployed along active front lines. Military analysts view Ukraine as the world's most advanced testbed for real-combat robot integration.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "Ukraine",
+        "Military",
+        "Autonomous",
+        "Defense"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260415-14",
+      "title": "Humanoid Robot Market on Track for $1 Trillion Valuation by 2032 — New Analysis",
+      "summary": "A new market report projects the global humanoid robot market to reach $1 trillion in valuation by 2032, driven by convergence of AI capability gains, falling hardware costs, and surging enterprise demand. The analysis identifies warehouse logistics, elder care, and manufacturing assembly as the three highest-growth segments through 2028, with consumer applications accelerating post-2030. Competitive dynamics are expected to intensify as Chinese firms undercut Western rivals on price by 40–60%.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "Table Briefings",
+      "url": "https://table.media",
+      "tags": [
+        "Market",
+        "Humanoid",
+        "Investment",
+        "Forecast"
+      ],
+      "timestamp": "2026-04-14T11:00:00Z"
+    },
+    {
+      "id": "art-20260415-15",
+      "title": "KEENON Robotics Showcases Autonomous Cleaning Innovation at Interclean Amsterdam 2026",
+      "summary": "KEENON Robotics presented its latest autonomous cleaning robot lineup at Interclean Amsterdam 2026, demonstrating fully autonomous floor cleaning, disinfection, and waste collection in commercial and healthcare settings. The robots feature real-time obstacle avoidance, remote fleet management, and multilingual voice interaction. The showcase positions KEENON as a leading challenger to Tennant and Brain Corp in the rapidly growing commercial cleaning automation market.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "KEENON",
+        "Cleaning Robot",
+        "Service Robot"
+      ],
+      "timestamp": "2026-04-14T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-16",
+      "title": "Tennant Deepens Brain Corp Partnership to Accelerate Robotic Cleaning Deployment at Scale",
+      "summary": "Tennant Company announced an expanded partnership with Brain Corp to deepen the integration of AI-powered autonomy into its commercial floor-cleaning machines. The collaboration will accelerate deployment of self-navigating cleaning robots across large retail, logistics, and airport venues, with a focus on remote monitoring and predictive maintenance. The deal reflects a broader pattern of traditional equipment manufacturers embedding AI autonomy to compete in the service robot market.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Tennant",
+        "Brain Corp",
+        "Cleaning Robot",
+        "Autonomy"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    },
+    {
+      "id": "art-20260415-17",
+      "title": "TechXplore: Danger-Route Robot Sees Hazards, Plans Path, and Carries Heavy Loads Over Obstacles",
+      "summary": "Researchers have developed a robot capable of perceiving environmental hazards in real time, autonomously selecting the safest traversal route, and maintaining payload stability while navigating challenging terrain. The system combines a novel risk-aware path-planning algorithm with adaptive gait control for wheeled-legged locomotion. The work addresses a critical gap for robots operating in construction, mining, and disaster-response environments where safe load-bearing navigation is essential.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com",
+      "tags": [
+        "Research",
+        "Navigation",
+        "Locomotion",
+        "Safety"
+      ],
+      "timestamp": "2026-04-13T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-18",
+      "title": "Humanoid Robots Used in Tendon Tissue Engineering Research — Mechanotransduction Breakthrough",
+      "summary": "Scientists published findings showing that humanoid robotic loading platforms can reliably apply controlled mechanical stimulation to tendon tissue constructs in lab settings, triggering mechanotransduction pathways that promote tendon repair. The study demonstrates that robotic systems designed for industrial manipulation can be repurposed for precision biomedical research applications. This cross-domain use case highlights the expanding role of humanoid hardware far beyond factory floors.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org",
+      "tags": [
+        "Medical",
+        "Research",
+        "Humanoid",
+        "Biomedical"
+      ],
+      "timestamp": "2026-04-14T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-19",
+      "title": "RoboSense Active Camera Series Wins Major Order from Leading Humanoid Robotics Firm",
+      "summary": "RoboSense announced that its Active Camera sensor series has secured a significant commercial order from a prominent humanoid robotics manufacturer, marking the product's first large-scale deployment in humanoid applications. The Active Camera combines high-resolution imaging with active depth sensing, offering humanoids the rich environmental perception needed for dexterous manipulation. The win validates RoboSense's expansion beyond automotive LiDAR into the robotics sensing market.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "Sensors",
+        "Humanoid",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-14T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-20",
+      "title": "Robotic Automation Reshapes Aluminium Smelting — Industry First for High-Temperature Heavy Industry",
+      "summary": "Mining Technology reports on the first large-scale deployment of robotic automation in aluminium smelting operations, where extreme temperatures and hazardous fumes have historically made automation impractical. Purpose-built industrial robots with heat-resistant hardware are now handling tapping, anode replacement, and quality sampling tasks at facilities in Australia and the Middle East. The development opens the door to robotic transformation of other heavy industries previously considered too harsh for automation.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com",
+      "tags": [
+        "Industrial Robot",
+        "Manufacturing",
+        "Mining",
+        "Automation"
+      ],
+      "timestamp": "2026-04-14T05:00:00Z"
+    }
+  ]
+}

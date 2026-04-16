@@ -1,0 +1,318 @@
+{
+  "date": "2026-04-15",
+  "featured": {
+    "id": "featured-20260415",
+    "title": "Boston Dynamics وGoogle DeepMind تدمجان Gemini Robotics في Spot — إيذاناً بعصر الروبوتات الصناعية ذات التفكير الأصيل",
+    "summary": "أبرمت Boston Dynamics شراكةً مع Google DeepMind لدمج نموذج Gemini Robotics مباشرةً في روبوت Spot، مما يُمكِّنه من أداء مهام التفتيش التي تستلزم استدلالاً بصرياً لحظياً وفهماً للتعليمات باللغة الطبيعية. وفي عرض حي، استطاع Spot المزوَّد بـ Gemini الإجابةَ عن أسئلة حول مشاهداته، والكشفَ عن الشذوذات، وتكييفَ مسار تفتيشه دون أي قواعد مبرمجة مسبقاً.",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-open-a-door.jpg?id=57467838&width=1200",
+    "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-google-deepmind-spot-gemini",
+    "tags": [
+      "Boston Dynamics",
+      "Google DeepMind",
+      "Gemini",
+      "Spot"
+    ],
+    "timestamp": "2026-04-14T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260415-01",
+      "title": "Google DeepMind تُطلق Gemini Robotics-ER 1.6: نموذج يُقدِّم الاستدلال أولاً لمهام الروبوتات في العالم الحقيقي",
+      "summary": "أطلق Google DeepMind نموذج Gemini Robotics-ER 1.6، وهو نموذج استدلال مُجسَّد مُحسَّن يُحسِّن بشكل ملحوظ الفهم المكاني والتحكم في الأشياء وتخطيط المهام متعددة الخطوات للروبوتات المادية. ويُحقق النموذج أعلى الدرجات على معايير التلاعب ويمكنه التعامل مع البيئات الجديدة بضبط دقيق بسيط.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "Foundation Model"
+      ],
+      "timestamp": "2026-04-14T17:00:00Z"
+    },
+    {
+      "id": "art-20260415-02",
+      "title": "الروبوت الإنساني Unitree H1 يصل إلى 10 م/ث في العَدو — يُشعِل الصناعة نقاشاً حول ما إذا كان الأسرع يعني الأفضل",
+      "summary": "أثبتت Unitree Robotics روبوتها الإنساني H1 يركض بسرعة 10 أمتار في الثانية، متجاوزاً أرقامَ السرعة القياسية السابقة للروبوتات ثنائية القدمين. وقد أثار هذا الإنجاز جدلاً في مجتمع الروبوتات حول مدى أهمية السرعة الخام كمؤشر للنشر التجاري.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Yicai Global",
+      "url": "https://www.yicaiglobal.com",
+      "tags": [
+        "Unitree",
+        "Humanoid",
+        "Speed Record"
+      ],
+      "timestamp": "2026-04-14T12:00:00Z"
+    },
+    {
+      "id": "art-20260415-03",
+      "title": "الروبوت الإنساني G1 من Unitree بسعر $4,370 يُباع على AliExpress — أدنى سعر لروبوت إنساني كامل",
+      "summary": "أصبح الروبوت الإنساني G1 من Unitree متاحاً للشراء عبر AliExpress بسعر $4,370، ليصبح الروبوت الإنساني الكامل الأكثر بأساً في سوق المستهلكين. والإعداد المبسَّط موجَّه للباحثين والمطورين والمتبنين المبكرين.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "The Tech Buzz",
+      "url": "https://www.techbuzz.ai",
+      "tags": [
+        "Unitree",
+        "Consumer",
+        "Price",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-14T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-04",
+      "title": "تيسلا تدرس Gigafactory شنغهاي لإنتاج الروبوت الإنساني Optimus — توسيع العرض العالمي",
+      "summary": "وفقاً للتقارير، تخطط تيسلا للاستفادة من Gigafactory شنغهاي قاعدةً إنتاجية لروبوتاتها الإنسانية Optimus، لتكمل مرافقها في تكساس وتُخفِّض تكاليف التصنيع مع الوصول إلى سلاسل إمداد مكونات الروبوتات الإنسانية في آسيا.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Tech in Asia",
+      "url": "https://www.techinasia.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Manufacturing",
+        "Shanghai"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-05",
+      "title": "استكمال التجربة العامة لنصف ماراثون بكين — الروبوتات الإنسانية جاهزة للسباق التاريخي",
+      "summary": "أجرى منظمو ماراثون الروبوتات الإنسانية في بكين 2026 بروفةً شاملة للعملية بأكملها، مع إكمال روبوتات من عدة مصنعين المسار بالكامل في ظروف السباق. ويُعدّ هذا الحدث المقرر أواخر الشهر أول ماراثون تنافسي مخصص حصرياً للروبوتات الإنسانية.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Asian News Network",
+      "url": "https://asianews.network",
+      "tags": [
+        "Beijing",
+        "Marathon",
+        "Humanoid",
+        "China"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-06",
+      "title": "فيروسي: روبوت Unitree G1 يطارد قطيع خنازير برية في موقف سيارات بوارسو — المزارع يتخلى عن الأسوار",
+      "summary": "انتشر مقطع مصوَّر لروبوت G1 الإنساني من Unitree يطارد قطيعاً من الخنازير البرية في موقف سيارات بوارسو بشكل مذهل على منصات التواصل الاجتماعي، محققاً ملايين المشاهدات. ووظَّف المزارع المحلي الروبوتَ بديلاً عن الأسوار الكهربائية فأثبت فاعليته.",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?auto=webp&s=preview",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk",
+      "tags": [
+        "Unitree",
+        "Viral",
+        "Humanoid",
+        "Poland"
+      ],
+      "timestamp": "2026-04-14T22:00:00Z"
+    },
+    {
+      "id": "art-20260415-07",
+      "title": "شيري تتشارك مع AiMOGA Robotics لتوسيع المنظومة الذكية في معرض Auto China 2026",
+      "summary": "أعلنت شيري لصناعة السيارات عن شراكة جديدة مع AiMOGA Robotics في معرض Auto China 2026، بهدف بناء منظومة ذكية متعددة المجالات تجمع بين منصتَي السيارات والروبوتات الإنسانية.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Macau Business",
+      "url": "https://macaubusiness.com",
+      "tags": [
+        "Chery",
+        "AiMOGA",
+        "Auto China",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260415-08",
+      "title": "Locus Robotics تُطلق 'Locus Array' للوفاء الذاتي الكامل — دون الحاجة إلى منتقِي بشري",
+      "summary": "كشف Locus Robotics عن منصة Locus Array الجديدة المصممة لتمكين عمليات الوفاء ذاتية الكامل دون منتقين بشريين، وتدمج روبوتات متنقلة ذاتية القيادة وتنظيماً مدفوعاً بالذكاء الاصطناعي.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Supply Chain Dive",
+      "url": "https://www.sdcexec.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous",
+        "Fulfillment"
+      ],
+      "timestamp": "2026-04-13T14:00:00Z"
+    },
+    {
+      "id": "art-20260415-09",
+      "title": "كوكا تقدم 'الأتمتة 2.0': منصة برمجية أصيلة للذكاء الاصطناعي تربط الروبوتات عبر مواقع المصانع",
+      "summary": "عرضت Kuka Robotics تفاصيل استراتيجية الأتمتة 2.0، المرتكِزة على منصة برمجية سحابية أصيلة للذكاء الاصطناعي تُتيح التشغيل المنسَّق لأساطيل الروبوتات عبر مواقع مصانع متعددة في آنٍ واحد.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Kuka",
+        "Automation",
+        "AI Platform",
+        "Industry 4.0"
+      ],
+      "timestamp": "2026-04-13T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-10",
+      "title": "PIA Automation تُطلق وحدة الذكاء الاصطناعي المُجسَّد والروبوتات الإنسانية للتطبيقات الصناعية",
+      "summary": "أطلقت PIA Automation ومقرها ألمانيا قطاعاً تجارياً مخصصاً للذكاء الاصطناعي المُجسَّد والروبوتات الإنسانية في بيئات التصنيع، حيث ستطور حزم تطبيقات لنشر الروبوتات الإنسانية في التجميع وضبط الجودة.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "PIA Automation",
+        "Embodied AI",
+        "Industrial",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-11",
+      "title": "CVPR 2026 يُسلِّط الضوء على كيفية تأسيس الذكاء الاصطناعي للقفزة التالية في الابتكار الروبوتي",
+      "summary": "يعرض مؤتمر CVPR 2026 موجةً من الأبحاث التي توضح كيف تُمكِّن التطورات في نماذج الرؤية-اللغة وتخطيط الحركة القائم على الانتشار ونماذج العالم الروبوتاتِ المادية من القفز إلى مستويات جديدة.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Newswise",
+      "url": "https://www.newswise.com",
+      "tags": [
+        "CVPR",
+        "Research",
+        "AI",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260415-12",
+      "title": "شركات الروبوتات الصينية تتحول نحو الكلاب رباعية القوائم كمحركات رئيسية للإيرادات",
+      "summary": "يكشف تحليل صحيفة ساوث تشاينا مورنينغ بوست أن شركات الروبوتات الصينية تعتمد بشكل متزايد على مبيعات الروبوتات رباعية القوائم — لا الإنسانية — كمصدر رئيسي للإيرادات.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "China",
+        "Quadruped",
+        "Unitree",
+        "Revenue"
+      ],
+      "timestamp": "2026-04-14T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-13",
+      "title": "موجة الروبوتات العسكرية الأوكرانية تتسارع مع تزايد مخاطر الحرب الإلكترونية على المسيّرات",
+      "summary": "تُفيد Ars Technica بأن الجيش الأوكراني يُوسِّع بشكل كبير برنامج روبوتاته الأرضية الذاتية، في حين تتصاعد المخاوف من تهديدات الحرب الإلكترونية ضد أساطيل المسيّرات.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "Ukraine",
+        "Military",
+        "Autonomous",
+        "Defense"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260415-14",
+      "title": "سوق الروبوتات الإنسانية في طريقه إلى تريليون دولار بحلول 2032 — تحليل جديد",
+      "summary": "يتوقع تقرير سوق جديد أن يبلغ سوق الروبوتات الإنسانية العالمي قيمةً تريليون دولار بحلول عام 2032، مدفوعاً بالتقاطع بين مكاسب قدرات الذكاء الاصطناعي وانخفاض تكاليف الأجهزة وتصاعد الطلب المؤسسي.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "Table Briefings",
+      "url": "https://table.media",
+      "tags": [
+        "Market",
+        "Humanoid",
+        "Investment",
+        "Forecast"
+      ],
+      "timestamp": "2026-04-14T11:00:00Z"
+    },
+    {
+      "id": "art-20260415-15",
+      "title": "KEENON Robotics تعرض ابتكار التنظيف الذاتي في Interclean أمستردام 2026",
+      "summary": "قدَّمت KEENON Robotics أحدث مجموعة روبوتات التنظيف الذاتية في معرض Interclean أمستردام 2026، مُظهِرةً تنظيفاً كاملاً للأرضيات وتطهيراً وجمع النفايات في بيئات تجارية وصحية.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "KEENON",
+        "Cleaning Robot",
+        "Service Robot"
+      ],
+      "timestamp": "2026-04-14T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-16",
+      "title": "تينانت تُعمِّق الشراكة مع Brain Corp لتسريع نشر روبوتات التنظيف على نطاق واسع",
+      "summary": "أعلنت شركة Tennant عن شراكة موسَّعة مع Brain Corp لتعميق دمج الاستقلالية المدفوعة بالذكاء الاصطناعي في آلاتها التجارية لتنظيف الأرضيات.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Tennant",
+        "Brain Corp",
+        "Cleaning Robot",
+        "Autonomy"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    },
+    {
+      "id": "art-20260415-17",
+      "title": "روبوت المسار الخطر يرى المخاطر ويخطط المسار ويحمل أحمالاً ثقيلة فوق العقبات",
+      "summary": "طوَّر باحثون روبوتاً قادراً على إدراك مخاطر البيئة في الوقت الحقيقي، واختيار أكثر المسارات أماناً للعبور بصورة ذاتية، والحفاظ على استقرار الحمولة أثناء التنقل في التضاريس الصعبة.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com",
+      "tags": [
+        "Research",
+        "Navigation",
+        "Locomotion",
+        "Safety"
+      ],
+      "timestamp": "2026-04-13T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-18",
+      "title": "استخدام الروبوتات الإنسانية في بحوث هندسة أنسجة الأوتار — اختراق في الميكانوتراسداكشن",
+      "summary": "نشر علماء نتائج تُظهر أن منصات التحميل الروبوتية الإنسانية يمكنها تطبيق تحفيز ميكانيكي محكوم بشكل موثوق على مزارع أنسجة الأوتار في المختبر، مما يُحفِّز مسارات الميكانوتراسداكشن المُعزِّزة لإصلاح الأوتار.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org",
+      "tags": [
+        "Medical",
+        "Research",
+        "Humanoid",
+        "Biomedical"
+      ],
+      "timestamp": "2026-04-14T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-19",
+      "title": "سلسلة الكاميرات النشطة من RoboSense تحصل على طلبية كبيرة من شركة رائدة في الروبوتات الإنسانية",
+      "summary": "أعلنت RoboSense عن حصول سلسلة الكاميرات النشطة على طلبية تجارية ضخمة من مصنِّع بارز للروبوتات الإنسانية، مما يُمثِّل أول نشر واسع النطاق للمنتج في تطبيقات الروبوتات الإنسانية.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "Sensors",
+        "Humanoid",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-14T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-20",
+      "title": "الأتمتة الروبوتية تُعيد تشكيل صناعة صهر الألومنيوم — سابقة تاريخية في الصناعة الثقيلة عالية الحرارة",
+      "summary": "تُفيد Mining Technology بأول نشر واسع النطاق للأتمتة الروبوتية في عمليات صهر الألومنيوم، حيث جعلت درجات الحرارة القصوى والأبخرة الخطرة تاريخياً الأتمتةَ أمراً غير عملي.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com",
+      "tags": [
+        "Industrial Robot",
+        "Manufacturing",
+        "Mining",
+        "Automation"
+      ],
+      "timestamp": "2026-04-14T05:00:00Z"
+    }
+  ]
+}

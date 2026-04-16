@@ -1,0 +1,321 @@
+{
+  "date": "2026-04-16",
+  "featured": {
+    "id": "featured-20260416",
+    "title": "Skild AI收购斑马技术机器人自动化业务——整合AI原生机器人智能",
+    "summary": "由杰夫·贝索斯和软银支持的匹兹堡具身AI初创公司Skild AI，已收购斑马技术的整个机器人自动化部门，包括其自主移动机器人（AMR）软件平台及客户合同。这是2026年机器人领域规模最大的并购交易之一，使Skild能够将其基础模型迅速部署至已在全球仓储和制造设施中运营的AMR机队。斑马此前通过收购Fetch Robotics积累了其机器人业务，此次移交给Skild意味着一个战略转型信号：硬件厂商正将市场主导权让渡给能够跨平台提供通用机器人智能的AI优先企业。",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com",
+    "tags": [
+      "Skild AI",
+      "斑马技术",
+      "并购",
+      "AMR"
+    ],
+    "timestamp": "2026-04-15T21:32:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260416-01",
+      "title": "现代部署自主消防机器人，保护一线救援人员",
+      "summary": "现代汽车已部署一批自主消防机器人，能够在燃烧建筑内导航、喷水并向事故指挥官传送热传感器数据，全程无需消防员进入险境。这些轮式机器人结合激光雷达、热像仪和车载AI，在充满烟雾的环境中建图并自主导航。现代计划于2026年底将部署范围扩展至韩国的工业园区和隧道基础设施。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "ThomasNet",
+      "url": "https://www.thomasnet.com",
+      "tags": [
+        "现代",
+        "消防机器人",
+        "安全",
+        "自主"
+      ],
+      "timestamp": "2026-04-15T18:00:00Z"
+    },
+    {
+      "id": "art-20260416-02",
+      "title": "埃森哲战略入股General Robotics，加速GRID物理AI平台规模化",
+      "summary": "埃森哲对以色列General Robotics进行了战略投资，后者开发的GRID平台赋予工业机器人无需手动编程即可处理无序任务（如料箱拣选、配套组装和质量检测）的能力。此次交易将加速物理AI在埃森哲制造业客户中的部署，这些客户一直在寻找无需每次产品更换时重新配置的机器人系统。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": [
+        "埃森哲",
+        "General Robotics",
+        "物理AI",
+        "投资"
+      ],
+      "timestamp": "2026-04-15T14:00:00Z"
+    },
+    {
+      "id": "art-20260416-03",
+      "title": "智元机器人G2人形机器人正式上岗中国电子生产线",
+      "summary": "中国人形机器人公司智元机器人已将其G2人形机器人部署至一条正常运行的工业级电子产品生产线——被称为通用人形机器人在真实制造环境而非受控演示中作业的全球首例。G2机器人承担此前需要熟练工人完成的零部件装配任务，与人类工人并肩工作于同一产线。智元表示，G2基于仿真到真实强化学习训练的具身AI栈，能够实时适应生产线变化，无需重新编程。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "智元机器人",
+        "人形机器人",
+        "制造",
+        "具身AI"
+      ],
+      "timestamp": "2026-04-15T11:00:00Z"
+    },
+    {
+      "id": "art-20260416-04",
+      "title": "非夕科技自适应机器人亮相汉诺威工业博览会，瞄准工业灵巧性缺口",
+      "summary": "中美机器人公司非夕科技在汉诺威工业博览会2026首秀中，展示了其Rizon自适应机械臂在装配、力控插入和表面抛光任务中的实时演示——这些场景是传统工业臂因缺乏柔顺性和灵巧性而难以胜任的。非夕的机器人将力矩传感、阻抗控制与边缘AI相结合，无需刚性夹具即可应对可变制造条件。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "非夕科技",
+        "汉诺威工博会",
+        "工业机器人",
+        "灵巧性"
+      ],
+      "timestamp": "2026-04-15T09:00:00Z"
+    },
+    {
+      "id": "art-20260416-05",
+      "title": "巴克莱：无人机与机器人配送可将最后一公里成本降至每单1美元",
+      "summary": "巴克莱最新研究报告预测，自主配送无人机与人行道机器人的组合，可在五年内将餐饮和包裹最后一公里配送成本降至每单1美元以下——较目前快递经济模式降低90%。分析模型显示，无人机承担郊区路线，地面机器人覆盖高密度城区，AI调度系统在两种方式间动态分配订单。巴克莱认为，监管审批时间表是制约部署速度的首要因素，而非底层技术。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com",
+      "tags": [
+        "无人机配送",
+        "最后一公里",
+        "经济学",
+        "自动化"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260416-06",
+      "title": "PIA Automation成立具身AI与人形机器人事业部，服务工业应用",
+      "summary": "德奥自动化集成商PIA Automation正式成立具身AI与人形机器人专属事业部，将公司数十年汽车装配集成经验与多家供应商的人形机器人平台相结合。PIA表示，该事业部将提供完整解决方案包——从人形机器人硬件选型、工作站设计到AI模型训练与持续运营支持——面向正在推进人机混合产线转型的汽车整车厂和一级供应商。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/pia-automation-launches-embodied-ai-and-humanoid-robotics-division-targeting-industrial-applications/100591/",
+      "tags": [
+        "PIA Automation",
+        "人形机器人",
+        "工业",
+        "集成"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-07",
+      "title": "CP集团收购Recycleye，将AI机器人分拣引入废物管理",
+      "summary": "泰国企业集团正大集团已收购英国AI机器人分拣公司Recycleye，后者利用计算机视觉和机械臂对可回收材料进行高速、高精度分拣。此次收购使正大集团获得Recycleye经数百万样本训练的专有废物识别AI及其在欧洲回收设施中运营的机器人分拣机队。正大计划将Recycleye技术整合至亚洲各地废物管理业务。",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "废物回收",
+        "AI视觉",
+        "并购",
+        "自动化"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260416-08",
+      "title": "前小鹏自动驾驶负责人加入EngineAI，主导人形机器人运动研究",
+      "summary": "前小鹏汽车自动驾驶研究负责人李圣凯博士已加入中国人形机器人初创公司EngineAI——即PM01和SE01平台的研发商——出任首席机器人科学家，专注于人形机器人运动与全身控制研究。这一任命标志着自动驾驶领域人才向人形机器人行业加速流动。EngineAI近期完成B轮1亿美元融资，目标于2026年底实现商业部署。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "CnEVPost",
+      "url": "https://cnevpost.com",
+      "tags": [
+        "EngineAI",
+        "人才",
+        "人形机器人",
+        "中国"
+      ],
+      "timestamp": "2026-04-15T05:30:00Z"
+    },
+    {
+      "id": "art-20260416-09",
+      "title": "泰励达机器人在MODEX 2026展示移动协作机器人与AI码垛处理",
+      "summary": "泰励达旗下机器人产品矩阵在MODEX 2026上大放异彩，展示了移动协作机器人与AI码垛识别处理的全集成仓储作业单元。演示中，一台MIR机器人自主取走满载托盘、导航至传送带，并由UR20协作臂完成单箱卸垛——全程无需人工介入。泰励达表示，该集成方案现已作为面向配送中心的预验证套件正式上市销售。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Modern Materials Handling",
+      "url": "https://www.mmh.com",
+      "tags": [
+        "泰励达",
+        "协作机器人",
+        "仓储",
+        "MODEX"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260416-10",
+      "title": "触觉手语机器人手：为盲聋人士通信带来突破",
+      "summary": "研究人员展示了一款能够再现触觉手语的机器人手系统，其精度足以实时传达语义，可望为盲聋人士带来更快速的辅助沟通体验。系统采用力控执行器和学习运动模型，复现原始美国触觉手语的手型和动作，用户研究显示通信速度显著优于现有辅助设备，指向一个具有直接人类效益的实用辅助机器人应用前景。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/robotic_hand_designed_for_tactile_sign_language_communication/",
+      "tags": [
+        "辅助技术",
+        "软体机器人",
+        "手语",
+        "研究"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-11",
+      "title": "焦耳加热实现自折叠折纸机器人——无需任何电机",
+      "summary": "AZoRobotics报道了一类新型软体机器人，通过向嵌入类纸基底中的形状记忆合金元件施加电流（焦耳加热），可在无需任何机械执行器或电机的情况下自主折叠成复杂三维结构。受折纸艺术启发，这些机器人能够在数秒内在平面与立体形态间切换，使其成为可展开医疗器械、空间结构以及需要平展运输的微型检测工具的候选方案。",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": [
+        "软体机器人",
+        "折纸",
+        "研究",
+        "执行器"
+      ],
+      "timestamp": "2026-04-15T03:30:00Z"
+    },
+    {
+      "id": "art-20260416-12",
+      "title": "更智能的巡检：波士顿动力教会Spot用谷歌Gemini推理",
+      "summary": "波士顿动力详细介绍了Spot如何利用谷歌Gemini机器人语言视觉模型进行推理驱动的工业巡检——读取仪表、解读警告灯、识别异常并为操作员生成自然语言报告。在工业设施的早期试点中，巡检时间缩短40%，故障检测率高于人工巡检。",
+      "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200",
+      "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+      "tags": [
+        "波士顿动力",
+        "Spot",
+        "Gemini",
+        "工业检测"
+      ],
+      "timestamp": "2026-04-14T19:45:01Z"
+    },
+    {
+      "id": "art-20260416-13",
+      "title": "TechXplore：新型机器人自主感知危险、规划路线并负重前行",
+      "summary": "研究人员展示了一款移动机器人平台，将实时危险检测、自主路径规划和高载荷携带集于一体。研究团队在模拟建筑工地和仓库环境中对该平台进行了测试，成功在动态障碍物间完成最高50公斤载荷的导航任务。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "移动机器人",
+        "危险检测",
+        "物流",
+        "研究"
+      ],
+      "timestamp": "2026-04-13T13:20:08Z"
+    },
+    {
+      "id": "art-20260416-14",
+      "title": "Gemini Robotics-ER 1.6提升具身推理能力——仪表读取准确率从23%跃升至81%",
+      "summary": "谷歌DeepMind发布Gemini Robotics-ER模型最新版本1.6，在具身推理基准测试中取得显著进步：仪表读取准确率从23%跃升至81%。该模型采用增强版跨模态注意力机制，更好地将语言指令与机器人空间坐标对齐，并引入新型时序上下文窗口，使机器人能够在更长操作序列中跟踪状态变化。",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/",
+      "tags": [
+        "谷歌DeepMind",
+        "Gemini机器人",
+        "具身AI",
+        "基准测试"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260416-15",
+      "title": "宇树宣布免费寄送人形机器人至美国——直接应对进口关税压力",
+      "summary": "宇树机器人宣布将承担其人形机器人产品线运抵美国的全部运费和进口费用，以直接应对中国科技硬件持续承压的关税形势。公司表示，此举旨在维持其在美国市场的价格竞争优势——G1在关税前售价4370美元，H1售价39000美元。该公告与AliExpress开始向美国消费者直销G1同步发布，标志着人形机器人首次无需企业合同即可通过主流电商平台购买。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "宇树",
+        "价格",
+        "美国市场",
+        "关税"
+      ],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260416-16",
+      "title": "人形机器人半程马拉松吸引阿里巴巴和荣耀参赛——具身AI接受耐久测试",
+      "summary": "中国举办的一场人形机器人半程马拉松赛事吸引了阿里巴巴、荣耀及多家顶尖机器人实验室的参赛队伍，参赛者完成21公里赛程以检验长时间自主运行中的能源效率、步态稳定性和热管理能力。赛事结果将作为开放基准公开分享，以推动人形机器人耐力运动领域的整体发展。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com",
+      "tags": [
+        "人形机器人",
+        "马拉松",
+        "阿里巴巴",
+        "运动控制"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-17",
+      "title": "3D打印六轴机械臂：开源毕设激发创客社区热潮",
+      "summary": "一名工程学毕业生发布了一套完全开源的六轴机械臂设计，可使用现成伺服电机和树莓派控制器进行3D打印，该设计实现500克有效载荷、亚毫米重复定位精度，并全面兼容ROS2。项目包含完整CAD文件、装配指南和预训练运动配置文件，发布数日内在GitHub上已被fork超过3000次。",
+      "image": "https://external-preview.redd.it/OHdnNXQ2MTV3ZHZnMcaAhWmEFpYenH8rtwcfDLl6pb_g6w-r2uTVvvvkT.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/",
+      "tags": [
+        "开源",
+        "DIY",
+        "创客",
+        "3D打印"
+      ],
+      "timestamp": "2026-04-15T10:00:00Z"
+    },
+    {
+      "id": "art-20260416-18",
+      "title": "速腾聚创主动相机系列获人形机器人头部企业大单",
+      "summary": "激光雷达与智能传感公司速腾聚创已获得一家人形机器人头部制造商的主动相机系列大批量订单。主动相机将结构光深度感知、RGB成像和芯片内AI推理集成于单一紧凑模组，针对机器人手部和头部安装位置进行了优化，实现亚毫米级深度精度，使精细操作任务成为可能。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "速腾聚创",
+        "激光雷达",
+        "传感器",
+        "人形机器人"
+      ],
+      "timestamp": "2026-04-15T06:30:00Z"
+    },
+    {
+      "id": "art-20260416-19",
+      "title": "人形机器人市场2032年有望达1万亿美元规模——最新预测",
+      "summary": "最新市场分析预测，在硬件成本下降、AI基础模型趋于成熟以及制造、物流和养老护理等领域商业部署加速的推动下，全球人形机器人产业2032年总可寻址市场将达1万亿美元。报告将亚洲——尤其是中国、韩国和日本——定位为主要生产和初期部署地区，并将AI能力集中于少数基础模型供应商列为最主要的结构性不确定因素。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "openPR",
+      "url": "https://www.openpr.com",
+      "tags": [
+        "市场分析",
+        "人形机器人",
+        "行业",
+        "预测"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-20",
+      "title": "数字化制造平台正大幅压缩机器人企业产品上市周期",
+      "summary": "分析显示，集仿真、数字孪生和AI辅助工作站设计于一体的云端数字化制造平台，正将领先机器人企业的产品研发周期从18个月压缩至6个月以内，使工程师能够在任何物理硬件搭建或安装之前，在仿真环境中验证机器人程序、测试安全边界并迭代夹爪设计。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/reducing-time-to-market-in-robotics-with-digital-manufacturing-platforms/100592/",
+      "tags": [
+        "数字孪生",
+        "制造",
+        "研发",
+        "仿真"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    }
+  ]
+}

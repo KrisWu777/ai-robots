@@ -1,0 +1,318 @@
+{
+  "date": "2026-04-15",
+  "featured": {
+    "id": "featured-20260415",
+    "title": "Boston Dynamics y Google DeepMind integran Gemini Robotics en Spot — inicio de la era de robots industriales con razonamiento nativo",
+    "summary": "Boston Dynamics se ha asociado con Google DeepMind para incorporar el modelo Gemini Robotics directamente en el robot Spot, permitiendo tareas de inspección que requieren razonamiento visual instantáneo y comprensión de instrucciones en lenguaje natural. En una demostración en vivo, Spot equipado con Gemini podía responder preguntas sobre lo que observaba, identificar anomalías y adaptar su ruta de inspección sin reglas preprogramadas. La colaboración marca un cambio clave desde los robots industriales programados por tareas hacia agentes autónomos con razonamiento nativo.",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-open-a-door.jpg?id=57467838&width=1200",
+    "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-google-deepmind-spot-gemini",
+    "tags": [
+      "Boston Dynamics",
+      "Google DeepMind",
+      "Gemini",
+      "Spot"
+    ],
+    "timestamp": "2026-04-14T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260415-01",
+      "title": "Google DeepMind lanza Gemini Robotics-ER 1.6: un modelo con razonamiento prioritario para tareas robóticas del mundo real",
+      "summary": "Google DeepMind lanzó Gemini Robotics-ER 1.6, un modelo de razonamiento corpóreo mejorado que mejora significativamente la comprensión espacial, la manipulación de objetos y la planificación de tareas en múltiples pasos para robots físicos. El modelo logra nuevas puntuaciones de vanguardia en benchmarks de manipulación y puede manejar entornos novedosos con un ajuste fino mínimo.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "Foundation Model"
+      ],
+      "timestamp": "2026-04-14T17:00:00Z"
+    },
+    {
+      "id": "art-20260415-02",
+      "title": "El humanoide Unitree H1 alcanza 10 m/s de velocidad de sprint — el sector debate si más rápido es mejor",
+      "summary": "Unitree Robotics ha demostrado su robot humanoide H1 corriendo a 10 metros por segundo, superando los récords de velocidad anteriores para robots bípedos. El hito ha desatado un debate en la comunidad robótica sobre si la velocidad bruta es una métrica significativa para el despliegue comercial, donde la estabilidad, la manipulación y la eficiencia energética importan más.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Yicai Global",
+      "url": "https://www.yicaiglobal.com",
+      "tags": [
+        "Unitree",
+        "Humanoid",
+        "Speed Record"
+      ],
+      "timestamp": "2026-04-14T12:00:00Z"
+    },
+    {
+      "id": "art-20260415-03",
+      "title": "El robot humanoide G1 de Unitree a $4,370 llega a AliExpress — el precio más bajo para un humanoide completo",
+      "summary": "El robot humanoide G1 de Unitree ya está disponible para su compra a través de AliExpress a $4,370, convirtiéndose en el robot humanoide completo más asequible en el mercado de consumo. La configuración simplificada está dirigida a investigadores, desarrolladores y adoptadores tempranos que desean experimentar con robótica bípeda.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "The Tech Buzz",
+      "url": "https://www.techbuzz.ai",
+      "tags": [
+        "Unitree",
+        "Consumer",
+        "Price",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-14T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-04",
+      "title": "Tesla contempla la Gigafactory Shanghái para producción del robot humanoide Optimus — ampliando la oferta global",
+      "summary": "Según informes, Tesla está planeando aprovechar su Gigafactory Shanghái como base de producción para los robots humanoides Optimus, complementando sus instalaciones en Texas. El movimiento permitiría a Tesla aprovechar costos de fabricación más bajos y acceder a cadenas de suministro asiáticas críticas para los componentes de humanoides.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Tech in Asia",
+      "url": "https://www.techinasia.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Manufacturing",
+        "Shanghai"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-05",
+      "title": "Ensayo completo del proceso del medio maratón de Pekín concluido — robots humanoides listos para la carrera histórica",
+      "summary": "Los organizadores del maratón de robots humanoides de Pekín 2026 realizaron un ensayo integral del proceso completo, con robots de varios fabricantes completando todo el recorrido en condiciones de carrera. El evento, programado para finales de este mes, será el primer maratón competitivo abierto exclusivamente a robots humanoides.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Asian News Network",
+      "url": "https://asianews.network",
+      "tags": [
+        "Beijing",
+        "Marathon",
+        "Humanoid",
+        "China"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-06",
+      "title": "Viral: robot G1 de Unitree persigue manada de jabalíes en aparcamiento de Varsovia — el granjero abandona las cercas",
+      "summary": "Un video de un robot humanoide G1 de Unitree persiguiendo una manada de jabalíes en un aparcamiento de Varsovia, Polonia, se ha vuelto masivamente viral, acumulando millones de visualizaciones en redes sociales. El robot, desplegado por un granjero local como alternativa a las cercas eléctricas, ahuyentó eficazmente a los animales mediante movimiento y ruido.",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?auto=webp&s=preview",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk",
+      "tags": [
+        "Unitree",
+        "Viral",
+        "Humanoid",
+        "Poland"
+      ],
+      "timestamp": "2026-04-14T22:00:00Z"
+    },
+    {
+      "id": "art-20260415-07",
+      "title": "Chery se asocia con AiMOGA Robotics para expandir el ecosistema inteligente en Auto China 2026",
+      "summary": "Chery Automobile anunció una nueva asociación con AiMOGA Robotics en el Auto China 2026, con el objetivo de construir un ecosistema inteligente entre dominios que combine plataformas automotrices y de robots humanoides. La colaboración explorará conjuntos de sensores compartidos, sistemas de decisión de IA y una pila de software unificada.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Macau Business",
+      "url": "https://macaubusiness.com",
+      "tags": [
+        "Chery",
+        "AiMOGA",
+        "Auto China",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260415-08",
+      "title": "Locus Robotics lanza 'Locus Array' para cumplimiento totalmente autónomo — sin recolectores humanos necesarios",
+      "summary": "Locus Robotics presentó Locus Array, una nueva plataforma diseñada para permitir operaciones de cumplimiento totalmente autónomas sin recolectores humanos. El sistema integra robots móviles autónomos, orquestación impulsada por IA y una arquitectura de hardware modular para manejar mercancías a persona, clasificación y embalaje de salida completamente sin trabajadores humanos.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Supply Chain Dive",
+      "url": "https://www.sdcexec.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous",
+        "Fulfillment"
+      ],
+      "timestamp": "2026-04-13T14:00:00Z"
+    },
+    {
+      "id": "art-20260415-09",
+      "title": "Kuka presenta 'Automatización 2.0': plataforma de software nativa de IA conecta robots en múltiples plantas",
+      "summary": "Kuka Robotics detalló su estrategia de Automatización 2.0, centrada en una plataforma de software en la nube nativa de IA que permite la operación coordinada de flotas de robots en múltiples plantas de fábrica simultáneamente. La plataforma utiliza gemelos digitales, programación basada en aprendizaje automático y uso compartido de datos en tiempo real.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Kuka",
+        "Automation",
+        "AI Platform",
+        "Industry 4.0"
+      ],
+      "timestamp": "2026-04-13T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-10",
+      "title": "PIA Automation lanza división de IA corpórea y robótica humanoide para aplicaciones industriales",
+      "summary": "PIA Automation, con sede en Alemania, ha lanzado un segmento de negocio dedicado dirigido a la IA corpórea y la robótica humanoide para entornos de fabricación. La nueva división desarrollará paquetes de aplicaciones para el despliegue de humanoides en ensamblaje, control de calidad y manipulación de materiales.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "PIA Automation",
+        "Embodied AI",
+        "Industrial",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-11",
+      "title": "CVPR 2026 destaca: los fundamentos de IA están impulsando el próximo salto en innovación robótica",
+      "summary": "La conferencia CVPR 2026 está mostrando una ola de investigaciones que demuestran cómo los avances en modelos de visión-lenguaje, planificación de movimiento basada en difusión y modelos del mundo están habilitando directamente robots físicos más capaces.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Newswise",
+      "url": "https://www.newswise.com",
+      "tags": [
+        "CVPR",
+        "Research",
+        "AI",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260415-12",
+      "title": "Empresas robóticas chinas giran hacia perros cuadrúpedos como principales impulsores de ingresos",
+      "summary": "Un análisis del South China Morning Post revela que las empresas robóticas chinas dependen cada vez más de las ventas de robots cuadrúpedos — no de humanoides — como su principal fuente de ingresos. Empresas como Unitree, Deep Robotics y Ghost Robotics China envían miles de perros robots a clientes de inspección, seguridad y entretenimiento anualmente.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "China",
+        "Quadruped",
+        "Unitree",
+        "Revenue"
+      ],
+      "timestamp": "2026-04-14T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-13",
+      "title": "El auge de robots militares en Ucrania se acelera mientras los riesgos de drones impulsan la demanda de sistemas autónomos terrestres",
+      "summary": "Ars Technica informa que el ejército de Ucrania está escalando dramáticamente su programa de robots terrestres autónomos mientras crecen las preocupaciones sobre las amenazas de guerra electrónica a las flotas de drones. Las empresas de tecnología de defensa ucranianas están desarrollando robots con ruedas y orugas para logística y desminado.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "Ukraine",
+        "Military",
+        "Autonomous",
+        "Defense"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260415-14",
+      "title": "Mercado de robots humanoides camino al billón de dólares para 2032 — nuevo análisis",
+      "summary": "Un nuevo informe de mercado proyecta que el mercado global de robots humanoides alcanzará 1 billón de dólares en valoración para 2032, impulsado por la convergencia de ganancias de capacidad de IA, caída de costos de hardware y creciente demanda empresarial.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "Table Briefings",
+      "url": "https://table.media",
+      "tags": [
+        "Market",
+        "Humanoid",
+        "Investment",
+        "Forecast"
+      ],
+      "timestamp": "2026-04-14T11:00:00Z"
+    },
+    {
+      "id": "art-20260415-15",
+      "title": "KEENON Robotics muestra innovación en limpieza autónoma en Interclean Ámsterdam 2026",
+      "summary": "KEENON Robotics presentó su última línea de robots de limpieza autónomos en Interclean Ámsterdam 2026, demostrando limpieza de suelos, desinfección y recogida de residuos totalmente autónomos en entornos comerciales y sanitarios.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "KEENON",
+        "Cleaning Robot",
+        "Service Robot"
+      ],
+      "timestamp": "2026-04-14T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-16",
+      "title": "Tennant profundiza la asociación con Brain Corp para acelerar el despliegue de robots de limpieza a escala",
+      "summary": "Tennant Company anunció una asociación ampliada con Brain Corp para profundizar la integración de la autonomía impulsada por IA en sus máquinas comerciales de limpieza de suelos. La colaboración acelerará el despliegue de robots de limpieza autonavegantes en grandes instalaciones minoristas, logísticas y aeroportuarias.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Tennant",
+        "Brain Corp",
+        "Cleaning Robot",
+        "Autonomy"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    },
+    {
+      "id": "art-20260415-17",
+      "title": "Robot de ruta peligrosa ve peligros, planifica camino y lleva cargas pesadas sobre obstáculos",
+      "summary": "Investigadores han desarrollado un robot capaz de percibir peligros ambientales en tiempo real, seleccionar de forma autónoma la ruta de cruce más segura y mantener la estabilidad de la carga mientras navega por terrenos desafiantes.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com",
+      "tags": [
+        "Research",
+        "Navigation",
+        "Locomotion",
+        "Safety"
+      ],
+      "timestamp": "2026-04-13T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-18",
+      "title": "Robots humanoides utilizados en investigación de ingeniería de tejidos tendinosos — avance en mecanotransducción",
+      "summary": "Científicos publicaron hallazgos que muestran que las plataformas de carga robótica humanoide pueden aplicar de forma fiable estimulación mecánica controlada a constructos de tejido tendinoso en laboratorio, desencadenando vías de mecanotransducción que promueven la reparación de tendones.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org",
+      "tags": [
+        "Medical",
+        "Research",
+        "Humanoid",
+        "Biomedical"
+      ],
+      "timestamp": "2026-04-14T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-19",
+      "title": "La serie Active Camera de RoboSense obtiene un gran pedido de una empresa líder en robótica humanoide",
+      "summary": "RoboSense anunció que su serie de cámaras activas ha asegurado un importante pedido comercial de un fabricante prominente de robots humanoides, marcando el primer despliegue a gran escala del producto en aplicaciones humanoides.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "Sensors",
+        "Humanoid",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-14T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-20",
+      "title": "La automatización robótica remodela la fundición de aluminio — primero para la industria pesada de alta temperatura",
+      "summary": "Mining Technology informa sobre el primer despliegue a gran escala de automatización robótica en operaciones de fundición de aluminio, donde las temperaturas extremas y los humos peligrosos habían hecho históricamente impracticable la automatización.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com",
+      "tags": [
+        "Industrial Robot",
+        "Manufacturing",
+        "Mining",
+        "Automation"
+      ],
+      "timestamp": "2026-04-14T05:00:00Z"
+    }
+  ]
+}

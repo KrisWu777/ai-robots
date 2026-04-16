@@ -1,0 +1,318 @@
+{
+  "date": "2026-04-15",
+  "featured": {
+    "id": "featured-20260415",
+    "title": "Boston Dynamics与Google DeepMind将Gemini Robotics集成至Spot——推动工业机器人迈向「推理原生」新时代",
+    "summary": "Boston Dynamics与Google DeepMind携手，将Gemini Robotics模型直接嵌入Spot机器人，使其能够在巡检任务中实时进行视觉推理和自然语言指令理解。现场演示中，搭载Gemini的Spot可回答观测问题、识别异常并自主调整巡检路径，无需预先编程规则。此次合作标志着工业机器人从「任务脚本驱动」向「真正推理自主」的历史性转变，对能源、制造和基础设施领域影响深远。",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-open-a-door.jpg?id=57467838&width=1200",
+    "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-google-deepmind-spot-gemini",
+    "tags": [
+      "Boston Dynamics",
+      "Google DeepMind",
+      "Gemini",
+      "Spot"
+    ],
+    "timestamp": "2026-04-14T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260415-01",
+      "title": "Google DeepMind发布Gemini Robotics-ER 1.6：面向真实世界机器人任务的推理优先模型",
+      "summary": "Google DeepMind发布了Gemini Robotics-ER 1.6增强版具身推理模型，大幅提升了物理机器人的空间理解、物体操作和多步任务规划能力。该模型在操作基准测试中刷新最优成绩，并可在少量微调下处理新环境。与Boston Dynamics Spot集成的同步发布，彰显了DeepMind确立Gemini为现实世界机器人主流AI底座的战略意图。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "Foundation Model"
+      ],
+      "timestamp": "2026-04-14T17:00:00Z"
+    },
+    {
+      "id": "art-20260415-02",
+      "title": "Unitree H1人形机器人冲刺突破10m/s——业界就「更快是否意味着更好」展开论战",
+      "summary": "宇树科技展示了H1人形机器人以每秒10米的速度冲刺，打破此前双足机器人速度纪录。这一里程碑在机器人学界引发争议：在商业部署中，稳定性、操作精度和能效才是核心指标，原始速度意义有限。以宇树为代表的中国机器人企业，正越来越将性能记录作为在日益拥挤市场中差异化竞争的手段。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Yicai Global",
+      "url": "https://www.yicaiglobal.com",
+      "tags": [
+        "Unitree",
+        "Humanoid",
+        "Speed Record"
+      ],
+      "timestamp": "2026-04-14T12:00:00Z"
+    },
+    {
+      "id": "art-20260415-03",
+      "title": "宇树G1人形机器人登陆速卖通，售价4370美元——刷新全尺寸人形最低价",
+      "summary": "宇树科技G1人形机器人现已通过速卖通（AliExpress）以4370美元开售，成为迄今消费市场上价格最低的全尺寸人形机器人。精简版配置面向研究人员、开发者及早期爱好者，让他们以消费级价格探索双足机器人技术。此次上架是中国推动人形机器人硬件商品化、构建开发者生态的重要信号。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "The Tech Buzz",
+      "url": "https://www.techbuzz.ai",
+      "tags": [
+        "Unitree",
+        "Consumer",
+        "Price",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-14T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-04",
+      "title": "特斯拉拟利用上海超级工厂生产Optimus人形机器人，加速全球产能布局",
+      "summary": "据报道，特斯拉正计划将上海超级工厂作为Optimus人形机器人的生产基地，以补充其德克萨斯工厂的产能。此举将使特斯拉能够降低制造成本，并获取人形机器人核心零部件的亚洲供应链资源。分析人士认为，上海产能扩张是特斯拉到2030年全球部署数百万台Optimus机器人宏大目标的关键一步。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Tech in Asia",
+      "url": "https://www.techinasia.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Manufacturing",
+        "Shanghai"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-05",
+      "title": "北京人形机器人半程马拉松完成全流程测试——参赛机器人整装待发",
+      "summary": "2026北京人形机器人半程马拉松组委会完成了全流程综合测试，来自多家厂商的机器人在赛事条件下完赛全程。本月下旬即将举行的这一赛事将成为史上首届专为人形机器人设计的竞技马拉松。测试全面验证了机器人在能量管理、地形适应和人群导航方面的比赛就绪状态，标志着长续航人形机器人性能的又一新里程碑。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Asian News Network",
+      "url": "https://asianews.network",
+      "tags": [
+        "Beijing",
+        "Marathon",
+        "Humanoid",
+        "China"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-06",
+      "title": "病毒式传播：宇树G1机器人追撵华沙停车场野猪群——农场主彻底放弃围栏",
+      "summary": "一段宇树G1人形机器人在波兰华沙停车场追赶野猪群的视频在社交媒体上爆红，浏览量已达数百万次。这台机器人由当地一名农场主部署，用于替代电围栏，通过运动和噪音有效驱散了野猪。这段视频意外成为人形机器人实际应用价值的绝佳展示，也让宇树收获了一波意想不到的品牌曝光。",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?auto=webp&s=preview",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk",
+      "tags": [
+        "Unitree",
+        "Viral",
+        "Humanoid",
+        "Poland"
+      ],
+      "timestamp": "2026-04-14T22:00:00Z"
+    },
+    {
+      "id": "art-20260415-07",
+      "title": "奇瑞携手AiMOGA机器人亮相2026北京车展，共建跨域智能生态",
+      "summary": "奇瑞汽车在2026北京车展（Auto China）上宣布与AiMOGA机器人达成合作，致力于打造融合汽车与人形机器人平台的跨域智能生态。双方将探索传感器套件共享、AI决策系统融合及软件栈统一，贯通奇瑞旗下车辆与其新近发布的消费级人形机器人。这一合作折射出汽车OEM与机器人产业加速融合的大趋势。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Macau Business",
+      "url": "https://macaubusiness.com",
+      "tags": [
+        "Chery",
+        "AiMOGA",
+        "Auto China",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260415-08",
+      "title": "Locus Robotics发布Locus Array平台：实现仓储全自主履约，无需人工拣货",
+      "summary": "Locus Robotics发布了全新Locus Array平台，旨在实现仓储全自主履约，彻底告别人工拣货。该系统整合自主移动机器人、AI驱动的调度引擎与模块化硬件架构，可端到端处理货到人、分拣墙和出库打包全流程，无需人工介入。Locus将Array定位为应对劳动力成本上涨、推动行业迈向熄灯工厂的核心解决方案。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Supply Chain Dive",
+      "url": "https://www.sdcexec.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous",
+        "Fulfillment"
+      ],
+      "timestamp": "2026-04-13T14:00:00Z"
+    },
+    {
+      "id": "art-20260415-09",
+      "title": "库卡发布「自动化2.0」：AI原生软件平台跨厂区联网调度机器人集群",
+      "summary": "库卡机器人详细阐述了其自动化2.0战略，核心是一套AI原生云端软件平台，支持跨多个工厂站点的机器人集群协同运行。该平台运用数字孪生技术、基于机器学习的调度算法和实时数据共享，最大化利用率并减少停机时间。库卡将此举定位为对大型制造商跨厂区运营一致性需求的战略响应，以突破传统PLC系统的局限。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Kuka",
+        "Automation",
+        "AI Platform",
+        "Industry 4.0"
+      ],
+      "timestamp": "2026-04-13T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-10",
+      "title": "PIA Automation成立具身AI与人形机器人事业部，聚焦工业应用场景",
+      "summary": "德国自动化集成商PIA Automation宣布成立专注于具身AI和人形机器人工业应用的独立事业部。新部门将为制造环境中的人形机器人开发装配、质量检测和物料搬运应用包，填补通用人形机器人在集成复杂度方面的痛点。PIA将积累30余年的汽车自动化专业经验引入一个亟需交钥匙人形解决方案的市场。",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "PIA Automation",
+        "Embodied AI",
+        "Industrial",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-11",
+      "title": "CVPR 2026聚焦：AI基础研究正驱动机器人创新跨越式发展",
+      "summary": "计算机视觉与模式识别（CVPR）2026年会展示了大量研究成果，表明视觉语言模型、基于扩散的运动规划和世界模型的进步正直接赋能物理机器人跃上新高度。主要亮点包括自然语言驱动的零样本抓取、视频转策略学习和用于灵巧操作的实时三维场景重建——共同指向机器人能力与AI进展几乎同步演进的未来。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Newswise",
+      "url": "https://www.newswise.com",
+      "tags": [
+        "CVPR",
+        "Research",
+        "AI",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260415-12",
+      "title": "中国机器人企业将四足机器人确立为主要营收驱动，为人形研发造血",
+      "summary": "《南华早报》分析指出，中国机器人企业正越来越依赖四足机器人（而非人形机器人）的销售作为主要营收来源。宇树、深岩机器人等企业每年向巡检、安防和娱乐客户出货数千台机器狗，产生稳定现金流，为其高知名度的人形机器人研发项目提供资金支撑。这一趋势揭示了人形机器人市场成熟之前的务实商业化路径。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "China",
+        "Quadruped",
+        "Unitree",
+        "Revenue"
+      ],
+      "timestamp": "2026-04-14T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-13",
+      "title": "乌克兰军用机器人加速扩张——无人机电子战风险推动地面自主系统需求激增",
+      "summary": "《连线》杂志报道，随着无人机集群面临电子战威胁的担忧持续升温，乌克兰军方正大规模扩充自主地面机器人项目。乌克兰国防科技企业正开发用于后勤、战伤救护和排爆的轮式和履带机器人，部分系统已部署于前线。军事分析人士将乌克兰视为全球最先进的实战机器人融合测试场。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "Ukraine",
+        "Military",
+        "Autonomous",
+        "Defense"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260415-14",
+      "title": "人形机器人市场2032年将突破万亿美元——新报告预测",
+      "summary": "最新市场报告预测，全球人形机器人市场将于2032年突破万亿美元，驱动力来自AI能力提升、硬件成本下降和企业需求激增的三重共振。分析认为，仓储物流、老年护理和制造装配将是2028年前增速最快的三大细分领域，消费级应用将在2030年后加速放量。竞争格局预计将日趋激烈，中国企业有望以40%至60%的价格优势持续蚕食欧美竞争对手市场份额。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "Table Briefings",
+      "url": "https://table.media",
+      "tags": [
+        "Market",
+        "Humanoid",
+        "Investment",
+        "Forecast"
+      ],
+      "timestamp": "2026-04-14T11:00:00Z"
+    },
+    {
+      "id": "art-20260415-15",
+      "title": "KEENON机器人亮相2026阿姆斯特丹Interclean展，展示自主清洁创新技术",
+      "summary": "KEENON机器人在2026年Interclean阿姆斯特丹展览会上展示了最新一代自主清洁机器人产品线，在商业和医疗环境中演示了全自主地面清洁、消毒和垃圾收集能力。机器人配备实时避障、远程机队管理和多语言语音交互功能，在快速增长的商业清洁自动化市场中挑战Tennant和Brain Corp的领先地位。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "KEENON",
+        "Cleaning Robot",
+        "Service Robot"
+      ],
+      "timestamp": "2026-04-14T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-16",
+      "title": "天纳特深化与Brain Corp战略合作，加速商业清洁机器人规模化部署",
+      "summary": "天纳特公司宣布与Brain Corp深化战略合作，将AI自主能力更深度融合至商业地面清洁设备。双方将重点加快自导航清洁机器人在大型零售、物流和机场场所的部署，聚焦远程监控和预测性维护能力。此举折射出传统设备制造商嵌入AI自主性、参与服务机器人市场竞争的整体趋势。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Tennant",
+        "Brain Corp",
+        "Cleaning Robot",
+        "Autonomy"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    },
+    {
+      "id": "art-20260415-17",
+      "title": "TechXplore：感知风险、规划路径、负重越障——新型全地形危险路线导航机器人",
+      "summary": "研究人员开发出一种能够实时感知环境危险、自主选择最安全穿越路线、并在复杂地形中保持载荷稳定的机器人。该系统将新型风险感知路径规划算法与轮腿复合运动的自适应步态控制相结合，填补了建筑、矿山和灾难救援环境中安全负重导航的技术空白。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com",
+      "tags": [
+        "Research",
+        "Navigation",
+        "Locomotion",
+        "Safety"
+      ],
+      "timestamp": "2026-04-13T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-18",
+      "title": "人形机器人用于肌腱组织工程研究——机械转导新突破",
+      "summary": "科学家发表研究成果，证明人形机器人加载平台能够可靠地对实验室培养的肌腱组织施加受控机械刺激，激活促进肌腱修复的机械转导通路。研究表明，为工业操作设计的机器人系统可跨领域应用于精密生物医学研究。这一跨界应用案例，预示着人形机器人硬件的应用场景将远超工厂生产线。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org",
+      "tags": [
+        "Medical",
+        "Research",
+        "Humanoid",
+        "Biomedical"
+      ],
+      "timestamp": "2026-04-14T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-19",
+      "title": "速腾聚创Active Camera系列斩获头部人形机器人企业大订单",
+      "summary": "速腾聚创宣布，其Active Camera传感器系列获得一家知名人形机器人制造商的大额商业订单，标志着该产品线在人形机器人领域的首次大规模部署。Active Camera融合高分辨率成像与主动深度感知，为人形机器人灵巧操作提供所需的丰富环境感知能力。此次订单验证了速腾聚创从汽车激光雷达向机器人传感市场拓展的战略方向。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "Sensors",
+        "Humanoid",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-14T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-20",
+      "title": "机器人自动化重塑铝冶炼行业——高温重工业领域的历史性突破",
+      "summary": "《矿业技术》报道了铝冶炼作业首次大规模部署机器人自动化的案例。极端高温和有毒烟雾历来使自动化难以落地，如今专为耐热设计的工业机器人正在澳大利亚和中东地区承担出铁水、换阳极和质量取样等任务。这一突破为其他长期被认为环境过于恶劣的重工业领域开展机器人改造打开了大门。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com",
+      "tags": [
+        "Industrial Robot",
+        "Manufacturing",
+        "Mining",
+        "Automation"
+      ],
+      "timestamp": "2026-04-14T05:00:00Z"
+    }
+  ]
+}

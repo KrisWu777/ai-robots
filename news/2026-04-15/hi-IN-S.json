@@ -1,0 +1,318 @@
+{
+  "date": "2026-04-15",
+  "featured": {
+    "id": "featured-20260415",
+    "title": "Boston Dynamics और Google DeepMind ने Spot में Gemini Robotics integrate किया — reasoning-native industrial robots का नया era शुरू",
+    "summary": "Boston Dynamics ने Google DeepMind के साथ मिलकर Gemini Robotics model को Spot robot में directly embed किया, जिससे real-time visual reasoning और natural language instruction समझने वाले inspection tasks possible हुए। Live demo में Gemini-equipped Spot ने observations के बारे में questions answer किए, anomalies identify कीं, और बिना pre-programmed rules के अपना inspection route adapt किया।",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-open-a-door.jpg?id=57467838&width=1200",
+    "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-google-deepmind-spot-gemini",
+    "tags": [
+      "Boston Dynamics",
+      "Google DeepMind",
+      "Gemini",
+      "Spot"
+    ],
+    "timestamp": "2026-04-14T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260415-01",
+      "title": "Google DeepMind ने Gemini Robotics-ER 1.6 release किया: real-world robot tasks के लिए reasoning-first model",
+      "summary": "Google DeepMind ने Gemini Robotics-ER 1.6 launch किया, एक enhanced embodied reasoning model जो physical robots की spatial understanding, object manipulation और multi-step task planning significantly improve करता है। Model manipulation benchmarks पर new state-of-the-art scores achieve करता है।",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "Foundation Model"
+      ],
+      "timestamp": "2026-04-14T17:00:00Z"
+    },
+    {
+      "id": "art-20260415-02",
+      "title": "Unitree H1 humanoid ने 10 m/s sprint speed achieve किया — industry debate: क्या faster means better?",
+      "summary": "Unitree Robotics ने अपना H1 humanoid robot 10 meters per second sprint करते हुए demonstrate किया, bipedal robots के previous speed records तोड़ते हुए। Robotics community में debate है कि commercial deployment में जहाँ stability और energy efficiency matter करती है, raw speed कितनी meaningful metric है।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Yicai Global",
+      "url": "https://www.yicaiglobal.com",
+      "tags": [
+        "Unitree",
+        "Humanoid",
+        "Speed Record"
+      ],
+      "timestamp": "2026-04-14T12:00:00Z"
+    },
+    {
+      "id": "art-20260415-03",
+      "title": "Unitree का $4,370 G1 Humanoid Robot AliExpress पर available — full humanoid के लिए lowest price ever",
+      "summary": "Unitree का G1 humanoid robot AliExpress पर $4,370 में purchase के लिए available है, consumer market पर अब तक का सबसे affordable full humanoid robot बनकर। Simplified configuration researchers, developers, और early adopters को target करती है।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "The Tech Buzz",
+      "url": "https://www.techbuzz.ai",
+      "tags": [
+        "Unitree",
+        "Consumer",
+        "Price",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-14T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-04",
+      "title": "Tesla Shanghai Gigafactory में Optimus Humanoid Robot production consider कर रहा है — global supply expand करने की plan",
+      "summary": "Reports indicate कि Tesla अपनी Texas facilities complement करने के लिए Shanghai Gigafactory को Optimus humanoid robots की production base के रूप में leverage करने की plan कर रहा है।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Tech in Asia",
+      "url": "https://www.techinasia.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Manufacturing",
+        "Shanghai"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-05",
+      "title": "Beijing Half-Marathon का Full-Process Test Run complete — Humanoid Robots historic race के लिए ready",
+      "summary": "2026 Beijing Humanoid Robot Half-Marathon organizers ने comprehensive full-process rehearsal conduct किया, multiple manufacturers के robots ने race conditions में complete course finish किया।",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Asian News Network",
+      "url": "https://asianews.network",
+      "tags": [
+        "Beijing",
+        "Marathon",
+        "Humanoid",
+        "China"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-06",
+      "title": "Viral: Unitree G1 Robot ने Warsaw Parking Lot में Wild Boars chase किए — farmer ने fences छोड़े",
+      "summary": "Warsaw, Poland के parking lot में Unitree G1 humanoid robot के wild boars हerd chase करने का video social media पर massively viral हो गया, millions of views collect करते हुए। Local farmer ने electric fencing की जगह robot deploy किया था।",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?auto=webp&s=preview",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk",
+      "tags": [
+        "Unitree",
+        "Viral",
+        "Humanoid",
+        "Poland"
+      ],
+      "timestamp": "2026-04-14T22:00:00Z"
+    },
+    {
+      "id": "art-20260415-07",
+      "title": "Chery ने Auto China 2026 में AiMOGA Robotics के साथ partnership की, intelligent ecosystem expand करने के लिए",
+      "summary": "Chery Automobile ने Auto China 2026 में AiMOGA Robotics के साथ new partnership announce की, automotive और humanoid robot platforms को combine करने वाला cross-domain intelligent ecosystem build करने के aim से।",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Macau Business",
+      "url": "https://macaubusiness.com",
+      "tags": [
+        "Chery",
+        "AiMOGA",
+        "Auto China",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260415-08",
+      "title": "Locus Robotics ने Fully Autonomous Fulfillment के लिए 'Locus Array' launch किया — no human pickers needed",
+      "summary": "Locus Robotics ने Locus Array unveil किया, एक new platform जो human pickers के बिना fully autonomous fulfillment operations enable करने के लिए designed है।",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Supply Chain Dive",
+      "url": "https://www.sdcexec.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous",
+        "Fulfillment"
+      ],
+      "timestamp": "2026-04-13T14:00:00Z"
+    },
+    {
+      "id": "art-20260415-09",
+      "title": "Kuka ने 'Automation 2.0' present किया: AI-native software platform factory sites में robots connect करता है",
+      "summary": "Kuka Robotics ने अपनी Automation 2.0 strategy detail की, जो एक AI-native cloud software platform पर centered है जो simultaneously multiple factory sites पर robot fleets के coordinated operation enable करती है।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Kuka",
+        "Automation",
+        "AI Platform",
+        "Industry 4.0"
+      ],
+      "timestamp": "2026-04-13T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-10",
+      "title": "PIA Automation ने industrial applications के लिए Embodied AI और Humanoid Robotics division launch किया",
+      "summary": "Germany-headquartered automation integrator PIA Automation ने manufacturing environments के लिए embodied AI और humanoid robotics target करने वाला dedicated business segment launch किया।",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "PIA Automation",
+        "Embodied AI",
+        "Industrial",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-11",
+      "title": "CVPR 2026 highlights: AI foundations robotics innovation में next leap power कर रहे हैं",
+      "summary": "CVPR 2026 conference research की एक wave showcase कर रही है demonstrating कि vision-language models, diffusion-based motion planning, और world models में advances directly more capable physical robots enable कर रही हैं।",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Newswise",
+      "url": "https://www.newswise.com",
+      "tags": [
+        "CVPR",
+        "Research",
+        "AI",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260415-12",
+      "title": "Chinese robotics firms major revenue drivers के रूप में quadruped dogs की तरफ pivot कर रहीं हैं",
+      "summary": "South China Morning Post के analysis से पता चलता है कि Chinese robotics companies humanoids नहीं बल्कि quadruped robot sales को primary revenue source के रूप में increasingly rely कर रही हैं।",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "China",
+        "Quadruped",
+        "Unitree",
+        "Revenue"
+      ],
+      "timestamp": "2026-04-14T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-13",
+      "title": "Ukraine का military robot surge accelerate हो रहा है जबकि drone risks ground autonomous systems की demand push कर रहे हैं",
+      "summary": "Ars Technica report करता है कि Ukraine's army autonomous ground robot program dramatically scale up कर रही है क्योंकि drone fleets पर electronic warfare threats की concerns mount हो रही हैं।",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "Ukraine",
+        "Military",
+        "Autonomous",
+        "Defense"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260415-14",
+      "title": "Humanoid robot market 2032 तक $1 trillion valuation की तरफ — new analysis",
+      "summary": "New market report project करती है कि global humanoid robot market 2032 तक $1 trillion valuation तक पहुंचेगा, AI capability gains, falling hardware costs, और surging enterprise demand के convergence से driven।",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "Table Briefings",
+      "url": "https://table.media",
+      "tags": [
+        "Market",
+        "Humanoid",
+        "Investment",
+        "Forecast"
+      ],
+      "timestamp": "2026-04-14T11:00:00Z"
+    },
+    {
+      "id": "art-20260415-15",
+      "title": "KEENON Robotics ने Interclean Amsterdam 2026 में autonomous cleaning innovation showcase की",
+      "summary": "KEENON Robotics ने Interclean Amsterdam 2026 में latest autonomous cleaning robot lineup present की, commercial और healthcare settings में fully autonomous floor cleaning demonstrate की।",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "KEENON",
+        "Cleaning Robot",
+        "Service Robot"
+      ],
+      "timestamp": "2026-04-14T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-16",
+      "title": "Tennant ने Brain Corp partnership deepen की, robotic cleaning deployment scale पर accelerate करने के लिए",
+      "summary": "Tennant Company ने Brain Corp के साथ expanded partnership announce की अपनी commercial floor-cleaning machines में AI-powered autonomy का integration deepen करने के लिए।",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Tennant",
+        "Brain Corp",
+        "Cleaning Robot",
+        "Autonomy"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    },
+    {
+      "id": "art-20260415-17",
+      "title": "TechXplore: Danger-route robot hazards देखता है, path plan करता है, और heavy loads obstacles के ऊपर carry करता है",
+      "summary": "Researchers ने एक robot develop किया है जो real-time में environmental hazards perceive कर सकता है, autonomously safest traversal route select कर सकता है, और challenging terrain navigate करते हुए payload stability maintain कर सकता है।",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com",
+      "tags": [
+        "Research",
+        "Navigation",
+        "Locomotion",
+        "Safety"
+      ],
+      "timestamp": "2026-04-13T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-18",
+      "title": "Humanoid robots tendon tissue engineering research में use हुए — mechanotransduction breakthrough",
+      "summary": "Scientists ने findings publish किए showing कि humanoid robotic loading platforms lab settings में tendon tissue constructs पर controlled mechanical stimulation reliably apply कर सकते हैं, tendon repair promote करने वाले mechanotransduction pathways triggering करते हुए।",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org",
+      "tags": [
+        "Medical",
+        "Research",
+        "Humanoid",
+        "Biomedical"
+      ],
+      "timestamp": "2026-04-14T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-19",
+      "title": "RoboSense के Active Camera series ने leading humanoid robotics firm से major order secure किया",
+      "summary": "RoboSense ने announce किया कि उसकी Active Camera sensor series ने एक prominent humanoid robotics manufacturer से significant commercial order secure किया है।",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "Sensors",
+        "Humanoid",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-14T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-20",
+      "title": "Robotic automation aluminium smelting reshape कर रही है — high-temperature heavy industry में industry first",
+      "summary": "Mining Technology reports करता है कि aluminium smelting operations में robotic automation का पहला large-scale deployment हुआ है, जहाँ extreme temperatures historically automation को impractical बनाते थे।",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com",
+      "tags": [
+        "Industrial Robot",
+        "Manufacturing",
+        "Mining",
+        "Automation"
+      ],
+      "timestamp": "2026-04-14T05:00:00Z"
+    }
+  ]
+}

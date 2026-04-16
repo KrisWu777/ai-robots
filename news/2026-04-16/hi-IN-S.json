@@ -1,0 +1,321 @@
+{
+  "date": "2026-04-16",
+  "featured": {
+    "id": "featured-20260416",
+    "title": "Skild AI ने Zebra Technologies के रोबोटिक्स ऑटोमेशन बिज़नेस का अधिग्रहण किया — AI-नेटिव रोबोट इंटेलिजेंस को एकत्रित किया",
+    "summary": "Jeff Bezos और SoftBank द्वारा backed Pittsburgh-based Skild AI ने Zebra Technologies का पूरा robotics automation division acquire कर लिया है — जिसमें AMR software platform और customer contracts शामिल हैं। यह 2026 में robotics sector की सबसे बड़ी M&A deals में से एक है, जो Skild को अपना foundation model globally deployed industrial AMRs में immediately deploy करने में सक्षम बनाती है।",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=600&fit=crop",
+    "source": "Business Wire",
+    "url": "https://www.businesswire.com",
+    "tags": [
+      "Skild AI",
+      "Zebra Technologies",
+      "अधिग्रहण",
+      "AMR"
+    ],
+    "timestamp": "2026-04-15T21:32:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260416-01",
+      "title": "Hyundai ने प्रथम प्रतिक्रियाकर्ताओं की सुरक्षा के लिए स्वायत्त अग्निशमन रोबोट तैनात किए",
+      "summary": "Hyundai ने स्वायत्त अग्निशमन रोबोटों का एक बेड़ा तैनात किया है जो जलती हुई इमारतों में नेविगेट कर सकते हैं, पानी छिड़क सकते हैं और इंसिडेंट कमांडरों को थर्मल सेंसर डेटा भेज सकते हैं — बिना फ़ायरफ़ाइटरों को ख़तरे में डाले। ये रोबोट LIDAR, थर्मल कैमरे और ऑनबोर्ड AI का उपयोग करते हैं। Hyundai 2026 के अंत तक दक्षिण कोरिया के औद्योगिक स्थलों पर तैनाती बढ़ाने की योजना बना रही है।",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "ThomasNet",
+      "url": "https://www.thomasnet.com",
+      "tags": [
+        "Hyundai",
+        "अग्निशमन रोबोट",
+        "सुरक्षा",
+        "स्वायत्त"
+      ],
+      "timestamp": "2026-04-15T18:00:00Z"
+    },
+    {
+      "id": "art-20260416-02",
+      "title": "Accenture ने GRID फिज़िकल AI प्लेटफ़ॉर्म को स्केल करने के लिए General Robotics में रणनीतिक निवेश किया",
+      "summary": "Accenture ने इज़राइली General Robotics में रणनीतिक निवेश किया है। GRID प्लेटफ़ॉर्म औद्योगिक रोबोटों को बिन-पिकिंग, किटिंग और गुणवत्ता निरीक्षण जैसे असंरचित कार्य बिना मैन्युअल प्रोग्रामिंग के करने में सक्षम बनाता है। यह सौदा Accenture के मैन्युफ़ैक्चरिंग ग्राहकों के लिए फिज़िकल AI की तैनाती को गति देता है।",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": [
+        "Accenture",
+        "General Robotics",
+        "फिज़िकल AI",
+        "निवेश"
+      ],
+      "timestamp": "2026-04-15T14:00:00Z"
+    },
+    {
+      "id": "art-20260416-03",
+      "title": "Agibot के G2 ह्यूमनॉइड रोबोट चीन की इलेक्ट्रॉनिक्स प्रोडक्शन लाइन पर लाइव ड्यूटी शुरू की",
+      "summary": "चीनी ह्यूमनॉइड रोबोटिक्स कंपनी Agibot ने अपना G2 ह्यूमनॉइड रोबोट एक सक्रिय औद्योगिक इलेक्ट्रॉनिक्स प्रोडक्शन लाइन पर तैनात किया है — जिसे एक नियंत्रित डेमो के बजाय वास्तविक मैन्युफ़ैक्चरिंग वातावरण में सामान्य-उद्देश्य वाले ह्यूमनॉइड रोबोटों का काम करने का विश्व-प्रथम उदाहरण बताया गया है।",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Agibot",
+        "ह्यूमनॉइड",
+        "मैन्युफ़ैक्चरिंग",
+        "एम्बॉडेड AI"
+      ],
+      "timestamp": "2026-04-15T11:00:00Z"
+    },
+    {
+      "id": "art-20260416-04",
+      "title": "Flexiv ने Hannover Messe में औद्योगिक डेक्सटेरिटी अंतर को संबोधित करने के लिए अडैप्टिव रोबोट आर्म्स प्रदर्शित किए",
+      "summary": "चीनी-अमेरिकी रोबोटिक्स कंपनी Flexiv ने Hannover Messe 2026 में अपने Rizon अडैप्टिव रोबोट आर्म का लाइव डेमो दिया — असेम्बली, फ़ोर्स-सेंसिटिव इंसर्शन और सरफ़ेस पॉलिशिंग कार्यों में। Flexiv के रोबोट फ़ोर्स-टॉर्क सेंसिंग, इम्पीडेंस कंट्रोल और ऑन-डिवाइस AI को जोड़ते हैं।",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "Flexiv",
+        "Hannover Messe",
+        "औद्योगिक रोबोटिक्स",
+        "डेक्सटेरिटी"
+      ],
+      "timestamp": "2026-04-15T09:00:00Z"
+    },
+    {
+      "id": "art-20260416-05",
+      "title": "Barclays: ड्रोन और रोबोट डिलीवरी प्रति ऑर्डर लास्ट-माइल लागत को $1 तक ला सकते हैं",
+      "summary": "Barclays की एक नई रिपोर्ट में अनुमान लगाया गया है कि स्वायत्त डिलीवरी ड्रोन और सिडवॉक रोबोट का संयोजन पाँच वर्षों में फ़ूड और पैकेज लास्ट-माइल डिलीवरी लागत को $1 प्रति ऑर्डर से कम कर सकता है — वर्तमान कूरियर-आधारित लागत से 90% की कमी। Barclays ने नियामक अनुमोदन समयसीमा को तकनीक से ज़्यादा बड़ी बाधा बताया।",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "PYMNTS.com",
+      "url": "https://www.pymnts.com",
+      "tags": [
+        "ड्रोन डिलीवरी",
+        "लास्ट-माइल",
+        "अर्थशास्त्र",
+        "ऑटोमेशन"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260416-06",
+      "title": "PIA Automation ने औद्योगिक अनुप्रयोगों के लिए एम्बॉडेड AI और ह्यूमनॉइड रोबोटिक्स डिवीज़न लॉन्च किया",
+      "summary": "जर्मन-ऑस्ट्रियाई ऑटोमेशन इंटीग्रेटर PIA Automation ने एम्बॉडेड AI और ह्यूमनॉइड रोबोटिक्स के लिए एक समर्पित डिवीज़न औपचारिक रूप से लॉन्च किया, जो कंपनी की ऑटोमोटिव असेम्बली इंटीग्रेशन विशेषज्ञता को नए ह्यूमनॉइड रोबोट प्लेटफ़ॉर्म के साथ जोड़ता है।",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/pia-automation-launches-embodied-ai-and-humanoid-robotics-division-targeting-industrial-applications/100591/",
+      "tags": [
+        "PIA Automation",
+        "ह्यूमनॉइड",
+        "उद्योग",
+        "इंटीग्रेशन"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-07",
+      "title": "CP Group ने वेस्ट मैनेजमेंट में AI रोबोटिक सॉर्टिंग लाने के लिए Recycleye का अधिग्रहण किया",
+      "summary": "थाई कंग्लोमेरेट CP Group ने UK स्थित Recycleye का अधिग्रहण किया है, जो कंप्यूटर विज़न और रोबोटिक आर्म्स का उपयोग करके पुनर्चक्रण योग्य सामग्रियों को तेज़ गति से छाँटती है। यह अधिग्रहण CP Group को Recycleye के वेस्ट आइडेंटिफ़िकेशन AI और यूरोप में तैनात रोबोट बेड़े तक पहुँच देता है।",
+      "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "पुनर्चक्रण",
+        "AI विज़न",
+        "अधिग्रहण",
+        "ऑटोमेशन"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260416-08",
+      "title": "Xpeng के पूर्व ऑटोनोमस ड्राइविंग प्रमुख EngineAI में ह्यूमनॉइड लोकोमोशन R&D का नेतृत्व करने के लिए शामिल हुए",
+      "summary": "Xpeng Motors के पूर्व ऑटोनोमस ड्राइविंग रिसर्च प्रमुख डॉ. शेंगकाई ली EngineAI में चीफ़ रोबोटिक्स साइंटिस्ट के रूप में शामिल हुए हैं, ह्यूमनॉइड लोकोमोशन और होल-बॉडी कंट्रोल पर फ़ोकस के साथ। यह नियुक्ति AV उद्योग से ह्यूमनॉइड रोबोटिक्स में बढ़ते टैलेंट माइग्रेशन को दर्शाती है।",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "CnEVPost",
+      "url": "https://cnevpost.com",
+      "tags": [
+        "EngineAI",
+        "टैलेंट",
+        "ह्यूमनॉइड",
+        "चीन"
+      ],
+      "timestamp": "2026-04-15T05:30:00Z"
+    },
+    {
+      "id": "art-20260416-09",
+      "title": "Teradyne Robotics ने MODEX 2026 में मोबाइल कोबोट और AI पैलेट हैंडलिंग हाइलाइट की",
+      "summary": "Teradyne के रोबोटिक्स पोर्टफ़ोलियो ने MODEX 2026 में एक पूरी तरह से एकीकृत वेयरहाउस सेल का डेमो दिया — मोबाइल कोबोट्स को AI-पावर्ड पैलेट आइडेंटिफ़िकेशन के साथ जोड़ते हुए, बिना किसी मानव हस्तक्षेप के पैलेट उठाने से लेकर अलग-अलग बक्से अनलोड करने तक।",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Modern Materials Handling",
+      "url": "https://www.mmh.com",
+      "tags": [
+        "Teradyne",
+        "कोबोट",
+        "वेयरहाउस",
+        "MODEX"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260416-10",
+      "title": "टैक्टाइल साइन लैंग्वेज के लिए रोबोटिक हैंड: बधिर-अंध संचार में सफलता",
+      "summary": "शोधकर्ताओं ने एक रोबोटिक हैंड सिस्टम प्रदर्शित किया है जो टैक्टाइल साइन लैंग्वेज को रियल-टाइम में पुनः उत्पन्न करता है। यह सिस्टम Protactile ASL में उपयोग की जाने वाली हाथ की आकृतियाँ और गतिविधियाँ बलपूर्वक-नियंत्रित एक्चुएटर और सीखे हुए गति मॉडल के ज़रिए नकल करता है।",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/robotic_hand_designed_for_tactile_sign_language_communication/",
+      "tags": [
+        "असिस्टिव टेक्नोलॉजी",
+        "सॉफ़्ट रोबोटिक्स",
+        "साइन लैंग्वेज",
+        "शोध"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-11",
+      "title": "जूल हीटिंग से सेल्फ-फ़ोल्डिंग ओरिगामी रोबोट संभव — बिना किसी मोटर के",
+      "summary": "AZoRobotics ने सॉफ़्ट रोबोट की एक नई श्रेणी की रिपोर्ट की है जो शेप-मेमोरी अलॉय में जूल हीटिंग का उपयोग करके बिना किसी मैकेनिकल एक्चुएटर के जटिल 3D संरचनाओं में मुड़ जाते हैं। ओरिगामी से प्रेरित ये रोबोट सेकंडों में फ़्लैट और वॉल्यूमेट्रिक रूपों के बीच बदल सकते हैं।",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": [
+        "सॉफ़्ट रोबोटिक्स",
+        "ओरिगामी",
+        "शोध",
+        "एक्चुएशन"
+      ],
+      "timestamp": "2026-04-15T03:30:00Z"
+    },
+    {
+      "id": "art-20260416-12",
+      "title": "स्मार्टर इंस्पेक्शन: Boston Dynamics ने Spot को Google Gemini से रीज़न करना सिखाया",
+      "summary": "Boston Dynamics ने विस्तार से बताया कि Spot, Google के Gemini Robotics मॉडल का उपयोग करके रीज़निंग-ड्रिवन औद्योगिक निरीक्षण कैसे करता है — गेज पढ़ना, वार्निंग लाइट्स की व्याख्या करना और नेचुरल लैंग्वेज रिपोर्ट जनरेट करना। शुरुआती पायलटों में निरीक्षण समय में 40% की कमी दिखी।",
+      "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200",
+      "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+      "tags": [
+        "Boston Dynamics",
+        "Spot",
+        "Gemini",
+        "निरीक्षण"
+      ],
+      "timestamp": "2026-04-14T19:45:01Z"
+    },
+    {
+      "id": "art-20260416-13",
+      "title": "TechXplore: नया रोबोट ख़तरों को देखता है, मार्ग तय करता है और भारी बोझ स्वायत्त रूप से उठाता है",
+      "summary": "शोधकर्ताओं ने एक मोबाइल रोबोट प्लेटफ़ॉर्म प्रदर्शित किया जो रियल-टाइम हज़ार्ड डिटेक्शन, स्वायत्त मार्ग योजना और उच्च पेलोड क्षमता को एक ही सिस्टम में जोड़ता है। परीक्षणों में यह प्लेटफ़ॉर्म 50 किलोग्राम तक के भार के साथ गतिशील बाधाओं से गुज़रने में सफल रहा।",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-robot-danger-route-powers-obstacles.html",
+      "tags": [
+        "मोबाइल रोबोटिक्स",
+        "हज़ार्ड डिटेक्शन",
+        "लॉजिस्टिक्स",
+        "शोध"
+      ],
+      "timestamp": "2026-04-13T13:20:08Z"
+    },
+    {
+      "id": "art-20260416-14",
+      "title": "Gemini Robotics-ER 1.6 ने एम्बॉडेड रीज़निंग को बेहतर किया: इंस्ट्रूमेंट रीडिंग 23% से 81% तक",
+      "summary": "Google DeepMind के Gemini Robotics-ER मॉडल का नवीनतम अपडेट — वर्शन 1.6 — एम्बॉडेड रीज़निंग बेंचमार्क पर नाटकीय सुधार लाता है, इंस्ट्रूमेंट रीडिंग की सटीकता 23% से 81% तक बढ़ गई है। यह मॉडल Boston Dynamics के Spot में पहले से तैनात है और Gemini API के ज़रिए शोधकर्ताओं के लिए उपलब्ध है।",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1smgfcr/",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "एम्बॉडेड AI",
+        "बेंचमार्क"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260416-15",
+      "title": "Unitree ने इंपोर्ट टैरिफ़ के जवाब में US के लिए ह्यूमनॉइड रोबोट का मुफ़्त शिपिंग घोषित किया",
+      "summary": "Unitree Robotics ने घोषणा की है कि वह अपने ह्यूमनॉइड रोबोट लाइन के लिए US शिपिंग और इंपोर्ट की सभी लागतें वहन करेगी — चीनी टेक हार्डवेयर पर जारी टैरिफ़ दबावों का सीधा जवाब। यह घोषणा AliExpress पर G1 की US उपभोक्ताओं को सीधी बिक्री शुरू होने के साथ हुई।",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "TipRanks",
+      "url": "https://www.tipranks.com",
+      "tags": [
+        "Unitree",
+        "मूल्य",
+        "US बाज़ार",
+        "टैरिफ़"
+      ],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260416-16",
+      "title": "ह्यूमनॉइड रोबोट हाफ़-मैराथन ने Alibaba और Honor को एम्बॉडेड AI एंड्यूरेंस टेस्ट में आकर्षित किया",
+      "summary": "चीन में एक ह्यूमनॉइड रोबोट हाफ़-मैराथन इवेंट में Alibaba, Honor और शीर्ष रोबोटिक्स लैब्स की टीमें 21 किमी की दौड़ पूरी करने के लिए शामिल हुईं — ऊर्जा दक्षता, गेट स्थिरता और थर्मल मैनेजमेंट को बेंचमार्क करने के लिए। परिणाम ओपन बेंचमार्क के रूप में साझा किए जाएँगे।",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com",
+      "tags": [
+        "ह्यूमनॉइड",
+        "मैराथन",
+        "Alibaba",
+        "लोकोमोशन"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260416-17",
+      "title": "3D-प्रिंटेड 6-एक्सिस रोबोटिक आर्म: ओपन-सोर्स ग्रेजुएशन प्रोजेक्ट मेकर कम्युनिटी को प्रेरित करता है",
+      "summary": "एक इंजीनियरिंग स्नातक छात्र ने एक पूरी तरह से ओपन-सोर्स 6-एक्सिस रोबोटिक आर्म डिज़ाइन जारी किया है जो ऑफ़-द-शेल्फ़ सर्वो मोटर और Raspberry Pi कंट्रोलर के साथ 3D-प्रिंट करने योग्य है। यह 500g पेलोड क्षमता, सब-मिलीमीटर रिपीटेबिलिटी और ROS2 कम्पेटिबिलिटी हासिल करता है, और रिलीज़ के कुछ दिनों के भीतर GitHub पर 3,000 से अधिक बार फ़ोर्क हो गया।",
+      "image": "https://external-preview.redd.it/OHdnNXQ2MTV3ZHZnMcaAhWmEFpYenH8rtwcfDLl6pb_g6w-r2uTVvvvkT.jpeg?width=640&crop=smart",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/",
+      "tags": [
+        "ओपन सोर्स",
+        "DIY",
+        "मेकर",
+        "3D प्रिंटिंग"
+      ],
+      "timestamp": "2026-04-15T10:00:00Z"
+    },
+    {
+      "id": "art-20260416-18",
+      "title": "RoboSense एक्टिव कैमरा सीरीज़ ने एक अग्रणी ह्यूमनॉइड रोबोटिक्स फ़र्म से बड़ा ऑर्डर हासिल किया",
+      "summary": "RoboSense ने एक अग्रणी ह्यूमनॉइड रोबोट निर्माता से अपनी एक्टिव कैमरा सीरीज़ का बड़ा प्रोडक्शन ऑर्डर हासिल किया है। एक्टिव कैमरा एक कॉम्पैक्ट मॉड्यूल में स्ट्रक्चर्ड लाइट डेप्थ सेंसिंग, RGB इमेजिंग और ऑन-चिप AI इन्फ़रेंस को एकीकृत करती है, जो नाज़ुक मैनिपुलेशन कार्यों के लिए सब-मिलीमीटर डेप्थ सटीकता प्राप्त करती है।",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "LiDAR",
+        "सेंसिंग",
+        "ह्यूमनॉइड"
+      ],
+      "timestamp": "2026-04-15T06:30:00Z"
+    },
+    {
+      "id": "art-20260416-19",
+      "title": "ह्यूमनॉइड रोबोटिक्स मार्केट 2032 तक $1 ट्रिलियन वैल्यूएशन की राह पर — नया पूर्वानुमान",
+      "summary": "एक नए बाज़ार विश्लेषण में अनुमान है कि वैश्विक ह्यूमनॉइड रोबोटिक्स उद्योग 2032 तक $1 ट्रिलियन का कुल एड्रेसेबल मार्केट हासिल करेगा — हार्डवेयर लागत में गिरावट, AI फ़ाउंडेशन मॉडल की परिपक्वता और मैन्युफ़ैक्चरिंग, लॉजिस्टिक्स तथा एल्डर केयर में कमर्शियल डिप्लॉयमेंट की गति से।",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "openPR",
+      "url": "https://www.openpr.com",
+      "tags": [
+        "मार्केट एनालिसिस",
+        "ह्यूमनॉइड",
+        "उद्योग",
+        "पूर्वानुमान"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260416-20",
+      "title": "डिजिटल मैन्युफ़ैक्चरिंग प्लेटफ़ॉर्म रोबोटिक्स कंपनियों के टाइम-टू-मार्केट को घटा रहे हैं",
+      "summary": "Robotics & Automation News के एक विश्लेषण से पता चलता है कि क्लाउड-बेस्ड डिजिटल मैन्युफ़ैक्चरिंग प्लेटफ़ॉर्म — सिमुलेशन, डिजिटल ट्विन्स और AI-असिस्टेड वर्कसेल डिज़ाइन को मिलाकर — अग्रणी रोबोटिक्स फ़र्मों के लिए प्रोडक्ट डेवलपमेंट टाइमलाइन को 18 महीनों से घटाकर 6 महीनों से कम कर रहे हैं।",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/15/reducing-time-to-market-in-robotics-with-digital-manufacturing-platforms/100592/",
+      "tags": [
+        "डिजिटल ट्विन",
+        "मैन्युफ़ैक्चरिंग",
+        "डेवलपमेंट",
+        "सिमुलेशन"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "date": "2026-04-15",
+  "featured": {
+    "id": "featured-20260415",
+    "title": "Boston Dynamics與Google DeepMind將Gemini Robotics整合至Spot——工業機器人邁向「推理原生」新紀元",
+    "summary": "Boston Dynamics與Google DeepMind合作，將Gemini Robotics模型直接嵌入Spot機器人，使其能夠在巡檢任務中即時進行視覺推理和自然語言指令理解。現場示範中，搭載Gemini的Spot可回答觀測問題、辨識異常並自主調整巡檢路徑，無需預先編程規則。此次合作標誌著工業機器人從「任務腳本驅動」向「真正推理自主」的歷史性轉變，對能源、製造和基礎設施領域影響深遠。",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-open-a-door.jpg?id=57467838&width=1200",
+    "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-google-deepmind-spot-gemini",
+    "tags": [
+      "Boston Dynamics",
+      "Google DeepMind",
+      "Gemini",
+      "Spot"
+    ],
+    "timestamp": "2026-04-14T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260415-01",
+      "title": "Google DeepMind發布Gemini Robotics-ER 1.6：面向真實世界機器人任務的推理優先模型",
+      "summary": "Google DeepMind發布了Gemini Robotics-ER 1.6增強版具身推理模型，大幅提升了物理機器人的空間理解、物體操控和多步任務規劃能力。該模型在操控基準測試中刷新最優成績，並可在少量微調下處理新環境。與Boston Dynamics Spot整合的同步發布，彰顯了DeepMind確立Gemini為現實世界機器人主流AI底座的戰略意圖。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "Foundation Model"
+      ],
+      "timestamp": "2026-04-14T17:00:00Z"
+    },
+    {
+      "id": "art-20260415-02",
+      "title": "Unitree H1人形機器人衝刺突破10m/s——業界就「更快是否意味著更好」展開論戰",
+      "summary": "宇樹科技展示了H1人形機器人以每秒10公尺的速度衝刺，打破此前雙足機器人速度紀錄。這一里程碑在機器人學界引發爭議：在商業部署中，穩定性、操控精度和能效才是核心指標，原始速度意義有限。以宇樹為代表的中國機器人企業，正越來越將性能記錄作為在日益擁擠市場中差異化競爭的手段。",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Yicai Global",
+      "url": "https://www.yicaiglobal.com",
+      "tags": [
+        "Unitree",
+        "Humanoid",
+        "Speed Record"
+      ],
+      "timestamp": "2026-04-14T12:00:00Z"
+    },
+    {
+      "id": "art-20260415-03",
+      "title": "宇樹G1人形機器人登陸速賣通，售價4370美元——刷新全尺寸人形最低價",
+      "summary": "宇樹科技G1人形機器人現已透過速賣通（AliExpress）以4370美元開售，成為迄今消費市場上價格最低的全尺寸人形機器人。精簡版配置面向研究人員、開發者及早期愛好者，讓他們以消費級價格探索雙足機器人技術。此次上架是中國推動人形機器人硬體商品化、構建開發者生態的重要訊號。",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "The Tech Buzz",
+      "url": "https://www.techbuzz.ai",
+      "tags": [
+        "Unitree",
+        "Consumer",
+        "Price",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-14T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-04",
+      "title": "特斯拉擬利用上海超級工廠生產Optimus人形機器人，加速全球產能布局",
+      "summary": "據報導，特斯拉正計劃將上海超級工廠作為Optimus人形機器人的生產基地，以補充其德克薩斯工廠的產能。此舉將使特斯拉能夠降低製造成本，並取得人形機器人核心零件的亞洲供應鏈資源。分析人士認為，上海產能擴張是特斯拉到2030年全球部署數百萬台Optimus機器人宏大目標的關鍵一步。",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Tech in Asia",
+      "url": "https://www.techinasia.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Manufacturing",
+        "Shanghai"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-05",
+      "title": "北京人形機器人半程馬拉松完成全流程測試——參賽機器人整裝待發",
+      "summary": "2026北京人形機器人半程馬拉松組委會完成了全流程綜合測試，來自多家廠商的機器人在賽事條件下完賽全程。本月下旬即將舉行的這一賽事將成為史上首屆專為人形機器人設計的競技馬拉松。測試全面驗證了機器人在能量管理、地形適應和人群導航方面的比賽就緒狀態，標誌著長續航人形機器人效能的又一新里程碑。",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Asian News Network",
+      "url": "https://asianews.network",
+      "tags": [
+        "Beijing",
+        "Marathon",
+        "Humanoid",
+        "China"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-06",
+      "title": "病毒式傳播：宇樹G1機器人追撵華沙停車場野豬群——農場主徹底放棄圍欄",
+      "summary": "一段宇樹G1人形機器人在波蘭華沙停車場追趕野豬群的影片在社群媒體上爆紅，瀏覽量已達數百萬次。這台機器人由當地一名農場主部署，用於替代電圍欄，透過運動和噪音有效驅散了野豬。這段影片意外成為人形機器人實際應用價值的絕佳展示，也讓宇樹收穫了一波意想不到的品牌曝光。",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?auto=webp&s=preview",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk",
+      "tags": [
+        "Unitree",
+        "Viral",
+        "Humanoid",
+        "Poland"
+      ],
+      "timestamp": "2026-04-14T22:00:00Z"
+    },
+    {
+      "id": "art-20260415-07",
+      "title": "奇瑞攜手AiMOGA機器人亮相2026北京車展，共建跨域智能生態",
+      "summary": "奇瑞汽車在2026北京車展（Auto China）上宣布與AiMOGA機器人達成合作，致力於打造融合汽車與人形機器人平台的跨域智能生態。雙方將探索感測器套件共享、AI決策系統融合及軟體棧統一，貫通奇瑞旗下車輛與其新近發布的消費級人形機器人。這一合作折射出汽車OEM與機器人產業加速融合的大趨勢。",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Macau Business",
+      "url": "https://macaubusiness.com",
+      "tags": [
+        "Chery",
+        "AiMOGA",
+        "Auto China",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260415-08",
+      "title": "Locus Robotics發布Locus Array平台：實現倉儲全自主履約，無需人工揀貨",
+      "summary": "Locus Robotics發布了全新Locus Array平台，旨在實現倉儲全自主履約，徹底告別人工揀貨。該系統整合自主移動機器人、AI驅動的調度引擎與模組化硬體架構，可端到端處理貨到人、分揀牆和出庫打包全流程，無需人工介入。Locus將Array定位為應對勞動力成本上漲、推動行業邁向熄燈工廠的核心解決方案。",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Supply Chain Dive",
+      "url": "https://www.sdcexec.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous",
+        "Fulfillment"
+      ],
+      "timestamp": "2026-04-13T14:00:00Z"
+    },
+    {
+      "id": "art-20260415-09",
+      "title": "庫卡發布「自動化2.0」：AI原生軟體平台跨廠區聯網調度機器人叢集",
+      "summary": "庫卡機器人詳細闡述了其自動化2.0策略，核心是一套AI原生雲端軟體平台，支援跨多個工廠站點的機器人叢集協同運行。該平台運用數位孿生技術、基於機器學習的調度演算法和即時資料共享，最大化利用率並減少停機時間。庫卡將此舉定位為對大型製造商跨廠區運營一致性需求的戰略回應，以突破傳統PLC系統的局限。",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Kuka",
+        "Automation",
+        "AI Platform",
+        "Industry 4.0"
+      ],
+      "timestamp": "2026-04-13T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-10",
+      "title": "PIA Automation成立具身AI與人形機器人事業部，聚焦工業應用場景",
+      "summary": "德國自動化整合商PIA Automation宣布成立專注於具身AI和人形機器人工業應用的獨立事業部。新部門將為製造環境中的人形機器人開發裝配、品質檢測和物料搬運應用包，填補通用人形機器人在整合複雜度方面的痛點。PIA將積累30餘年的汽車自動化專業經驗引入一個亟需交鑰匙人形解決方案的市場。",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "PIA Automation",
+        "Embodied AI",
+        "Industrial",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-11",
+      "title": "CVPR 2026聚焦：AI基礎研究正驅動機器人創新跨越式發展",
+      "summary": "計算機視覺與模式識別（CVPR）2026年會展示了大量研究成果，表明視覺語言模型、基於擴散的運動規劃和世界模型的進步正直接賦能物理機器人躍上新高度。主要亮點包括自然語言驅動的零樣本抓取、影片轉策略學習和用於靈巧操控的即時三維場景重建——共同指向機器人能力與AI進展幾乎同步演進的未來。",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Newswise",
+      "url": "https://www.newswise.com",
+      "tags": [
+        "CVPR",
+        "Research",
+        "AI",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260415-12",
+      "title": "中國機器人企業將四足機器人確立為主要營收驅動，為人形研發造血",
+      "summary": "《南華早報》分析指出，中國機器人企業正越來越依賴四足機器人（而非人形機器人）的銷售作為主要營收來源。宇樹、深岩機器人等企業每年向巡檢、安防和娛樂客戶出貨數千台機器狗，產生穩定現金流，為其高知名度的人形機器人研發項目提供資金支撐。這一趨勢揭示了人形機器人市場成熟之前的務實商業化路徑。",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "China",
+        "Quadruped",
+        "Unitree",
+        "Revenue"
+      ],
+      "timestamp": "2026-04-14T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-13",
+      "title": "烏克蘭軍用機器人加速擴張——無人機電子戰風險推動地面自主系統需求激增",
+      "summary": "《連線》雜誌報道，隨著無人機集群面臨電子戰威脅的擔憂持續升溫，烏克蘭軍方正大規模擴充自主地面機器人項目。烏克蘭國防科技企業正開發用於後勤、戰傷救護和排爆的輪式和履帶機器人，部分系統已部署於前線。軍事分析人士將烏克蘭視為全球最先進的實戰機器人融合測試場。",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "Ukraine",
+        "Military",
+        "Autonomous",
+        "Defense"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260415-14",
+      "title": "人形機器人市場2032年將突破兆美元——新報告預測",
+      "summary": "最新市場報告預測，全球人形機器人市場將於2032年突破兆美元，驅動力來自AI能力提升、硬體成本下降和企業需求激增的三重共振。分析認為，倉儲物流、老年照護和製造裝配將是2028年前增速最快的三大細分領域，消費級應用將在2030年後加速放量。競爭格局預計將日趨激烈，中國企業有望以40%至60%的價格優勢持續蠶食歐美競爭對手市場份額。",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "Table Briefings",
+      "url": "https://table.media",
+      "tags": [
+        "Market",
+        "Humanoid",
+        "Investment",
+        "Forecast"
+      ],
+      "timestamp": "2026-04-14T11:00:00Z"
+    },
+    {
+      "id": "art-20260415-15",
+      "title": "KEENON機器人亮相2026阿姆斯特丹Interclean展，展示自主清潔創新技術",
+      "summary": "KEENON機器人在2026年Interclean阿姆斯特丹展覽會上展示了最新一代自主清潔機器人產品線，在商業和醫療環境中演示了全自主地面清潔、消毒和垃圾收集能力。機器人配備即時避障、遠端機隊管理和多語言語音互動功能，在快速增長的商業清潔自動化市場中挑戰Tennant和Brain Corp的領先地位。",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "KEENON",
+        "Cleaning Robot",
+        "Service Robot"
+      ],
+      "timestamp": "2026-04-14T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-16",
+      "title": "天納特深化與Brain Corp策略合作，加速商業清潔機器人規模化部署",
+      "summary": "天納特公司宣布與Brain Corp深化策略合作，將AI自主能力更深度融合至商業地面清潔設備。雙方將重點加快自導航清潔機器人在大型零售、物流和機場場所的部署，聚焦遠端監控和預測性維護能力。此舉折射出傳統設備製造商嵌入AI自主性、參與服務機器人市場競爭的整體趨勢。",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Tennant",
+        "Brain Corp",
+        "Cleaning Robot",
+        "Autonomy"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    },
+    {
+      "id": "art-20260415-17",
+      "title": "TechXplore：感知風險、規劃路徑、負重越障——新型全地形危險路線導航機器人",
+      "summary": "研究人員開發出一種能夠即時感知環境危險、自主選擇最安全穿越路線、並在複雜地形中保持載荷穩定的機器人。該系統將新型風險感知路徑規劃演算法與輪腿複合運動的自適應步態控制相結合，填補了建築、礦山和災難救援環境中安全負重導航的技術空白。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com",
+      "tags": [
+        "Research",
+        "Navigation",
+        "Locomotion",
+        "Safety"
+      ],
+      "timestamp": "2026-04-13T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-18",
+      "title": "人形機器人用於肌腱組織工程研究——機械轉導新突破",
+      "summary": "科學家發表研究成果，證明人形機器人加載平台能夠可靠地對實驗室培養的肌腱組織施加受控機械刺激，活化促進肌腱修復的機械轉導路徑。研究表明，為工業操控設計的機器人系統可跨領域應用於精密生物醫學研究。這一跨界應用案例，預示著人形機器人硬體的應用場景將遠超工廠生產線。",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org",
+      "tags": [
+        "Medical",
+        "Research",
+        "Humanoid",
+        "Biomedical"
+      ],
+      "timestamp": "2026-04-14T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-19",
+      "title": "速騰聚創Active Camera系列斬獲頭部人形機器人企業大訂單",
+      "summary": "速騰聚創宣布，其Active Camera感測器系列獲得一家知名人形機器人製造商的大額商業訂單，標誌著該產品線在人形機器人領域的首次大規模部署。Active Camera融合高解析度成像與主動深度感知，為人形機器人靈巧操控提供所需的豐富環境感知能力。此次訂單驗證了速騰聚創從汽車雷射雷達向機器人感測市場拓展的戰略方向。",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "Sensors",
+        "Humanoid",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-14T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-20",
+      "title": "機器人自動化重塑鋁冶煉行業——高溫重工業領域的歷史性突破",
+      "summary": "《礦業技術》報道了鋁冶煉作業首次大規模部署機器人自動化的案例。極端高溫和有毒煙霧歷來使自動化難以落地，如今專為耐熱設計的工業機器人正在澳大利亞和中東地區承擔出鐵水、換陽極和品質取樣等任務。這一突破為其他長期被認為環境過於惡劣的重工業領域開展機器人改造打開了大門。",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com",
+      "tags": [
+        "Industrial Robot",
+        "Manufacturing",
+        "Mining",
+        "Automation"
+      ],
+      "timestamp": "2026-04-14T05:00:00Z"
+    }
+  ]
+}

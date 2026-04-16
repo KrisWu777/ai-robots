@@ -1,0 +1,318 @@
+{
+  "date": "2026-04-15",
+  "featured": {
+    "id": "featured-20260415",
+    "title": "Boston Dynamics и Google DeepMind интегрировали Gemini Robotics в Spot — открывая эпоху промышленных роботов с нативным мышлением",
+    "summary": "Boston Dynamics заключила партнёрство с Google DeepMind для встраивания модели Gemini Robotics непосредственно в робота Spot, что позволяет выполнять инспекционные задачи с применением визуального рассуждения в реальном времени и понимания команд на естественном языке. В ходе демонстрации Spot с Gemini отвечал на вопросы об увиденном, выявлял аномалии и адаптировал маршрут без предустановленных правил.",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-open-a-door.jpg?id=57467838&width=1200",
+    "video": "https://www.youtube.com/watch?v=kBwxmlI2yHQ",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-google-deepmind-spot-gemini",
+    "tags": [
+      "Boston Dynamics",
+      "Google DeepMind",
+      "Gemini",
+      "Spot"
+    ],
+    "timestamp": "2026-04-14T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260415-01",
+      "title": "Google DeepMind выпустила Gemini Robotics-ER 1.6: модель с приоритетом рассуждения для реальных задач роботов",
+      "summary": "Google DeepMind выпустила Gemini Robotics-ER 1.6 — улучшенную модель воплощённого рассуждения, значительно повышающую пространственное понимание, манипуляцию объектами и планирование многошаговых задач для физических роботов. Модель устанавливает новые рекорды на бенчмарках манипуляций.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google",
+      "tags": [
+        "Google DeepMind",
+        "Gemini Robotics",
+        "Foundation Model"
+      ],
+      "timestamp": "2026-04-14T17:00:00Z"
+    },
+    {
+      "id": "art-20260415-02",
+      "title": "Гуманоид Unitree H1 достигает скорости бега 10 м/с — отрасль спорит, означает ли «быстрее» «лучше»",
+      "summary": "Unitree Robotics продемонстрировала гуманоидного робота H1, бегущего со скоростью 10 метров в секунду, превзойдя предыдущие рекорды скорости для двуногих роботов. Достижение вызвало дискуссию о том, является ли грубая скорость значимой метрикой для коммерческого применения.",
+      "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=400&h=250&fit=crop",
+      "source": "Yicai Global",
+      "url": "https://www.yicaiglobal.com",
+      "tags": [
+        "Unitree",
+        "Humanoid",
+        "Speed Record"
+      ],
+      "timestamp": "2026-04-14T12:00:00Z"
+    },
+    {
+      "id": "art-20260415-03",
+      "title": "Гуманоидный робот G1 от Unitree за $4 370 поступил в продажу на AliExpress — самая низкая цена для полноразмерного гуманоида",
+      "summary": "Гуманоидный робот G1 от Unitree теперь доступен для покупки через AliExpress за $4 370, став самым доступным полноразмерным гуманоидным роботом на потребительском рынке.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400&h=250&fit=crop",
+      "source": "The Tech Buzz",
+      "url": "https://www.techbuzz.ai",
+      "tags": [
+        "Unitree",
+        "Consumer",
+        "Price",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-14T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-04",
+      "title": "Tesla рассматривает гигафабрику в Шанхае для производства гуманоидных роботов Optimus — расширение глобального предложения",
+      "summary": "По имеющимся данным, Tesla планирует использовать гигафабрику в Шанхае в качестве производственной базы для гуманоидных роботов Optimus в дополнение к объектам в Техасе.",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=400&h=250&fit=crop",
+      "source": "Tech in Asia",
+      "url": "https://www.techinasia.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Manufacturing",
+        "Shanghai"
+      ],
+      "timestamp": "2026-04-15T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-05",
+      "title": "Генеральная репетиция полумарафона в Пекине завершена — гуманоидные роботы готовы к историческому забегу",
+      "summary": "Организаторы марафона гуманоидных роботов в Пекине 2026 провели комплексную генеральную репетицию, в ходе которой роботы нескольких производителей прошли всю трассу в условиях соревнований.",
+      "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?w=400&h=250&fit=crop",
+      "source": "Asian News Network",
+      "url": "https://asianews.network",
+      "tags": [
+        "Beijing",
+        "Marathon",
+        "Humanoid",
+        "China"
+      ],
+      "timestamp": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-06",
+      "title": "Вирусное видео: робот Unitree G1 гонится за стадом кабанов на парковке в Варшаве — фермер отказывается от заборов",
+      "summary": "Видео, на котором гуманоидный робот G1 от Unitree преследует стадо кабанов на парковке в Варшаве, стало массово вирусным в социальных сетях, собрав миллионы просмотров.",
+      "image": "https://external-preview.redd.it/NmwyZ3NmcmhtOXZnMWBeN7lNr00HVNK-IqWQE3kVFN0eX7KvCpQ3qFdqb.jpeg?auto=webp&s=preview",
+      "source": "The Independent",
+      "url": "https://www.independent.co.uk",
+      "tags": [
+        "Unitree",
+        "Viral",
+        "Humanoid",
+        "Poland"
+      ],
+      "timestamp": "2026-04-14T22:00:00Z"
+    },
+    {
+      "id": "art-20260415-07",
+      "title": "Chery объединяется с AiMOGA Robotics для расширения интеллектуальной экосистемы на Auto China 2026",
+      "summary": "Chery Automobile объявила о новом партнёрстве с AiMOGA Robotics на выставке Auto China 2026 с целью создания кросс-доменной интеллектуальной экосистемы, объединяющей автомобильные и гуманоидные роботизированные платформы.",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400&h=250&fit=crop",
+      "source": "Macau Business",
+      "url": "https://macaubusiness.com",
+      "tags": [
+        "Chery",
+        "AiMOGA",
+        "Auto China",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T05:00:00Z"
+    },
+    {
+      "id": "art-20260415-08",
+      "title": "Locus Robotics запускает 'Locus Array' для полностью автономного выполнения заказов — без сборщиков-людей",
+      "summary": "Locus Robotics представила Locus Array — новую платформу для полностью автономных операций выполнения заказов без участия людей, интегрирующую автономные мобильные роботы и оркестрацию на базе ИИ.",
+      "image": "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=400&h=250&fit=crop",
+      "source": "Supply Chain Dive",
+      "url": "https://www.sdcexec.com",
+      "tags": [
+        "Locus Robotics",
+        "Warehouse",
+        "Autonomous",
+        "Fulfillment"
+      ],
+      "timestamp": "2026-04-13T14:00:00Z"
+    },
+    {
+      "id": "art-20260415-09",
+      "title": "Kuka представляет «Автоматизацию 2.0»: нативная ИИ-платформа ПО связывает роботов между заводскими площадками",
+      "summary": "Kuka Robotics представила подробности стратегии «Автоматизации 2.0», в центре которой — нативная облачная ИИ-платформа, обеспечивающая скоординированную работу парков роботов одновременно на нескольких заводских площадках.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Kuka",
+        "Automation",
+        "AI Platform",
+        "Industry 4.0"
+      ],
+      "timestamp": "2026-04-13T10:00:00Z"
+    },
+    {
+      "id": "art-20260415-10",
+      "title": "PIA Automation запускает подразделение воплощённого ИИ и гуманоидной робототехники для промышленных применений",
+      "summary": "PIA Automation со штаб-квартирой в Германии запустила специализированный бизнес-сегмент, ориентированный на воплощённый ИИ и гуманоидную робототехнику для производственных сред.",
+      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "PIA Automation",
+        "Embodied AI",
+        "Industrial",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-15T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-11",
+      "title": "CVPR 2026 в центре внимания: ИИ-фундаменты обеспечивают следующий скачок инноваций в робототехнике",
+      "summary": "Конференция CVPR 2026 демонстрирует волну исследований, показывающих, как достижения в области моделей «зрение–язык», диффузионного планирования движений и моделей мира напрямую делают возможными более способные физические роботы.",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&h=250&fit=crop",
+      "source": "Newswise",
+      "url": "https://www.newswise.com",
+      "tags": [
+        "CVPR",
+        "Research",
+        "AI",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "art-20260415-12",
+      "title": "Китайские робототехнические компании делают ставку на четвероногих роботов как основных драйверов выручки",
+      "summary": "Анализ South China Morning Post показывает, что китайские робототехнические компании всё больше полагаются на продажи четвероногих роботов — а не гуманоидов — как на основной источник дохода.",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400&h=250&fit=crop",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "China",
+        "Quadruped",
+        "Unitree",
+        "Revenue"
+      ],
+      "timestamp": "2026-04-14T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-13",
+      "title": "Волна военных роботов на Украине ускоряется на фоне рисков РЭБ для дронов",
+      "summary": "Ars Technica сообщает, что армия Украины резко наращивает программу автономных наземных роботов на фоне растущих опасений по поводу угроз радиоэлектронной борьбы дроновым флотилиям.",
+      "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=400&h=250&fit=crop",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "Ukraine",
+        "Military",
+        "Autonomous",
+        "Defense"
+      ],
+      "timestamp": "2026-04-14T16:00:00Z"
+    },
+    {
+      "id": "art-20260415-14",
+      "title": "Рынок гуманоидных роботов на пути к триллиону долларов к 2032 году — новый анализ",
+      "summary": "Новый рыночный отчёт прогнозирует, что глобальный рынок гуманоидных роботов достигнет оценки в 1 триллион долларов к 2032 году, движимый конвергенцией прироста возможностей ИИ, снижения стоимости оборудования и растущего корпоративного спроса.",
+      "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=400&h=250&fit=crop",
+      "source": "Table Briefings",
+      "url": "https://table.media",
+      "tags": [
+        "Market",
+        "Humanoid",
+        "Investment",
+        "Forecast"
+      ],
+      "timestamp": "2026-04-14T11:00:00Z"
+    },
+    {
+      "id": "art-20260415-15",
+      "title": "KEENON Robotics демонстрирует инновации в автономной уборке на Interclean Amsterdam 2026",
+      "summary": "KEENON Robotics представила новейшую линейку автономных уборочных роботов на Interclean Amsterdam 2026, продемонстрировав полностью автономную уборку полов, дезинфекцию и сбор отходов.",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=400&h=250&fit=crop",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "KEENON",
+        "Cleaning Robot",
+        "Service Robot"
+      ],
+      "timestamp": "2026-04-14T08:00:00Z"
+    },
+    {
+      "id": "art-20260415-16",
+      "title": "Tennant углубляет партнёрство с Brain Corp для ускорения масштабного развёртывания роботов-уборщиков",
+      "summary": "Tennant Company объявила о расширении партнёрства с Brain Corp для углубления интеграции ИИ-автономии в коммерческие полотёрные машины.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Tennant",
+        "Brain Corp",
+        "Cleaning Robot",
+        "Autonomy"
+      ],
+      "timestamp": "2026-04-15T03:00:00Z"
+    },
+    {
+      "id": "art-20260415-17",
+      "title": "Робот опасного маршрута видит угрозы, планирует путь и перевозит тяжёлые грузы через препятствия",
+      "summary": "Исследователи разработали робота, способного воспринимать опасности окружающей среды в реальном времени, автономно выбирать наиболее безопасный маршрут и сохранять стабильность груза при движении по сложному рельефу.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/robots-that-see-decide.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com",
+      "tags": [
+        "Research",
+        "Navigation",
+        "Locomotion",
+        "Safety"
+      ],
+      "timestamp": "2026-04-13T09:00:00Z"
+    },
+    {
+      "id": "art-20260415-18",
+      "title": "Гуманоидные роботы используются в исследованиях по тканевой инженерии сухожилий — прорыв в механотрансдукции",
+      "summary": "Учёные опубликовали результаты, показывающие, что гуманоидные роботизированные платформы нагружения могут надёжно применять контролируемую механическую стимуляцию к сухожильным тканевым конструкциям в лаборатории.",
+      "image": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?w=400&h=250&fit=crop",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org",
+      "tags": [
+        "Medical",
+        "Research",
+        "Humanoid",
+        "Biomedical"
+      ],
+      "timestamp": "2026-04-14T07:00:00Z"
+    },
+    {
+      "id": "art-20260415-19",
+      "title": "Серия активных камер RoboSense получила крупный заказ от ведущей компании в области гуманоидной робототехники",
+      "summary": "RoboSense объявила о получении значительного коммерческого заказа на серию активных камер от известного производителя гуманоидных роботов, ознаменовав первое масштабное развёртывание продукта в гуманоидных приложениях.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=250&fit=crop",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": [
+        "RoboSense",
+        "Sensors",
+        "Humanoid",
+        "Computer Vision"
+      ],
+      "timestamp": "2026-04-14T06:00:00Z"
+    },
+    {
+      "id": "art-20260415-20",
+      "title": "Роботизированная автоматизация меняет алюминиевую плавку — исторический прорыв в высокотемпературной тяжёлой промышленности",
+      "summary": "Mining Technology сообщает о первом крупномасштабном развёртывании роботизированной автоматизации в операциях алюминиевой плавки, где экстремальные температуры исторически делали автоматизацию непрактичной.",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=250&fit=crop",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com",
+      "tags": [
+        "Industrial Robot",
+        "Manufacturing",
+        "Mining",
+        "Automation"
+      ],
+      "timestamp": "2026-04-14T05:00:00Z"
+    }
+  ]
+}
