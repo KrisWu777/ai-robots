@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-21",
+  "featured": {
+    "id": "featured-20260421",
+    "title": "人形機器人「Lightning」於北京打破半程馬拉松世界紀錄",
+    "summary": "一台名為「Lightning」的人形機器人以約 57 分鐘衝過北京半程馬拉松終點線,比人類世界紀錄快了約七分鐘;當天共有 20 台來自中國製造商的雙足機器人與人類跑者並肩起跑,成為一場分水嶺級的耐力賽事。這場比賽旨在壓力測試電池續航、散熱以及真實世界的移動能力,過程中多位競爭者中途跌倒或解體,但 Lightning 緊繃如弦的步態與積極的跨步,顯示自首場機器人半程馬拉松以來短短一年,實體 AI 已發展得多快。分析師表示,這項成績為人形機器人承擔更長時程的工業任務鋪路,而不僅止於舞台展示。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+    "source": "The Verge",
+    "url": "https://www.theverge.com",
+    "tags": [
+      "人形機器人",
+      "運動控制",
+      "中國",
+      "里程碑"
+    ],
+    "timestamp": "2026-04-20T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260421-01",
+      "title": "Skild AI 收購 Zebra Technologies 的機器人自動化業務",
+      "summary": "Skild AI 已收購 Zebra Technologies 的機器人自動化部門,包括 Symmetry Fulfillment 編排平台,意圖以單一通用控制層重塑倉儲自動化架構。交易核心是該公司名為「Skild Brain」的全身型 AI 軟體,其設計可在不預先知道機器人實際形體的情況下運作,原則上讓任何機械手臂、AMR 或人形機器人都能繼承共享技能庫。此舉將物流業最大型安裝艦隊之一納入基礎模型式的控制器之下。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/skild-ai-acquires-zebra-technologies-robotics-automation-business/100769/",
+      "tags": [
+        "Skild AI",
+        "Zebra Technologies",
+        "倉儲自動化",
+        "收購"
+      ],
+      "timestamp": "2026-04-20T22:27:25Z"
+    },
+    {
+      "id": "art-20260421-02",
+      "title": "Agibot 發表新一代具身 AI 機器人與基礎模型,鎖定真實世界部署",
+      "summary": "在 2026 合作夥伴大會上,Agibot 推出新一代具身 AI 硬體與基礎模型,圍繞其所謂的「One」架構,定位為從實驗室展示邁向大規模工業與商業部署的轉折點。產品線將靈巧的雙手人形平台與針對工廠、物流和服務情境調校的感知-動作模型相結合。這些發表使 Agibot 躋身於中國競逐將實體 AI 大規模產品化的人形機器人製造商行列。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-for-real-world-deployment/100781/",
+      "tags": [
+        "Agibot",
+        "具身 AI",
+        "基礎模型",
+        "人形機器人"
+      ],
+      "timestamp": "2026-04-21T04:57:15Z"
+    },
+    {
+      "id": "art-20260421-03",
+      "title": "RobCo 於漢諾威工業展發表面向工業作業的人形機器人「Autonomous Alfie」",
+      "summary": "總部位於慕尼黑的 RobCo 藉漢諾威工業展宣布推出「Autonomous Alfie」,這款人形機器人直指工業自動化領域,尤其針對固定單元式機器人長期難以應付的可變、敏感、輸入變動型工作。RobCo 將 Alfie 定位為邁向四級工業自主的一步,機器人無需重新教學即可應對變異情境,並將此次發表視為開啟協作機器人與完整工廠人形機器人之間新類別的里程碑。這是本週多項針對工廠車間而非舞台展示的人形機器人發表之一。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/robco-unveils-autonomous-alfie-humanoid-robot-for-industrial-automation-at-hannover-messe/100762/",
+      "tags": [
+        "RobCo",
+        "人形機器人",
+        "Hannover Messe",
+        "工業自動化"
+      ],
+      "timestamp": "2026-04-20T21:18:07Z"
+    },
+    {
+      "id": "art-20260421-04",
+      "title": "NEURA Robotics 與 AWS 達成戰略協議,擴大實體 AI 規模",
+      "summary": "NEURA Robotics 與 Amazon Web Services 宣布策略合作,旨在加速「實體 AI」發展,利用 AWS 的雲端與生成式 AI 技術堆疊,大規模訓練、模擬並部署 NEURA 的認知型人形機器人平台。合作涵蓋 NEURA Neuraverse 技能商店的聯合市場推廣、雲端艦隊學習,以及與 AWS 模擬服務的整合。這是人形機器人製造商與超大規模雲端業者之間迄今最大規模的公開合作案之一,延續 Nvidia 掌控模擬到實務流程的策略脈絡。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Google News",
+      "url": "https://www.mycarrollcountynews.com",
+      "tags": [
+        "NEURA Robotics",
+        "AWS",
+        "實體 AI",
+        "合作夥伴"
+      ],
+      "timestamp": "2026-04-20T14:00:00Z"
+    },
+    {
+      "id": "art-20260421-05",
+      "title": "Nvidia 與工業夥伴於 Hannover Messe 2026 展示 AI 驅動製造",
+      "summary": "Nvidia 與 Siemens、SAP、ABB、Dassault Systèmes、Microsoft 等合作夥伴攜手,於漢諾威工業展推出大型工業 AI 展示,主打橫跨數位孿生、機器人基礎模型與工廠級推論的技術堆疊。展示重點是將 Isaac 與 Omniverse 帶入實際運作的生產線,而非獨立的實驗室,並特別強調老舊廠房的改造升級。傳達給歐洲製造商的訊息是:AI 原生工廠不再是試點,而是採購清單。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/nvidia-and-partners-showcase-ai-driven-manufacturing-systems-at-hannover-messe-2026/100766/",
+      "tags": [
+        "Nvidia",
+        "Hannover Messe",
+        "數位孿生",
+        "製造業"
+      ],
+      "timestamp": "2026-04-20T21:37:09Z"
+    },
+    {
+      "id": "art-20260421-06",
+      "title": "Cornell 光纖軟體夾爪不留瘀痕摘取成熟水果",
+      "summary": "Cornell 研究人員打造出一款軟體機器人夾爪,運用可伸展的光纖感測器感知草莓成熟度,並從藤蔓上採下而不留痕跡。該夾爪透過觸覺變形訊號預測成熟度,而非依賴視覺,有效彌補易受陰影或污垢欺騙的色彩識別系統的不足。這項研究瞄準農業自動化長期以來的瓶頸:以人類品質與速度採摘嬌嫩且成熟度不一的農產品。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/handle-with-care-soft-1.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html",
+      "tags": [
+        "軟體機器人",
+        "夾爪",
+        "農業",
+        "Cornell"
+      ],
+      "timestamp": "2026-04-20T15:00:00Z"
+    },
+    {
+      "id": "art-20260421-07",
+      "title": "X-Humanoid 的 Tien Kung 3.0 以全自主運行奪得北京機器人勇士挑戰賽冠軍",
+      "summary": "X-Humanoid 的 Tien Kung 3.0 以全自主運行贏得北京機器人勇士挑戰賽冠軍——無遙控操作、無腳本路徑——憑機載系統端到端穿越障礙密集的賽道。此次奪冠意義重大,因為大多數公開的人形機器人「競賽」仍依賴人類操作員做高階決策;Tien Kung 的成績為無線束的自主移動與操作能力樹立標竿。本次比賽與北京半程馬拉松同週舉行,加深了中國人形機器人硬體已從演示邁向競賽級可靠度的印象。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Google News",
+      "url": "https://au.finance.yahoo.com",
+      "tags": [
+        "X-Humanoid",
+        "Tien Kung",
+        "自主",
+        "北京"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-08",
+      "title": "Pudu Robotics 透過荷蘭合作夥伴將 AI 原生洗地機帶入歐洲",
+      "summary": "Pudu Robotics 與荷蘭頂尖專業清潔公司 Gom Schoonhouden 建立合作,首次在歐洲部署其 AI 原生 PUDU BG1 大型洗地機器人。該機器採用機載感知自動建立場域地圖、重新規劃繞行障礙並自行返回充電座,鎖定商業清潔業的人力短缺痛點。這是中國服務型機器人廠商透過當地營運夥伴而非直接銷售在歐洲擴張的最新例證。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Autonomous_cleaning_robot_by_FHI.jpg/960px-Autonomous_cleaning_robot_by_FHI.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/pudu-robotics-deploys-ai-powered-cleaning-robot-in-europe-through-partnership-with-gom/100775/",
+      "tags": [
+        "Pudu Robotics",
+        "服務型機器人",
+        "歐洲",
+        "清潔"
+      ],
+      "timestamp": "2026-04-21T04:36:32Z"
+    },
+    {
+      "id": "art-20260421-09",
+      "title": "Nature:具備增強彎曲能力與 AI 預測的軟體機器人內視鏡",
+      "summary": "一篇新刊 Nature 論文描述了一種軟體機器人內視鏡,結合高度柔順的彎曲段與可依內部感測器訊號預測頂端姿態的 AI 模型,旨在降低外科醫師在蜿蜒解剖結構中導航的認知負擔。團隊報告稱曲率半徑明顯優於傳統剛性連桿設計,同時維持位置估計精度——這是消化道微創介入治療的關鍵瓶頸。此研究是近期將柔性硬體與學習式本體感受相結合的多項軟體手術機器人論文之一。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/New_Da_Vinci_Xi.jpg/960px-New_Da_Vinci_Xi.jpg",
+      "source": "Google News",
+      "url": "https://www.nature.com",
+      "tags": [
+        "軟體機器人",
+        "醫療",
+        "內視鏡",
+        "研究"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-10",
+      "title": "Cadence 與 Nvidia 擴大合作,推動 AI 驅動工程與數位孿生",
+      "summary": "Cadence 與 Nvidia 擴大其長期合作關係,將 AI、以物理為基礎的模擬與數位孿生技術更深地整合進橫跨半導體設計、機器人技術與超大規模 AI 基礎設施的工程工作流程。合作將 Cadence 的 EDA 與系統設計智財與 Nvidia 的加速運算結合,瞄準希望模擬迴圈快到可在設計階段內完成而非隔夜執行的工程師。這進一步鞏固 Nvidia 的主張:每家工業軟體廠商終將成為 AI 客戶。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Generative_Drone_Design.stl/960px-Generative_Drone_Design.stl.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/cadence-and-nvidia-expand-partnership-to-advance-ai-driven-engineering-and-digital-twin-technologies/100772/",
+      "tags": [
+        "Cadence",
+        "Nvidia",
+        "數位孿生",
+        "EDA"
+      ],
+      "timestamp": "2026-04-21T04:25:08Z"
+    },
+    {
+      "id": "art-20260421-11",
+      "title": "QNX 整合 Nvidia IGX Thor,加速安全關鍵 AI 部署",
+      "summary": "BlackBerry 的 QNX 即時作業系統將與 Nvidia 新推出的 IGX Thor 平台整合,直接瞄準醫療設備、工業控制器與自主機器中的安全關鍵 AI 部署。此組合將 Thor 的高運算 AI 推論能力納入 QNX 的確定性排程與功能安全認證體系——這是客戶長期期盼的搭配,因為 AI 模型正遷移至同一塊驅動硬即時致動的電路板上。這是一個押注:邊緣 AI 技術堆疊必須兼具速度與可認證性,不能只有其一。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Google News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "QNX",
+        "Nvidia",
+        "安全關鍵",
+        "邊緣 AI"
+      ],
+      "timestamp": "2026-04-20T16:00:00Z"
+    },
+    {
+      "id": "art-20260421-12",
+      "title": "NCS 與 AGIBOT、HZTC 合作,在亞太區部署人形機器人",
+      "summary": "新加坡 NCS 已與 AGIBOT、HZTC 簽訂合作協議,在亞太區推行人形機器人技術,整合 NCS 的系統整合版圖、AGIBOT 的硬體與 HZTC 的艦隊營運工具。此聯盟鎖定物流、飯店業與商辦地產客戶——他們希望取得人形機器人能力但不願承擔整合負擔。這顯示亞太區人形機器人增長愈來愈透過企業 IT 通路實現,而非直接面向客戶的試點。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Google News",
+      "url": "https://www.thefastmode.com",
+      "tags": [
+        "NCS",
+        "AGIBOT",
+        "亞太區",
+        "人形機器人"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-13",
+      "title": "Milvus Robotics 推出 SEIT F1500S 堆高機型 AMR,鎖定重型物料搬運",
+      "summary": "Milvus Robotics 推出 SEIT F1500S——一款 1,500 公斤承載的堆高機型自主移動機器人,瞄準倉儲與輕型製造業的重型物料搬運。該機器支援 Euro 棧板級負載的平衡式舉升,具備機載 SLAM 導航與符合安全等級的感測器,可於人機共用場域運行。這將 AMR 進一步推向傳統站立式堆高機的角色——這正是內部物流中操作員短缺最難填補的特定領域。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg/960px-Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Milvus Robotics",
+        "AMR",
+        "堆高機",
+        "內部物流"
+      ],
+      "timestamp": "2026-04-20T13:00:00Z"
+    },
+    {
+      "id": "art-20260421-14",
+      "title": "Tesla 將 Optimus 送上波士頓馬拉松",
+      "summary": "Tesla 表示將讓一台 Optimus 人形機器人上陣波士頓馬拉松賽道,這是不斷擴增的機器人耐力展示列表中的最新一項,旨在於未按腳本的地形上證明電池、熱管理與移動能力。此次嘗試發生在中國人形機器人於北京打破人類半程馬拉松世界紀錄隔日,進一步強化實體 AI 領域美中競爭的敘事。Tesla 尚未說明 Optimus 將扮演何種賽道角色——全程參賽、配速段還是支援跟隨——但各界將密切關注其故障模式。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Google News",
+      "url": "https://www.teslarati.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "人形機器人",
+        "Boston Marathon"
+      ],
+      "timestamp": "2026-04-20T17:00:00Z"
+    },
+    {
+      "id": "art-20260421-15",
+      "title": "Flexiv 於 Hannover Messe 2026 展示自適應機器人技術",
+      "summary": "Flexiv 藉漢諾威工業展展示其最新自適應機器人系統,倚重力控機械手臂處理打磨、插入、精修等接觸豐富的作業,無需傳統機械手臂所需的治具與教學時間。現場演示將力-力矩控制與學習式技能模型結合,使同一機械手臂能即時切換不同零件版本。對轉向高多樣性、低量產的歐洲製造商來說,訴求是減少換線次數,讓機器人花更多時間處理真正多變的任務。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Google News",
+      "url": "https://www.aerospacemanufacturinganddesign.com",
+      "tags": [
+        "Flexiv",
+        "力控",
+        "Hannover Messe",
+        "協作機器人"
+      ],
+      "timestamp": "2026-04-20T11:00:00Z"
+    },
+    {
+      "id": "art-20260421-16",
+      "title": "USC 的 Maja Matarić:開創社交輔助機器人領域的教授",
+      "summary": "IEEE Spectrum 專訪了 USC 教授 Maja Matarić,她協助開創了社交輔助機器人這一領域——這類機器人透過社交互動而非物理操作,提供個人化治療與照護。文章追溯她自 2005 年起奠定該領域早期定義,到將機器人部署於中風復健、自閉症治療與長者照護的歷程。這是對硬體奇觀循環的有力平衡,提醒讀者:最具價值的機器人有時既不是最快,也不是最強的那一種。",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-blonde-woman-poses-with-a-humanoid-robotic-torso-wearing-a-usc-sweatshirt.jpg?id=60890895&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/socially-assistive-robotics",
+      "tags": [
+        "USC",
+        "社交輔助機器人",
+        "醫療保健",
+        "人物專訪"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-17",
+      "title": "菲律賓完成首例本地執行的機器人白內障手術",
+      "summary": "菲律賓外科醫師完成該國首例本地執行的機器人白內障手術,利用機器人輔助平台以次毫米精度引導水晶體粉碎與置換。這項里程碑為眼科服務擴展至大都會教學醫院以外的地區開啟新路徑,當地白內障候診名單長年居高不下。此舉呼應東南亞將機器人手術在地化、擺脫對醫療觀光轉診依賴的更大趨勢。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg/960px-WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg",
+      "source": "Google News",
+      "url": "https://www.insider.ph",
+      "tags": [
+        "醫療機器人",
+        "手術",
+        "菲律賓",
+        "醫療保健"
+      ],
+      "timestamp": "2026-04-20T08:00:00Z"
+    },
+    {
+      "id": "art-20260421-18",
+      "title": "Samsung 預示建立於 3D、虛擬化身與人形機器人之上的零售新顧客體驗",
+      "summary": "Samsung 近期的 CX 展示明確化了過去一年來的種種暗示:零售體驗技術堆疊正圍繞 3D 空間介面、代表顧客的虛擬化身與作為前台人員的人形機器人重建。該公司將人形機器人定位為與人類店員互補而非替代,聚焦於指引、庫存查詢與非營業時段支援。對服務型機器人產業而言,這是面向消費者的人形機器人即將進入大規模零售試點的最明確訊號之一。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg/960px-Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg",
+      "source": "Google News",
+      "url": "https://www.cxtoday.com",
+      "tags": [
+        "Samsung",
+        "零售",
+        "人形機器人",
+        "CX"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-19",
+      "title": "Coco Robotics 與 BlindSquare 合作,提升人行道配送的無障礙性",
+      "summary": "Coco Robotics 與輔助導航應用 BlindSquare 合作,將人行道配送機器人的位置廣播至 BlindSquare 的音訊環境中,讓視障及低視力行人能即時偵測並繞開這些機器人。此舉回應了人行道配送艦隊擴展至更多城市後日益擴大的無障礙落差——這些安靜、低底盤的機器人曾引發身障倡議人士的抱怨。這是機器人營運商將無障礙視為產品而非附加功能的顯著案例。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Coco Robotics",
+        "無障礙",
+        "人行道配送",
+        "BlindSquare"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-20",
+      "title": "Plus One Robotics 執行長:資本已超前實際機器人能力",
+      "summary": "Plus One Robotics 執行長 Erik Nieves 對當前機器人融資熱潮提出警示,指出資本湧入機器人領域的速度已快於底層技術實際成熟的速度。他的核心觀點是:真實世界部署的成敗取決於可靠度、正常運行時間與量產率目標——而非展示影片或基礎模型公告——承諾與可部署系統之間的落差,正在客戶事後檢討中逐步浮現。這是對本週頭條人形機器人炒作循環的一份踏實反論。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1sr51rr/ceo_on_capital_pouring_into_robotics_faster_than/",
+      "tags": [
+        "產業分析",
+        "Plus One Robotics",
+        "投資",
+        "評論"
+      ],
+      "timestamp": "2026-04-20T20:00:00Z"
+    }
+  ]
+}

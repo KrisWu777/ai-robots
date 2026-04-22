@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-17",
+  "featured": {
+    "id": "featured-20260417",
+    "title": "Boston Dynamics और Google DeepMind ने Spot को Gemini Robotics से reasoning करना सिखाया",
+    "summary": "Boston Dynamics ने Google DeepMind का Gemini Robotics foundation model अपने Spot inspection platform में integrate कर दिया है, जिससे यह quadruped robot natural-language commands को समझ सके और multi-step tasks को autonomously plan कर सके। नतीजा यह है कि Spot अब unfamiliar environments में reason कर सकता है — जैसे, यह decide करना कि किसी object को कैसे fetch करे या failed attempt के बाद कैसे recover हो — न कि सिर्फ़ rigid scripted routines execute करे। यह integration industrial inspection, logistics और field service के लिए general-purpose embodied AI की direction में एक बड़ा step है, और यह भी hint देता है कि foundation models जल्द ही commercial robot hardware के अंदर ship होंगे।",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+    "tags": ["Boston Dynamics", "Google DeepMind", "Foundation Models", "Spot"],
+    "timestamp": "2026-04-14T19:45:01Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260417-01",
+      "title": "Physical Intelligence ने π0.7 unveil किया: एक ऐसा robot brain जो कभी न सिखाए गए tasks भी कर लेता है",
+      "summary": "Robotics startup Physical Intelligence ने π0.7 release किया है, एक next-generation foundation model जो robots को ऐसे tasks complete करवा सकता है जिन पर system को कभी explicitly train नहीं किया गया। Company इसे general-purpose robot brain की तरफ़ early लेकिन meaningful step के तौर पर frame कर रही है, और demo videos में arms तथा mobile manipulators novel kitchens, desks और assembly scenarios में adapt करते दिख रहे हैं। यह launch PI, Google DeepMind और Nvidia के बीच उस race को फिर से ignite कर देता है कि physical AI का operating layer कौन define करेगा।",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-12.22.07-PM.png?resize=1200,589",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "tags": ["Physical Intelligence", "Foundation Models", "Generalist Robots"],
+      "timestamp": "2026-04-16T20:26:44Z"
+    },
+    {
+      "id": "art-20260417-02",
+      "title": "Siemens, Nvidia और Humanoid ने Physical AI को factory operations में ला दिया",
+      "summary": "Siemens ने Nvidia के physical AI stack पर built, Humanoid company का HMND 01 wheeled Alpha robot अपने एक electronics plant पर live trials में utarा — यह पहली बार है जब तीनों companies ने joint demo में किसी humanoid को real industrial logistics चलाते हुए दिखाया है। Robot ने workstations के बीच parts autonomously move किए, tote transfers handle किए, और human workers के आसपास अपने routes adapt किए। Siemens ने इस pilot को physical AI को demo reels से manufacturing reality में बदलने का 'landmark milestone' कहा।",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/siemens-humanoid-nvidia-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/siemens-nvidia-and-humanoid-bring-physical-ai-humanoid-robots-into-factory-operations/100681/",
+      "tags": ["Siemens", "Nvidia", "Humanoid", "Factory Automation"],
+      "timestamp": "2026-04-16T12:45:12Z"
+    },
+    {
+      "id": "art-20260417-03",
+      "title": "Path Robotics ने Rove launch किया: Physical AI से चलने वाला Quadruped Welder",
+      "summary": "Path Robotics ने Rove unveil किया है, एक mobile welding system जो इसके Obsidian physical AI model को quadruped robot platform के साथ pair करती है — असल में, एक welding torch को robot dog पर मढ़कर उसे jobsites पर चलने देना। Company, जो autonomous robotic welding cells के लिए जानी जाती है, कहती है कि Rove manufacturers को welding capacity ऐसे spaces में deploy करने देता है जो fixed cells के लिए बहुत cramped या irregular हों। यह launch उन पहले commercial products में से एक है जो legged mobility को किसी specialized manufacturing skill के साथ combine करते हैं।",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/path-robotics-Rove-Weld-v2.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/path-robotics-unveils-mobile-robotic-welding-system-combining-ai-and-quadruped-mobility/100600/",
+      "tags": ["Path Robotics", "Welding", "Quadruped", "Manufacturing"],
+      "timestamp": "2026-04-16T14:30:43Z"
+    },
+    {
+      "id": "art-20260417-04",
+      "title": "Unitree ने $6,800 का Humanoid Robot ship करना शुरू किया — अब तक का सबसे सस्ता",
+      "summary": "Chinese robotics firm Unitree ने अपने सबसे low-cost humanoid robot की retail sales शुरू कर दी है, starting price $6,800 — affordability में एक ऐसा step change जो Boston Dynamics, Figure और Apptronik के competing platforms को एक order of magnitude से undercut करता है। यह model researchers, developers और education customers को target करता है, और Unitree ने US के लिए free shipping भी announce की है। यह move Tesla Optimus और उन humanoid programs पर pricing pressure बढ़ा देता है जो consumer-adjacent market को target कर रहे हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": ["Unitree", "Humanoid", "Pricing", "China"],
+      "timestamp": "2026-04-17T03:13:28Z"
+    },
+    {
+      "id": "art-20260417-05",
+      "title": "Robots कैसे सीखते हैं: एक brief contemporary history",
+      "summary": "MIT Technology Review robotics research में उस shift को trace करता है, जो hand-coded arms से large-scale learned policies और foundation models की तरफ़ हुआ है। Piece argue करता है कि पिछले पाँच सालों ने चुपचाप general-purpose robots के early dreams और 20वीं century पर dominate करने वाले narrow industrial arms के बीच की distance collapse कर दी है, क्योंकि DeepMind, Physical Intelligence और university labs की teams shared training recipes पर converge कर रही हैं। यह इस बात का useful map है कि field actually आज के physical AI moment तक कैसे पहुँचा।",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/robot.jpg?resize=1200,600",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "tags": ["Foundation Models", "History", "Robot Learning"],
+      "timestamp": "2026-04-17T10:00:00Z"
+    },
+    {
+      "id": "art-20260417-06",
+      "title": "Digit ने Deadlift सीखी: Agility Robotics का Humanoid Heavy Weights उठाता दिखा",
+      "summary": "IEEE Spectrum के latest Video Friday में Agility Robotics के Digit को एक loaded barbell से deadlift करते हुए highlight किया गया है — यह demonstration है कि इस bipedal humanoid का whole-body balance और force control अब asymmetric, heavy payloads handle कर सकता है। Additional clips academic labs से नए locomotion research को cover करते हैं, जो underline करते हैं कि dynamic full-body manipulation तेज़ी से simulation से hardware में move हो रहा है। यह एक और data point है कि legged humanoids raw strength में fixed industrial arms के साथ gap closing कर रहे हैं।",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=65564472&width=1200&height=600&coordinates=0%2C110%2C0%2C110",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robot-learning",
+      "tags": ["Agility Robotics", "Digit", "Humanoid", "Locomotion"],
+      "timestamp": "2026-04-17T15:00:01Z"
+    },
+    {
+      "id": "art-20260417-07",
+      "title": "Jabil ने detail में बताया कैसे Humanoid Robots को Prototype से Production तक scale करेगी",
+      "summary": "Contract manufacturer Jabil ने एक new interview में अपना roadmap रखा है कि Apptronik जैसे customers के लिए humanoid robots को mass-produce कैसे करेगी — इसमें supply-chain buildout, actuator sourcing, और hand-assembled prototypes से line production तक का shift cover है। Company humanoids को next major category के रूप में frame करती है जहाँ manufacturing quality और cost curves winners decide करेंगे, जैसा smartphones और EVs में हुआ। यह commentary humanoid wave के industrial side पर एक rare inside look offer करती है।",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/jabil-apptronik-collaboration-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/interview-jabil-on-scaling-humanoid-robots-from-prototype-to-production/100706/",
+      "tags": ["Jabil", "Apptronik", "Humanoid", "Manufacturing"],
+      "timestamp": "2026-04-16T16:23:33Z"
+    },
+    {
+      "id": "art-20260417-08",
+      "title": "Skild AI ने Zebra Technologies का Robotics Automation Business acquire किया",
+      "summary": "Foundation-model robotics startup Skild AI ने Zebra Technologies का robotics automation business acquire कर लिया है, जिससे young company को established warehouse और logistics customer base, field deployment expertise, और existing hardware तक access मिल गया है। यह deal Skild की generalist robot-brain ambitions को fulfillment और enterprise logistics में एक practical go-to-market channel के साथ vertically integrate करती है — यह उन कुछ robotics sectors में से एक है जहाँ proven willingness to pay है। Terms पूरी तरह disclose नहीं किए गए।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Business Wire",
+      "url": "https://www.businesswire.com",
+      "tags": ["Skild AI", "Zebra Technologies", "Warehouse Robotics", "M&A"],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260417-09",
+      "title": "Agibot China में Humanoid Robot Production को कई गुना expand करने की planning कर रहा है",
+      "summary": "Shanghai-based humanoid maker Agibot ने Nikkei Asia को बताया कि वह production capacity को कई गुना expand करने की planning कर रहा है, क्योंकि industrial customers और research institutions की demand उसकी current output से आगे निकल गई है। Company के पास पहले से China के factory floors पर G2 humanoid units हैं, और वह mass-production economics की तरफ़ push कर रही है जो Chinese EV supply chains को reshape कर रही है। यह plan reinforce करती है कि Chinese humanoid makers US rivals के मुक़ाबले कितना aggressively scale कर रहे हैं, जो अभी भी small-batch builds में हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com",
+      "tags": ["Agibot", "Humanoid", "China", "Mass Production"],
+      "timestamp": "2026-04-17T08:49:00Z"
+    },
+    {
+      "id": "art-20260417-10",
+      "title": "Agibot के G2 Humanoids एक Chinese Factory Floor पर deploy किए गए",
+      "summary": "Interesting Engineering report करता है कि embodied-AI controllers से equipped Agibot के G2 humanoids अब किसी Chinese manufacturing facility में real production-line tasks perform कर रहे हैं, जिसमें parts handling और inspection शामिल हैं। यह deployment Chinese-built humanoids के sustained industrial work करने के कुछ पहले verifiable cases में से एक है, न कि scripted demos। यह Nikkei की scale-up reporting को complement करता है और इस narrative को tighten करता है कि Chinese humanoids commercial deployment में आगे निकल रहे हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Agibot", "G2", "Factory Automation", "Embodied AI"],
+      "timestamp": "2026-04-15T11:06:00Z"
+    },
+    {
+      "id": "art-20260417-11",
+      "title": "Tesla Shanghai Gigafactory में Humanoid Robot Production पर विचार कर रही है",
+      "summary": "TechNode के according, Tesla evaluate कर रही है कि क्या Optimus humanoid robots को उसकी Shanghai Gigafactory में build किया जाए, क्योंकि company Chinese supply chains को tap करना चाहती है जो actuators, gearboxes और magnets already local humanoid makers को feed कर रही हैं। Shanghai line Optimus को उन्हीं component networks के बगल में रख देगी जो Unitree, Agibot और Fourier को fuel कर रही हैं, साथ ही US cost structures से बच जाएगी। कोई final decision test करेगा कि Tesla humanoid manufacturing को अपने US footprint से कितना decouple करने के लिए तैयार है।",
+      "image": "https://technode.com/wp-content/uploads/2022/07/131403118_m的副本-1-e1657706210717.jpg",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/04/17/tesla-considers-humanoid-robot-production-at-shanghai-gigafactory/",
+      "tags": ["Tesla", "Optimus", "Shanghai", "Manufacturing"],
+      "timestamp": "2026-04-17T02:13:37Z"
+    },
+    {
+      "id": "art-20260417-12",
+      "title": "Siemens Humanoid Robot ने Production Plant पर Logistics Trials complete किए",
+      "summary": "Engineering.com की एक separate dispatch confirm करती है कि Siemens ने अपने newly deployed humanoid robot का use करके logistics trials का एक structured set complete कर लिया है, जिसमें pallet moves, bin handling और coordinated human-robot work cells शामिल हैं। Successful trials plant के अंदर wider rollout का रास्ता clear करते हैं, और यह भी inform करेंगे कि Siemens दूसरे manufacturers को 'humanoid-ready' automation packages कैसे market करेगी। Nvidia-stack demonstration के साथ मिलकर यह Siemens को physical AI के लिए सबसे credible industrial anchors में से एक के रूप में position करता है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/humanoid-robot-completes-logistics-trials-at-siemens-plant/",
+      "tags": ["Siemens", "Humanoid", "Logistics", "Industrial"],
+      "timestamp": "2026-04-17T13:24:52Z"
+    },
+    {
+      "id": "art-20260417-13",
+      "title": "Accenture ने General Robotics में invest किया ताकि Physical AI deployments को scale कर सके",
+      "summary": "Consulting giant Accenture ने General Robotics में एक strategic stake ली है, यह move Accenture के industrial clients में humanoid और physical-AI systems की enterprise deployments को accelerate करने के लिए design किया गया है। यह deal General Robotics के hardware और software को Accenture की systems-integration reach के साथ bundle करती है — यह pattern वही है जैसे Accenture पहले की cloud और generative AI की waves पर ride करती आई है। Analysts इसे signal के तौर पर पढ़ते हैं कि Fortune 500 buyers अब humanoid automation को एक real line item की तरह treat करना शुरू कर रहे हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": ["Accenture", "General Robotics", "Investment", "Enterprise"],
+      "timestamp": "2026-04-15T00:00:00Z"
+    },
+    {
+      "id": "art-20260417-14",
+      "title": "Beijing में Alibaba, Honor और Global Teams के साथ Humanoid Half-Marathon",
+      "summary": "Beijing इस week एक humanoid-robot half-marathon stage कर रहा है जिसमें Alibaba, Honor, Unitree और दूसरे global entrants की teams हिस्सा ले रही हैं, race को पूरे 21 km पर embodied-AI controllers और battery systems के stress test के रूप में use किया जा रहा है। Organizers का कहना है कि यह continuous humanoid locomotion के लिए अब तक का सबसे बड़ा field है। Spectacle के अलावा, यह event आज के production-grade humanoids के endurance, failure modes और thermal behavior पर rare comparative data भी produce करता है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260417VL216/humanoid-robot-robotics-data-revenue-2026.html",
+      "tags": ["Humanoid", "Marathon", "Beijing", "Alibaba"],
+      "timestamp": "2026-04-15T23:39:06Z"
+    },
+    {
+      "id": "art-20260417-15",
+      "title": "China के Humanoid Robots अब Usain Bolt के क़रीब sprint speeds clock कर रहे हैं",
+      "summary": "Oddity Central report करता है कि कई Chinese humanoid robots अब ऐसी speeds पर sprint करते हुए film हुए हैं जो elite human sprinters के क़रीब हैं, एक platform ने briefly Usain Bolt की race pace से comparable velocities hit कीं। Clips highlight करते हैं कि dynamic legged control कितना advance हो चुका है — काफ़ी हद तक simulation में trained reinforcement-learning policies की वजह से। उन speeds पर endurance और stability open questions बने हुए हैं, पर footage expectations redraw कर देता है कि bipedal robots physically क्या कर सकते हैं।",
+      "image": "https://www.odditycentral.com/wp-content/uploads/2026/04/fastest-humanoid-robot2-1.webp",
+      "source": "Oddity Central",
+      "url": "https://www.odditycentral.com/news/chinas-humanoid-robots-are-now-as-fast-as-usain-bolt.html",
+      "tags": ["Humanoid", "Sprinting", "Locomotion", "China"],
+      "timestamp": "2026-04-17T12:14:04Z"
+    },
+    {
+      "id": "art-20260417-16",
+      "title": "Warsaw की streets से Wild Boars भगाने के लिए Humanoid Robot deploy",
+      "summary": "Polish authorities ने urban Warsaw से wild boars को shoo करने में मदद के लिए एक humanoid robot trial किया है, जहाँ animals increasingly streets और parks में wander कर रहे थे। Robot, एक commercial humanoid platform जो audio deterrents और mobility software से equipped है, ने affected districts के perimeter पर walk किया और boars को बिना harm किए green corridors की तरफ़ nudge किया। यह factory के बाहर municipal और wildlife-management roles में humanoid robots के press-into-service का एक unusual — पर telling — example है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Financial Times",
+      "url": "https://www.ft.com",
+      "tags": ["Humanoid", "Wildlife", "Warsaw", "Urban Robotics"],
+      "timestamp": "2026-04-17T04:00:32Z"
+    },
+    {
+      "id": "art-20260417-17",
+      "title": "Saudi Arabia Humanoid Robotics को scale करने की Global Race में accelerate कर रहा है",
+      "summary": "Arab News report करता है कि Saudi Arabia humanoid robotics में state-backed investment को ramp up कर रहा है, यह उसके Vision 2030 industrial diversification push का हिस्सा है, जिसमें नए partnerships, research centers, और logistics तथा hospitality में planned pilot deployments शामिल हैं। Kingdom खुद को Middle East का physical AI hub position कर रहा है, वैसे ही जैसे decade के पहले उसने data-center capacity को pursue किया था। Announcements US, China और Gulf capital के बीच three-way global race को sharpen करती हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com",
+      "tags": ["Saudi Arabia", "Humanoid", "Vision 2030", "Policy"],
+      "timestamp": "2026-04-16T20:33:48Z"
+    },
+    {
+      "id": "art-20260417-18",
+      "title": "PIA Automation ने Embodied AI और Humanoid Robotics Business Division launch किया",
+      "summary": "Manufacturing-automation firm PIA Automation ने एक dedicated embodied-AI और humanoid-robotics business division spin up कर दिया है, यह signal देता है कि long-established automation integrators अब humanoids को एक distant research topic नहीं मानते। नई unit PIA की line-building expertise को external partners के humanoid hardware और aerospace, automotive तथा consumer-electronics customers के लिए tailored software stacks के साथ bundle करेगी। यह एक और marker है कि humanoid adoption traditional industrial channels में move हो रहा है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "citybiz",
+      "url": "https://www.citybiz.co",
+      "tags": ["PIA Automation", "Embodied AI", "Humanoid", "Industrial"],
+      "timestamp": "2026-04-14T22:25:32Z"
+    },
+    {
+      "id": "art-20260417-19",
+      "title": "Violinists ने Robotic Exoskeletons पहनकर Duets perform किए",
+      "summary": "The Debrief द्वारा cover की गई एक new study ने professional violinists को lightweight robotic exoskeletons में रखा और उनसे duets play करवाए, इससे यह surprising insights मिले कि players micro-movements कैसे coordinate करते हैं और timing cues कैसे share करते हैं। Researchers ने exoskeleton के sensors का use करके partners के बीच entrainment को quantify किया — essentially musicians के बीच 'groove' को measure करना। Curiosity factor के अलावा यह work physical therapy, music education और motor-skill training में assistive exos के लिए near-term uses की तरफ़ point करता है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org",
+      "tags": ["Exoskeleton", "Assistive Robotics", "Research", "Music"],
+      "timestamp": "2026-04-17T12:33:27Z"
+    },
+    {
+      "id": "art-20260417-20",
+      "title": "Multi-Resolution Mapping Autonomous Robot Exploration की efficiency boost करती है",
+      "summary": "Researchers ने एक नया multi-resolution mapping approach publish किया है जो autonomous mobile robots को uniform-resolution maps के मुक़ाबले unknown environments को significantly faster explore करने देता है। Trick: open areas में coarse detail store करना और obstacles या decision points के पास ही fine detail रखना, जिससे memory costs कम रहें और navigation quality preserve हो। Results search-and-rescue, warehouse, और planetary-rover workloads में meaningful efficiency gains दिखाते हैं — वे areas जहाँ exploration का हर minute matter करता है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": ["SLAM", "Autonomous Navigation", "Research", "Mapping"],
+      "timestamp": "2026-04-17T00:11:00Z"
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-21",
+  "featured": {
+    "id": "featured-20260421",
+    "title": "روبوت بشري يُدعى 'Lightning' يحطّم الرقم العالمي لنصف الماراثون في بكين",
+    "summary": "عبر روبوت بشري يُدعى 'Lightning' خط النهاية في نصف ماراثون بكين في نحو 57 دقيقة، أي أسرع بحوالي سبع دقائق من الرقم العالمي البشري، في حين اصطفّ 20 آلة ذات ساقين من صُنّاع صينيين إلى جانب العدّائين من البشر في حدث تحمّل يمثّل نقطة تحوّل. السباق — الذي صُمّم لاختبار عمر البطارية والتبريد والحركة في الظروف الواقعية — شهد تعثّر عدد من المتنافسين أو تفكّكهم في منتصف المسار، لكن مشية Lightning المشدودة كأسلاك وخطواته الهجومية أشارت إلى مدى نضج الذكاء الاصطناعي الفيزيائي في العام الذي أعقب أول نصف ماراثون للروبوتات. ويقول المحللون إن هذه النتيجة تُمهّد الطريق أمام الروبوتات البشرية لمهمّات صناعية طويلة الأمد، وليس مجرّد عروض على المسارح.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+    "source": "The Verge",
+    "url": "https://www.theverge.com",
+    "tags": [
+      "روبوت بشري",
+      "الحركة",
+      "الصين",
+      "إنجاز"
+    ],
+    "timestamp": "2026-04-20T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260421-01",
+      "title": "Skild AI تستحوذ على ذراع الأتمتة الروبوتية التابعة لـ Zebra Technologies",
+      "summary": "استحوذت شركة Skild AI على ذراع الأتمتة الروبوتية لشركة Zebra Technologies — بما في ذلك منصة التنسيق Symmetry Fulfillment — في محاولة لإعادة هيكلة أتمتة المستودعات حول طبقة تحكّم واحدة عامة الأغراض. ويقع في قلب الصفقة 'Skild Brain'، وهو برنامج الذكاء الاصطناعي الشامل الأجسام من الشركة، المصمّم للعمل دون معرفة مسبقة بالشكل الدقيق لجسد الروبوت، مما يتيح من حيث المبدأ لأي ذراع أو روبوت متنقّل مستقل AMR أو روبوت بشري أن يرث مكتبة مهارات مشتركة. وتُدخِل هذه الخطوة أحد أكبر الأساطيل المنصوبة في قطاع الخدمات اللوجستية تحت وحدة تحكّم على طراز النماذج الأساسية.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/skild-ai-acquires-zebra-technologies-robotics-automation-business/100769/",
+      "tags": [
+        "Skild AI",
+        "Zebra Technologies",
+        "أتمتة المستودعات",
+        "استحواذ"
+      ],
+      "timestamp": "2026-04-20T22:27:25Z"
+    },
+    {
+      "id": "art-20260421-02",
+      "title": "Agibot تكشف عن روبوتات ذكاء اصطناعي مُجسَّد ونماذج أساسية جديدة للنشر في العالم الحقيقي",
+      "summary": "خلال مؤتمرها للشركاء لعام 2026، طرحت Agibot جيلاً جديداً من أجهزة الذكاء الاصطناعي المُجسَّد والنماذج الأساسية المبنية حول ما تسمّيه معمارية 'One'، في تحوّل من عروض المختبرات إلى عمليات نشر صناعية وتجارية واسعة النطاق. وتجمع التشكيلة بين منصّات بشرية ذات يدين بارعتين ونماذج إدراك-فعل مُعايَرة لسيناريوهات المصانع واللوجستيات والخدمات. وتضع هذه الإعلانات Agibot بين صُنّاع الروبوتات البشرية الصينيين المتسابقين نحو تحويل الذكاء الاصطناعي الفيزيائي إلى منتج على نطاق واسع.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-for-real-world-deployment/100781/",
+      "tags": [
+        "Agibot",
+        "الذكاء الاصطناعي المُجسَّد",
+        "النماذج الأساسية",
+        "روبوت بشري"
+      ],
+      "timestamp": "2026-04-21T04:57:15Z"
+    },
+    {
+      "id": "art-20260421-03",
+      "title": "RobCo تطلق الروبوت البشري 'Autonomous Alfie' للعمل الصناعي في معرض Hannover Messe",
+      "summary": "استخدمت شركة RobCo ومقرها ميونخ معرض Hannover Messe للإعلان عن 'Autonomous Alfie'، روبوت بشري يستهدف بشكل مباشر الأتمتة الصناعية — وتحديداً المهام المتغيّرة الحسّاسة ذات المدخلات المتبدّلة التي طالما تعثّرت فيها الروبوتات ذات الخلايا الثابتة. وتضع RobCo روبوت Alfie كخطوة نحو الاستقلالية الصناعية من المستوى الرابع، حيث تتعامل الروبوتات مع التباين دون إعادة تعليم، وتُقدّم الإطلاق على أنه فتح لفئة جديدة بين الروبوتات التعاونية والروبوتات البشرية المخصّصة للمصانع الكاملة. وهو أحد عدّة إعلانات بشرية هذا الأسبوع موجّهة إلى أرضية المصنع بدلاً من خشبة العرض.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/robco-unveils-autonomous-alfie-humanoid-robot-for-industrial-automation-at-hannover-messe/100762/",
+      "tags": [
+        "RobCo",
+        "روبوت بشري",
+        "Hannover Messe",
+        "الأتمتة الصناعية"
+      ],
+      "timestamp": "2026-04-20T21:18:07Z"
+    },
+    {
+      "id": "art-20260421-04",
+      "title": "NEURA Robotics و AWS تعقدان اتفاقية استراتيجية لتوسيع نطاق الذكاء الاصطناعي الفيزيائي",
+      "summary": "أعلنت NEURA Robotics وAmazon Web Services عن تعاون استراتيجي يهدف إلى تسريع 'الذكاء الاصطناعي الفيزيائي' — باستخدام السحابة وحزمة الذكاء الاصطناعي التوليدي من AWS لتدريب منصّات NEURA البشرية المعرفية ومحاكاتها ونشرها على نطاق واسع. وتشمل الشراكة التسويق المشترك لمتجر المهارات Neuraverse من NEURA، والتعلّم السحابي للأسطول، والتكامل مع خدمات المحاكاة من AWS. وهي واحدة من أكبر التحالفات العلنية حتى الآن بين صانع روبوت بشري ومزوّد خدمات سحابية ضخم، وتسير على خطى NVIDIA في امتلاك خطّ الأنابيب من المحاكاة إلى الواقع.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Google News",
+      "url": "https://www.mycarrollcountynews.com",
+      "tags": [
+        "NEURA Robotics",
+        "AWS",
+        "الذكاء الاصطناعي الفيزيائي",
+        "شراكة"
+      ],
+      "timestamp": "2026-04-20T14:00:00Z"
+    },
+    {
+      "id": "art-20260421-05",
+      "title": "Nvidia وشركاء صناعيون يعرضون التصنيع المدفوع بالذكاء الاصطناعي في Hannover Messe 2026",
+      "summary": "كانت Nvidia محور معرض Hannover Messe بعرض ممتدّ للذكاء الاصطناعي الصناعي إلى جانب Siemens و SAP و ABB و Dassault Systèmes و Microsoft وغيرها، مُقدّمة حزمة تمتدّ من التوائم الرقمية إلى النماذج الأساسية للروبوتات والاستدلال على مستوى المصنع. وركّزت العروض على إدخال Isaac و Omniverse إلى خطوط الإنتاج العاملة فعلياً بدلاً من المختبرات المعزولة، مع التركيز على إعادة تأهيل المنشآت القائمة. الرسالة إلى المصنّعين الأوروبيين: المصانع المبنية على الذكاء الاصطناعي لم تعد مشاريع تجريبية — بل باتت في مرحلة التوريد الفعلي.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/nvidia-and-partners-showcase-ai-driven-manufacturing-systems-at-hannover-messe-2026/100766/",
+      "tags": [
+        "Nvidia",
+        "Hannover Messe",
+        "التوأم الرقمي",
+        "التصنيع"
+      ],
+      "timestamp": "2026-04-20T21:37:09Z"
+    },
+    {
+      "id": "art-20260421-06",
+      "title": "قابض ناعم بألياف بصرية من Cornell يقطف الفاكهة الناضجة دون رضّها",
+      "summary": "صنع باحثون من جامعة Cornell قابضاً روبوتياً ناعماً يستخدم مستشعرات ألياف بصرية قابلة للتمدّد لتحسّس نضج حبّات الفراولة وقطفها من العُود دون ترك أي أثر. ويتنبّأ القابض بالنضج من خلال إشارات التشوّه اللمسي بدلاً من الرؤية، وهو مكمّل مفيد للأنظمة القائمة على اللون التي تخدعها الظلال أو الأوساخ. ويستهدف العمل عقبة مستمرّة في أتمتة الزراعة: قطف المنتجات الرقيقة المتباينة النضج بجودة وسرعة مماثلة للبشر.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/handle-with-care-soft-1.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html",
+      "tags": [
+        "الروبوتات الناعمة",
+        "القابض",
+        "الزراعة",
+        "Cornell"
+      ],
+      "timestamp": "2026-04-20T15:00:00Z"
+    },
+    {
+      "id": "art-20260421-07",
+      "title": "روبوت Tien Kung 3.0 من X-Humanoid يفوز بتحدّي بكين للروبوت المحارب في جولة ذاتية القيادة بالكامل",
+      "summary": "فاز روبوت Tien Kung 3.0 من X-Humanoid بتحدّي بكين للروبوت المحارب في جولة ذاتية القيادة بالكامل — بلا تشغيل عن بعد وبلا مسارات مُبرمجة مسبقاً — حيث اجتاز مساراً مليئاً بالعوائق من بدايته إلى نهايته معتمداً على حزمته الداخلية. الفوز لافت لأن معظم 'المسابقات' البشرية العلنية لا تزال تعتمد على مشغّلين بشريين لاتخاذ القرارات عالية المستوى؛ نتيجة Tien Kung تضع علامة فارقة على الاستقلالية غير المقيّدة للحركة والتلاعب معاً. وتأتي في الأسبوع نفسه الذي جرى فيه نصف ماراثون بكين، ممّا يُعزّز الرسالة بأن العتاد البشري الصيني يتحوّل من عروض تجريبية إلى موثوقية على مستوى المنافسات.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Google News",
+      "url": "https://au.finance.yahoo.com",
+      "tags": [
+        "X-Humanoid",
+        "Tien Kung",
+        "الاستقلالية",
+        "بكين"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-08",
+      "title": "Pudu Robotics تُدخل روبوت تنظيف ذكياً بالأصل إلى أوروبا عبر شراكة هولندية",
+      "summary": "عقدت Pudu Robotics شراكة مع Gom Schoonhouden — إحدى كبرى شركات التنظيف الاحترافية في هولندا — لأول نشر أوروبي لروبوت PUDU BG1 الكبير المخصّص للغسل والتجفيف المبني أصلاً على الذكاء الاصطناعي. تستخدم الآلة الإدراك الداخلي لرسم خرائط المرافق تلقائياً، وإعادة التخطيط حول العوائق، والعودة إلى محطة الشحن ذاتياً، مستهدفةً نقطة الألم المتمثّلة في نقص العمالة في قطاع التنظيف التجاري. وهي أحدث إشارة على أن صُنّاع روبوتات الخدمة الصينيين يتوسّعون في أوروبا عبر شركاء تشغيل محلّيين بدلاً من البيع المباشر.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Autonomous_cleaning_robot_by_FHI.jpg/960px-Autonomous_cleaning_robot_by_FHI.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/pudu-robotics-deploys-ai-powered-cleaning-robot-in-europe-through-partnership-with-gom/100775/",
+      "tags": [
+        "Pudu Robotics",
+        "روبوت خدمة",
+        "أوروبا",
+        "التنظيف"
+      ],
+      "timestamp": "2026-04-21T04:36:32Z"
+    },
+    {
+      "id": "art-20260421-09",
+      "title": "Nature: منظار داخلي روبوتي ناعم بانحناء محسّن وتنبّؤ قائم على الذكاء الاصطناعي",
+      "summary": "تصف ورقة جديدة في مجلة Nature منظاراً داخلياً روبوتياً ناعماً يجمع بين قسم انحناء عالي المرونة ونموذج ذكاء اصطناعي يتنبّأ بوضعية الطرف من إشارات المستشعرات الداخلية، بهدف تخفيف العبء المعرفي على الجرّاحين الذين يتنقّلون في التشريحات المتعرّجة. ويُبلّغ الفريق عن أنصاف انحناء أضيق بشكل ملحوظ مقارنة بالتصاميم التقليدية ذات الوصلات الصلبة مع الحفاظ على دقّة تقدير الموضع — وهو حاجز رئيسي أمام التدخّلات قليلة التوغّل في الجهاز الهضمي. ويُعدّ العمل واحداً من عدة أوراق حديثة حول الروبوتات الجراحية الناعمة تجمع بين العتاد المرن والاستقبال الحسّي المُتعلَّم.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/New_Da_Vinci_Xi.jpg/960px-New_Da_Vinci_Xi.jpg",
+      "source": "Google News",
+      "url": "https://www.nature.com",
+      "tags": [
+        "الروبوتات الناعمة",
+        "الطبية",
+        "المنظار الداخلي",
+        "أبحاث"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-10",
+      "title": "Cadence و Nvidia توسّعان شراكتهما في الهندسة المدفوعة بالذكاء الاصطناعي والتوائم الرقمية",
+      "summary": "تقوم Cadence و Nvidia بتوسيع شراكتهما الطويلة الأمد لدمج الذكاء الاصطناعي والمحاكاة القائمة على الفيزياء وتقنيات التوائم الرقمية بعمق أكبر في سير العمل الهندسي الذي يمتدّ من تصميم أشباه الموصلات إلى الروبوتات والبنية التحتية الفائقة للذكاء الاصطناعي. وتجمع الصفقة بين ملكية Cadence الفكرية في مجال EDA وتصميم الأنظمة وبين الحوسبة المُسرَّعة من Nvidia، مستهدفة المهندسين الذين يريدون حلقات محاكاة سريعة بما يكفي لتعمل داخل جلسة تصميم بدلاً من التشغيل ليلاً. ويُعزّز ذلك موقف Nvidia بأن كل مزوّد برامج صناعية سيُصبح في نهاية المطاف عميلاً للذكاء الاصطناعي.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Generative_Drone_Design.stl/960px-Generative_Drone_Design.stl.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/cadence-and-nvidia-expand-partnership-to-advance-ai-driven-engineering-and-digital-twin-technologies/100772/",
+      "tags": [
+        "Cadence",
+        "Nvidia",
+        "التوأم الرقمي",
+        "EDA"
+      ],
+      "timestamp": "2026-04-21T04:25:08Z"
+    },
+    {
+      "id": "art-20260421-11",
+      "title": "QNX تتكامل مع Nvidia IGX Thor لتسريع الذكاء الاصطناعي الحرِج للسلامة",
+      "summary": "يتكامل نظام التشغيل الفوري QNX من BlackBerry مع منصّة IGX Thor الجديدة من Nvidia، مستهدفاً بشكل مباشر عمليات نشر الذكاء الاصطناعي الحرِجة للسلامة في الأجهزة الطبية ووحدات التحكّم الصناعية والآلات ذاتية القيادة. ويُدخل الدمج استدلال الذكاء الاصطناعي عالي الحوسبة لـ Thor تحت مُجدوِل QNX الحتمي وقصّة شهادة السلامة الوظيفية — وهو اقتران طالما طلبه العملاء بينما تنتقل نماذج الذكاء الاصطناعي إلى اللوحات نفسها التي تُشغّل التحريك الفوري الصارم. إنه رهان على أن حزمة الذكاء الاصطناعي الطرفي يجب أن تكون سريعة وقابلة للاعتماد معاً، لا أحدهما فقط.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Google News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "QNX",
+        "Nvidia",
+        "حرِج للسلامة",
+        "الذكاء الاصطناعي الطرفي"
+      ],
+      "timestamp": "2026-04-20T16:00:00Z"
+    },
+    {
+      "id": "art-20260421-12",
+      "title": "NCS تتشارك مع AGIBOT و HZTC لنشر الروبوتات البشرية في منطقة آسيا والمحيط الهادئ",
+      "summary": "وقّعت شركة NCS ومقرها سنغافورة اتفاقيات مع AGIBOT و HZTC لطرح روبوتات بشرية في منطقة آسيا والمحيط الهادئ، بما يجمع بين حضور NCS في تكامل الأنظمة وعتاد AGIBOT وأدوات تشغيل الأساطيل من HZTC. ويستهدف التحالف عملاء اللوجستيات والضيافة والعقارات التجارية الذين يرغبون في قدرات بشرية دون عبء التكامل. ويُشير ذلك إلى أن نمو الروبوتات البشرية في منطقة آسيا والمحيط الهادئ يتدفّق بشكل متزايد عبر قنوات تكنولوجيا المعلومات المؤسّسية، لا عبر تجارب البيع المباشر للعملاء.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Google News",
+      "url": "https://www.thefastmode.com",
+      "tags": [
+        "NCS",
+        "AGIBOT",
+        "آسيا والمحيط الهادئ",
+        "روبوت بشري"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-13",
+      "title": "Milvus Robotics تُطلق رافعة شوكية AMR من طراز SEIT F1500S لمناولة المواد الثقيلة",
+      "summary": "أطلقت Milvus Robotics روبوت SEIT F1500S، وهو روبوت متنقّل مستقلّ من نوع الرافعة الشوكية بسعة 1500 كجم موجّه لمناولة المواد الثقيلة في المستودعات والتصنيع الخفيف. تتعامل الآلة مع أحمال من فئة المنصّات الأوروبية برفع متوازن وملاحة SLAM داخلية ومستشعرات معتمدة للسلامة للأرضيات المشتركة بين البشر والروبوتات. ويدفع ذلك الروبوتات المتنقلّة المستقلّة أكثر في أدوار كانت تقليدياً للرافعات الشوكية التي يقف عليها المشغّل — وهي الشريحة المحدّدة من اللوجستيات الداخلية التي كان سدّ نقص المشغّلين فيها الأصعب.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg/960px-Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Milvus Robotics",
+        "AMR",
+        "رافعة شوكية",
+        "اللوجستيات الداخلية"
+      ],
+      "timestamp": "2026-04-20T13:00:00Z"
+    },
+    {
+      "id": "art-20260421-14",
+      "title": "Tesla تُرسل Optimus إلى ماراثون بوسطن",
+      "summary": "قالت Tesla إنها ستضع روبوت Optimus البشري على مسار ماراثون بوسطن، في أحدث عرض من قائمة متنامية من عروض تحمّل الروبوتات المصمّمة لإثبات البطارية والتحكّم الحراري والحركة على تضاريس غير مُبرمجة. وتأتي المحاولة بعد يوم من تحطيم الروبوتات البشرية الصينية للرقم العالمي البشري لنصف الماراثون في بكين، مما يُحدّد ملامح سردية الولايات المتحدة مقابل الصين حول الذكاء الاصطناعي الفيزيائي. ولم تُوضّح Tesla الدور الذي سيؤدّيه Optimus على المسار — متسابق لكامل المسافة، أو مقطع محدّد السرعة، أو دعم ظلّي — لكن الحدث ستُراقَب فيه أنماط الفشل عن كثب.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Google News",
+      "url": "https://www.teslarati.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "روبوت بشري",
+        "ماراثون بوسطن"
+      ],
+      "timestamp": "2026-04-20T17:00:00Z"
+    },
+    {
+      "id": "art-20260421-15",
+      "title": "Flexiv تستعرض الروبوتات التكيّفية في Hannover Messe 2026",
+      "summary": "استخدمت Flexiv معرض Hannover Messe لاستعراض أحدث أنظمة الروبوتات التكيّفية لديها، معتمدة على أذرع مضبوطة بالقوة تتعامل مع المهام الغنية بالتلامس — التلميع والإدخال والتشطيب — دون الحاجة إلى التثبيتات وأوقات التعليم التي تتطلّبها الأذرع التقليدية. وجمعت العروض الحية بين التحكّم بقوة العزم ونماذج المهارات المُتعلَّمة، بحيث يمكن للذراع ذاتها التبديل بين متغيّرات القطع أثناء التشغيل. وبالنسبة للمصنّعين الأوروبيين المنتقلين إلى عمل بتنوّع أكبر وحجم أقلّ، فإن العرض هو تقليل في التحوّلات وزيادة في ساعات الروبوت في مهام متغيّرة حقاً.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Google News",
+      "url": "https://www.aerospacemanufacturinganddesign.com",
+      "tags": [
+        "Flexiv",
+        "التحكم بالقوة",
+        "Hannover Messe",
+        "روبوت تعاوني"
+      ],
+      "timestamp": "2026-04-20T11:00:00Z"
+    },
+    {
+      "id": "art-20260421-16",
+      "title": "Maja Matarić من USC: الأستاذة التي أسّست الروبوتات المساعِدة اجتماعياً",
+      "summary": "تُقدّم مجلة IEEE Spectrum ملفّاً عن Maja Matarić، أستاذة جامعة USC التي ساهمت في ابتكار مجال الروبوتات المساعِدة اجتماعياً — روبوتات تقدّم علاجاً ورعاية مخصّصين من خلال التفاعل الاجتماعي بدلاً من التلاعب الفيزيائي. ويتتبّع المقال مسيرتها من بناء تعريفات المجال الأولى عام 2005 إلى نشر روبوتات في تأهيل السكتة الدماغية وعلاج التوحّد ورعاية كبار السن. وهو ثقل موازن مفيد لدورة استعراض العتاد، ويُذكّر القرّاء بأن بعض أعلى أشكال الروبوتات قيمةً ليست الأسرع ولا الأقوى.",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-blonde-woman-poses-with-a-humanoid-robotic-torso-wearing-a-usc-sweatshirt.jpg?id=60890895&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/socially-assistive-robotics",
+      "tags": [
+        "USC",
+        "الروبوتات المساعِدة اجتماعياً",
+        "الرعاية الصحية",
+        "ملف شخصي"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-17",
+      "title": "الفلبين تُحقّق أول عملية جراحية روبوتية محلية لعلاج المياه البيضاء",
+      "summary": "أكمل جرّاحون في الفلبين أول عملية جراحية روبوتية محلّية لعلاج المياه البيضاء في البلاد، مستخدمين منصّة بمساعدة الروبوت لتوجيه تفتيت العدسة واستبدالها بدقّة تحت المليمتر. ويفتح هذا الإنجاز طريقاً لتوسيع تغطية طب العيون إلى ما بعد المستشفيات التعليمية في المدن الكبرى، حيث كانت قوائم الانتظار لعمليات المياه البيضاء طويلة تاريخياً. ويُردّد ذلك دفعة أوسع في جنوب شرق آسيا لتوطين الجراحة الروبوتية بدلاً من الاعتماد على إحالات السياحة العلاجية.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg/960px-WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg",
+      "source": "Google News",
+      "url": "https://www.insider.ph",
+      "tags": [
+        "الروبوتات الطبية",
+        "الجراحة",
+        "الفلبين",
+        "الرعاية الصحية"
+      ],
+      "timestamp": "2026-04-20T08:00:00Z"
+    },
+    {
+      "id": "art-20260421-18",
+      "title": "Samsung تُشير إلى تجربة عملاء جديدة للتجزئة مبنية على التقنية ثلاثية الأبعاد والصور الرمزية والروبوتات البشرية",
+      "summary": "أظهر عرض Samsung الأخير لتجربة العملاء بوضوح ما كان يُلمَّح إليه منذ عام: إعادة بناء حزمة تجربة التجزئة حول واجهات مكانية ثلاثية الأبعاد وصور رمزية تُمثّل العملاء وروبوتات بشرية كموظّفي واجهة. ووضعت الشركة الروبوتات البشرية كمكمّلة — لا كبديلة — للموظّفين البشريين، مع التركيز على إرشاد الطريق والبحث عن المخزون والتغطية خارج ساعات العمل. وبالنسبة لصناعة روبوتات الخدمة، فهي إحدى أوضح الإشارات حتى الآن على أن الروبوتات البشرية الموجّهة للمستهلك على وشك الخضوع لتجارب جادّة في قطاع التجزئة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg/960px-Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg",
+      "source": "Google News",
+      "url": "https://www.cxtoday.com",
+      "tags": [
+        "Samsung",
+        "التجزئة",
+        "روبوت بشري",
+        "تجربة العميل"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-19",
+      "title": "Coco Robotics و BlindSquare تتشاركان لجعل التوصيل على الأرصفة في متناول الجميع",
+      "summary": "عقدت Coco Robotics شراكة مع تطبيق الملاحة المساعِدة BlindSquare لبثّ مواقع روبوتات التوصيل على الأرصفة داخل البيئة الصوتية لـ BlindSquare، بحيث يتمكّن المشاة المكفوفون وضعاف البصر من اكتشاف الروبوتات وتفاديها في الوقت الفعلي. وتعالج الخطوة فجوة متنامية في إمكانية الوصول مع توسّع أساطيل التوصيل على الأرصفة إلى مزيد من المدن، حيث أثارت الروبوتات الصامتة المنخفضة شكاوى من مناصري حقوق ذوي الإعاقة. وهو مثال بارز على معاملة مُشغّل روبوتات لإمكانية الوصول باعتبارها جزءاً من المنتج لا فكرة لاحقة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Coco Robotics",
+        "إمكانية الوصول",
+        "التوصيل على الأرصفة",
+        "BlindSquare"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-20",
+      "title": "الرئيس التنفيذي لـ Plus One Robotics: رأس المال يسبق القدرة الفعلية للروبوتات",
+      "summary": "أبدى Erik Nieves الرئيس التنفيذي لشركة Plus One Robotics رأياً تحذيرياً بشأن دورة التمويل الحالية في مجال الروبوتات، مُشيراً إلى أن رأس المال يتدفّق إلى القطاع بوتيرة أسرع من نضج التكنولوجيا الفعلية. ونقطته: عمليات النشر في العالم الواقعي لا تزال تصمد أو تسقط بناءً على الموثوقية ووقت التشغيل وأهداف معدّل الإنتاج — لا على فيديوهات العروض أو إعلانات النماذج الأساسية — وأن الفجوة بين الوعد والنظام القابل للنشر بدأت تظهر في التقارير اللاحقة للعملاء. إنه تعليق واقعي مضادّ لدورة الهوس بالروبوتات البشرية التي تملأ عناوين هذا الأسبوع.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1sr51rr/ceo_on_capital_pouring_into_robotics_faster_than/",
+      "tags": [
+        "تحليل قطاعي",
+        "Plus One Robotics",
+        "استثمار",
+        "تعليق"
+      ],
+      "timestamp": "2026-04-20T20:00:00Z"
+    }
+  ]
+}

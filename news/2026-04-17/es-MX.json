@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-17",
+  "featured": {
+    "id": "featured-20260417",
+    "title": "Boston Dynamics y Google DeepMind le enseñan a Spot a razonar con Gemini Robotics",
+    "summary": "Boston Dynamics integró el modelo fundacional Gemini Robotics de Google DeepMind en su plataforma de inspección Spot, lo que le permite al cuadrúpedo interpretar órdenes en lenguaje natural y planificar tareas de varios pasos de manera autónoma. El resultado es un robot capaz de razonar en entornos desconocidos —por ejemplo, decidiendo cómo traer un objeto o cómo recuperarse tras un intento fallido— en lugar de ejecutar rutinas rígidas. La integración marca un paso importante hacia una IA corporal de propósito general para inspección industrial, logística y servicios en campo, y anticipa cómo los modelos fundacionales pronto llegarán al hardware comercial de robots.",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+    "tags": ["Boston Dynamics", "Google DeepMind", "Modelos fundacionales", "Spot"],
+    "timestamp": "2026-04-14T19:45:01Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260417-01",
+      "title": "Physical Intelligence presenta π0.7: un cerebro robótico que resuelve tareas que nunca le enseñaron",
+      "summary": "La startup de robótica Physical Intelligence lanzó π0.7, un modelo fundacional de nueva generación que puede dirigir robots para completar tareas para las que el sistema nunca fue entrenado explícitamente. La compañía lo presenta como un paso temprano pero significativo hacia un cerebro robótico de propósito general, con videos de demostración que muestran brazos y manipuladores móviles adaptándose a cocinas, escritorios y escenarios de ensamble desconocidos. El lanzamiento reaviva la carrera entre PI, Google DeepMind y Nvidia por definir la capa operativa de la IA física.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-12.22.07-PM.png?resize=1200,589",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "tags": ["Physical Intelligence", "Modelos fundacionales", "Robots generalistas"],
+      "timestamp": "2026-04-16T20:26:44Z"
+    },
+    {
+      "id": "art-20260417-02",
+      "title": "Siemens, Nvidia y Humanoid llevan la IA física a la operación de fábricas",
+      "summary": "Siemens puso al robot Alpha con ruedas HMND 01 de Humanoid, construido sobre el stack de IA física de Nvidia, en pruebas en vivo en una de sus plantas electrónicas: es la primera vez que las tres empresas demuestran en conjunto un humanoide ejecutando logística industrial real. El robot movió partes de forma autónoma entre estaciones de trabajo, manejó transferencias de tarimas y adaptó sus rutas alrededor de los trabajadores humanos. Siemens llamó al piloto un «hito histórico» en la transformación de la IA física de videos de demostración a la realidad manufacturera.",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/siemens-humanoid-nvidia-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/siemens-nvidia-and-humanoid-bring-physical-ai-humanoid-robots-into-factory-operations/100681/",
+      "tags": ["Siemens", "Nvidia", "Humanoid", "Automatización industrial"],
+      "timestamp": "2026-04-16T12:45:12Z"
+    },
+    {
+      "id": "art-20260417-03",
+      "title": "Path Robotics lanza Rove: un soldador cuadrúpedo impulsado por IA física",
+      "summary": "Path Robotics presentó Rove, un sistema de soldadura móvil que combina su modelo de IA física Obsidian con una plataforma cuadrúpeda: en la práctica, un soplete de soldar montado sobre un perro robótico que camina por la obra. La compañía, conocida por sus celdas de soldadura robotizadas autónomas, asegura que Rove les permite a los fabricantes desplegar capacidad de soldadura en espacios demasiado estrechos o irregulares para celdas fijas. El lanzamiento es uno de los primeros productos comerciales que combinan movilidad con patas y una habilidad manufacturera especializada.",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/path-robotics-Rove-Weld-v2.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/path-robotics-unveils-mobile-robotic-welding-system-combining-ai-and-quadruped-mobility/100600/",
+      "tags": ["Path Robotics", "Soldadura", "Cuadrúpedo", "Manufactura"],
+      "timestamp": "2026-04-16T14:30:43Z"
+    },
+    {
+      "id": "art-20260417-04",
+      "title": "Unitree empieza a enviar su humanoide de 6,800 dólares, el más barato hasta ahora",
+      "summary": "La firma china de robótica Unitree inició las ventas al público de su humanoide de menor costo, con un precio desde 6,800 dólares: un cambio en accesibilidad que deja a plataformas rivales de Boston Dynamics, Figure y Apptronik un orden de magnitud por encima. El modelo está dirigido a investigadores, desarrolladores y clientes del sector educativo, y Unitree también anunció envío gratuito a Estados Unidos. El movimiento intensifica la presión de precios sobre Tesla Optimus y otros programas humanoides enfocados al mercado cercano al consumidor.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": ["Unitree", "Humanoide", "Precios", "China"],
+      "timestamp": "2026-04-17T03:13:28Z"
+    },
+    {
+      "id": "art-20260417-05",
+      "title": "Cómo aprenden los robots: una breve historia contemporánea",
+      "summary": "MIT Technology Review rastrea la transición de la investigación robótica, de brazos programados a mano hacia políticas aprendidas a gran escala y modelos fundacionales. El artículo argumenta que los últimos cinco años han acortado silenciosamente la distancia entre los primeros sueños de robots de propósito general y los brazos industriales acotados que dominaron el siglo XX, a medida que equipos de DeepMind, Physical Intelligence y laboratorios universitarios convergen en recetas de entrenamiento compartidas. Es un mapa útil de cómo el campo realmente llegó al momento actual de la IA física.",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/robot.jpg?resize=1200,600",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "tags": ["Modelos fundacionales", "Historia", "Aprendizaje robótico"],
+      "timestamp": "2026-04-17T10:00:00Z"
+    },
+    {
+      "id": "art-20260417-06",
+      "title": "Digit aprende a hacer peso muerto: Agility Robotics muestra a su humanoide levantando cargas pesadas",
+      "summary": "El más reciente Video Friday de IEEE Spectrum destaca a Digit, de Agility Robotics, realizando un peso muerto con una barra cargada: una demostración de que el control de equilibrio y fuerza de cuerpo completo de este humanoide bípedo ya puede manejar cargas pesadas y asimétricas. Otros clips cubren investigaciones recientes de locomoción desde laboratorios académicos, subrayando que la manipulación dinámica de cuerpo completo está pasando rápidamente de la simulación al hardware. Es otro dato más de que los humanoides con patas están cerrando la brecha con los brazos industriales fijos en fuerza bruta.",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=65564472&width=1200&height=600&coordinates=0%2C110%2C0%2C110",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robot-learning",
+      "tags": ["Agility Robotics", "Digit", "Humanoide", "Locomoción"],
+      "timestamp": "2026-04-17T15:00:01Z"
+    },
+    {
+      "id": "art-20260417-07",
+      "title": "Jabil detalla cómo planea escalar humanoides del prototipo a la producción",
+      "summary": "La maquiladora por contrato Jabil expuso en una nueva entrevista su hoja de ruta para producir en masa robots humanoides para clientes como Apptronik, cubriendo el desarrollo de cadena de suministro, el abastecimiento de actuadores y la transición de prototipos ensamblados a mano a la producción en línea. La compañía enmarca a los humanoides como la próxima gran categoría en la que la calidad de manufactura y las curvas de costos decidirán a los ganadores, tal como ocurrió en smartphones y autos eléctricos. Los comentarios ofrecen una mirada poco común al lado industrial de la ola humanoide.",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/jabil-apptronik-collaboration-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/interview-jabil-on-scaling-humanoid-robots-from-prototype-to-production/100706/",
+      "tags": ["Jabil", "Apptronik", "Humanoide", "Manufactura"],
+      "timestamp": "2026-04-16T16:23:33Z"
+    },
+    {
+      "id": "art-20260417-08",
+      "title": "Skild AI adquiere el negocio de automatización robótica de Zebra Technologies",
+      "summary": "La startup robótica con modelos fundacionales Skild AI adquirió el negocio de automatización robótica de Zebra Technologies, lo que le da a la joven compañía acceso a una base consolidada de clientes de almacenamiento y logística, experiencia de despliegue en campo y hardware ya operativo. El acuerdo integra verticalmente las ambiciones de cerebro robótico generalista de Skild con un canal de mercado práctico en fulfillment y logística empresarial, uno de los pocos sectores robóticos con disposición probada a pagar. No se divulgaron por completo los términos.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Business Wire",
+      "url": "https://www.businesswire.com",
+      "tags": ["Skild AI", "Zebra Technologies", "Robótica de almacén", "Fusiones y adquisiciones"],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260417-09",
+      "title": "Agibot planea multiplicar su producción de humanoides en China",
+      "summary": "La fabricante de humanoides con sede en Shanghái Agibot le dijo a Nikkei Asia que planea multiplicar varias veces su capacidad de producción, pues la demanda de clientes industriales y centros de investigación supera su producción actual. La compañía ya tiene unidades humanoides G2 en plantas de China y avanza hacia una economía de producción en masa parecida a la que está reconfigurando las cadenas de suministro de vehículos eléctricos chinos. El plan refuerza lo agresivamente que los fabricantes humanoides chinos escalan frente a rivales estadounidenses que aún producen en series cortas.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com",
+      "tags": ["Agibot", "Humanoide", "China", "Producción en masa"],
+      "timestamp": "2026-04-17T08:49:00Z"
+    },
+    {
+      "id": "art-20260417-10",
+      "title": "Los humanoides G2 de Agibot, desplegados en una fábrica china",
+      "summary": "Interesting Engineering reporta que los humanoides G2 de Agibot —equipados con controladores de IA corporal— ya están ejecutando tareas reales de línea de producción en una planta de manufactura china, incluyendo el manejo de partes e inspección. El despliegue es uno de los primeros casos verificables de humanoides fabricados en China haciendo trabajo industrial sostenido, y no demostraciones con guion. Complementa los reportes de Nikkei sobre escalado y refuerza la narrativa de humanoides chinos adelantándose en despliegue comercial.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Agibot", "G2", "Automatización industrial", "IA corporal"],
+      "timestamp": "2026-04-15T11:06:00Z"
+    },
+    {
+      "id": "art-20260417-11",
+      "title": "Tesla evalúa producir humanoides en su Gigafactoría de Shanghái",
+      "summary": "Tesla está evaluando si fabricar sus humanoides Optimus en la Gigafactoría de Shanghái, según TechNode, ya que la empresa busca aprovechar las cadenas de suministro chinas de actuadores, reductores e imanes que ya alimentan a los fabricantes humanoides locales. Una línea en Shanghái ubicaría a Optimus junto a las mismas redes de componentes que impulsan a Unitree, Agibot y Fourier, mientras esquiva las estructuras de costos estadounidenses. Cualquier decisión final pondrá a prueba hasta qué punto Tesla está dispuesta a desvincular la manufactura humanoide de su huella en EE. UU.",
+      "image": "https://technode.com/wp-content/uploads/2022/07/131403118_m的副本-1-e1657706210717.jpg",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/04/17/tesla-considers-humanoid-robot-production-at-shanghai-gigafactory/",
+      "tags": ["Tesla", "Optimus", "Shanghái", "Manufactura"],
+      "timestamp": "2026-04-17T02:13:37Z"
+    },
+    {
+      "id": "art-20260417-12",
+      "title": "El humanoide de Siemens completa pruebas logísticas en una planta productiva",
+      "summary": "Un reporte adicional de Engineering.com confirma que Siemens completó un conjunto estructurado de pruebas logísticas con su humanoide recién desplegado, que cubre traslado de tarimas, manejo de contenedores y celdas mixtas de trabajo humano-robot coordinadas. El éxito de las pruebas abre camino a un despliegue más amplio dentro de la planta y orientará cómo Siemens venderá paquetes de automatización «listos para humanoides» a otros fabricantes. Junto con la demostración sobre el stack de Nvidia, posiciona a Siemens como uno de los anclajes industriales más creíbles para la IA física.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/humanoid-robot-completes-logistics-trials-at-siemens-plant/",
+      "tags": ["Siemens", "Humanoide", "Logística", "Industrial"],
+      "timestamp": "2026-04-17T13:24:52Z"
+    },
+    {
+      "id": "art-20260417-13",
+      "title": "Accenture invierte en General Robotics para escalar despliegues de IA física",
+      "summary": "La consultora Accenture tomó una participación estratégica en General Robotics, un movimiento diseñado para acelerar los despliegues empresariales de humanoides y sistemas de IA física entre los clientes industriales de Accenture. El acuerdo combina el hardware y software de General Robotics con el alcance de integración de sistemas de Accenture, un patrón que replica lo que Accenture hizo en olas previas de cloud e IA generativa. Los analistas lo leen como una señal de que los compradores del Fortune 500 empiezan a tratar la automatización humanoide como una partida presupuestal real.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": ["Accenture", "General Robotics", "Inversión", "Empresas"],
+      "timestamp": "2026-04-15T00:00:00Z"
+    },
+    {
+      "id": "art-20260417-14",
+      "title": "Pekín alberga un medio maratón humanoide con Alibaba, Honor y equipos globales",
+      "summary": "Pekín celebra esta semana un medio maratón de humanoides con equipos de Alibaba, Honor, Unitree y otros participantes globales, usando la carrera como prueba de estrés para los controladores de IA corporal y los sistemas de batería a lo largo de los 21 km completos. Los organizadores dicen que es el campo más grande jamás reunido para locomoción humanoide continua. Más allá del espectáculo, el evento produce datos comparativos poco comunes sobre resistencia, modos de falla y comportamiento térmico de los humanoides actuales de grado productivo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260417VL216/humanoid-robot-robotics-data-revenue-2026.html",
+      "tags": ["Humanoide", "Maratón", "Pekín", "Alibaba"],
+      "timestamp": "2026-04-15T23:39:06Z"
+    },
+    {
+      "id": "art-20260417-15",
+      "title": "Los humanoides chinos corren a velocidades cercanas a Usain Bolt",
+      "summary": "Oddity Central reporta que varios humanoides chinos han sido filmados corriendo a velocidades cercanas a las de velocistas humanos de élite, con una plataforma alcanzando brevemente ritmos comparables al ritmo de carrera de Usain Bolt. Los clips evidencian cuánto ha avanzado el control dinámico de piernas, en gran medida gracias a políticas de aprendizaje por refuerzo entrenadas en simulación. Aunque la resistencia y la estabilidad a esas velocidades siguen siendo preguntas abiertas, las imágenes redibujan las expectativas sobre lo que los robots bípedos pueden hacer físicamente.",
+      "image": "https://www.odditycentral.com/wp-content/uploads/2026/04/fastest-humanoid-robot2-1.webp",
+      "source": "Oddity Central",
+      "url": "https://www.odditycentral.com/news/chinas-humanoid-robots-are-now-as-fast-as-usain-bolt.html",
+      "tags": ["Humanoide", "Velocidad", "Locomoción", "China"],
+      "timestamp": "2026-04-17T12:14:04Z"
+    },
+    {
+      "id": "art-20260417-16",
+      "title": "Despliegan un humanoide para ahuyentar jabalíes salvajes de las calles de Varsovia",
+      "summary": "Las autoridades polacas probaron un robot humanoide para ayudar a alejar jabalíes salvajes del centro de Varsovia, donde los animales han invadido cada vez más calles y parques. El robot, una plataforma humanoide comercial equipada con disuasores de audio y software de movilidad, recorrió el perímetro de los distritos afectados para empujar a los jabalíes hacia corredores verdes sin lastimarlos. Es un ejemplo inusual —pero revelador— de humanoides empleados en funciones municipales y de gestión de fauna fuera de la fábrica.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Financial Times",
+      "url": "https://www.ft.com",
+      "tags": ["Humanoide", "Fauna", "Varsovia", "Robótica urbana"],
+      "timestamp": "2026-04-17T04:00:32Z"
+    },
+    {
+      "id": "art-20260417-17",
+      "title": "Arabia Saudita acelera en la carrera global por escalar la robótica humanoide",
+      "summary": "Arab News reporta que Arabia Saudita está intensificando la inversión estatal en robótica humanoide como parte de su estrategia de diversificación industrial Vision 2030, con nuevas alianzas, centros de investigación y despliegues piloto previstos en logística y hostelería. El reino se posiciona como un hub de IA física en Medio Oriente, de forma similar a como buscó capacidad de centros de datos al inicio de la década. Los anuncios afinan la carrera global a tres bandas entre EE. UU., China y el capital del Golfo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com",
+      "tags": ["Arabia Saudita", "Humanoide", "Vision 2030", "Política"],
+      "timestamp": "2026-04-16T20:33:48Z"
+    },
+    {
+      "id": "art-20260417-18",
+      "title": "PIA Automation crea una división de IA corporal y robótica humanoide",
+      "summary": "La empresa de automatización manufacturera PIA Automation lanzó una división dedicada a IA corporal y robótica humanoide, lo que indica que los integradores de automatización consolidados ya no ven a los humanoides como un tema de investigación lejano. La nueva unidad agrupará la experiencia de PIA en construcción de líneas con hardware humanoide de socios externos y stacks de software adaptados para clientes aeroespaciales, automotrices y de electrónica de consumo. Es otra señal de que la adopción humanoide está entrando en los canales industriales tradicionales.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "citybiz",
+      "url": "https://www.citybiz.co",
+      "tags": ["PIA Automation", "IA corporal", "Humanoide", "Industrial"],
+      "timestamp": "2026-04-14T22:25:32Z"
+    },
+    {
+      "id": "art-20260417-19",
+      "title": "Violinistas tocan duetos mientras usan exoesqueletos robóticos",
+      "summary": "Un nuevo estudio cubierto por The Debrief puso a violinistas profesionales a tocar duetos mientras usaban exoesqueletos robóticos ligeros, revelando hallazgos sorprendentes sobre cómo los intérpretes coordinan micromovimientos y comparten señales de tiempo. Los investigadores usaron los sensores del exoesqueleto para cuantificar el acoplamiento entre compañeros; esencialmente, midiendo el «groove» entre músicos. Más allá del factor curiosidad, el trabajo apunta a usos cercanos para exoesqueletos asistivos en fisioterapia, educación musical y entrenamiento de habilidades motoras.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org",
+      "tags": ["Exoesqueleto", "Robótica asistiva", "Investigación", "Música"],
+      "timestamp": "2026-04-17T12:33:27Z"
+    },
+    {
+      "id": "art-20260417-20",
+      "title": "Un mapeo multirresolución mejora la eficiencia de exploración de robots autónomos",
+      "summary": "Investigadores publicaron un nuevo enfoque de mapeo multirresolución que le permite a los robots móviles autónomos explorar entornos desconocidos mucho más rápido que con mapas de resolución uniforme. La clave: guardar detalles gruesos en zonas abiertas y detalles finos solo cerca de obstáculos o puntos de decisión, manteniendo bajos los costos de memoria sin sacrificar la calidad de navegación. Los resultados muestran ganancias significativas de eficiencia en cargas de trabajo de búsqueda y rescate, almacén y rovers planetarios, donde cada minuto de exploración cuenta.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": ["SLAM", "Navegación autónoma", "Investigación", "Mapeo"],
+      "timestamp": "2026-04-17T00:11:00Z"
+    }
+  ]
+}

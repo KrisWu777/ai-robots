@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-22",
+  "featured": {
+    "id": "featured-20260422",
+    "title": "RobCo تكشف عن الروبوت البشري 'Autonomous Alfie' في معرض Hannover Messe",
+    "summary": "أطلقت شركة الروبوتات الصناعية الألمانية RobCo روبوتها البشري 'Autonomous Alfie'، وهو روبوت مصمم خصيصاً لأرضيات التصنيع متوسطة الحجم بدلاً من العروض الاستعراضية البراقة. تقدم الشركة Alfie كمنصة ميسورة التكلفة تندمج في خطوط الإنتاج القائمة جنباً إلى جنب مع تشكيلة الأذرع النمطية لـ RobCo، متعاملاً مع مهام مثل تشغيل الآلات وفحص الجودة. يشير الكشف عنه في Hannover Messe 2026 إلى أن موردي الروبوتات الصناعية الأوروبيين يتسابقون للرد على موجة الروبوتات البشرية الصينية والأمريكية التي تستهدف أرضيات المصانع.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/20/robco-unveils-autonomous-alfie-humanoid-robot-for-industrial-automation-at-hannover-messe/100762/",
+    "tags": ["روبوت بشري", "الأتمتة الصناعية", "Hannover Messe", "RobCo"],
+    "timestamp": "2026-04-20T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260422-01",
+      "title": "Skild AI تستحوذ على قطاع أتمتة الروبوتات من Zebra Technologies",
+      "summary": "استحوذت شركة Skild AI ومقرها بيتسبرغ، المعروفة بنموذجها الأساسي للروبوتات متعددة الأغراض، على وحدة أتمتة الروبوتات التابعة لـ Zebra Technologies لتسريع انتشارها في المستودعات. تمنح الصفقة Skild وصولاً إلى برنامج إدارة الأساطيل من Zebra وقاعدة مثبتة من الروبوتات المتنقلة المستقلة في مجال اللوجستيات. يرى مراقبو الصناعة في ذلك إشارة إلى أن شركات الروبوتات التي تعتمد الذكاء الاصطناعي أولاً تشتري طريقها إلى قنوات الأجهزة التي تحتاجها للتوسع تجارياً.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/skild-ai-acquires-zebra-technologies-robotics-automation-business/",
+      "tags": ["Skild AI", "Zebra", "استحواذ", "مستودعات"],
+      "timestamp": "2026-04-21T10:00:00Z"
+    },
+    {
+      "id": "art-20260422-02",
+      "title": "Neura Robotics و AWS تتشاركان لتوسيع نطاق الذكاء الاصطناعي المادي",
+      "summary": "وقّعت شركة Neura Robotics الناشئة الألمانية المتخصصة في الروبوتات البشرية اتفاقية تعاون استراتيجي مع Amazon Web Services لتشغيل أسطولها من الروبوتات المعرفية على البنية التحتية السحابية لـ AWS. تشمل الصفقة تدريب النماذج الأساسية لـ Neura على شرائح AWS وبث البيانات التشغيلية من الروبوتات المنتشرة للتعلم المستمر. تعد هذه نقطة ارتكاز تجارية بارزة لـ Neura في ظل تصعيد إنتاجها لروبوت 4NE-1 البشري قبيل عمليات النشر الموعودة في المصانع في وقت لاحق من عام 2026.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/neura-robotics-and-amazon-web-services-enter-strategic-collaboration-to-accelerate-physical-ai-at-scale/",
+      "tags": ["Neura Robotics", "AWS", "الذكاء الاصطناعي المادي", "الحوسبة السحابية"],
+      "timestamp": "2026-04-21T11:00:00Z"
+    },
+    {
+      "id": "art-20260422-03",
+      "title": "Agibot تكشف عن الجيل التالي من روبوتات الذكاء الاصطناعي المجسد للنشر في العالم الحقيقي",
+      "summary": "كشفت شركة Agibot الصينية المصنعة للروبوتات البشرية عن جيل جديد من روبوتات الذكاء الاصطناعي المجسد والنماذج الأساسية الموجهة للنشر الصناعي والتجاري على نطاق واسع. تقول الشركة إن منصتها الأحدث تتجاوز العروض المخبرية، مع أجهزة وبرمجيات مضبوطة لنوبات المصانع على مدار الساعة وأعمال اللوجستيات. يؤكد هذا الإطلاق على مدى السرعة التي تنتقل بها شركات الروبوتات البشرية الصينية من العروض التجريبية الأولية إلى عقود الإنتاج الفعلية.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-for-real-world-deployment/",
+      "tags": ["Agibot", "الذكاء الاصطناعي المجسد", "روبوت بشري", "الصين"],
+      "timestamp": "2026-04-21T09:30:00Z"
+    },
+    {
+      "id": "art-20260422-04",
+      "title": "مصانع MIT الروبوتية الصغيرة تستهدف أزمة نقص المساكن",
+      "summary": "ابتكر باحثون من MIT مصنعاً روبوتياً مصغراً قادراً على إنتاج مكونات منزلية نمطية قابلة للتخصيص ضمن مساحة بحجم حاوية شحن. يستخدم النظام ذراعاً روبوتية متنقلة مع الرؤية الحاسوبية لقطع وتجميع وتشطيب الألواح الهيكلية من الأخشاب القياسية، بهدف نشر المصانع مباشرة بالقرب من مواقع البناء. إذا جرى التوسع في هذا النهج، فقد يُقلّص بشكل كبير تكلفة المنازل الجاهزة وانبعاثات نقلها.",
+      "image": "https://news.mit.edu/sites/default/files/images/202604/mit-system-design.jpg",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/tackling-housing-shortage-robotic-microfactories-0421",
+      "tags": ["MIT", "البناء", "المصنع المصغر", "بحث علمي"],
+      "timestamp": "2026-04-21T14:00:00Z"
+    },
+    {
+      "id": "art-20260422-05",
+      "title": "قابضة Cornell الناعمة تلتقط الفاكهة الناضجة دون إتلافها",
+      "summary": "طور باحثون في جامعة Cornell قابضة روبوتية ناعمة مزودة بمستشعرات ألياف بصرية قابلة للتمدد قادرة على تقييم نضج الثمار باللمس، تماماً كاليد البشرية. تمكن الجهاز من التعرف على الفراولة والطماطم الناضجة بدقة تزيد على 90% مع التعامل معها بلطف يكفي لتجنب أي ضرر. يمثل هذا العمل خطوة مهمة نحو روبوتات زراعية قادرة أخيراً على منافسة قاطفي الفاكهة من البشر في المحاصيل الحساسة.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/handle-with-care-soft-1.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html",
+      "tags": ["الروبوتات الناعمة", "الزراعة", "Cornell", "قابضات"],
+      "timestamp": "2026-04-21T13:00:00Z"
+    },
+    {
+      "id": "art-20260422-06",
+      "title": "BMW تنشر روبوتات بشرية في مصنع السيارات الكهربائية لخفض التكاليف",
+      "summary": "توسع BMW استخدامها للروبوتات البشرية في خطوط إنتاج السيارات الكهربائية لخفض تكاليف التصنيع مع منافسة الشركة المصنعة للسيارات للسيارات الكهربائية الصينية الأرخص. يجري اختبار الروبوتات في مهام التجميع المتكررة التي كانت تتطلب سابقاً معدات مخصصة أو مشغلين بشريين. تأتي هذه الخطوة في أعقاب تجارب مماثلة أجرتها Mercedes-Benz وتشير إلى أن الروبوتات البشرية تتخرج من مقاطع الفيديو الاستعراضية إلى أدوات حقيقية لخفض التكاليف في صناعة السيارات الألمانية.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Autoblog",
+      "url": "https://www.autoblog.com",
+      "tags": ["BMW", "روبوت بشري", "سيارات كهربائية", "تصنيع"],
+      "timestamp": "2026-04-21T15:00:00Z"
+    },
+    {
+      "id": "art-20260422-07",
+      "title": "Schaeffler و VinDynamics يتعاونان في إنتاج الروبوتات البشرية",
+      "summary": "أعلنت عملاقة المكونات الألمانية Schaeffler والشركة الناشئة المدعومة فيتنامياً VinDynamics عن مبادرة مشتركة لإنتاج روبوتات بشرية بكميات كبيرة للعملاء الصناعيين في جنوب شرق آسيا. تجمع الشراكة بين خبرة Schaeffler في المحامل والمشغلات الدقيقة وبين منظومة التكامل والبرمجيات التي تقدمها VinDynamics. تُعد هذه واحدة من أولى مشاريع تصنيع الروبوتات البشرية الجادة التي تتخذ من فيتنام مقراً لها، وهي دولة تسعى بقوة إلى استقطاب سلاسل توريد الروبوتات.",
+      "image": "https://vir.com.vn/stores/news_dataimages/2026/042026/22/08/in_social/schaeffler-and-vindynamics-press-image20260422083623.jpg?randTime=1776830703",
+      "source": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/schaeffler-and-vindynamics-join-forces-for-humanoid-robot-production-151194.html",
+      "tags": ["Schaeffler", "VinDynamics", "روبوت بشري", "فيتنام"],
+      "timestamp": "2026-04-21T16:00:00Z"
+    },
+    {
+      "id": "art-20260422-08",
+      "title": "Hyundai و DeepX تبنيان منصة ذكاء اصطناعي مشتركة للروبوتات",
+      "summary": "تتشارك مجموعة Hyundai Motor مع مصنع رقائق الذكاء الاصطناعي DeepX لبناء منصة برمجية مشتركة للذكاء الاصطناعي لشركاتها التابعة في مجال الروبوتات، بما في ذلك Boston Dynamics. ستعمل المنصة على مسرعات الذكاء الاصطناعي الطرفية من DeepX وتهدف إلى توحيد أنظمة الإدراك والتحكم عبر خطوط الروبوتات البشرية والرباعية واللوجستية لدى Hyundai. تهدف الخطوة إلى منع كل وحدة أعمال من إعادة اختراع العجلة وتعزيز سلسلة توريد رقائق الذكاء الاصطناعي إلى الروبوتات في كوريا.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "AI Business",
+      "url": "https://aibusiness.com/robotics/hyundai-deepx-partner-develop-ai-platform-robotics",
+      "tags": ["Hyundai", "DeepX", "Boston Dynamics", "الذكاء الاصطناعي الطرفي"],
+      "timestamp": "2026-04-21T08:00:00Z"
+    },
+    {
+      "id": "art-20260422-09",
+      "title": "روبوت Tesla Optimus يستقبل العدّائين في Boston Marathon",
+      "summary": "نشرت Tesla روبوتها البشري Optimus في Boston Marathon لاستقبال العدائين والتقاط الصور معهم وتوزيع أكواب الماء قرب خط النهاية. كانت هذه الظهور لحظة تسويقية مقصودة قبيل تصعيد Tesla الموعود لإنتاج Optimus في وقت لاحق من هذا العام. وبعيداً عن الاستعراض الدعائي، أظهر الحدث تحسناً في توازن الروبوت وتخطيط حركته الواعي بالحشود في بيئات حقيقية غير متوقعة وذات كثافة عالية من المشاة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Tesla", "Optimus", "روبوت بشري", "Boston Marathon"],
+      "timestamp": "2026-04-20T20:00:00Z"
+    },
+    {
+      "id": "art-20260422-10",
+      "title": "الروبوت البشري 'Lightning' يحطم الرقم القياسي في نصف ماراثون Beijing",
+      "summary": "عبر روبوت بشري صيني يُلقب بـ 'Lightning' خط النهاية في نصف ماراثون Beijing بسرعة تفوق أي روبوت بشري في التاريخ المسجل، متغلباً على منافسين من بينهم روبوتات سابقة كانت معرضة للتعثر. أكمل الروبوت مسار الـ21 كيلومتراً بقدرته الذاتية مع عمليات تبديل بطاريات مجدولة، مستعرضاً تحسناً في المتانة مقارنة بسباق العام الماضي الذي شهد انهيار عدة روبوتات بشرية أمام الكاميرات. يُعد هذا الأداء معياراً لقدرة التحمل في المشي، وهي مسألة هندسية أصعب من شقلبات الظهر الخاطفة للأنظار.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "ExtremeTech",
+      "url": "https://www.extremetech.com",
+      "tags": ["روبوت بشري", "الصين", "الحركة", "Beijing"],
+      "timestamp": "2026-04-20T18:00:00Z"
+    },
+    {
+      "id": "art-20260422-11",
+      "title": "A&K Robotics تجمع 8 ملايين دولار كندي لتوسيع روبوتات التنقل في المطارات",
+      "summary": "أغلقت A&K Robotics ومقرها فانكوفر جولة تمويلية بقيمة 8 ملايين دولار كندي لتوسيع أسطولها من 'المركبات الدقيقة' المستقلة المصممة لنقل المسافرين محدودي الحركة عبر صالات المطارات. تجري الشركة بالفعل تجارب في مطار فانكوفر الدولي وتقول إن التمويل الجديد سيسرع عمليات الانتشار عبر المراكز الرئيسية في أمريكا الشمالية. يذكرنا ذلك بأن أسواق روبوتات الخدمة المتخصصة -وليس فقط الروبوتات البشرية- تجتذب أموالاً حقيقية من المستثمرين.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Changi_Airport_Self_Driving_Bus.jpg/960px-Changi_Airport_Self_Driving_Bus.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/ak-robotics-raises-c8-million-to-build-autonomous-micro-vehicle-for-airports/100839/",
+      "tags": ["تمويل", "مطارات", "تنقل", "كندا"],
+      "timestamp": "2026-04-21T12:00:00Z"
+    },
+    {
+      "id": "art-20260422-12",
+      "title": "Bubble Robotics تجمع 5 ملايين دولار لبناء 'القوى العاملة المستقلة للمحيطات'",
+      "summary": "خرجت شركة Bubble Robotics الناشئة البريطانية من طور التخفي بجولة تمويل ما قبل تأسيسية بقيمة 5 ملايين دولار بقيادة Episode 1 Ventures و Asterion Ventures لتطوير روبوتات مستقلة تحت الماء للتفتيش البحري وتربية الأحياء المائية ورصد البحار. يقول المؤسسون، وهم خريجو Entrepreneurs First، إن نهجهم القائم على الأسراب يحل محل القوارب المأهولة المكلفة في أعمال الصيانة تحت الماء الروتينية. ظلت الروبوتات تحت الماء متأخرة عن نظيراتها البرية والجوية، لكن يبدو أن شهية المستثمرين بدأت تتحول.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mini_ROV_-_Manipulation_de_la_pince_dans_le_bassin_d%27essais_du_Centre_Ifremer_de_Brest_%28Ifremer_00780-89154_-_49048%29.jpg/960px-Mini_ROV_-_Manipulation_de_la_pince_dans_le_bassin_d%27essais_du_Centre_Ifremer_de_Brest_%28Ifremer_00780-89154_-_49048%29.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/bubble-robotics-raises-5-million-to-build-the-oceans-autonomous-workforce/100806/",
+      "tags": ["تمويل", "تحت الماء", "بحري", "أسراب"],
+      "timestamp": "2026-04-21T10:30:00Z"
+    },
+    {
+      "id": "art-20260422-13",
+      "title": "مصنعو الروبوتات البشرية الصينيون يتجهون إلى RISC-V بدلاً من Nvidia Jetson",
+      "summary": "تتحول موجة من موردي الروبوتات البشرية الصينيين بهدوء من عائلة Jetson التابعة لـ Nvidia نحو وحدات حوسبة قائمة على RISC-V، وفقاً لتقرير سلسلة توريد صادر عن Digitimes. تأتي هذه الخطوة مدفوعة بمزيج من ضوابط التصدير الأمريكية وضغوط التكلفة والنظام البيئي المحلي المتنامي لـ RISC-V حول شركات مثل StarFive و SiFive. إذا استمر هذا التوجه، فقد يؤدي إلى تجزئة منظومة برمجيات الروبوتات والضغط على قبضة Nvidia على أجهزة الذكاء الاصطناعي الطرفية.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com",
+      "tags": ["RISC-V", "Nvidia", "الصين", "الذكاء الاصطناعي الطرفي"],
+      "timestamp": "2026-04-21T06:00:00Z"
+    },
+    {
+      "id": "art-20260422-14",
+      "title": "مشروع 'Project Prometheus' لـ Jeff Bezos يجمع 10 مليارات دولار للذكاء الاصطناعي المادي",
+      "summary": "تختتم شركة 'Project Prometheus' الناشئة التي أسسها Jeff Bezos قبل خمسة أشهر في طور التخفي جولة تمويل يُفاد بأنها بقيمة 10 مليارات دولار بتقييم يبلغ 38 مليار دولار، بدعم من JPMorgan و BlackRock. يُقال إن الشركة تبني أنظمة 'ذكاء اصطناعي مادي' متعددة الأغراض تجمع بين أجهزة الروبوتات واستدلال النماذج الأساسية. إذا صحت هذه الأرقام، فسيجعل ذلك Project Prometheus من أفضل الرهانات تمويلاً في مجال الذكاء الاصطناعي المادي على الإطلاق، مستهدفاً بشكل مباشر OpenAI و Figure و 1X.",
+      "image": "https://external-preview.redd.it/KDru8BhyELzZ9JfZ18xo0EVnzVpS7vLP6C-eIJ_GU-A.jpeg?width=640&crop=smart&auto=webp&s=d32cf1de02f8952b1238eeb3552bb8a49a13432f",
+      "source": "Reddit r/artificial",
+      "url": "https://www.reddit.com/r/artificial/comments/1srwofc/jeff_bezoss_project_prometheus_is_raising_10b_at/",
+      "tags": ["Jeff Bezos", "الذكاء الاصطناعي المادي", "تمويل", "شركة ناشئة"],
+      "timestamp": "2026-04-21T17:00:00Z"
+    },
+    {
+      "id": "art-20260422-15",
+      "title": "محكمة ألمانية تنحاز لـ Teradyne وتُصدر أمراً قضائياً ضد Elite Robots",
+      "summary": "أصدرت محكمة ألمانية أمراً قضائياً مؤقتاً لصالح Teradyne Robotics ضد الشركة الصينية المصنعة للروبوتات التعاونية Elite Robots، مستشهدة بانتهاك براءات اختراع تتعلق بآليات السلامة في الروبوتات التعاونية. يُجبر الحكم Elite Robots على وقف بيع عدة طرازات في ألمانيا بانتظار محاكمة كاملة. تمثل هذه القضية أحدث حلقة في معركة متصاعدة حول الملكية الفكرية بين موردي الأذرع الروبوتية الغربيين الراسخين والمنافسين الصينيين الأسرع حركة والأقل سعراً.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": ["Teradyne", "Elite Robots", "براءات اختراع", "روبوتات تعاونية"],
+      "timestamp": "2026-04-21T09:00:00Z"
+    },
+    {
+      "id": "art-20260422-16",
+      "title": "Coco، روبوت التوصيل المستقل الجديد في San Jose، يجوب وسط المدينة",
+      "summary": "رحبت San Jose بأسطول Coco، وهو أسطول من روبوتات التوصيل الوردية التي تسير على الأرصفة لنقل الطعام والطرود الصغيرة عبر وسط المدينة. يعمل Coco بموجب تصاريح المدينة مع إشراف بشري عن بعد، ويستلم الطلبات من المطاعم والمحلات القريبة. يجعل هذا الإطلاق San Jose واحدة من أكبر المدن الأمريكية التي تمتلك أسطولاً نشطاً من روبوتات الرصيف للميل الأخير، في أعقاب سنوات من الأخذ والرد التنظيمي في San Francisco و Los Angeles.",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-PIZARRO-COL-0422-01.jpg?w=1024&h=713",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2026/04/21/meet-coco-downtown-san-joses-new-autonomous-delivery-robot/",
+      "tags": ["روبوتات التوصيل", "الرصيف", "San Jose", "الميل الأخير"],
+      "timestamp": "2026-04-21T19:00:00Z"
+    },
+    {
+      "id": "art-20260422-17",
+      "title": "Cadence و Nvidia توسعان شراكتهما للهندسة المدفوعة بالذكاء الاصطناعي والتوائم الرقمية",
+      "summary": "توسّع Cadence، الرائدة في برامج تصميم الرقائق، شراكتها مع Nvidia لتضمين الذكاء الاصطناعي التوليدي وأدوات التوائم الرقمية مباشرة في مجموعتها الهندسية. تُوسّع الصفقة استخدام Cadence القائم لـ Nvidia Omniverse ليشمل محاكاة الخلايا الروبوتية وتخطيط المصانع والاختبار المتضمن للمستشعرات. بالنسبة لمُصنّعي الروبوتات، يعني ذلك تحققاً شاملاً أكبر من منظومات الإدراك والتحكم قبل بناء أي جهاز.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PIA23828-MarsPreseveranceRover-Testing02-20200407.jpg/960px-PIA23828-MarsPreseveranceRover-Testing02-20200407.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/cadence-and-nvidia-expand-partnership-to-advance-ai-driven-engineering-and-digital-twins/",
+      "tags": ["Nvidia", "Cadence", "توأم رقمي", "محاكاة"],
+      "timestamp": "2026-04-21T07:00:00Z"
+    },
+    {
+      "id": "art-20260422-18",
+      "title": "UBTECH تتشارك مع Terra Robotics لعمليات نشر الروبوتات البشرية في أوروبا",
+      "summary": "وقّعت UBTECH الصينية المصنعة للروبوتات البشرية اتفاقية توزيع وتكامل مع شركة Terra Robotics الإيطالية لنشر سلسلة Walker S لدى العملاء الصناعيين الأوروبيين. تغطي الشراكة المبيعات والخدمة المحلية وهندسة التطبيقات، مع وجود عمليات نشر أولية مُخطط لها في قطاعي السيارات واللوجستيات. يُعد هذا أكثر الموطئ الأوروبي لـ UBTECH تحديداً حتى الآن مع بدء العملاء الغربيين تقييم الروبوتات البشرية الصينية جنباً إلى جنب مع البدائل المحلية.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": ["UBTECH", "Terra Robotics", "أوروبا", "روبوت بشري"],
+      "timestamp": "2026-04-21T05:00:00Z"
+    },
+    {
+      "id": "art-20260422-19",
+      "title": "الصين تفوز بسباق الروبوتات البشرية — حرفياً",
+      "summary": "تجادل دراسة تحليلية لـ Straight Arrow News بأن الصين تشحن الآن من الروبوتات البشرية أكثر مما يشحنه السوق الأمريكي بأكمله مجتمعاً، مدفوعة بدعم حكومي كثيف ونطاق تصنيع قوي وسلاسل توريد مكونات كثيفة. يُصوّر التقرير الروبوتات البشرية كتقنية استراتيجية تفوق فيها سياسة الصين الصناعية منافسيها الأمريكيين المدفوعين برأس المال الخاص. أما إن كانت شركات أمريكية مثل Figure و 1X و Tesla قادرة على تضييق الفجوة من خلال التمايز البرمجي، فإن ذلك يبقى السؤال المفتوح.",
+      "image": "https://san.com/wp-content/uploads/2026/04/Untitled-design-14.jpg",
+      "source": "Straight Arrow News",
+      "url": "https://san.com/cc/china-is-winning-the-humanoid-robotics-race-literally/",
+      "tags": ["الصين", "روبوت بشري", "جيوسياسة", "صناعة"],
+      "timestamp": "2026-04-21T14:30:00Z"
+    },
+    {
+      "id": "art-20260422-20",
+      "title": "QNX تتكامل مع Nvidia IGX Thor لروبوتات الذكاء الاصطناعي الحرجة للسلامة",
+      "summary": "تم دمج نظام التشغيل QNX في الوقت الفعلي من BlackBerry مع منصة Nvidia IGX Thor، مما يمنح مطوري الروبوتات منظومة موثّقة مسبقاً لعمليات نشر الذكاء الاصطناعي الحرجة للسلامة في السياقات الطبية والصناعية والمركبات المستقلة. يجمع هذا الدمج بين النواة الدقيقة الحتمية لـ QNX ومسرعات الذكاء الاصطناعي في Thor، مستهدفاً شهادات مثل IEC 61508 و ISO 26262. بالنسبة لمُصنّعي الروبوتات الجراحية والروبوتات التعاونية، يزيل ذلك جزءاً كبيراً من عبء هندسة ضمان السلامة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/qnx-integrates-with-nvidia-igx-thor-to-accelerate-safety-critical-ai-deployment/",
+      "tags": ["QNX", "Nvidia", "حرج للسلامة", "طبي"],
+      "timestamp": "2026-04-21T06:30:00Z"
+    }
+  ]
+}

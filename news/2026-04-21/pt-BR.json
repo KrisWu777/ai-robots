@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-21",
+  "featured": {
+    "id": "featured-20260421",
+    "title": "Robô humanoide 'Lightning' quebra recorde mundial da meia maratona em Pequim",
+    "summary": "Um robô humanoide chamado 'Lightning' cruzou a linha de chegada da meia maratona de Pequim em cerca de 57 minutos, aproximadamente sete minutos mais rápido do que o recorde mundial humano, enquanto 20 máquinas bípedes de fabricantes chineses se alinhavam ao lado de corredores humanos em um evento de resistência que marca uma virada. A corrida — pensada para testar a fundo a autonomia da bateria, o resfriamento e a locomoção no mundo real — viu vários competidores caírem ou se desintegrarem no meio do percurso, mas a marcha firme como um fio esticado e a passada agressiva de Lightning sinalizaram o quão rápido a IA física amadureceu no ano desde a primeira meia maratona de robôs. Analistas dizem que o resultado prepara o terreno para humanoides em missões industriais de longa duração, e não apenas em demonstrações de palco.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+    "source": "The Verge",
+    "url": "https://www.theverge.com",
+    "tags": [
+      "Humanoide",
+      "Locomoção",
+      "China",
+      "Marco"
+    ],
+    "timestamp": "2026-04-20T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260421-01",
+      "title": "Skild AI adquire o braço de automação robótica da Zebra Technologies",
+      "summary": "A Skild AI adquiriu o braço de automação robótica da Zebra Technologies — incluindo a plataforma de orquestração Symmetry Fulfillment — em uma tentativa de reconectar a automação de armazéns em torno de uma única camada de controle de uso geral. No centro do acordo está o 'Skild Brain', o software de IA omnicorpórea da empresa, projetado para operar sem conhecimento prévio da forma corporal exata de um robô, o que em princípio permite que qualquer braço, AMR ou humanoide herde uma biblioteca de habilidades compartilhada. O movimento coloca uma das maiores frotas instaladas em logística sob um controlador do tipo modelo de fundação.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/skild-ai-acquires-zebra-technologies-robotics-automation-business/100769/",
+      "tags": [
+        "Skild AI",
+        "Zebra Technologies",
+        "Automação de armazém",
+        "Aquisição"
+      ],
+      "timestamp": "2026-04-20T22:27:25Z"
+    },
+    {
+      "id": "art-20260421-02",
+      "title": "Agibot revela novos robôs de IA incorporada e modelos de fundação para implantação no mundo real",
+      "summary": "Em sua Conferência de Parceiros 2026, a Agibot lançou uma nova geração de hardware de IA incorporada e modelos de fundação construídos em torno do que chama de arquitetura 'One', apresentada como uma mudança de demonstrações de laboratório para implantações industriais e comerciais em larga escala. A linha combina plataformas humanoides bimanuais destras com modelos de percepção-ação sintonizados para cenários de fábrica, logística e serviços. Os anúncios posicionam a Agibot entre os fabricantes chineses de humanoides que correm para produtizar a IA física em escala.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-for-real-world-deployment/100781/",
+      "tags": [
+        "Agibot",
+        "IA incorporada",
+        "Modelos de fundação",
+        "Humanoide"
+      ],
+      "timestamp": "2026-04-21T04:57:15Z"
+    },
+    {
+      "id": "art-20260421-03",
+      "title": "RobCo estreia o humanoide 'Autonomous Alfie' para trabalho industrial na Hannover Messe",
+      "summary": "A RobCo, sediada em Munique, usou a Hannover Messe para anunciar o 'Autonomous Alfie', um humanoide voltado diretamente para a automação industrial — especificamente para os trabalhos variáveis, sensíveis e de entrada mutável nos quais a robótica de célula fixa tradicionalmente tropeçou. A RobCo posiciona o Alfie como um passo em direção à autonomia industrial de Nível 4, onde os robôs lidam com a variação sem reprogramação, e enquadra o lançamento como a abertura de uma nova categoria entre cobots e humanoides de fábrica completos. É um dos vários anúncios de humanoides desta semana voltados para o chão de fábrica em vez do palco.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/robco-unveils-autonomous-alfie-humanoid-robot-for-industrial-automation-at-hannover-messe/100762/",
+      "tags": [
+        "RobCo",
+        "Humanoide",
+        "Hannover Messe",
+        "Automação industrial"
+      ],
+      "timestamp": "2026-04-20T21:18:07Z"
+    },
+    {
+      "id": "art-20260421-04",
+      "title": "NEURA Robotics e AWS fecham acordo estratégico para escalar a IA física",
+      "summary": "A NEURA Robotics e a Amazon Web Services anunciaram uma colaboração estratégica voltada a acelerar a 'IA física' — usando a nuvem e o stack de IA generativa da AWS para treinar, simular e implantar em escala as plataformas humanoides cognitivas da NEURA. A parceria cobre o go-to-market conjunto para a loja de habilidades Neuraverse da NEURA, aprendizado de frota baseado em nuvem e integração com os serviços de simulação da AWS. É uma das maiores aproximações públicas até hoje entre um fabricante de humanoides e um hyperscaler, seguindo o manual da Nvidia de dominar o pipeline simulação-para-real.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Google News",
+      "url": "https://www.mycarrollcountynews.com",
+      "tags": [
+        "NEURA Robotics",
+        "AWS",
+        "IA física",
+        "Parceria"
+      ],
+      "timestamp": "2026-04-20T14:00:00Z"
+    },
+    {
+      "id": "art-20260421-05",
+      "title": "Nvidia e parceiros industriais apresentam manufatura impulsionada por IA na Hannover Messe 2026",
+      "summary": "A Nvidia ancorou a Hannover Messe com uma ampla vitrine de IA industrial ao lado de Siemens, SAP, ABB, Dassault Systèmes, Microsoft e outros, oferecendo um stack que abrange gêmeos digitais, modelos de fundação para robôs e inferência em escala de fábrica. As demonstrações focaram em levar Isaac e Omniverse para linhas de produção em operação, em vez de laboratórios isolados, com ênfase em modernizações em brownfield. A mensagem para os fabricantes europeus: fábricas nativas em IA não são mais pilotos — estão em compras.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/nvidia-and-partners-showcase-ai-driven-manufacturing-systems-at-hannover-messe-2026/100766/",
+      "tags": [
+        "Nvidia",
+        "Hannover Messe",
+        "Gêmeo digital",
+        "Manufatura"
+      ],
+      "timestamp": "2026-04-20T21:37:09Z"
+    },
+    {
+      "id": "art-20260421-06",
+      "title": "Garra mole com fibra óptica da Cornell colhe frutos maduros sem machucar",
+      "summary": "Pesquisadores da Cornell construíram uma garra robótica mole que usa sensores de fibra óptica elásticos para sentir a maturação dos morangos e colhê-los do pé sem deixar marca. A garra prevê a maturação por meio de sinais de deformação tátil em vez de visão, um complemento útil aos sistemas baseados em cor que são enganados por sombra ou sujeira. O trabalho ataca um gargalo persistente da automação agrícola: colher produtos delicados e com maturação variável com qualidade e velocidade humanas.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/handle-with-care-soft-1.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html",
+      "tags": [
+        "Robótica mole",
+        "Garra",
+        "Agricultura",
+        "Cornell"
+      ],
+      "timestamp": "2026-04-20T15:00:00Z"
+    },
+    {
+      "id": "art-20260421-07",
+      "title": "Tien Kung 3.0 da X-Humanoid vence o Beijing Robot Warrior Challenge com corrida totalmente autônoma",
+      "summary": "O Tien Kung 3.0 da X-Humanoid venceu o Beijing Robot Warrior Challenge com uma corrida totalmente autônoma — sem teleoperação, sem caminhos programados — navegando de ponta a ponta em um percurso cheio de obstáculos usando seu stack embarcado. A vitória é notável porque a maioria das 'competições' públicas de humanoides ainda depende de operadores humanos para decisões de alto nível; o resultado do Tien Kung fixa um marco para a autonomia não amarrada combinando locomoção e manipulação. Cai na mesma semana da meia maratona de Pequim, reforçando a mensagem de que o hardware humanoide chinês está passando da demo para uma confiabilidade em nível de competição.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Google News",
+      "url": "https://au.finance.yahoo.com",
+      "tags": [
+        "X-Humanoid",
+        "Tien Kung",
+        "Autonomia",
+        "Pequim"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-08",
+      "title": "Pudu Robotics leva sua lavadora-secadora IA-nativa para a Europa em parceria holandesa",
+      "summary": "A Pudu Robotics fechou uma parceria com a Gom Schoonhouden — uma das principais empresas profissionais de limpeza dos Países Baixos — para a primeira implantação europeia de seu grande robô lavador-secador IA-nativo PUDU BG1. A máquina usa percepção embarcada para mapear automaticamente as instalações, replanejar ao redor de obstáculos e se acoplar sozinha, visando o ponto crítico de escassez de mão de obra na limpeza comercial. É o último sinal de que os fabricantes chineses de robôs de serviço estão escalando na Europa por meio de parceiros operacionais locais, em vez de vendas diretas.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Autonomous_cleaning_robot_by_FHI.jpg/960px-Autonomous_cleaning_robot_by_FHI.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/pudu-robotics-deploys-ai-powered-cleaning-robot-in-europe-through-partnership-with-gom/100775/",
+      "tags": [
+        "Pudu Robotics",
+        "Robô de serviço",
+        "Europa",
+        "Limpeza"
+      ],
+      "timestamp": "2026-04-21T04:36:32Z"
+    },
+    {
+      "id": "art-20260421-09",
+      "title": "Nature: endoscópio robótico mole com flexão aprimorada e predição baseada em IA",
+      "summary": "Um novo artigo da Nature descreve um endoscópio robótico mole que combina uma seção de flexão altamente maleável com um modelo de IA que prevê a pose da ponta a partir de sinais de sensores internos, buscando reduzir a carga cognitiva de cirurgiões que navegam por anatomia tortuosa. A equipe relata raios de curvatura significativamente mais apertados do que os projetos convencionais de elos rígidos, preservando a precisão da estimativa de posição — uma barreira-chave para intervenções minimamente invasivas no trato gastrointestinal. O trabalho é um dos vários artigos recentes de robótica cirúrgica mole que combinam hardware maleável com propriocepção aprendida.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/New_Da_Vinci_Xi.jpg/960px-New_Da_Vinci_Xi.jpg",
+      "source": "Google News",
+      "url": "https://www.nature.com",
+      "tags": [
+        "Robótica mole",
+        "Médico",
+        "Endoscópio",
+        "Pesquisa"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-10",
+      "title": "Cadence e Nvidia expandem parceria em engenharia impulsionada por IA e gêmeos digitais",
+      "summary": "A Cadence e a Nvidia estão expandindo sua parceria de longa data para integrar IA, simulação baseada em física e tecnologias de gêmeos digitais mais profundamente em fluxos de trabalho de engenharia abrangendo design de semicondutores, robótica e infraestrutura de IA em hiperescala. O acordo combina a propriedade intelectual de EDA e design de sistemas da Cadence com a computação acelerada da Nvidia, mirando engenheiros que querem loops de simulação rápidos o suficiente para rodar dentro de uma sessão de design em vez de durante a noite. Reforça a postura da Nvidia de que todo fornecedor de software industrial acaba se tornando um cliente de IA.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Generative_Drone_Design.stl/960px-Generative_Drone_Design.stl.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/cadence-and-nvidia-expand-partnership-to-advance-ai-driven-engineering-and-digital-twin-technologies/100772/",
+      "tags": [
+        "Cadence",
+        "Nvidia",
+        "Gêmeo digital",
+        "EDA"
+      ],
+      "timestamp": "2026-04-21T04:25:08Z"
+    },
+    {
+      "id": "art-20260421-11",
+      "title": "QNX integra-se à Nvidia IGX Thor para acelerar IA crítica para segurança",
+      "summary": "O sistema operacional de tempo real QNX da BlackBerry está se integrando à nova plataforma IGX Thor da Nvidia, visando diretamente implantações de IA críticas para segurança em dispositivos médicos, controladores industriais e máquinas autônomas. A combinação coloca a inferência de IA de alto poder computacional do Thor sob o escalonador determinístico do QNX e sua história de certificação de segurança funcional — um pareamento que os clientes vinham pedindo à medida que modelos de IA migram para as mesmas placas que dirigem atuação em tempo real rígido. É uma aposta de que o stack de IA de borda precisa ser ao mesmo tempo rápido e certificável, e não apenas um dos dois.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Google News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "QNX",
+        "Nvidia",
+        "Crítico para segurança",
+        "IA de borda"
+      ],
+      "timestamp": "2026-04-20T16:00:00Z"
+    },
+    {
+      "id": "art-20260421-12",
+      "title": "NCS faz parceria com AGIBOT e HZTC para implantar humanoides por toda a APAC",
+      "summary": "A NCS, sediada em Singapura, assinou acordos com a AGIBOT e a HZTC para implantar robótica humanoide por toda a Ásia-Pacífico, combinando a presença de integração de sistemas da NCS com o hardware da AGIBOT e as ferramentas de operações de frota da HZTC. A aliança mira clientes de logística, hospitalidade e propriedade comercial que querem capacidade humanoide mas não o fardo da integração. Sinaliza que o crescimento humanoide na APAC está fluindo cada vez mais pelos canais de TI corporativa, e não por pilotos diretos ao cliente.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Google News",
+      "url": "https://www.thefastmode.com",
+      "tags": [
+        "NCS",
+        "AGIBOT",
+        "APAC",
+        "Humanoide"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-13",
+      "title": "Milvus Robotics lança AMR empilhadeira SEIT F1500S para movimentação de materiais pesados",
+      "summary": "A Milvus Robotics lançou o SEIT F1500S, um robô móvel autônomo tipo empilhadeira com capacidade de 1.500 kg voltado à movimentação de materiais pesados em armazéns e manufatura leve. A máquina lida com cargas de classe Europalete com elevação contrabalanceada, navegação SLAM embarcada e sensores com classificação de segurança para pisos compartilhados entre humanos e robôs. Empurra os AMRs ainda mais para papéis tradicionalmente ocupados por empilhadeiras com operador em pé — a fatia específica da intralogística onde a escassez de operadores foi a mais difícil de cobrir.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg/960px-Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Milvus Robotics",
+        "AMR",
+        "Empilhadeira",
+        "Intralogística"
+      ],
+      "timestamp": "2026-04-20T13:00:00Z"
+    },
+    {
+      "id": "art-20260421-14",
+      "title": "Tesla envia Optimus para a Maratona de Boston",
+      "summary": "A Tesla diz que colocará um humanoide Optimus no percurso da Maratona de Boston, o mais recente de uma crescente lista de demonstrações de resistência de robôs projetadas para comprovar bateria, térmica e locomoção em terreno não programado. A tentativa vem um dia depois de humanoides chineses quebrarem o recorde mundial humano de meia maratona em Pequim, aguçando uma narrativa EUA-vs-China em torno da IA física. A Tesla não declarou qual papel no percurso o Optimus desempenhará — competidor de distância completa, segmento de ritmo ou suporte de retaguarda — mas o evento será atentamente observado em busca de modos de falha.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Google News",
+      "url": "https://www.teslarati.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Humanoide",
+        "Boston Marathon"
+      ],
+      "timestamp": "2026-04-20T17:00:00Z"
+    },
+    {
+      "id": "art-20260421-15",
+      "title": "Flexiv exibe robótica adaptativa na Hannover Messe 2026",
+      "summary": "A Flexiv usou a Hannover Messe para demonstrar seus mais recentes sistemas de robótica adaptativa, apoiando-se em braços com controle de força que lidam com tarefas de contato rico — polimento, inserção, acabamento — sem os gabaritos e o tempo de ensino que os braços convencionais exigem. As demonstrações ao vivo combinaram controle de força-torque com modelos de habilidades aprendidas para que o mesmo braço pudesse alternar entre variantes de peça em tempo real. Para os fabricantes europeus que migram para trabalhos de maior variedade e menor volume, a proposta é: menos trocas e mais horas-robô em tarefas verdadeiramente variáveis.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Google News",
+      "url": "https://www.aerospacemanufacturinganddesign.com",
+      "tags": [
+        "Flexiv",
+        "Controle de força",
+        "Hannover Messe",
+        "Cobot"
+      ],
+      "timestamp": "2026-04-20T11:00:00Z"
+    },
+    {
+      "id": "art-20260421-16",
+      "title": "Maja Matarić da USC: a professora que foi pioneira da robótica socialmente assistiva",
+      "summary": "A IEEE Spectrum faz um perfil de Maja Matarić, a professora da USC que ajudou a inventar o campo da robótica socialmente assistiva — robôs que entregam terapia personalizada e cuidados por meio da interação social em vez da manipulação física. A matéria traça seu caminho desde a formulação das primeiras definições do campo em 2005 até a implantação de robôs em reabilitação pós-AVC, terapia para autismo e cuidado com idosos. É um contrapeso útil ao ciclo do espetáculo de hardware, lembrando aos leitores que parte da robótica de maior valor não é nem a mais rápida nem a mais forte.",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-blonde-woman-poses-with-a-humanoid-robotic-torso-wearing-a-usc-sweatshirt.jpg?id=60890895&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/socially-assistive-robotics",
+      "tags": [
+        "USC",
+        "Robótica socialmente assistiva",
+        "Saúde",
+        "Perfil"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-17",
+      "title": "Filipinas realizam a primeira cirurgia robótica de catarata doméstica",
+      "summary": "Cirurgiões nas Filipinas concluíram a primeira cirurgia robótica de catarata realizada localmente no país, usando uma plataforma assistida por robô para guiar a fragmentação e a substituição da lente com precisão submilimétrica. O marco abre um caminho para escalar a cobertura de oftalmologia além dos hospitais de ensino das grandes metrópoles, onde as filas de espera para catarata têm sido historicamente longas. Ecoa um impulso mais amplo do Sudeste Asiático por localizar a cirurgia robótica em vez de depender de encaminhamentos de turismo médico.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg/960px-WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg",
+      "source": "Google News",
+      "url": "https://www.insider.ph",
+      "tags": [
+        "Robótica médica",
+        "Cirurgia",
+        "Filipinas",
+        "Saúde"
+      ],
+      "timestamp": "2026-04-20T08:00:00Z"
+    },
+    {
+      "id": "art-20260421-18",
+      "title": "Samsung sinaliza uma nova CX de varejo construída sobre 3D, avatares e robôs humanoides",
+      "summary": "A recente vitrine CX da Samsung tornou explícito o que vinha sendo insinuado há um ano: o stack de experiência de varejo está sendo reconstruído em torno de interfaces espaciais 3D, avatares que representam os clientes e robôs humanoides como equipe de frente de loja. A empresa enquadrou os humanoides como complementares — e não substitutos — aos colaboradores humanos, com foco em orientação, consulta de estoque e cobertura fora do horário comercial. Para o setor de robôs de serviço, é um dos sinais mais claros até agora de que os humanoides voltados ao consumidor estão prestes a receber pilotos sérios de varejo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg/960px-Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg",
+      "source": "Google News",
+      "url": "https://www.cxtoday.com",
+      "tags": [
+        "Samsung",
+        "Varejo",
+        "Humanoide",
+        "CX"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-19",
+      "title": "Coco Robotics e BlindSquare se unem para tornar a entrega em calçadas acessível",
+      "summary": "A Coco Robotics firmou parceria com o aplicativo de navegação assistiva BlindSquare para transmitir as posições de robôs de entrega em calçadas para o ambiente de áudio do BlindSquare, de modo que pedestres cegos e com baixa visão possam detectar e desviar dos robôs em tempo real. A iniciativa aborda uma lacuna crescente de acessibilidade à medida que as frotas de entrega em calçadas escalam para mais cidades, onde os robôs silenciosos e baixos atraíram queixas de defensores de pessoas com deficiência. É um exemplo notável de uma operadora de robótica tratando acessibilidade como produto em vez de reflexão tardia.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Coco Robotics",
+        "Acessibilidade",
+        "Entrega em calçada",
+        "BlindSquare"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-20",
+      "title": "CEO da Plus One Robotics: o capital está ultrapassando a capacidade real da robótica",
+      "summary": "O CEO da Plus One Robotics, Erik Nieves, expressou uma visão cautelosa sobre o atual ciclo de financiamento da robótica, argumentando que o capital está fluindo para a robótica mais rápido do que a tecnologia subjacente está de fato amadurecendo. Seu ponto: implantações no mundo real ainda vivem ou morrem com base em confiabilidade, disponibilidade e metas de cadência de produção — não em vídeos de demonstração ou anúncios de modelos de fundação — e a lacuna entre promessa e sistema implantável começa a aparecer nos post-mortems dos clientes. É um contraponto sóbrio ao ciclo de hype humanoide que domina as manchetes desta semana.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1sr51rr/ceo_on_capital_pouring_into_robotics_faster_than/",
+      "tags": [
+        "Análise setorial",
+        "Plus One Robotics",
+        "Investimento",
+        "Comentário"
+      ],
+      "timestamp": "2026-04-20T20:00:00Z"
+    }
+  ]
+}

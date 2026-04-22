@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-21",
+  "featured": {
+    "id": "featured-20260421",
+    "title": "Humanoid 'Lightning' robot ने Beijing में half-marathon का world record तोड़ा",
+    "summary": "'Lightning' नाम के humanoid robot ने Beijing half-marathon की finish line लगभग 57 minutes में पार की, जो human world record से क़रीब seven minutes तेज़ है, जब Chinese makers के 20 two-legged machines human runners के साथ एक watershed endurance event में लाइन में खड़े हुए। यह race — जो battery life, cooling, और real-world locomotion को stress-test करने के लिए थी — में कई competitors बीच रास्ते में tumble हो गए या disintegrate हो गए, लेकिन Lightning की wire-taut gait और aggressive stride ने signal दिया कि पहले robot half-marathon के बाद एक year में physical-AI कितनी तेज़ी से mature हो चुका है। Analysts का कहना है कि यह result humanoids को सिर्फ़ stage demos तक सीमित न रखकर longer-duration industrial missions के लिए तैयार करता है।",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+    "source": "The Verge",
+    "url": "https://www.theverge.com",
+    "tags": [
+      "Humanoid",
+      "Locomotion",
+      "China",
+      "Milestone"
+    ],
+    "timestamp": "2026-04-20T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260421-01",
+      "title": "Skild AI ने Zebra Technologies का Robotics Automation business acquire किया",
+      "summary": "Skild AI ने Zebra Technologies के robotics automation arm को acquire कर लिया है — जिसमें Symmetry Fulfillment orchestration platform भी शामिल है — ताकि warehouse automation को एक single general-purpose control layer के around फिर से wire किया जा सके। Deal के center में है 'Skild Brain,' company का omnibodied AI software जिसे robot की exact body form की prior knowledge के बिना operate करने के लिए design किया गया है, जो principle में किसी भी arm, AMR, या humanoid को एक shared skill library inherit करने देता है। यह move logistics के सबसे बड़े installed fleets में से एक को foundation-model-style controller के under ले आती है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/skild-ai-acquires-zebra-technologies-robotics-automation-business/100769/",
+      "tags": [
+        "Skild AI",
+        "Zebra Technologies",
+        "Warehouse Automation",
+        "Acquisition"
+      ],
+      "timestamp": "2026-04-20T22:27:25Z"
+    },
+    {
+      "id": "art-20260421-02",
+      "title": "Agibot ने real-world deployment के लिए नए Embodied AI robots और Foundation Models unveil किए",
+      "summary": "अपने 2026 Partner Conference में, Agibot ने embodied-AI hardware और foundation models की एक नई generation roll out की, जो 'One' architecture नाम की structure के around बनी है, और इसे lab demos से large-scale industrial और commercial rollouts की ओर shift के रूप में पेश किया गया है। यह lineup dexterous bimanual humanoid platforms को factory, logistics, और service scenarios के लिए tuned perception-action models के साथ pair करता है। इन announcements ने Agibot को उन Chinese humanoid makers में place किया है जो physical AI को scale पर productize करने की race में हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-for-real-world-deployment/100781/",
+      "tags": [
+        "Agibot",
+        "Embodied AI",
+        "Foundation Models",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-21T04:57:15Z"
+    },
+    {
+      "id": "art-20260421-03",
+      "title": "RobCo ने Hannover Messe में industrial work के लिए 'Autonomous Alfie' humanoid debut किया",
+      "summary": "Munich-based RobCo ने Hannover Messe का use करके 'Autonomous Alfie' announce किया, एक humanoid जो सीधे industrial automation पर targeted है — specifically वो variable, sensitive, changing-input jobs जिन पर fixed-cell robotics historically struggle करती रही है। RobCo, Alfie को Level-4 industrial autonomy की तरफ़ एक step के रूप में position करती है, जहाँ robots बिना re-teaching के variation handle करते हैं, और इस launch को cobots और full factory humanoids के बीच एक नई category खोलने के रूप में frame करती है। यह इस week के कई humanoid announcements में से एक है जो stage के बजाय shop floor पर pointed हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/robco-unveils-autonomous-alfie-humanoid-robot-for-industrial-automation-at-hannover-messe/100762/",
+      "tags": [
+        "RobCo",
+        "Humanoid",
+        "Hannover Messe",
+        "Industrial Automation"
+      ],
+      "timestamp": "2026-04-20T21:18:07Z"
+    },
+    {
+      "id": "art-20260421-04",
+      "title": "NEURA Robotics और AWS ने Physical AI को scale करने के लिए strategic deal किया",
+      "summary": "NEURA Robotics और Amazon Web Services ने एक strategic collaboration announce की है जिसका aim है 'physical AI' को accelerate करना — AWS के cloud और generative-AI stack का use करके NEURA के cognitive humanoid platforms को scale पर train, simulate, और deploy करना। यह partnership NEURA के Neuraverse skill store, cloud-based fleet learning, और AWS simulation services के साथ integration के लिए joint go-to-market cover करती है। यह अब तक किसी humanoid maker और hyperscaler के बीच सबसे बड़े public tie-ups में से एक है, जो Nvidia के simulation-to-real pipeline own करने वाले playbook को follow करता है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Google News",
+      "url": "https://www.mycarrollcountynews.com",
+      "tags": [
+        "NEURA Robotics",
+        "AWS",
+        "Physical AI",
+        "Partnership"
+      ],
+      "timestamp": "2026-04-20T14:00:00Z"
+    },
+    {
+      "id": "art-20260421-05",
+      "title": "Nvidia और industrial partners ने Hannover Messe 2026 में AI-Driven Manufacturing showcase किया",
+      "summary": "Nvidia ने Siemens, SAP, ABB, Dassault Systèmes, Microsoft और others के साथ एक sprawling industrial-AI showcase के साथ Hannover Messe को anchor किया, एक ऐसा stack pitch करते हुए जो digital twins, robot foundation models, और factory-scale inference को span करता है। Demos का focus Isaac और Omniverse को standalone labs के बजाय running production lines में लाने पर था, brownfield retrofits पर emphasis के साथ। European manufacturers के लिए message: AI-native factories अब pilots नहीं हैं — वो procurement में हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/nvidia-and-partners-showcase-ai-driven-manufacturing-systems-at-hannover-messe-2026/100766/",
+      "tags": [
+        "Nvidia",
+        "Hannover Messe",
+        "Digital Twin",
+        "Manufacturing"
+      ],
+      "timestamp": "2026-04-20T21:37:09Z"
+    },
+    {
+      "id": "art-20260421-06",
+      "title": "Cornell का Fiber-Optic Soft Gripper बिना bruise किए ripe fruit pick करता है",
+      "summary": "Cornell के researchers ने एक soft robot gripper बनाया है जो stretchable fiber-optic sensors का use करके strawberries की ripeness feel करता है और उन्हें बिना कोई mark छोड़े vine से pluck करता है। Gripper vision के बजाय tactile deformation signals के through ripeness predict करता है, जो उन color-based systems के लिए एक useful complement है जो shade या dirt से fool हो जाते हैं। यह work एक persistent agriculture-automation bottleneck को target करता है: delicate, variably-ripe produce को human quality और speed पर pick करना।",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/handle-with-care-soft-1.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html",
+      "tags": [
+        "Soft Robotics",
+        "Gripper",
+        "Agriculture",
+        "Cornell"
+      ],
+      "timestamp": "2026-04-20T15:00:00Z"
+    },
+    {
+      "id": "art-20260421-07",
+      "title": "X-Humanoid का Tien Kung 3.0 fully autonomous run के साथ Beijing Robot Warrior Challenge जीता",
+      "summary": "X-Humanoid के Tien Kung 3.0 ने Beijing Robot Warrior Challenge को एक fully autonomous run के साथ जीता — no teleoperation, no scripted paths — अपने onboard stack पर एक obstacle-heavy course को end-to-end navigate करते हुए। यह win notable है क्योंकि ज़्यादातर public humanoid 'competitions' अभी भी high-level decisions के लिए human operators पर lean करती हैं; Tien Kung का result locomotion और manipulation दोनों के लिए untethered autonomy पर एक marker रखता है। यह Beijing half-marathon के उसी week में आता है, इस message को compound करते हुए कि Chinese humanoid hardware demo से contest-grade reliability की ओर move कर रहा है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Google News",
+      "url": "https://au.finance.yahoo.com",
+      "tags": [
+        "X-Humanoid",
+        "Tien Kung",
+        "Autonomy",
+        "Beijing"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-08",
+      "title": "Pudu Robotics Dutch partnership में AI-Native Scrubber-Dryer को Europe में ला रही है",
+      "summary": "Pudu Robotics ने Gom Schoonhouden — Netherlands की top professional cleaning firms में से एक — के साथ partnership strike की है अपने AI-Native PUDU BG1 large scrubber-dryer robot के पहले European deployment के लिए। यह machine onboard perception का use करके facilities को auto-map करती है, obstacles के around re-plan करती है, और ख़ुद को dock करती है, commercial cleaning में labor-shortage pain point को target करते हुए। यह latest sign है कि Chinese service-robot makers direct sales के बजाय local operating partners के through Europe में scale कर रहे हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Autonomous_cleaning_robot_by_FHI.jpg/960px-Autonomous_cleaning_robot_by_FHI.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/pudu-robotics-deploys-ai-powered-cleaning-robot-in-europe-through-partnership-with-gom/100775/",
+      "tags": [
+        "Pudu Robotics",
+        "Service Robot",
+        "Europe",
+        "Cleaning"
+      ],
+      "timestamp": "2026-04-21T04:36:32Z"
+    },
+    {
+      "id": "art-20260421-09",
+      "title": "Nature: Enhanced Bending और AI-Based Prediction के साथ Soft Robotic Endoscope",
+      "summary": "एक new Nature paper एक soft robotic endoscope describe करता है जो एक highly compliant bending section को एक AI model के साथ combine करता है जो internal sensor signals से tip pose predict करता है, जिसका aim tortuous anatomy navigate करने वाले surgeons पर cognitive load कम करना है। Team ने conventional rigid-link designs की तुलना में meaningfully tighter curvature radii report की है जबकि position estimation accuracy को preserve किया है — GI tract में minimally-invasive interventions के लिए एक key barrier। यह work कई recent soft-surgical-robot papers में से एक है जो compliant hardware को learned proprioception के साथ pair करते हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/New_Da_Vinci_Xi.jpg/960px-New_Da_Vinci_Xi.jpg",
+      "source": "Google News",
+      "url": "https://www.nature.com",
+      "tags": [
+        "Soft Robotics",
+        "Medical",
+        "Endoscope",
+        "Research"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-10",
+      "title": "Cadence और Nvidia ने AI-Driven Engineering और Digital Twins पर partnership expand की",
+      "summary": "Cadence और Nvidia अपनी long-running partnership को expand कर रहे हैं ताकि AI, physics-based simulation, और digital-twin technologies को semiconductor design, robotics, और hyperscale AI infrastructure में spanning engineering workflows में और deeply fold किया जा सके। यह deal Cadence के EDA और system-design IP को Nvidia के accelerated computing के साथ pair करता है, उन engineers को target करते हुए जो overnight के बजाय design session के अंदर run करने के लिए fast enough simulation loops चाहते हैं। यह Nvidia के इस posture को reinforce करता है कि हर industrial software vendor eventually एक AI customer बन जाता है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Generative_Drone_Design.stl/960px-Generative_Drone_Design.stl.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/cadence-and-nvidia-expand-partnership-to-advance-ai-driven-engineering-and-digital-twin-technologies/100772/",
+      "tags": [
+        "Cadence",
+        "Nvidia",
+        "Digital Twin",
+        "EDA"
+      ],
+      "timestamp": "2026-04-21T04:25:08Z"
+    },
+    {
+      "id": "art-20260421-11",
+      "title": "QNX Safety-Critical AI को accelerate करने के लिए Nvidia IGX Thor के साथ integrate हुआ",
+      "summary": "BlackBerry का QNX real-time operating system Nvidia के new IGX Thor platform के साथ integrate हो रहा है, medical devices, industrial controllers, और autonomous machines में safety-critical AI deployments पर सीधे aim करते हुए। यह combination Thor के high-compute AI inference को QNX के deterministic scheduler और functional-safety certification story के under लाता है — एक ऐसी pairing जिसके लिए customers ask कर रहे थे क्योंकि AI models उन्हीं boards पर migrate हो रहे हैं जो hard-real-time actuation drive करते हैं। यह एक bet है कि edge-AI stack को fast और certifiable दोनों होना चाहिए, सिर्फ़ एक नहीं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Google News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "QNX",
+        "Nvidia",
+        "Safety-Critical",
+        "Edge AI"
+      ],
+      "timestamp": "2026-04-20T16:00:00Z"
+    },
+    {
+      "id": "art-20260421-12",
+      "title": "NCS ने APAC में humanoids deploy करने के लिए AGIBOT और HZTC के साथ partner किया",
+      "summary": "Singapore-based NCS ने Asia-Pacific में humanoid robotics को roll out करने के लिए AGIBOT और HZTC के साथ agreements sign किए हैं, NCS के systems-integration footprint को AGIBOT के hardware और HZTC के fleet-operations tooling के साथ pair करते हुए। यह alliance logistics, hospitality, और commercial-property customers को target करती है जो humanoid capability चाहते हैं लेकिन integration burden नहीं। यह signal करता है कि APAC humanoid growth increasingly enterprise IT channels के through flow कर रही है, direct-to-customer pilots के through नहीं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Google News",
+      "url": "https://www.thefastmode.com",
+      "tags": [
+        "NCS",
+        "AGIBOT",
+        "APAC",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-13",
+      "title": "Milvus Robotics ने Heavy Material Handling के लिए SEIT F1500S Forklift AMR launch किया",
+      "summary": "Milvus Robotics ने SEIT F1500S launch किया है, एक 1,500 kg-capacity forklift-type autonomous mobile robot जो warehouses और light manufacturing में heavy material handling के लिए aimed है। यह machine Euro-pallet-class loads को counterbalanced lifting, onboard SLAM navigation, और shared human-robot floors के लिए safety-rated sensors के साथ handle करती है। यह AMRs को traditionally stand-on forklifts द्वारा held roles में और push करता है — intralogistics का वो specific slice जहाँ operator shortages को plug करना सबसे hard रहा है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg/960px-Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Milvus Robotics",
+        "AMR",
+        "Forklift",
+        "Intralogistics"
+      ],
+      "timestamp": "2026-04-20T13:00:00Z"
+    },
+    {
+      "id": "art-20260421-14",
+      "title": "Tesla ने Optimus को Boston Marathon में भेजा",
+      "summary": "Tesla का कहना है कि वो एक Optimus humanoid को Boston Marathon course पर put करेगी, यह robot endurance demos की growing list में latest है जो unscripted terrain पर battery, thermals, और locomotion prove करने के लिए design किए गए हैं। यह attempt Chinese humanoids द्वारा Beijing में human half-marathon world record तोड़ने के एक दिन बाद आया है, physical AI के around US-vs-China narrative को sharpen करते हुए। Tesla ने यह state नहीं किया है कि Optimus कौन सी course role play करेगा — full-distance entrant, pace segment, या shadow support — लेकिन event पर failure modes के लिए closely watch किया जाएगा।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Google News",
+      "url": "https://www.teslarati.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Humanoid",
+        "Boston Marathon"
+      ],
+      "timestamp": "2026-04-20T17:00:00Z"
+    },
+    {
+      "id": "art-20260421-15",
+      "title": "Flexiv ने Hannover Messe 2026 में Adaptive Robotics show off किया",
+      "summary": "Flexiv ने Hannover Messe का use करके अपने latest adaptive-robotics systems demonstrate किए, force-controlled arms पर lean करते हुए जो contact-rich tasks handle करते हैं — polishing, insertion, finishing — बिना उन fixtures और teaching time के जो conventional arms require करते हैं। Live demos ने force-torque control को learned skill models के साथ pair किया ताकि वही arm on the fly part variants के बीच swap कर सके। Higher-mix, lower-volume work की ओर shift कर रहे European manufacturers के लिए, pitch है fewer changeovers और truly variable tasks पर ज़्यादा robot-hours।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Google News",
+      "url": "https://www.aerospacemanufacturinganddesign.com",
+      "tags": [
+        "Flexiv",
+        "Force Control",
+        "Hannover Messe",
+        "Cobot"
+      ],
+      "timestamp": "2026-04-20T11:00:00Z"
+    },
+    {
+      "id": "art-20260421-16",
+      "title": "USC की Maja Matarić: वो Professor जिन्होंने Socially Assistive Robotics को pioneer किया",
+      "summary": "IEEE Spectrum ने Maja Matarić की profile की है, USC की professor जिन्होंने socially assistive robotics के field को invent करने में help की — ऐसे robots जो physical manipulation के बजाय social interaction के through personalized therapy और care deliver करते हैं। यह piece 2005 में field की early definitions को build out करने से लेकर stroke rehab, autism therapy, और elder care में robots को deploy करने तक उनके path को trace करती है। यह hardware-spectacle cycle के लिए एक useful counterweight है, readers को याद दिलाते हुए कि कुछ highest-value robotics न तो fastest है न strongest।",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-blonde-woman-poses-with-a-humanoid-robotic-torso-wearing-a-usc-sweatshirt.jpg?id=60890895&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/socially-assistive-robotics",
+      "tags": [
+        "USC",
+        "Socially Assistive Robotics",
+        "Healthcare",
+        "Profile"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-17",
+      "title": "Philippines ने पहली Domestic Robotic Cataract Surgery achieve की",
+      "summary": "Philippines में surgeons ने country की पहली locally-performed robotic cataract surgery complete की है, एक robot-assisted platform का use करके sub-millimeter precision के साथ lens fragmentation और replacement guide करते हुए। यह milestone ophthalmology coverage को major-metro teaching hospitals से परे scale करने का एक path खोलता है, जहाँ cataract waiting lists historically long रही हैं। यह robotic surgery को medical-tourism referrals पर rely करने के बजाय localize करने के broader Southeast Asian push की echo है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg/960px-WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg",
+      "source": "Google News",
+      "url": "https://www.insider.ph",
+      "tags": [
+        "Medical Robotics",
+        "Surgery",
+        "Philippines",
+        "Healthcare"
+      ],
+      "timestamp": "2026-04-20T08:00:00Z"
+    },
+    {
+      "id": "art-20260421-18",
+      "title": "Samsung ने 3D, Avatars, और Humanoid Robots पर built एक नए Retail CX का signal दिया",
+      "summary": "Samsung के recent CX showcase ने वो explicit कर दिया जिसका एक year से hint दिया जा रहा था: retail-experience stack को 3D spatial interfaces, customer-representing avatars, और front-of-house staff के रूप में humanoid robots के around फिर से build किया जा रहा है। Company ने humanoids को human associates के substitutes के बजाय — complementary — frame किया, wayfinding, inventory lookup, और after-hours coverage पर focus के साथ। Service-robot industry के लिए, यह अब तक के सबसे clearest signals में से एक है कि consumer-facing humanoids serious retail pilots पाने वाले हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg/960px-Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg",
+      "source": "Google News",
+      "url": "https://www.cxtoday.com",
+      "tags": [
+        "Samsung",
+        "Retail",
+        "Humanoid",
+        "CX"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-19",
+      "title": "Coco Robotics और BlindSquare ने Sidewalk Delivery को Accessible बनाने के लिए partner किया",
+      "summary": "Coco Robotics ने assistive-navigation app BlindSquare के साथ partnership की है ताकि sidewalk-delivery robot positions को BlindSquare के audio environment में broadcast किया जा सके, जिससे blind और low-vision pedestrians bots को real time में detect कर सकें और उनके around route कर सकें। यह move एक growing accessibility gap को address करता है क्योंकि sidewalk delivery fleets ज़्यादा cities में scale कर रहे हैं, जहाँ silent, low-slung robots ने disability advocates से complaints draw की हैं। यह एक robotics operator द्वारा accessibility को afterthought के बजाय product के रूप में treat करने का एक notable example है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Coco Robotics",
+        "Accessibility",
+        "Sidewalk Delivery",
+        "BlindSquare"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-20",
+      "title": "Plus One Robotics CEO: Capital actual Robotics Capability से आगे दौड़ रही है",
+      "summary": "Plus One Robotics के CEO Erik Nieves ने current robotics funding cycle पर एक cautionary view voice किया है, यह argue करते हुए कि capital robotics में underlying technology के actually mature होने से ज़्यादा fast pour हो रही है। उनका point: real-world deployments अभी भी reliability, uptime, और production-rate targets पर live या die करती हैं — demo videos या foundation-model announcements पर नहीं — और promise और deployable system के बीच का gap customer post-mortems में show होने लगा है। यह इस week की headlines को fill करने वाले humanoid hype cycle का एक grounded counterpoint है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1sr51rr/ceo_on_capital_pouring_into_robotics_faster_than/",
+      "tags": [
+        "Industry Analysis",
+        "Plus One Robotics",
+        "Investment",
+        "Commentary"
+      ],
+      "timestamp": "2026-04-20T20:00:00Z"
+    }
+  ]
+}

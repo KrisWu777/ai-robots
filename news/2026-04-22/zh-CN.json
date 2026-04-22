@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-22",
+  "featured": {
+    "id": "featured-20260422",
+    "title": "RobCo在汉诺威工业博览会上发布'Autonomous Alfie'人形机器人",
+    "summary": "德国工业机器人公司RobCo推出了'Autonomous Alfie'人形机器人,专为中型制造车间打造,而非浮夸的展示demo。公司将Alfie定位为一个经济实惠的平台,可与RobCo的模块化机械臂产品线一起融入现有生产线,承担机器看护和质量检测等任务。在Hannover Messe 2026上的亮相表明,欧洲工业机器人厂商正在加紧应对中国和美国人形机器人厂商涌入工厂车间的浪潮。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/20/robco-unveils-autonomous-alfie-humanoid-robot-for-industrial-automation-at-hannover-messe/100762/",
+    "tags": ["人形机器人", "工业自动化", "Hannover Messe", "RobCo"],
+    "timestamp": "2026-04-20T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260422-01",
+      "title": "Skild AI收购Zebra Technologies的机器人自动化业务",
+      "summary": "总部位于匹兹堡的Skild AI以其通用机器人基础模型闻名,现已收购Zebra Technologies的机器人自动化部门,以加速仓储部署。该交易使Skild获得了Zebra的车队管理软件以及物流领域已部署的自主移动机器人安装基础。业内观察人士认为,这表明AI优先的机器人公司正在通过收购进入商业化扩展所需的硬件渠道。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/skild-ai-acquires-zebra-technologies-robotics-automation-business/",
+      "tags": ["Skild AI", "Zebra", "收购", "仓储"],
+      "timestamp": "2026-04-21T10:00:00Z"
+    },
+    {
+      "id": "art-20260422-02",
+      "title": "Neura Robotics与AWS合作,规模化物理AI",
+      "summary": "德国人形机器人创业公司Neura Robotics与Amazon Web Services签署了战略合作协议,将其认知机器人车队运行在AWS云基础设施上。该协议涵盖在AWS芯片上训练Neura的基础模型,以及从已部署机器人回传遥测数据以实现持续学习。这是Neura在2026年底承诺的工厂部署之前,扩大其4NE-1人形机器人生产的一个显著商业锚点。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/neura-robotics-and-amazon-web-services-enter-strategic-collaboration-to-accelerate-physical-ai-at-scale/",
+      "tags": ["Neura Robotics", "AWS", "物理AI", "云计算"],
+      "timestamp": "2026-04-21T11:00:00Z"
+    },
+    {
+      "id": "art-20260422-03",
+      "title": "Agibot发布面向实际部署的新一代具身智能机器人",
+      "summary": "中国人形机器人制造商Agibot推出了新一代具身智能机器人和基础模型,旨在面向工业和商业规模化部署。公司表示,其最新平台超越了实验室展示,硬件和软件经过调优,可承担全天候工厂轮班和物流工作。此次发布凸显了中国人形机器人公司从原型秀场向生产合同过渡的速度之快。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-for-real-world-deployment/",
+      "tags": ["Agibot", "具身智能", "人形机器人", "中国"],
+      "timestamp": "2026-04-21T09:30:00Z"
+    },
+    {
+      "id": "art-20260422-04",
+      "title": "MIT的机器人微型工厂瞄准住房短缺问题",
+      "summary": "MIT研究人员打造了一个机器人微型工厂,可在集装箱大小的占地面积内生产可定制的模块化住宅组件。该系统使用移动机器臂加上计算机视觉,将标准木材切割、组装并加工成结构板材,目标是将工厂直接部署在施工现场附近。如果规模化,这种方法可以大幅削减预制房屋的成本和运输排放。",
+      "image": "https://news.mit.edu/sites/default/files/images/202604/mit-system-design.jpg",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/tackling-housing-shortage-robotic-microfactories-0421",
+      "tags": ["MIT", "建筑", "微型工厂", "研究"],
+      "timestamp": "2026-04-21T14:00:00Z"
+    },
+    {
+      "id": "art-20260422-05",
+      "title": "Cornell的软体抓手可无损采摘成熟水果",
+      "summary": "Cornell University的研究人员开发了一种配备可拉伸光纤传感器的软体机器人抓手,能够像人手一样通过触摸判断成熟度。该装置能够以超过90%的准确率识别成熟的草莓和番茄,同时足够轻柔地处理它们以避免损伤。这项工作是朝着农业机器人终于能在娇嫩产品上与人类采摘者竞争迈出的有意义一步。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/handle-with-care-soft-1.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html",
+      "tags": ["软体机器人", "农业", "Cornell", "抓手"],
+      "timestamp": "2026-04-21T13:00:00Z"
+    },
+    {
+      "id": "art-20260422-06",
+      "title": "BMW在电动车工厂部署人形机器人以削减成本",
+      "summary": "BMW正在扩大在其电动车生产线上使用人形机器人的规模,以降低制造成本,与更便宜的中国电动车竞争。这些机器人正在先前需要专用工装或人工操作员的重复装配任务上进行测试。此举紧随Mercedes-Benz的类似试点,表明人形机器人正从演示视频毕业,成为德国汽车行业真正的成本削减工具。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Autoblog",
+      "url": "https://www.autoblog.com",
+      "tags": ["BMW", "人形机器人", "电动车", "制造业"],
+      "timestamp": "2026-04-21T15:00:00Z"
+    },
+    {
+      "id": "art-20260422-07",
+      "title": "Schaeffler与VinDynamics联手生产人形机器人",
+      "summary": "德国零部件巨头Schaeffler和越南背景的创业公司VinDynamics宣布联合推出一项倡议,为东南亚的工业客户大规模生产人形机器人。该合作将Schaeffler在精密轴承和执行器方面的专长与VinDynamics的集成和软件堆栈相结合。这标志着以越南为基地的首个重大人形机器人制造项目之一,而越南正在积极争取机器人供应链。",
+      "image": "https://vir.com.vn/stores/news_dataimages/2026/042026/22/08/in_social/schaeffler-and-vindynamics-press-image20260422083623.jpg?randTime=1776830703",
+      "source": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/schaeffler-and-vindynamics-join-forces-for-humanoid-robot-production-151194.html",
+      "tags": ["Schaeffler", "VinDynamics", "人形机器人", "越南"],
+      "timestamp": "2026-04-21T16:00:00Z"
+    },
+    {
+      "id": "art-20260422-08",
+      "title": "Hyundai与DeepX共建机器人AI平台",
+      "summary": "Hyundai汽车集团正与AI芯片制造商DeepX合作,为其机器人子公司(包括Boston Dynamics)打造共享AI软件平台。该平台将运行在DeepX的边缘AI加速器上,旨在标准化Hyundai人形、四足和物流机器人产品线的感知和控制。这是一次阻止各业务单元重复造轮子并收紧韩国AI芯片到机器人供应链的尝试。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "AI Business",
+      "url": "https://aibusiness.com/robotics/hyundai-deepx-partner-develop-ai-platform-robotics",
+      "tags": ["Hyundai", "DeepX", "Boston Dynamics", "边缘AI"],
+      "timestamp": "2026-04-21T08:00:00Z"
+    },
+    {
+      "id": "art-20260422-09",
+      "title": "Tesla的Optimus在波士顿马拉松迎接跑者",
+      "summary": "Tesla在Boston Marathon部署了一台Tesla Optimus人形机器人,在终点线附近迎接跑者、合影并分发水杯。此次亮相是Tesla在今年晚些时候承诺的Optimus量产之前刻意安排的营销时刻。除了公关看点之外,此次出场还展示了机器人在真正不可预测、人流密集的环境中改进的平衡性和人群感知运动规划。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Tesla", "Optimus", "人形机器人", "Boston Marathon"],
+      "timestamp": "2026-04-20T20:00:00Z"
+    },
+    {
+      "id": "art-20260422-10",
+      "title": "'Lightning'人形机器人在北京半程马拉松中打破人形机器人纪录",
+      "summary": "一款绰号为'Lightning'的中国人形机器人冲过Beijing半程马拉松终点线,速度超过有记录以来任何人形机器人,击败了包括此前步履不稳的选手在内的参赛群体。该机器人在计划中的电池更换下自主完成了21公里赛程,展示了相比去年几个人形机器人在镜头前著名倒下的比赛,耐用性的改进。这一噱头也是衡量步行耐力的基准,而步行耐力是一个比引人注目的后空翻更棘手的工程问题。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "ExtremeTech",
+      "url": "https://www.extremetech.com",
+      "tags": ["人形机器人", "中国", "运动控制", "Beijing"],
+      "timestamp": "2026-04-20T18:00:00Z"
+    },
+    {
+      "id": "art-20260422-11",
+      "title": "A&K Robotics筹集800万加元,扩大机场出行机器人规模",
+      "summary": "总部位于温哥华的A&K Robotics完成了800万加元的融资轮,以扩大其自主'微型车辆'车队,这些车辆旨在为行动不便的旅客穿梭于机场航站楼。该公司已在温哥华国际机场进行试用,并表示新资金将加速在北美枢纽的部署。这提醒我们,除了人形机器人之外,细分服务机器人市场也在吸引真正的风投资金。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Changi_Airport_Self_Driving_Bus.jpg/960px-Changi_Airport_Self_Driving_Bus.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/ak-robotics-raises-c8-million-to-build-autonomous-micro-vehicle-for-airports/100839/",
+      "tags": ["融资", "机场", "出行", "加拿大"],
+      "timestamp": "2026-04-21T12:00:00Z"
+    },
+    {
+      "id": "art-20260422-12",
+      "title": "Bubble Robotics融资500万美元,打造'海洋自主劳动力'",
+      "summary": "英国创业公司Bubble Robotics从隐身模式中亮相,获得由Episode 1 Ventures和Asterion Ventures领投的500万美元种子前融资,用于开发自主水下机器人,用于海上检查、水产养殖和海洋监测。这些创始人是Entrepreneurs First的校友,他们表示其集群方式可取代昂贵的载人船只进行例行水下作业。水下机器人一直落后于陆地和空中同类,但投资者的兴趣似乎正在转变。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mini_ROV_-_Manipulation_de_la_pince_dans_le_bassin_d%27essais_du_Centre_Ifremer_de_Brest_%28Ifremer_00780-89154_-_49048%29.jpg/960px-Mini_ROV_-_Manipulation_de_la_pince_dans_le_bassin_d%27essais_du_Centre_Ifremer_de_Brest_%28Ifremer_00780-89154_-_49048%29.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/bubble-robotics-raises-5-million-to-build-the-oceans-autonomous-workforce/100806/",
+      "tags": ["融资", "水下", "海洋", "集群"],
+      "timestamp": "2026-04-21T10:30:00Z"
+    },
+    {
+      "id": "art-20260422-13",
+      "title": "中国人形机器人制造商看好RISC-V而非Nvidia Jetson",
+      "summary": "根据Digitimes供应链报告,一批中国人形机器人厂商正悄然从Nvidia的Jetson系列转向基于RISC-V的计算模块。这一转变由美国出口管制、成本压力以及围绕StarFive和SiFive等公司不断增长的国内RISC-V生态系统共同推动。如果这一趋势持续,可能会使机器人软件堆栈碎片化,并对Nvidia在边缘AI硬件上的控制力形成压力。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com",
+      "tags": ["RISC-V", "Nvidia", "中国", "边缘AI"],
+      "timestamp": "2026-04-21T06:00:00Z"
+    },
+    {
+      "id": "art-20260422-14",
+      "title": "Jeff Bezos的'Project Prometheus'为物理AI融资100亿美元",
+      "summary": "Jeff Bezos成立五个月的隐身创业公司'Project Prometheus'据报道正以380亿美元估值完成100亿美元的融资轮,由JPMorgan和BlackRock支持。该公司据称正在构建通用'Physical AI'系统,将机器人硬件与基础模型推理相结合。如果这些数字属实,Project Prometheus将成为有史以来资本最充足的物理AI押注之一,直接瞄准OpenAI、Figure和1X。",
+      "image": "https://external-preview.redd.it/KDru8BhyELzZ9JfZ18xo0EVnzVpS7vLP6C-eIJ_GU-A.jpeg?width=640&crop=smart&auto=webp&s=d32cf1de02f8952b1238eeb3552bb8a49a13432f",
+      "source": "Reddit r/artificial",
+      "url": "https://www.reddit.com/r/artificial/comments/1srwofc/jeff_bezoss_project_prometheus_is_raising_10b_at/",
+      "tags": ["Jeff Bezos", "物理AI", "融资", "创业公司"],
+      "timestamp": "2026-04-21T17:00:00Z"
+    },
+    {
+      "id": "art-20260422-15",
+      "title": "德国法院支持Teradyne,对Elite Robots发布禁令",
+      "summary": "德国一家法院对中国协作机器人制造商Elite Robots发布了初步禁令,支持Teradyne Robotics,理由是侵犯协作机器人安全机制的专利。该裁决迫使Elite Robots在正式审判前停止在德国销售多款机型。这是老牌西方机械臂厂商与行动更快、价格更低的中国挑战者之间日益激烈的知识产权战中的最新一战。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": ["Teradyne", "Elite Robots", "专利", "协作机器人"],
+      "timestamp": "2026-04-21T09:00:00Z"
+    },
+    {
+      "id": "art-20260422-16",
+      "title": "圣何塞的新自主配送机器人Coco进驻市中心",
+      "summary": "San Jose迎来了'Coco',这是一支粉色的人行道配送机器人车队,在市中心核心区运送食品和小包裹。Coco在城市许可下运营,配有人类远程监控,接受附近餐厅和零售店的订单。此次启动使San Jose成为美国最大的拥有活跃最后一英里人行道机器人车队的城市之一,此前San Francisco和Los Angeles经历了多年的监管拉锯。",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-PIZARRO-COL-0422-01.jpg?w=1024&h=713",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2026/04/21/meet-coco-downtown-san-joses-new-autonomous-delivery-robot/",
+      "tags": ["配送机器人", "人行道", "San Jose", "最后一英里"],
+      "timestamp": "2026-04-21T19:00:00Z"
+    },
+    {
+      "id": "art-20260422-17",
+      "title": "Cadence和Nvidia扩大合作,推进AI驱动的工程和数字孪生",
+      "summary": "芯片设计软件领导者Cadence正在扩大与Nvidia的合作,将生成式AI和数字孪生工具直接嵌入其工程套件。该交易将Cadence现有的Nvidia Omniverse使用范围扩展到机器人单元仿真、工厂布局和传感器在环测试。对于机器人制造商而言,这意味着在任何硬件建造之前,可以对感知和控制堆栈进行更完整的端到端验证。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PIA23828-MarsPreseveranceRover-Testing02-20200407.jpg/960px-PIA23828-MarsPreseveranceRover-Testing02-20200407.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/cadence-and-nvidia-expand-partnership-to-advance-ai-driven-engineering-and-digital-twins/",
+      "tags": ["Nvidia", "Cadence", "数字孪生", "仿真"],
+      "timestamp": "2026-04-21T07:00:00Z"
+    },
+    {
+      "id": "art-20260422-18",
+      "title": "UBTECH与Terra Robotics合作,在欧洲部署人形机器人",
+      "summary": "中国人形机器人制造商UBTECH与意大利Terra Robotics签署了分销和集成协议,将其Walker S系列部署到欧洲工业客户。合作涵盖销售、本地服务和应用工程,首批部署将在汽车和物流领域展开。这是UBTECH迄今为止在欧洲最具体的立足点,西方客户开始将中国人形机器人与本土选项一并评估。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": ["UBTECH", "Terra Robotics", "欧洲", "人形机器人"],
+      "timestamp": "2026-04-21T05:00:00Z"
+    },
+    {
+      "id": "art-20260422-19",
+      "title": "中国正在赢得人形机器人竞赛——毫不夸张",
+      "summary": "Straight Arrow News的一项分析认为,中国现在出货的人形机器人数量超过整个美国市场总和,由大力的国家支持、激进的制造规模和密集的零部件供应链推动。该报告将人形机器人定位为一种战略技术,中国的产业政策剧本正在超越由私人资本驱动的美国对手。美国公司如Figure、1X和Tesla能否通过软件差异化缩小差距仍是悬而未决的问题。",
+      "image": "https://san.com/wp-content/uploads/2026/04/Untitled-design-14.jpg",
+      "source": "Straight Arrow News",
+      "url": "https://san.com/cc/china-is-winning-the-humanoid-robotics-race-literally/",
+      "tags": ["中国", "人形机器人", "地缘政治", "行业"],
+      "timestamp": "2026-04-21T14:30:00Z"
+    },
+    {
+      "id": "art-20260422-20",
+      "title": "QNX与Nvidia IGX Thor集成,面向安全关键型AI机器人",
+      "summary": "BlackBerry的QNX实时操作系统已与Nvidia的IGX Thor平台集成,为机器人开发人员提供了用于医疗、工业和自动驾驶汽车场景下安全关键型AI部署的预验证堆栈。该组合将QNX的确定性微内核与Thor的AI加速器相结合,瞄准IEC 61508和ISO 26262等认证。对于手术机器人和协作机器人的制造商而言,这消除了安全案例工程负担的很大一部分。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/qnx-integrates-with-nvidia-igx-thor-to-accelerate-safety-critical-ai-deployment/",
+      "tags": ["QNX", "Nvidia", "安全关键", "医疗"],
+      "timestamp": "2026-04-21T06:30:00Z"
+    }
+  ]
+}

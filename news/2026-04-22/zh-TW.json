@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-22",
+  "featured": {
+    "id": "featured-20260422",
+    "title": "RobCo於漢諾威工業展發表「Autonomous Alfie」人形機器人",
+    "summary": "德國工業機器人廠商RobCo發表「Autonomous Alfie」，一款專為中型製造工廠現場打造、而非僅供炫目展示的人形機器人。該公司將Alfie定位為價格親民的平台，可與RobCo既有的模組化機械手臂產品線一同融入現有生產線，負責機台照料與品質檢測等任務。這次於Hannover Messe 2026的亮相，顯示歐洲工業機器人廠商正加緊回應中國與美國人形機器人業者進軍工廠現場的浪潮。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/20/robco-unveils-autonomous-alfie-humanoid-robot-for-industrial-automation-at-hannover-messe/100762/",
+    "tags": ["人形機器人", "工業自動化", "Hannover Messe", "RobCo"],
+    "timestamp": "2026-04-20T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260422-01",
+      "title": "Skild AI收購Zebra Technologies機器人自動化事業",
+      "summary": "總部位於匹茲堡、以通用型機器人基礎模型聞名的Skild AI，宣布收購Zebra Technologies的機器人自動化部門，以加速倉儲部署。此交易讓Skild取得Zebra的車隊管理軟體，以及物流領域中既有的自主移動機器人安裝基礎。業界觀察人士認為，這顯示以AI為核心的機器人公司正透過併購，取得擴大商業化所需的硬體通路。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/skild-ai-acquires-zebra-technologies-robotics-automation-business/",
+      "tags": ["Skild AI", "Zebra", "收購", "倉儲"],
+      "timestamp": "2026-04-21T10:00:00Z"
+    },
+    {
+      "id": "art-20260422-02",
+      "title": "Neura Robotics與AWS合作擴展實體AI規模",
+      "summary": "德國人形機器人新創Neura Robotics與Amazon Web Services簽署策略合作，將其認知型機器人車隊運行於AWS雲端基礎架構之上。此合作涵蓋在AWS晶片上訓練Neura的基礎模型，以及從已部署機器人回傳遙測資料以進行持續學習。這是Neura在加速量產4NE-1人形機器人、為2026年下半年預定工廠部署鋪路之際，一項重要的商業基石。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/neura-robotics-and-amazon-web-services-enter-strategic-collaboration-to-accelerate-physical-ai-at-scale/",
+      "tags": ["Neura Robotics", "AWS", "實體AI", "雲端"],
+      "timestamp": "2026-04-21T11:00:00Z"
+    },
+    {
+      "id": "art-20260422-03",
+      "title": "Agibot發表新一代具身AI機器人，瞄準真實世界部署",
+      "summary": "中國人形機器人業者Agibot發表新一代具身AI機器人與基礎模型，鎖定規模化的工業與商業部署。該公司表示，最新平台已跳脫實驗室展示階段，硬體與軟體皆針對24小時不停歇的工廠輪班與物流作業進行調校。這次發表凸顯中國人形機器人業者正以驚人速度，從原型秀轉型為量產合約。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-for-real-world-deployment/",
+      "tags": ["Agibot", "具身AI", "人形機器人", "中國"],
+      "timestamp": "2026-04-21T09:30:00Z"
+    },
+    {
+      "id": "art-20260422-04",
+      "title": "MIT機器人微型工廠劍指住宅短缺問題",
+      "summary": "MIT研究人員打造了一座機器人微型工廠，能在貨櫃大小的空間內生產可客製化的模組化住宅元件。系統運用移動式機械手臂搭配電腦視覺，從標準木材切割、組裝與完成結構板材，目標是將工廠直接部署於建築工地附近。若能規模化，此方式可望大幅削減預製住宅的成本與運輸碳排放。",
+      "image": "https://news.mit.edu/sites/default/files/images/202604/mit-system-design.jpg",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/tackling-housing-shortage-robotic-microfactories-0421",
+      "tags": ["MIT", "營建", "微型工廠", "研究"],
+      "timestamp": "2026-04-21T14:00:00Z"
+    },
+    {
+      "id": "art-20260422-05",
+      "title": "Cornell軟性夾爪能採摘熟成水果而不傷果肉",
+      "summary": "Cornell大學研究人員開發出一款軟性機器人夾爪，搭載可伸縮的光纖感測器，能像人手般透過觸覺判斷水果熟度。該裝置辨識熟成草莓與番茄的準確率超過90%，並能以足夠輕柔的力道避免損傷。這項成果對於讓農業機器人在處理細緻農產品上終於能與人類採摘員一較高下，是一項具意義的進展。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/handle-with-care-soft-1.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html",
+      "tags": ["軟性機器人", "農業", "Cornell", "夾爪"],
+      "timestamp": "2026-04-21T13:00:00Z"
+    },
+    {
+      "id": "art-20260422-06",
+      "title": "BMW在電動車工廠導入人形機器人以降低成本",
+      "summary": "BMW正擴大在其電動車生產線上使用人形機器人，以降低製造成本，因應來自較低價中國電動車的競爭壓力。這些機器人目前在過去需要專用治具或人力操作員的重複性組裝任務上進行測試。此舉繼Mercedes-Benz的類似試點之後，顯示人形機器人在德國汽車產業正從展示影片躍升為真正的降本工具。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Autoblog",
+      "url": "https://www.autoblog.com",
+      "tags": ["BMW", "人形機器人", "電動車", "製造業"],
+      "timestamp": "2026-04-21T15:00:00Z"
+    },
+    {
+      "id": "art-20260422-07",
+      "title": "Schaeffler與VinDynamics攜手生產人形機器人",
+      "summary": "德國零組件巨擘Schaeffler與越南背景新創VinDynamics宣布展開聯合計畫，為東南亞工業客戶量產人形機器人。此合作將Schaeffler在精密軸承與致動器的專業，與VinDynamics的整合能力與軟體堆疊相結合。這也是首批在越南落地、具規模的人形機器人製造合資案之一，越南正積極爭取機器人供應鏈進駐。",
+      "image": "https://vir.com.vn/stores/news_dataimages/2026/042026/22/08/in_social/schaeffler-and-vindynamics-press-image20260422083623.jpg?randTime=1776830703",
+      "source": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/schaeffler-and-vindynamics-join-forces-for-humanoid-robot-production-151194.html",
+      "tags": ["Schaeffler", "VinDynamics", "人形機器人", "越南"],
+      "timestamp": "2026-04-21T16:00:00Z"
+    },
+    {
+      "id": "art-20260422-08",
+      "title": "Hyundai與DeepX共建機器人AI平台",
+      "summary": "Hyundai Motor Group與AI晶片廠DeepX合作，為旗下包括Boston Dynamics在內的機器人子公司，建立共享的AI軟體平台。該平台將運行於DeepX的邊緣AI加速器上，目標是在Hyundai的人形、四足與物流機器人產品線之間，標準化感知與控制。此舉旨在避免各事業單位重複造輪，並強化韓國從AI晶片到機器人的供應鏈整合。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "AI Business",
+      "url": "https://aibusiness.com/robotics/hyundai-deepx-partner-develop-ai-platform-robotics",
+      "tags": ["Hyundai", "DeepX", "Boston Dynamics", "邊緣AI"],
+      "timestamp": "2026-04-21T08:00:00Z"
+    },
+    {
+      "id": "art-20260422-09",
+      "title": "Tesla Optimus在Boston Marathon迎接跑者",
+      "summary": "Tesla在Boston Marathon部署一具Optimus人形機器人，在終點線附近迎接跑者、合影並遞水杯。此次亮相是Tesla在今年稍後預定量產Optimus前，刻意安排的行銷時刻。除公關效應外，此次外場活動也展現該機器人在真正難以預測、人流密集環境中，更佳的平衡能力與人群感知運動規劃。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Tesla", "Optimus", "人形機器人", "Boston Marathon"],
+      "timestamp": "2026-04-20T20:00:00Z"
+    },
+    {
+      "id": "art-20260422-10",
+      "title": "「閃電」人形機器人在Beijing半程馬拉松刷新紀錄",
+      "summary": "一具暱稱「閃電」的中國人形機器人以人形機器人有紀錄以來最快速度越過Beijing半程馬拉松終點線，擊敗包含去年頻頻跌倒選手在內的一眾對手。該機器人以排定的電池更換方式，自主完成21公里賽程，相較去年多具人形機器人當眾倒地的賽事，展現耐用度的顯著提升。此噱頭同時也成為步行耐力的基準測試，而這在工程上比搶佔版面的後空翻更具挑戰性。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "ExtremeTech",
+      "url": "https://www.extremetech.com",
+      "tags": ["人形機器人", "中國", "運動控制", "Beijing"],
+      "timestamp": "2026-04-20T18:00:00Z"
+    },
+    {
+      "id": "art-20260422-11",
+      "title": "A&K Robotics募得800萬加幣擴展機場行動載具",
+      "summary": "總部位於溫哥華的A&K Robotics完成800萬加幣募資，將擴大其自主「微型載具」車隊，協助行動不便旅客穿越機場航廈。該公司已在Vancouver International進行試營運，並表示新資金將加速在北美樞紐機場的部署。這也提醒市場，創投資金流入的不只是人形機器人，利基型服務機器人領域同樣吸金。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Changi_Airport_Self_Driving_Bus.jpg/960px-Changi_Airport_Self_Driving_Bus.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/ak-robotics-raises-c8-million-to-build-autonomous-micro-vehicle-for-airports/100839/",
+      "tags": ["募資", "機場", "行動輔助", "加拿大"],
+      "timestamp": "2026-04-21T12:00:00Z"
+    },
+    {
+      "id": "art-20260422-12",
+      "title": "Bubble Robotics募得500萬美元，要打造「海洋自主勞動力」",
+      "summary": "英國新創Bubble Robotics以500萬美元前種子輪浮出檯面，由Episode 1 Ventures與Asterion Ventures領投，開發用於離岸檢測、水產養殖與海洋監測的自主水下機器人。這兩位出身Entrepreneurs First的創辦人表示，他們的群體式方案可取代昂貴的有人船隻，執行例行的水下工作。水下機器人領域一直落後於陸地與空中同類，但投資人的胃口看來正在轉向。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mini_ROV_-_Manipulation_de_la_pince_dans_le_bassin_d%27essais_du_Centre_Ifremer_de_Brest_%28Ifremer_00780-89154_-_49048%29.jpg/960px-Mini_ROV_-_Manipulation_de_la_pince_dans_le_bassin_d%27essais_du_Centre_Ifremer_de_Brest_%28Ifremer_00780-89154_-_49048%29.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/bubble-robotics-raises-5-million-to-build-the-oceans-autonomous-workforce/100806/",
+      "tags": ["募資", "水下機器人", "海洋", "群體機器人"],
+      "timestamp": "2026-04-21T10:30:00Z"
+    },
+    {
+      "id": "art-20260422-13",
+      "title": "中國人形機器人廠商看上RISC-V，棄Nvidia Jetson而去",
+      "summary": "根據Digitimes供應鏈報導，一波中國人形機器人業者正悄悄從Nvidia的Jetson系列轉向採用RISC-V架構的運算模組。此轉變由美國出口管制、成本壓力，以及圍繞StarFive與SiFive等公司日益成熟的國內RISC-V生態系共同驅動。若趨勢持續，恐將使機器人軟體堆疊走向分裂，並對Nvidia在邊緣AI硬體的主導地位形成壓力。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com",
+      "tags": ["RISC-V", "Nvidia", "中國", "邊緣AI"],
+      "timestamp": "2026-04-21T06:00:00Z"
+    },
+    {
+      "id": "art-20260422-14",
+      "title": "Jeff Bezos的「Project Prometheus」將為實體AI募集100億美元",
+      "summary": "Jeff Bezos成立五個月的隱身新創「Project Prometheus」據報正完成100億美元募資，估值達380億美元，由JPMorgan與BlackRock領投。該公司據稱正打造將機器人硬體與基礎模型推理結合的通用型「實體AI」系統。若數字屬實，Project Prometheus將成為史上資金最雄厚的實體AI賭注之一，直接瞄準OpenAI、Figure與1X。",
+      "image": "https://external-preview.redd.it/KDru8BhyELzZ9JfZ18xo0EVnzVpS7vLP6C-eIJ_GU-A.jpeg?width=640&crop=smart&auto=webp&s=d32cf1de02f8952b1238eeb3552bb8a49a13432f",
+      "source": "Reddit r/artificial",
+      "url": "https://www.reddit.com/r/artificial/comments/1srwofc/jeff_bezoss_project_prometheus_is_raising_10b_at/",
+      "tags": ["Jeff Bezos", "實體AI", "募資", "新創"],
+      "timestamp": "2026-04-21T17:00:00Z"
+    },
+    {
+      "id": "art-20260422-15",
+      "title": "德國法院支持Teradyne，對Elite Robots核發禁制令",
+      "summary": "德國法院已核發Teradyne Robotics針對中國協作機器人業者Elite Robots的初步禁制令，理由是後者侵害協作機器人安全機制的專利。該裁決迫使Elite Robots在全面審理前，須於德國停售多款機種。這是西方既有機械手臂廠商與步調更快、價格更低的中國挑戰者之間，日益升溫的智財大戰中最新的一波攻勢。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": ["Teradyne", "Elite Robots", "專利", "協作機器人"],
+      "timestamp": "2026-04-21T09:00:00Z"
+    },
+    {
+      "id": "art-20260422-16",
+      "title": "San Jose新款自主送貨機器人Coco進駐市中心",
+      "summary": "San Jose迎來「Coco」——一支粉紅色的人行道送貨機器人車隊，穿梭市中心運送餐點與小包裹。Coco在市府許可下運行，並由人類遠端監控，接受附近餐廳與零售店家的訂單。此次上線讓San Jose成為美國少數擁有活躍末端人行道機器人車隊的大城市之一，這是在San Francisco與Los Angeles歷經多年法規拉鋸之後的突破。",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-PIZARRO-COL-0422-01.jpg?w=1024&h=713",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2026/04/21/meet-coco-downtown-san-joses-new-autonomous-delivery-robot/",
+      "tags": ["送貨機器人", "人行道", "San Jose", "末端配送"],
+      "timestamp": "2026-04-21T19:00:00Z"
+    },
+    {
+      "id": "art-20260422-17",
+      "title": "Cadence與Nvidia擴大合作，推動AI驅動工程與數位孿生",
+      "summary": "晶片設計軟體龍頭Cadence擴大與Nvidia的合作，將生成式AI與數位孿生工具直接嵌入其工程套裝。此合作將Cadence現有對Nvidia Omniverse的使用，延伸至機器人單元模擬、工廠佈局以及感測器迴路測試。對機器人開發者而言，這意味著在任何硬體打造之前，就能對感知與控制堆疊進行更完整的端對端驗證。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PIA23828-MarsPreseveranceRover-Testing02-20200407.jpg/960px-PIA23828-MarsPreseveranceRover-Testing02-20200407.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/cadence-and-nvidia-expand-partnership-to-advance-ai-driven-engineering-and-digital-twins/",
+      "tags": ["Nvidia", "Cadence", "數位孿生", "模擬"],
+      "timestamp": "2026-04-21T07:00:00Z"
+    },
+    {
+      "id": "art-20260422-18",
+      "title": "UBTECH攜手Terra Robotics推動人形機器人進入歐洲",
+      "summary": "中國人形機器人業者UBTECH與義大利Terra Robotics簽訂經銷與整合協議，將其Walker S系列部署至歐洲工業客戶。此合作涵蓋銷售、在地服務與應用工程，首波部署鎖定汽車與物流產業。這是UBTECH迄今在歐洲最具體的立足點，正值西方客戶開始將中國人形機器人與本土方案並列評估之際。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": ["UBTECH", "Terra Robotics", "歐洲", "人形機器人"],
+      "timestamp": "2026-04-21T05:00:00Z"
+    },
+    {
+      "id": "art-20260422-19",
+      "title": "中國正在贏下人形機器人競賽——名副其實",
+      "summary": "Straight Arrow News的分析指出，中國目前出貨的人形機器人數量已超過整體美國市場加總，背後是龐大的國家支持、積極的製造規模擴張，以及綿密的零組件供應鏈。該報告將人形機器人定位為戰略性科技，而中國的產業政策劇本正勝過由私人資本驅動的美國對手。Figure、1X與Tesla等美國廠商能否透過軟體差異化彌補落差，仍是未定之天。",
+      "image": "https://san.com/wp-content/uploads/2026/04/Untitled-design-14.jpg",
+      "source": "Straight Arrow News",
+      "url": "https://san.com/cc/china-is-winning-the-humanoid-robotics-race-literally/",
+      "tags": ["中國", "人形機器人", "地緣政治", "產業"],
+      "timestamp": "2026-04-21T14:30:00Z"
+    },
+    {
+      "id": "art-20260422-20",
+      "title": "QNX整合Nvidia IGX Thor，打造安全關鍵AI機器人",
+      "summary": "BlackBerry旗下QNX即時作業系統已與Nvidia IGX Thor平台完成整合，為機器人開發者提供一套預先驗證的堆疊，可用於醫療、工業與自動駕駛等安全關鍵AI部署情境。此組合將QNX的確定性微核心與Thor的AI加速器結合，目標取得IEC 61508與ISO 26262等認證。對手術機器人與協作機器人開發者而言，這大幅減輕了安全驗證的工程負擔。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/qnx-integrates-with-nvidia-igx-thor-to-accelerate-safety-critical-ai-deployment/",
+      "tags": ["QNX", "Nvidia", "安全關鍵", "醫療"],
+      "timestamp": "2026-04-21T06:30:00Z"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-22",
+  "featured": {
+    "id": "featured-20260422",
+    "title": "RobCo Yazindua Roboti ya Kibinadamu 'Autonomous Alfie' kwenye Hannover Messe",
+    "summary": "Kampuni ya Ujerumani ya roboti za viwandani RobCo imezindua 'Autonomous Alfie,' roboti ya kibinadamu iliyotengenezwa mahsusi kwa sakafu za viwanda vya ukubwa wa kati badala ya maonyesho ya kuvutia tu. Kampuni inaitangaza Alfie kama jukwaa la bei nafuu linaloingia katika mistari ya uzalishaji iliyopo pamoja na safu ya mikono ya moduli ya RobCo, likishughulikia kazi kama kuhudumia mashine na ukaguzi wa ubora. Uzinduzi huo katika Hannover Messe 2026 unaashiria kuwa wauzaji wa roboti za viwandani wa Ulaya wanakimbia kujibu wimbi la washindani wa kibinadamu wa China na Marekani wanaolenga sakafu za viwanda.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/20/robco-unveils-autonomous-alfie-humanoid-robot-for-industrial-automation-at-hannover-messe/100762/",
+    "tags": ["Kibinadamu", "Otomatiki ya Kiviwanda", "Hannover Messe", "RobCo"],
+    "timestamp": "2026-04-20T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260422-01",
+      "title": "Skild AI Yanunua Biashara ya Otomatiki ya Roboti ya Zebra Technologies",
+      "summary": "Skild AI yenye makao yake Pittsburgh, inayojulikana kwa mtindo wake wa msingi wa roboti za matumizi ya jumla, imenunua kitengo cha otomatiki cha roboti cha Zebra Technologies ili kuharakisha utumiaji katika maghala. Mpango huo unaipa Skild ufikiaji wa programu ya usimamizi wa kundi la Zebra na msingi uliowekwa wa roboti za rununu zinazojiendesha katika usafirishaji. Waangalizi wa tasnia wanaona kama ishara kwamba kampuni za roboti zinazotanguliza AI zinanunua njia zao za kuingia kwenye chaneli za vifaa zinazohitaji ili kukua kibiashara.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/skild-ai-acquires-zebra-technologies-robotics-automation-business/",
+      "tags": ["Skild AI", "Zebra", "Ununuzi", "Ghala"],
+      "timestamp": "2026-04-21T10:00:00Z"
+    },
+    {
+      "id": "art-20260422-02",
+      "title": "Neura Robotics na AWS Washirikiane Kukuza AI ya Kimwili",
+      "summary": "Kampuni changa ya Ujerumani ya roboti za kibinadamu Neura Robotics imetia saini ushirikiano wa kimkakati na Amazon Web Services kuendesha kundi lake la roboti za utambuzi kwenye miundombinu ya wingu ya AWS. Mpango huo unajumuisha kufunza mifano ya msingi ya Neura kwenye silikoni ya AWS na kutiririsha telemetri kutoka kwa roboti zilizotumwa kwa ajili ya kujifunza kwa kuendelea. Ni nanga ya kibiashara muhimu kwa Neura inapoongeza uzalishaji wa roboti yake ya kibinadamu ya 4NE-1 kabla ya kutumwa viwandani kulikoahidiwa mwishoni mwa 2026.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/neura-robotics-and-amazon-web-services-enter-strategic-collaboration-to-accelerate-physical-ai-at-scale/",
+      "tags": ["Neura Robotics", "AWS", "AI ya Kimwili", "Wingu"],
+      "timestamp": "2026-04-21T11:00:00Z"
+    },
+    {
+      "id": "art-20260422-03",
+      "title": "Agibot Yafichua Roboti za Kizazi Kipya za AI Iliyojumuishwa kwa Matumizi ya Ulimwengu Halisi",
+      "summary": "Mtengenezaji wa roboti za kibinadamu wa China Agibot amezindua kizazi kipya cha roboti za AI iliyojumuishwa na mifano ya msingi inayolenga kutumika katika sekta za viwanda na biashara kwa kiwango kikubwa. Kampuni inasema jukwaa lake la hivi karibuni linasonga mbele zaidi ya maonyesho ya maabara, likiwa na vifaa na programu zilizolinganishwa kwa zamu za viwanda za saa 24 kwa siku na kazi za usafirishaji. Uzinduzi huo unasisitiza jinsi kampuni za kibinadamu za China zinavyohama kwa haraka kutoka kwa maonyesho ya mfano hadi mikataba ya uzalishaji.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-for-real-world-deployment/",
+      "tags": ["Agibot", "AI Iliyojumuishwa", "Kibinadamu", "China"],
+      "timestamp": "2026-04-21T09:30:00Z"
+    },
+    {
+      "id": "art-20260422-04",
+      "title": "Viwanda Vidogo vya Roboti vya MIT Vinalenga Upungufu wa Makazi",
+      "summary": "Watafiti wa MIT wamejenga kiwanda kidogo cha roboti kinachoweza kuzalisha vipengele vya makazi vya moduli vinavyoweza kubadilishwa katika nafasi ya ukubwa wa chombo cha mizigo. Mfumo huo hutumia mkono wa roboti wa rununu pamoja na uwezo wa kuona wa kompyuta kukata, kuunganisha, na kumalizia paneli za muundo kutoka kwa mbao za kawaida, kwa lengo la kutumwa viwandani moja kwa moja karibu na maeneo ya ujenzi. Ikiwa itakuzwa, mbinu hii inaweza kupunguza kwa kiasi kikubwa gharama na uzalishaji wa hewa chafu kutoka kwa makazi yaliyotengenezwa awali.",
+      "image": "https://news.mit.edu/sites/default/files/images/202604/mit-system-design.jpg",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/tackling-housing-shortage-robotic-microfactories-0421",
+      "tags": ["MIT", "Ujenzi", "Kiwanda Kidogo", "Utafiti"],
+      "timestamp": "2026-04-21T14:00:00Z"
+    },
+    {
+      "id": "art-20260422-05",
+      "title": "Kishikiliaji Laini cha Cornell Chachuma Matunda Yaliyoiva Bila Kuyaharibu",
+      "summary": "Watafiti wa Chuo Kikuu cha Cornell wametengeneza kishikiliaji laini cha roboti chenye sensa za nyuzi za macho zinazoweza kunyooka zinazoweza kutathmini kuiva kwa kugusa, kama vile mkono wa binadamu. Kifaa hicho kiliweza kutambua stroberi na nyanya zilizoiva kwa usahihi wa zaidi ya asilimia 90 huku kikizishughulikia kwa upole wa kutosha ili kuepuka uharibifu. Kazi hiyo ni hatua muhimu kuelekea roboti za kilimo ambazo hatimaye zinaweza kushindana na wachumaji wa kibinadamu katika mazao dhaifu.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/handle-with-care-soft-1.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html",
+      "tags": ["Roboti Laini", "Kilimo", "Cornell", "Vishikiliaji"],
+      "timestamp": "2026-04-21T13:00:00Z"
+    },
+    {
+      "id": "art-20260422-06",
+      "title": "BMW Yatumia Roboti za Kibinadamu katika Kiwanda cha EV Kupunguza Gharama",
+      "summary": "BMW inapanua matumizi yake ya roboti za kibinadamu katika mistari yake ya uzalishaji wa magari ya umeme ili kupunguza gharama za utengenezaji kwani mtengenezaji huyu wa magari anashindana na magari ya umeme ya bei nafuu ya China. Roboti hizo zinajaribiwa katika kazi za kuunganisha za kurudia ambazo hapo awali zilihitaji vifaa maalum au waendeshaji wa kibinadamu. Hatua hiyo inafuata majaribio kama hayo ya Mercedes-Benz na inaashiria kwamba roboti za kibinadamu zinahama kutoka video za maonyesho hadi zana halisi za kupunguza gharama katika sekta ya magari ya Ujerumani.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Autoblog",
+      "url": "https://www.autoblog.com",
+      "tags": ["BMW", "Kibinadamu", "EV", "Utengenezaji"],
+      "timestamp": "2026-04-21T15:00:00Z"
+    },
+    {
+      "id": "art-20260422-07",
+      "title": "Schaeffler na VinDynamics Washirikiane katika Uzalishaji wa Roboti za Kibinadamu",
+      "summary": "Kampuni kubwa ya vifaa ya Ujerumani Schaeffler na kampuni changa inayoungwa mkono na Vietnam VinDynamics zimetangaza mpango wa pamoja wa kuzalisha roboti za kibinadamu kwa wingi kwa wateja wa viwandani katika Kusini-Mashariki mwa Asia. Ushirikiano huo unaunganisha utaalamu wa Schaeffler katika beringi na vichochezi sahihi na mkusanyiko wa uunganishaji na programu wa VinDynamics. Unaashiria mmoja wa miradi mikubwa ya kwanza ya utengenezaji wa roboti za kibinadamu iliyotia nanga nchini Vietnam, nchi inayohimiza kwa bidii mlolongo wa usambazaji wa roboti.",
+      "image": "https://vir.com.vn/stores/news_dataimages/2026/042026/22/08/in_social/schaeffler-and-vindynamics-press-image20260422083623.jpg?randTime=1776830703",
+      "source": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/schaeffler-and-vindynamics-join-forces-for-humanoid-robot-production-151194.html",
+      "tags": ["Schaeffler", "VinDynamics", "Kibinadamu", "Vietnam"],
+      "timestamp": "2026-04-21T16:00:00Z"
+    },
+    {
+      "id": "art-20260422-08",
+      "title": "Hyundai na DeepX Wanajenga Jukwaa la Pamoja la AI kwa Roboti",
+      "summary": "Hyundai Motor Group inashirikiana na mtengenezaji wa chipu za AI DeepX kujenga jukwaa la pamoja la programu ya AI kwa kampuni zake tanzu za roboti, pamoja na Boston Dynamics. Jukwaa hilo litakimbia kwenye vichochezi vya AI vya makali vya DeepX na linalenga kusawazisha utambuzi na udhibiti katika safu za roboti za kibinadamu, za miguu minne, na za usafirishaji za Hyundai. Ni jitihada ya kuzuia kila kitengo cha biashara kuvumbua tena gurudumu na kuimarisha mlolongo wa usambazaji wa chipu za AI hadi roboti wa Korea.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "AI Business",
+      "url": "https://aibusiness.com/robotics/hyundai-deepx-partner-develop-ai-platform-robotics",
+      "tags": ["Hyundai", "DeepX", "Boston Dynamics", "AI ya Makali"],
+      "timestamp": "2026-04-21T08:00:00Z"
+    },
+    {
+      "id": "art-20260422-09",
+      "title": "Tesla Optimus Anawasalimu Wakimbiaji kwenye Boston Marathon",
+      "summary": "Tesla ilituma roboti ya kibinadamu ya Optimus kwenye Boston Marathon kuwasalimu wakimbiaji, kupiga picha nao, na kugawa vikombe vya maji karibu na mstari wa kumalizia. Kuonekana huko kulikuwa ni wakati wa masoko wa kukusudia kabla ya ongezeko la uzalishaji wa Optimus lililoahidiwa na Tesla baadaye mwaka huu. Zaidi ya maonyesho ya PR, safari hiyo ilionyesha usawa ulioboreshwa wa roboti na upangaji wa mwendo unaozingatia umati katika mazingira yenye watu wengi na yasiyotabirika.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Tesla", "Optimus", "Kibinadamu", "Boston Marathon"],
+      "timestamp": "2026-04-20T20:00:00Z"
+    },
+    {
+      "id": "art-20260422-10",
+      "title": "Roboti ya Kibinadamu 'Lightning' Yavunja Rekodi ya Binadamu katika Beijing Half-Marathon",
+      "summary": "Roboti ya kibinadamu ya China iliyopewa jina la utani 'Lightning' ilivuka mstari wa kumalizia wa nusu marathon ya Beijing haraka kuliko roboti yoyote ya kibinadamu katika historia iliyorekodiwa, ikiwashinda washindani wa mwanzo wenye matatizo ya kujikwaa. Roboti hiyo ilikamilisha umbali wa kilomita 21 kwa nguvu zake yenyewe huku ikibadilishiwa betri kwa ratiba, ikionyesha uboreshaji wa uimara zaidi ya mbio za mwaka jana ambapo roboti kadhaa za kibinadamu zilianguka maarufu kwenye kamera. Tukio hilo pia linafanya kazi kama kipimo cha stamina ya kutembea, tatizo gumu la uhandisi kuliko mizunguko ya nyuma inayovutia vichwa vya habari.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "ExtremeTech",
+      "url": "https://www.extremetech.com",
+      "tags": ["Kibinadamu", "China", "Mwendo", "Beijing"],
+      "timestamp": "2026-04-20T18:00:00Z"
+    },
+    {
+      "id": "art-20260422-11",
+      "title": "A&K Robotics Yakusanya C$8M Kukuza Roboti za Uhamaji Viwanja vya Ndege",
+      "summary": "A&K Robotics yenye makao yake Vancouver imemaliza mzunguko wa dola milioni 8 za Kanada kupanua kundi lake la 'magari madogo' ya kujiendesha yaliyoundwa kusafirisha wasafiri wenye ulemavu wa uhamaji kupitia vituo vya viwanja vya ndege. Kampuni tayari iko katika majaribio katika Uwanja wa Ndege wa Kimataifa wa Vancouver na inasema fedha mpya zitaharakisha matumizi katika vituo vya Amerika ya Kaskazini. Ni ukumbusho kwamba masoko maalum ya roboti za huduma — siyo tu kibinadamu — yanavutia fedha halisi za uwekezaji.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Changi_Airport_Self_Driving_Bus.jpg/960px-Changi_Airport_Self_Driving_Bus.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/ak-robotics-raises-c8-million-to-build-autonomous-micro-vehicle-for-airports/100839/",
+      "tags": ["Ufadhili", "Viwanja vya Ndege", "Uhamaji", "Kanada"],
+      "timestamp": "2026-04-21T12:00:00Z"
+    },
+    {
+      "id": "art-20260422-12",
+      "title": "Bubble Robotics Yakusanya $5M Kujenga 'Nguvu Kazi ya Kujiendesha ya Bahari'",
+      "summary": "Kampuni changa ya Uingereza Bubble Robotics ilitoka kwenye siri na mzunguko wa awali wa dola milioni 5 ulioongozwa na Episode 1 Ventures na Asterion Ventures kutengeneza roboti za chini ya maji zinazojiendesha kwa ukaguzi wa nje ya pwani, ufugaji wa samaki, na ufuatiliaji wa bahari. Waanzilishi, wahitimu wa Entrepreneurs First, wanasema mbinu yao ya kundi inabadilisha boti za gharama kubwa zenye wafanyakazi kwa kazi za kawaida za chini ya maji. Roboti za chini ya maji zimechelewa ikilinganishwa na wenzao wa ardhini na anga, lakini hamu ya wawekezaji inaonekana kubadilika.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mini_ROV_-_Manipulation_de_la_pince_dans_le_bassin_d%27essais_du_Centre_Ifremer_de_Brest_%28Ifremer_00780-89154_-_49048%29.jpg/960px-Mini_ROV_-_Manipulation_de_la_pince_dans_le_bassin_d%27essais_du_Centre_Ifremer_de_Brest_%28Ifremer_00780-89154_-_49048%29.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/bubble-robotics-raises-5-million-to-build-the-oceans-autonomous-workforce/100806/",
+      "tags": ["Ufadhili", "Chini ya Maji", "Baharini", "Kundi"],
+      "timestamp": "2026-04-21T10:30:00Z"
+    },
+    {
+      "id": "art-20260422-13",
+      "title": "Watengenezaji wa Kibinadamu wa China Wanaangazia RISC-V Kuliko Nvidia Jetson",
+      "summary": "Wimbi la wauzaji wa roboti za kibinadamu wa China linahama kimya kutoka familia ya Jetson ya Nvidia kuelekea moduli za kompyuta zinazotegemea RISC-V, kulingana na ripoti ya mlolongo wa usambazaji ya Digitimes. Hatua hiyo inasukumwa na mchanganyiko wa vikwazo vya usafirishaji vya Marekani, shinikizo la gharama, na mfumo wa ndani unaoongezeka wa RISC-V karibu na kampuni kama StarFive na SiFive. Ikiwa mwelekeo huo utaendelea, unaweza kugawanya mkusanyiko wa programu ya roboti na kushinikiza udhibiti wa Nvidia kwenye vifaa vya AI vya makali.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com",
+      "tags": ["RISC-V", "Nvidia", "China", "AI ya Makali"],
+      "timestamp": "2026-04-21T06:00:00Z"
+    },
+    {
+      "id": "art-20260422-14",
+      "title": "'Project Prometheus' ya Jeff Bezos Inakusanya $10B kwa AI ya Kimwili",
+      "summary": "Kampuni changa ya Jeff Bezos ya miezi mitano ya siri 'Project Prometheus' inakamilisha mzunguko wa ufadhili uliyoripotiwa wa dola bilioni 10 kwa thamani ya dola bilioni 38, ikiungwa mkono na JPMorgan na BlackRock. Kampuni inasemekana inajenga mifumo ya 'AI ya Kimwili' ya matumizi ya jumla inayochanganya vifaa vya roboti na uchanganuzi wa mfano wa msingi. Ikiwa takwimu zitashikilia, itaifanya Project Prometheus kuwa moja ya bets za AI ya kimwili zenye mtaji mkubwa zaidi kuwahi kujaribiwa, ikilenga moja kwa moja OpenAI, Figure, na 1X.",
+      "image": "https://external-preview.redd.it/KDru8BhyELzZ9JfZ18xo0EVnzVpS7vLP6C-eIJ_GU-A.jpeg?width=640&crop=smart&auto=webp&s=d32cf1de02f8952b1238eeb3552bb8a49a13432f",
+      "source": "Reddit r/artificial",
+      "url": "https://www.reddit.com/r/artificial/comments/1srwofc/jeff_bezoss_project_prometheus_is_raising_10b_at/",
+      "tags": ["Bezos", "AI ya Kimwili", "Ufadhili", "Kampuni Changa"],
+      "timestamp": "2026-04-21T17:00:00Z"
+    },
+    {
+      "id": "art-20260422-15",
+      "title": "Mahakama ya Ujerumani Inamkubalia Teradyne, Yatoa Amri Dhidi ya Elite Robots",
+      "summary": "Mahakama ya Ujerumani imempa Teradyne Robotics amri ya awali dhidi ya mtengenezaji wa cobot wa China Elite Robots, ikitaja ukiukaji wa hati miliki kwenye mifumo ya usalama ya roboti za ushirikiano. Uamuzi huo unailazimisha Elite Robots kusimamisha mauzo ya aina kadhaa nchini Ujerumani hadi kesi kamili. Ni mshindo wa hivi karibuni katika vita vinavyozidi kuimarika vya miliki kati ya wauzaji wa mikono ya roboti wa Magharibi walioanzishwa na wapinzani wa China wanaobadilika haraka na wenye bei za chini.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": ["Teradyne", "Elite Robots", "Hati Miliki", "Cobots"],
+      "timestamp": "2026-04-21T09:00:00Z"
+    },
+    {
+      "id": "art-20260422-16",
+      "title": "Coco, Roboti Mpya ya Utoaji wa San Jose, Yaingia Kituo cha Mji",
+      "summary": "San Jose imekaribisha 'Coco,' kundi la roboti za rangi ya waridi za utoaji wa kando ya njia linalosafirisha chakula na vifurushi vidogo katika eneo kuu la kituo cha mji. Coco inafanya kazi chini ya vibali vya jiji na usimamizi wa mbali wa binadamu, ikichukua maagizo kutoka kwa mikahawa ya karibu na maduka ya rejareja. Uzinduzi huo unaifanya San Jose kuwa moja ya miji mikubwa ya Marekani yenye kundi la roboti za kando ya njia zinazofanya kazi, baada ya miaka ya mabishano ya udhibiti huko San Francisco na Los Angeles.",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-PIZARRO-COL-0422-01.jpg?w=1024&h=713",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2026/04/21/meet-coco-downtown-san-joses-new-autonomous-delivery-robot/",
+      "tags": ["Roboti za Utoaji", "Kando ya Njia", "San Jose", "Maili ya Mwisho"],
+      "timestamp": "2026-04-21T19:00:00Z"
+    },
+    {
+      "id": "art-20260422-17",
+      "title": "Cadence na Nvidia Wapanua Mkataba wa Uhandisi Unaoongozwa na AI na Mapacha wa Dijitali",
+      "summary": "Kiongozi wa programu ya kubuni chipu Cadence anapanua ushirikiano wake na Nvidia kuingiza AI zalishaji na zana za mapacha wa dijitali moja kwa moja katika seti yake ya uhandisi. Mpango huo unapanua matumizi ya sasa ya Cadence ya Nvidia Omniverse kufunika uigaji wa seli za roboti, mpangilio wa kiwanda, na majaribio ya sensa-katika-mzunguko. Kwa wajenzi wa roboti, inamaanisha uthibitisho zaidi wa mwisho-hadi-mwisho wa mikusanyiko ya utambuzi na udhibiti kabla vifaa vyovyote havijajengwa.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PIA23828-MarsPreseveranceRover-Testing02-20200407.jpg/960px-PIA23828-MarsPreseveranceRover-Testing02-20200407.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/cadence-and-nvidia-expand-partnership-to-advance-ai-driven-engineering-and-digital-twins/",
+      "tags": ["Nvidia", "Cadence", "Pacha wa Dijitali", "Uigaji"],
+      "timestamp": "2026-04-21T07:00:00Z"
+    },
+    {
+      "id": "art-20260422-18",
+      "title": "UBTECH Inashirikiana na Terra Robotics katika Utumiaji wa Kibinadamu wa Ulaya",
+      "summary": "Mtengenezaji wa kibinadamu wa China UBTECH ametia saini mpango wa usambazaji na uunganishaji na Terra Robotics ya Italia kutuma safu yake ya Walker S kwa wateja wa viwandani wa Ulaya. Ushirikiano huo unajumuisha mauzo, huduma za ndani, na uhandisi wa matumizi, na utumiaji wa awali umewekwa katika sekta za magari na usafirishaji. Ni msimamo thabiti zaidi wa Ulaya wa UBTECH hadi sasa wakati wateja wa Magharibi wanapoanza kutathmini roboti za kibinadamu za China pamoja na chaguzi za ndani.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": ["UBTECH", "Terra Robotics", "Ulaya", "Kibinadamu"],
+      "timestamp": "2026-04-21T05:00:00Z"
+    },
+    {
+      "id": "art-20260422-19",
+      "title": "China Inashinda Mbio za Roboti za Kibinadamu — Kihalisi",
+      "summary": "Uchambuzi wa Straight Arrow News unasema China sasa inasafirisha roboti za kibinadamu zaidi kuliko soko lote la Marekani kwa pamoja, ikichochewa na msaada mzito wa serikali, kiwango cha ukali cha utengenezaji, na minyororo mnene ya usambazaji wa vipengele. Ripoti hiyo inaelezea roboti za kibinadamu kama teknolojia ya kimkakati ambapo mkakati wa sera ya viwanda wa China unashinda washindani wa Marekani wanaoongozwa na mtaji wa kibinafsi. Iwapo kampuni za Marekani kama Figure, 1X, na Tesla zinaweza kufunga pengo kupitia utofautishaji wa programu inabaki kuwa swali wazi.",
+      "image": "https://san.com/wp-content/uploads/2026/04/Untitled-design-14.jpg",
+      "source": "Straight Arrow News",
+      "url": "https://san.com/cc/china-is-winning-the-humanoid-robotics-race-literally/",
+      "tags": ["China", "Kibinadamu", "Siasa za Kijiografia", "Tasnia"],
+      "timestamp": "2026-04-21T14:30:00Z"
+    },
+    {
+      "id": "art-20260422-20",
+      "title": "QNX Inaunganishwa na Nvidia IGX Thor kwa Roboti za AI Muhimu kwa Usalama",
+      "summary": "Mfumo wa uendeshaji wa wakati halisi wa QNX wa BlackBerry umeunganishwa na jukwaa la IGX Thor la Nvidia, ukiwapa watengenezaji wa roboti mkusanyiko uliothibitishwa kabla kwa matumizi muhimu kwa usalama katika miktadha ya matibabu, viwanda, na magari yanayojiendesha. Mchanganyiko huo unaunganisha microkernel ya uhakika ya QNX na vichochezi vya AI vya Thor, ukilenga vyeti kama IEC 61508 na ISO 26262. Kwa wajenzi wa roboti za upasuaji na cobots, unaondoa sehemu kubwa ya mzigo wa uhandisi wa kesi za usalama.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/qnx-integrates-with-nvidia-igx-thor-to-accelerate-safety-critical-ai-deployment/",
+      "tags": ["QNX", "Nvidia", "Muhimu kwa Usalama", "Matibabu"],
+      "timestamp": "2026-04-21T06:30:00Z"
+    }
+  ]
+}

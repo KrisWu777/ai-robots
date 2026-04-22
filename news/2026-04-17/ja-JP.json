@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-17",
+  "featured": {
+    "id": "featured-20260417",
+    "title": "Boston DynamicsとGoogle DeepMind、Gemini RoboticsでSpotに「推論」を教える",
+    "summary": "Boston Dynamicsは、Google DeepMindの基盤モデルGemini Roboticsを点検プラットフォームSpotに統合し、四足ロボットが自然言語の指示を解釈して複数ステップのタスクを自律的に計画できるようにした。これにより、Spotは見慣れない環境でも推論できるようになり——たとえば物体をどう取りに行くか、失敗からどう立ち直るかを判断する——硬直的なスクリプトを実行するだけではなくなる。今回の統合は、産業点検、ロジスティクス、フィールドサービスに向けた汎用エンボディドAIへの大きな一歩であり、基盤モデルが近く商用ロボットハードウェアに搭載される未来を予告している。",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+    "tags": ["Boston Dynamics", "Google DeepMind", "基盤モデル", "Spot"],
+    "timestamp": "2026-04-14T19:45:01Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260417-01",
+      "title": "Physical Intelligence、π0.7を発表:教わっていないタスクもこなすロボットの脳",
+      "summary": "ロボティクススタートアップのPhysical Intelligenceは、明示的に学習していないタスクをロボットに遂行させられる次世代基盤モデルπ0.7をリリースした。同社はこれを汎用ロボットの脳に向けた初期の、しかし意味のある一歩と位置づけており、公開されたデモ動画では、アームや移動マニピュレーターが見慣れないキッチン、デスク、組立シーンに適応する様子が映っている。今回の発表は、物理AIの運用レイヤーをだれが定義するのかをめぐる、PI、Google DeepMind、Nvidia間の競争に再び火を点けた。",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-12.22.07-PM.png?resize=1200,589",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "tags": ["Physical Intelligence", "基盤モデル", "汎用ロボット"],
+      "timestamp": "2026-04-16T20:26:44Z"
+    },
+    {
+      "id": "art-20260417-02",
+      "title": "Siemens、Nvidia、Humanoidが連携し、物理AIを工場の現場へ",
+      "summary": "Siemensは、Nvidiaの物理AIスタック上に構築されたHumanoid社のHMND 01ホイール型Alphaロボットを自社の電子工場の一つでライブ試験に投入した——3社が人形ロボットで実際の産業物流を共同で走らせて見せたのはこれが初めてだ。ロボットはワークステーション間の部品搬送、通い箱のハンドリングを自律的に行い、周囲の作業員に合わせて経路を調整した。Siemensはこのパイロットを、物理AIをデモ映像から製造業の現実へ変える「画期的なマイルストーン」と呼んだ。",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/siemens-humanoid-nvidia-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/siemens-nvidia-and-humanoid-bring-physical-ai-humanoid-robots-into-factory-operations/100681/",
+      "tags": ["Siemens", "Nvidia", "Humanoid", "工場自動化"],
+      "timestamp": "2026-04-16T12:45:12Z"
+    },
+    {
+      "id": "art-20260417-03",
+      "title": "Path Robotics、Roveを発表:物理AI搭載の四足溶接ロボット",
+      "summary": "Path Roboticsは、自社の物理AIモデルObsidianを四足ロボットプラットフォームと組み合わせた移動溶接システムRoveを発表した——実質的にロボット犬に溶接トーチを取り付けて作業現場を歩かせるというものだ。自律型の溶接セルで知られる同社は、Roveによって製造業者は固定セルでは狭すぎたり不規則すぎる空間にも溶接能力を展開できるようになると説明する。脚式の移動性と特化した製造技能を組み合わせた商用プロダクトとしては初期の事例の一つとなる。",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/path-robotics-Rove-Weld-v2.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/path-robotics-unveils-mobile-robotic-welding-system-combining-ai-and-quadruped-mobility/100600/",
+      "tags": ["Path Robotics", "溶接", "四足ロボット", "製造業"],
+      "timestamp": "2026-04-16T14:30:43Z"
+    },
+    {
+      "id": "art-20260417-04",
+      "title": "Unitree、6,800ドルの人形ロボット出荷開始——過去最安モデル",
+      "summary": "中国のロボット企業Unitreeは、6,800ドルからという過去最低価格の人形ロボットの小売販売を開始した——Boston Dynamics、Figure、Apptronikといった競合プラットフォームを桁違いに下回る価格で、普及面での転換点となる。このモデルは研究者、開発者、教育用途を狙ったもので、Unitreeは米国向け送料無料も発表している。この動きは、Tesla Optimusなど消費者に近い市場を狙う他の人形ロボットプログラムに対する価格圧力を一段と強める。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": ["Unitree", "ヒューマノイド", "価格戦略", "中国"],
+      "timestamp": "2026-04-17T03:13:28Z"
+    },
+    {
+      "id": "art-20260417-05",
+      "title": "ロボットはいかに学ぶか:現代小史",
+      "summary": "MIT Technology Reviewは、ロボティクス研究がハンドコードされたアームから大規模な学習済みポリシーと基盤モデルへとシフトしてきた道筋を振り返る。記事は、この5年間で汎用ロボットという初期の夢と20世紀を支配してきた狭い産業アームとの距離が静かに縮まり、DeepMind、Physical Intelligence、大学研究室のチームが共通の学習レシピへと収斂している様子を描いている。今日の「物理AIの瞬間」に至るまでの道のりを整理した実用的な地図だ。",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/robot.jpg?resize=1200,600",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "tags": ["基盤モデル", "歴史", "ロボット学習"],
+      "timestamp": "2026-04-17T10:00:00Z"
+    },
+    {
+      "id": "art-20260417-06",
+      "title": "Digitがデッドリフトを習得:Agility Roboticsが人形ロボットの重量挙げを披露",
+      "summary": "IEEE SpectrumのVideo Fridayは、Agility RoboticsのDigitが加重バーベルでデッドリフトを行う映像を取り上げた——この二足歩行ヒューマノイドの全身バランスと力制御が、非対称で重い負荷にも対応できる水準に達したことを示すデモンストレーションだ。他のクリップでは大学研究室による新しい歩行制御研究も紹介され、動的な全身マニピュレーションがシミュレーションからハードウェアへ急速に移っていることを裏付けている。脚式ヒューマノイドが純粋な力の指標でも固定産業アームに迫っていることを示す、また一つのデータポイントと言える。",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=65564472&width=1200&height=600&coordinates=0%2C110%2C0%2C110",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robot-learning",
+      "tags": ["Agility Robotics", "Digit", "ヒューマノイド", "ロコモーション"],
+      "timestamp": "2026-04-17T15:00:01Z"
+    },
+    {
+      "id": "art-20260417-07",
+      "title": "Jabil、人形ロボットを試作から量産へスケールさせる計画を詳述",
+      "summary": "受託製造大手のJabilは最新のインタビューで、Apptronikなどの顧客向けに人形ロボットを量産するロードマップを明らかにした——サプライチェーン構築、アクチュエーターの調達、手組み試作からライン生産への移行といった論点を網羅している。同社は、人形ロボットをスマートフォンやEVと同様に製造品質とコストカーブが勝者を決める次の巨大カテゴリーと位置づける。このコメントは人形ブームを支える産業側の希少な内側の視点を提供している。",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/jabil-apptronik-collaboration-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/interview-jabil-on-scaling-humanoid-robots-from-prototype-to-production/100706/",
+      "tags": ["Jabil", "Apptronik", "ヒューマノイド", "製造業"],
+      "timestamp": "2026-04-16T16:23:33Z"
+    },
+    {
+      "id": "art-20260417-08",
+      "title": "Skild AI、Zebra Technologiesのロボティクス自動化事業を買収",
+      "summary": "基盤モデル型ロボティクススタートアップのSkild AIは、Zebra Technologiesのロボティクス自動化事業を買収した。これにより、この若い企業は確立された倉庫・物流の顧客基盤、現場導入のノウハウ、既存ハードウェアへのアクセスを得ることになる。同取引は、Skildが目指す汎用ロボットブレインの構想を、実際に支払いが発生するとわかっている数少ないロボット分野——フルフィルメントとエンタープライズ物流——への実戦的な市場チャネルと縦に統合する。取引条件は完全には開示されていない。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Business Wire",
+      "url": "https://www.businesswire.com",
+      "tags": ["Skild AI", "Zebra Technologies", "倉庫ロボティクス", "M&A"],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260417-09",
+      "title": "Agibot、中国で人形ロボットの生産能力を数倍に拡大する計画",
+      "summary": "上海拠点の人形ロボットメーカーAgibotは日経アジアに対し、生産能力を数倍に拡大する計画を明らかにした。産業顧客や研究機関からの需要が現在の生産量を上回っているためだという。同社のG2ヒューマノイドはすでに中国の工場フロアに導入されており、中国のEVサプライチェーンを塗り替えたような量産経済に近い水準を目指している。この計画は、中国の人形ロボットメーカーが依然として少量生産にとどまる米国勢よりもはるかに攻撃的にスケールしていることを改めて裏付ける。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com",
+      "tags": ["Agibot", "ヒューマノイド", "中国", "量産"],
+      "timestamp": "2026-04-17T08:49:00Z"
+    },
+    {
+      "id": "art-20260417-10",
+      "title": "Agibot G2ヒューマノイド、中国工場ラインに配備",
+      "summary": "Interesting Engineeringは、エンボディドAIコントローラーを搭載したAgibotのG2ヒューマノイドが、中国の製造施設で部品ハンドリングや検査を含む実際の生産ライン業務を担っていると報じた。これは、中国製ヒューマノイドがスクリプト化されたデモではなく、持続的な工業労働に従事していることを検証できる数少ない事例の一つだ。日経が報じたスケールアップと合わせて読むと、中国勢の商用導入で先行するという物語はより強固になる。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Agibot", "G2", "工場自動化", "エンボディドAI"],
+      "timestamp": "2026-04-15T11:06:00Z"
+    },
+    {
+      "id": "art-20260417-11",
+      "title": "Tesla、上海ギガファクトリーでのOptimus人形ロボット生産を検討",
+      "summary": "TechNodeによれば、Teslaは上海ギガファクトリーでOptimus人形ロボットを生産するかどうかを検討している。既に現地の人形ロボットメーカーへアクチュエーターや減速機、磁石を供給している中国のサプライチェーンを活用する狙いだ。上海ラインの実現は、OptimusをUnitree、Agibot、Fourierと同じ部品ネットワークの隣に置きつつ、米国のコスト構造を回避することを意味する。最終判断は、Teslaが人形ロボットの製造をどこまで米国拠点から切り離す覚悟があるかを試す試金石となる。",
+      "image": "https://technode.com/wp-content/uploads/2022/07/131403118_m的副本-1-e1657706210717.jpg",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/04/17/tesla-considers-humanoid-robot-production-at-shanghai-gigafactory/",
+      "tags": ["Tesla", "Optimus", "上海", "製造業"],
+      "timestamp": "2026-04-17T02:13:37Z"
+    },
+    {
+      "id": "art-20260417-12",
+      "title": "Siemensの人形ロボット、工場で物流トライアルを完了",
+      "summary": "Engineering.comの別の記事は、Siemensが新たに導入した人形ロボットを用いて、パレット搬送、箱のハンドリング、作業者との混成セルでの協調作業を含む構造化された一連の物流トライアルを完了したことを確認している。トライアルが成功したことで、工場内でのより広範な展開に向けた道が開かれ、他の製造業者向けに「ヒューマノイド対応」の自動化パッケージをどう売り出すかにも影響する。Nvidiaスタックを使った先のデモと合わせて、Siemensは物理AIにとって最も信頼性の高い産業アンカーの一つとして位置づけられる。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/humanoid-robot-completes-logistics-trials-at-siemens-plant/",
+      "tags": ["Siemens", "ヒューマノイド", "物流", "産業"],
+      "timestamp": "2026-04-17T13:24:52Z"
+    },
+    {
+      "id": "art-20260417-13",
+      "title": "Accenture、General Roboticsへ出資——物理AI導入を加速",
+      "summary": "コンサルティング大手のAccentureがGeneral Roboticsに戦略的出資を行った。Accentureが抱える産業顧客企業において、ヒューマノイドや物理AIシステムの導入を加速させる狙いだ。この契約はGeneral Roboticsのハード・ソフトをAccentureのシステムインテグレーション力と束ねるもので、クラウドや生成AIの前の波でAccentureが取ったアプローチをそのままなぞる形となる。アナリストはこれを、Fortune 500のバイヤーがヒューマノイド自動化を真に予算化すべきラインアイテムとして扱い始めたシグナルと読んでいる。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": ["Accenture", "General Robotics", "投資", "エンタープライズ"],
+      "timestamp": "2026-04-15T00:00:00Z"
+    },
+    {
+      "id": "art-20260417-14",
+      "title": "北京で人形ハーフマラソン——Alibaba、Honorら世界勢が参戦",
+      "summary": "北京では今週、Alibaba、Honor、Unitreeをはじめとする世界各地のチームが参加する人形ロボット・ハーフマラソンが開催されている。21km全コースを使って、エンボディドAIコントローラーとバッテリーシステムのストレステストを行う位置づけだ。主催者によれば、連続したヒューマノイドのロコモーションとして過去最大の参加フィールドになる。話題性の大きさに加え、このイベントは今日の量産クラスのヒューマノイドにおける耐久性、故障モード、熱挙動の貴重な比較データを生み出している。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260417VL216/humanoid-robot-robotics-data-revenue-2026.html",
+      "tags": ["ヒューマノイド", "マラソン", "北京", "Alibaba"],
+      "timestamp": "2026-04-15T23:39:06Z"
+    },
+    {
+      "id": "art-20260417-15",
+      "title": "中国の人形ロボット、疾走速度がUsain Boltに迫る",
+      "summary": "Oddity Centralは、複数の中国製ヒューマノイドがエリート人間スプリンターに迫る速度で疾走する姿を捉えた映像を報じた。あるプラットフォームは一時、Usain Boltのレースペースに匹敵する速度に達したという。これらの映像は、主にシミュレーション内で訓練された強化学習ポリシーの成果として、動的な脚式制御がいかに急速に進歩したかを示している。高速度下での耐久性や安定性は依然として未解決の課題だが、映像は二足歩行ロボットが物理的に何をできるのかについての常識を書き換えている。",
+      "image": "https://www.odditycentral.com/wp-content/uploads/2026/04/fastest-humanoid-robot2-1.webp",
+      "source": "Oddity Central",
+      "url": "https://www.odditycentral.com/news/chinas-humanoid-robots-are-now-as-fast-as-usain-bolt.html",
+      "tags": ["ヒューマノイド", "スプリント", "ロコモーション", "中国"],
+      "timestamp": "2026-04-17T12:14:04Z"
+    },
+    {
+      "id": "art-20260417-16",
+      "title": "ワルシャワの街に現れたイノシシを、人形ロボットが追い払う",
+      "summary": "ポーランド当局は、街路や公園に頻繁に現れるようになったイノシシをワルシャワ市街から追い払うため、人形ロボットを試験的に投入した。音響威嚇装置と移動ソフトウェアを搭載したこの商用ヒューマノイドは、問題となっている地区の境界を歩き回り、イノシシを傷つけることなく緑地帯へと誘導した。工場の外で、自治体や野生動物管理の役割に人形ロボットを投入する、風変わりだが示唆に富む一例だ。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Financial Times",
+      "url": "https://www.ft.com",
+      "tags": ["ヒューマノイド", "野生動物", "ワルシャワ", "都市ロボティクス"],
+      "timestamp": "2026-04-17T04:00:32Z"
+    },
+    {
+      "id": "art-20260417-17",
+      "title": "サウジアラビア、世界的な人形ロボット競争で加速",
+      "summary": "Arab Newsによれば、サウジアラビアはVision 2030の産業多角化戦略の一環として人形ロボット分野への国家主導投資を強化しており、新たな提携、研究センター、物流やホスピタリティでのパイロット導入計画を打ち出している。同国はかつてデータセンター容量で目指したのと同様に、中東における物理AIハブとしての立場を固めにかかっている。一連の発表により、米国、中国、湾岸マネーによる三つ巴のグローバル競争はより鮮明になった。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com",
+      "tags": ["サウジアラビア", "ヒューマノイド", "Vision 2030", "政策"],
+      "timestamp": "2026-04-16T20:33:48Z"
+    },
+    {
+      "id": "art-20260417-18",
+      "title": "PIA Automation、エンボディドAI・人形ロボット事業部を新設",
+      "summary": "製造自動化企業のPIA Automationは、エンボディドAIおよび人形ロボット専門の新事業部を立ち上げた。これは、長年の自動化インテグレーターがヒューマノイドをもはや遠い研究テーマとは見なしていないことを示している。新事業部は、PIAのライン構築の知見を、外部パートナーの人形ハードウェアおよび航空宇宙、自動車、民生電子機器向けの特化型ソフトウェアスタックとバンドルする。人形ロボットの採用が伝統的な産業チャネルへと浸透しつつあるもう一つの目印と言える。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "citybiz",
+      "url": "https://www.citybiz.co",
+      "tags": ["PIA Automation", "エンボディドAI", "ヒューマノイド", "産業"],
+      "timestamp": "2026-04-14T22:25:32Z"
+    },
+    {
+      "id": "art-20260417-19",
+      "title": "ヴァイオリニスト、ロボット外骨格を装着して二重奏を演奏",
+      "summary": "The Debriefが伝えた新しい研究では、プロのヴァイオリニストに軽量なロボット外骨格を装着させ、二重奏を演奏させて、奏者同士が微細な動きをどう協調させ、タイミングの合図をどう共有しているかを明らかにした。研究者は外骨格のセンサーを用いて、パートナー間の引き込み——事実上ミュージシャン同士の「グルーヴ」——を定量化した。興味本位の面白さにとどまらず、本研究は理学療法、音楽教育、運動スキル訓練におけるアシスト型外骨格の近い将来の応用を指し示している。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org",
+      "tags": ["外骨格", "アシストロボティクス", "研究", "音楽"],
+      "timestamp": "2026-04-17T12:33:27Z"
+    },
+    {
+      "id": "art-20260417-20",
+      "title": "マルチ解像度マッピングが自律ロボットの探索効率を大幅向上",
+      "summary": "研究者らは、自律移動ロボットが未知環境を探索する際に、均一解像度マップよりも大幅に高速な新しいマルチ解像度マッピング手法を発表した。コツは、広い空間では粗い詳細だけを保存し、障害物や判断ポイント付近でのみ細かい詳細を保持することで、ナビゲーション品質を保ちつつメモリコストを抑える点にある。結果は、探索の1分1秒が結果を左右する捜索救助、倉庫、惑星探査ローバーなどのワークロードで意味のある効率向上を示している。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": ["SLAM", "自律ナビゲーション", "研究", "マッピング"],
+      "timestamp": "2026-04-17T00:11:00Z"
+    }
+  ]
+}

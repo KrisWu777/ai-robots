@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-21",
+  "featured": {
+    "id": "featured-20260421",
+    "title": "Le robot humanoïde « Lightning » pulvérise le record du monde du semi-marathon à Pékin",
+    "summary": "Un robot humanoïde nommé « Lightning » a franchi la ligne d'arrivée du semi-marathon de Pékin en environ 57 minutes, soit environ sept minutes plus rapide que le record du monde humain, alors que 20 machines bipèdes de fabricants chinois s'alignaient aux côtés de coureurs humains dans un événement d'endurance décisif. La course — conçue pour tester l'autonomie de la batterie, le refroidissement et la locomotion en conditions réelles — a vu plusieurs concurrents chuter ou se désintégrer en pleine course, mais la démarche tendue comme un fil et la foulée agressive de Lightning ont signalé à quel point l'IA physique a mûri depuis le premier semi-marathon robotique il y a un an. Les analystes estiment que ce résultat ouvre la voie aux humanoïdes pour des missions industrielles de longue durée, et non plus seulement aux démonstrations sur scène.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+    "source": "The Verge",
+    "url": "https://www.theverge.com",
+    "tags": [
+      "Humanoïde",
+      "Locomotion",
+      "Chine",
+      "Étape clé"
+    ],
+    "timestamp": "2026-04-20T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260421-01",
+      "title": "Skild AI acquiert la branche automatisation robotique de Zebra Technologies",
+      "summary": "Skild AI a acquis la branche automatisation robotique de Zebra Technologies — y compris la plateforme d'orchestration Symmetry Fulfillment — dans le but de recâbler l'automatisation des entrepôts autour d'une seule couche de contrôle polyvalente. Au cœur de l'accord se trouve « Skild Brain », le logiciel d'IA omnicorporelle de l'entreprise conçu pour fonctionner sans connaissance préalable de la forme corporelle exacte d'un robot, ce qui permet en principe à n'importe quel bras, AMR ou humanoïde d'hériter d'une bibliothèque de compétences partagée. Cette initiative place l'une des plus grandes flottes installées en logistique sous un contrôleur de type modèle de fondation.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/skild-ai-acquires-zebra-technologies-robotics-automation-business/100769/",
+      "tags": [
+        "Skild AI",
+        "Zebra Technologies",
+        "Automatisation d'entrepôt",
+        "Acquisition"
+      ],
+      "timestamp": "2026-04-20T22:27:25Z"
+    },
+    {
+      "id": "art-20260421-02",
+      "title": "Agibot dévoile de nouveaux robots IA incarnée et modèles de fondation pour un déploiement en conditions réelles",
+      "summary": "Lors de sa Conférence Partenaires 2026, Agibot a présenté une nouvelle génération de matériel d'IA incarnée et de modèles de fondation construits autour de ce qu'il appelle l'architecture « One », présentée comme un passage des démos de laboratoire aux déploiements industriels et commerciaux à grande échelle. La gamme associe des plateformes humanoïdes bimanuelles habiles à des modèles de perception-action adaptés aux scénarios d'usine, de logistique et de service. Ces annonces positionnent Agibot parmi les fabricants chinois d'humanoïdes qui se précipitent pour industrialiser l'IA physique à grande échelle.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-for-real-world-deployment/100781/",
+      "tags": [
+        "Agibot",
+        "IA incarnée",
+        "Modèles de fondation",
+        "Humanoïde"
+      ],
+      "timestamp": "2026-04-21T04:57:15Z"
+    },
+    {
+      "id": "art-20260421-03",
+      "title": "RobCo présente l'humanoïde « Autonomous Alfie » pour le travail industriel à Hannover Messe",
+      "summary": "L'entreprise munichoise RobCo a profité de Hannover Messe pour annoncer « Autonomous Alfie », un humanoïde ciblant directement l'automatisation industrielle — en particulier les tâches variables, sensibles, aux entrées changeantes sur lesquelles la robotique en cellule fixe a historiquement buté. RobCo positionne Alfie comme une étape vers l'autonomie industrielle de niveau 4, où les robots gèrent la variation sans réapprentissage, et présente ce lancement comme l'ouverture d'une nouvelle catégorie entre les cobots et les humanoïdes d'usine complets. C'est l'une des nombreuses annonces d'humanoïdes cette semaine orientées vers l'atelier plutôt que vers la scène.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/robco-unveils-autonomous-alfie-humanoid-robot-for-industrial-automation-at-hannover-messe/100762/",
+      "tags": [
+        "RobCo",
+        "Humanoïde",
+        "Hannover Messe",
+        "Automatisation industrielle"
+      ],
+      "timestamp": "2026-04-20T21:18:07Z"
+    },
+    {
+      "id": "art-20260421-04",
+      "title": "NEURA Robotics et AWS concluent un accord stratégique pour passer à l'échelle de l'IA physique",
+      "summary": "NEURA Robotics et Amazon Web Services ont annoncé une collaboration stratégique visant à accélérer l'« IA physique » — en utilisant le cloud et la pile d'IA générative d'AWS pour entraîner, simuler et déployer à grande échelle les plateformes humanoïdes cognitives de NEURA. Le partenariat couvre la mise sur le marché conjointe de la boutique de compétences Neuraverse de NEURA, l'apprentissage de flotte basé sur le cloud et l'intégration avec les services de simulation d'AWS. Il s'agit de l'un des plus grands rapprochements publics à ce jour entre un fabricant d'humanoïdes et un hyperscaler, suivant la stratégie de Nvidia consistant à posséder le pipeline simulation-vers-réel.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Google News",
+      "url": "https://www.mycarrollcountynews.com",
+      "tags": [
+        "NEURA Robotics",
+        "AWS",
+        "IA physique",
+        "Partenariat"
+      ],
+      "timestamp": "2026-04-20T14:00:00Z"
+    },
+    {
+      "id": "art-20260421-05",
+      "title": "Nvidia et ses partenaires industriels mettent en avant la fabrication pilotée par l'IA à Hannover Messe 2026",
+      "summary": "Nvidia a ancré Hannover Messe avec une vaste vitrine d'IA industrielle aux côtés de Siemens, SAP, ABB, Dassault Systèmes, Microsoft et d'autres, proposant une pile qui englobe jumeaux numériques, modèles de fondation robotiques et inférence à l'échelle de l'usine. Les démonstrations se sont concentrées sur l'intégration d'Isaac et Omniverse dans des lignes de production en fonctionnement plutôt que dans des laboratoires autonomes, en mettant l'accent sur les modernisations en brownfield. Le message aux industriels européens : les usines nativement IA ne sont plus des projets pilotes — elles sont en phase d'achat.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/nvidia-and-partners-showcase-ai-driven-manufacturing-systems-at-hannover-messe-2026/100766/",
+      "tags": [
+        "Nvidia",
+        "Hannover Messe",
+        "Jumeau numérique",
+        "Fabrication"
+      ],
+      "timestamp": "2026-04-20T21:37:09Z"
+    },
+    {
+      "id": "art-20260421-06",
+      "title": "La pince molle à fibre optique de Cornell cueille des fruits mûrs sans les abîmer",
+      "summary": "Des chercheurs de Cornell ont construit une pince robotique molle qui utilise des capteurs à fibre optique extensibles pour sentir la maturité des fraises et les cueillir de la vigne sans laisser de marque. La pince prédit la maturité grâce à des signaux de déformation tactile plutôt qu'à la vision, un complément utile aux systèmes basés sur la couleur qui se laissent tromper par l'ombre ou la saleté. Ces travaux visent un goulot d'étranglement persistant de l'automatisation agricole : cueillir des produits délicats et de maturité variable à la qualité et à la vitesse humaines.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/handle-with-care-soft-1.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html",
+      "tags": [
+        "Robotique molle",
+        "Pince",
+        "Agriculture",
+        "Cornell"
+      ],
+      "timestamp": "2026-04-20T15:00:00Z"
+    },
+    {
+      "id": "art-20260421-07",
+      "title": "Le Tien Kung 3.0 de X-Humanoid remporte le Beijing Robot Warrior Challenge avec une course entièrement autonome",
+      "summary": "Le Tien Kung 3.0 de X-Humanoid a remporté le Beijing Robot Warrior Challenge avec une course entièrement autonome — sans téléopération, sans chemins scriptés — naviguant de bout en bout sur un parcours semé d'obstacles grâce à sa pile embarquée. Cette victoire est remarquable car la plupart des « compétitions » publiques d'humanoïdes s'appuient encore sur des opérateurs humains pour les décisions de haut niveau ; le résultat de Tien Kung pose un jalon pour l'autonomie non assistée combinant locomotion et manipulation. Elle survient la même semaine que le semi-marathon de Pékin, renforçant le message que le matériel humanoïde chinois passe de la démonstration à une fiabilité de niveau compétition.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Google News",
+      "url": "https://au.finance.yahoo.com",
+      "tags": [
+        "X-Humanoid",
+        "Tien Kung",
+        "Autonomie",
+        "Pékin"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-08",
+      "title": "Pudu Robotics amène son autolaveuse IA native en Europe grâce à un partenariat néerlandais",
+      "summary": "Pudu Robotics a conclu un partenariat avec Gom Schoonhouden — l'une des principales entreprises de nettoyage professionnel des Pays-Bas — pour le premier déploiement européen de son grand robot autolaveuse IA natif PUDU BG1. La machine utilise la perception embarquée pour cartographier automatiquement les installations, replanifier autour des obstacles et s'amarrer elle-même, ciblant le point douloureux de la pénurie de main-d'œuvre dans le nettoyage commercial. C'est le dernier signe que les fabricants chinois de robots de service se développent en Europe via des partenaires opérationnels locaux plutôt que par la vente directe.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Autonomous_cleaning_robot_by_FHI.jpg/960px-Autonomous_cleaning_robot_by_FHI.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/pudu-robotics-deploys-ai-powered-cleaning-robot-in-europe-through-partnership-with-gom/100775/",
+      "tags": [
+        "Pudu Robotics",
+        "Robot de service",
+        "Europe",
+        "Nettoyage"
+      ],
+      "timestamp": "2026-04-21T04:36:32Z"
+    },
+    {
+      "id": "art-20260421-09",
+      "title": "Nature : un endoscope robotique souple avec courbure améliorée et prédiction basée sur l'IA",
+      "summary": "Un nouvel article de Nature décrit un endoscope robotique souple qui combine une section de courbure très flexible avec un modèle d'IA qui prédit la pose de la pointe à partir de signaux de capteurs internes, visant à réduire la charge cognitive des chirurgiens qui naviguent dans une anatomie tortueuse. L'équipe rapporte des rayons de courbure nettement plus serrés que les conceptions conventionnelles à liaisons rigides tout en préservant la précision de l'estimation de position — une barrière clé pour les interventions mini-invasives dans le tractus gastro-intestinal. Ces travaux font partie de plusieurs articles récents de robotique chirurgicale molle qui associent du matériel flexible à une proprioception apprise.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/New_Da_Vinci_Xi.jpg/960px-New_Da_Vinci_Xi.jpg",
+      "source": "Google News",
+      "url": "https://www.nature.com",
+      "tags": [
+        "Robotique molle",
+        "Médical",
+        "Endoscope",
+        "Recherche"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-10",
+      "title": "Cadence et Nvidia étendent leur partenariat sur l'ingénierie pilotée par l'IA et les jumeaux numériques",
+      "summary": "Cadence et Nvidia étendent leur partenariat de longue date pour intégrer plus profondément l'IA, la simulation basée sur la physique et les technologies de jumeaux numériques dans les flux de travail d'ingénierie couvrant la conception de semi-conducteurs, la robotique et l'infrastructure d'IA à grande échelle. L'accord associe la propriété intellectuelle d'EDA et de conception de systèmes de Cadence à l'informatique accélérée de Nvidia, ciblant les ingénieurs qui souhaitent des boucles de simulation suffisamment rapides pour s'exécuter au sein d'une session de conception plutôt que durant la nuit. Cela renforce la posture de Nvidia selon laquelle chaque éditeur de logiciel industriel finit par devenir un client d'IA.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Generative_Drone_Design.stl/960px-Generative_Drone_Design.stl.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/cadence-and-nvidia-expand-partnership-to-advance-ai-driven-engineering-and-digital-twin-technologies/100772/",
+      "tags": [
+        "Cadence",
+        "Nvidia",
+        "Jumeau numérique",
+        "EDA"
+      ],
+      "timestamp": "2026-04-21T04:25:08Z"
+    },
+    {
+      "id": "art-20260421-11",
+      "title": "QNX s'intègre avec Nvidia IGX Thor pour accélérer l'IA critique pour la sécurité",
+      "summary": "Le système d'exploitation temps réel QNX de BlackBerry s'intègre à la nouvelle plateforme IGX Thor de Nvidia, visant directement les déploiements d'IA critiques pour la sécurité dans les dispositifs médicaux, les contrôleurs industriels et les machines autonomes. La combinaison place l'inférence IA à haute puissance de calcul de Thor sous l'ordonnanceur déterministe de QNX et sous sa certification de sécurité fonctionnelle — un appariement que les clients réclamaient à mesure que les modèles d'IA migrent vers les mêmes cartes qui pilotent l'actionnement temps réel strict. C'est un pari que la pile d'IA en périphérie doit être à la fois rapide et certifiable, et pas seulement l'un ou l'autre.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Google News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "QNX",
+        "Nvidia",
+        "Critique pour la sécurité",
+        "IA en périphérie"
+      ],
+      "timestamp": "2026-04-20T16:00:00Z"
+    },
+    {
+      "id": "art-20260421-12",
+      "title": "NCS s'associe à AGIBOT et HZTC pour déployer des humanoïdes dans toute l'APAC",
+      "summary": "NCS, basé à Singapour, a signé des accords avec AGIBOT et HZTC pour déployer la robotique humanoïde dans toute l'Asie-Pacifique, associant l'empreinte d'intégration de systèmes de NCS au matériel d'AGIBOT et aux outils d'opérations de flotte de HZTC. L'alliance cible les clients de la logistique, de l'hôtellerie et de l'immobilier commercial qui veulent des capacités humanoïdes sans la charge d'intégration. Cela signale que la croissance humanoïde en APAC passe de plus en plus par les canaux IT d'entreprise, et non par des pilotes en direct au client.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Google News",
+      "url": "https://www.thefastmode.com",
+      "tags": [
+        "NCS",
+        "AGIBOT",
+        "APAC",
+        "Humanoïde"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-13",
+      "title": "Milvus Robotics lance l'AMR chariot élévateur SEIT F1500S pour la manutention de charges lourdes",
+      "summary": "Milvus Robotics a lancé le SEIT F1500S, un robot mobile autonome de type chariot élévateur d'une capacité de 1 500 kg destiné à la manutention de charges lourdes dans les entrepôts et la fabrication légère. La machine gère des charges de classe Euro-palette avec levage contrebalancé, navigation SLAM embarquée et capteurs certifiés de sécurité pour des ateliers partagés humain-robot. Il pousse les AMR plus loin dans des rôles traditionnellement occupés par les chariots élévateurs avec opérateur debout — la tranche spécifique de l'intralogistique où les pénuries d'opérateurs ont été les plus difficiles à combler.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg/960px-Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Milvus Robotics",
+        "AMR",
+        "Chariot élévateur",
+        "Intralogistique"
+      ],
+      "timestamp": "2026-04-20T13:00:00Z"
+    },
+    {
+      "id": "art-20260421-14",
+      "title": "Tesla envoie Optimus au marathon de Boston",
+      "summary": "Tesla annonce qu'il placera un humanoïde Optimus sur le parcours du marathon de Boston, dernière en date d'une liste croissante de démonstrations d'endurance de robots conçues pour éprouver la batterie, la thermique et la locomotion sur un terrain non scripté. La tentative intervient un jour après que des humanoïdes chinois ont battu le record du monde humain du semi-marathon à Pékin, aiguisant un récit États-Unis contre Chine autour de l'IA physique. Tesla n'a pas précisé quel rôle Optimus jouera sur le parcours — concurrent sur la distance complète, segment d'allure ou soutien d'ombre — mais l'événement sera suivi de près pour ses modes de défaillance.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Google News",
+      "url": "https://www.teslarati.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "Humanoïde",
+        "Boston Marathon"
+      ],
+      "timestamp": "2026-04-20T17:00:00Z"
+    },
+    {
+      "id": "art-20260421-15",
+      "title": "Flexiv met en avant sa robotique adaptative à Hannover Messe 2026",
+      "summary": "Flexiv a utilisé Hannover Messe pour démontrer ses derniers systèmes de robotique adaptative, s'appuyant sur des bras à contrôle de force qui gèrent des tâches à contact riche — polissage, insertion, finition — sans les gabarits et le temps d'apprentissage que nécessitent les bras conventionnels. Les démonstrations en direct ont associé le contrôle force-couple à des modèles de compétences apprises afin que le même bras puisse passer à la volée d'une variante de pièce à une autre. Pour les industriels européens qui passent à des travaux à plus forte diversité et plus faible volume, l'argument est : moins de changements de série et plus d'heures-robot sur des tâches vraiment variables.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Google News",
+      "url": "https://www.aerospacemanufacturinganddesign.com",
+      "tags": [
+        "Flexiv",
+        "Contrôle de force",
+        "Hannover Messe",
+        "Cobot"
+      ],
+      "timestamp": "2026-04-20T11:00:00Z"
+    },
+    {
+      "id": "art-20260421-16",
+      "title": "Maja Matarić de l'USC : la professeure qui a pionnié la robotique d'assistance sociale",
+      "summary": "IEEE Spectrum dresse le portrait de Maja Matarić, la professeure de l'USC qui a contribué à inventer le domaine de la robotique d'assistance sociale — des robots qui fournissent une thérapie et des soins personnalisés par l'interaction sociale plutôt que par la manipulation physique. L'article retrace son parcours depuis l'élaboration des premières définitions du domaine en 2005 jusqu'au déploiement de robots dans la rééducation post-AVC, la thérapie de l'autisme et les soins aux personnes âgées. C'est un contrepoids utile au cycle du spectacle matériel, rappelant aux lecteurs que certaines des robotiques de plus grande valeur ne sont ni les plus rapides ni les plus puissantes.",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-blonde-woman-poses-with-a-humanoid-robotic-torso-wearing-a-usc-sweatshirt.jpg?id=60890895&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/socially-assistive-robotics",
+      "tags": [
+        "USC",
+        "Robotique d'assistance sociale",
+        "Santé",
+        "Portrait"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-17",
+      "title": "Les Philippines réalisent leur première chirurgie robotique de la cataracte sur le sol national",
+      "summary": "Des chirurgiens aux Philippines ont réalisé la première chirurgie robotique de la cataracte effectuée localement dans le pays, utilisant une plateforme assistée par robot pour guider la fragmentation et le remplacement du cristallin avec une précision inférieure au millimètre. Cette étape ouvre une voie pour étendre la couverture en ophtalmologie au-delà des hôpitaux universitaires des grandes métropoles, où les listes d'attente pour la cataracte ont été historiquement longues. Cela fait écho à un élan plus large en Asie du Sud-Est pour localiser la chirurgie robotique plutôt que de s'appuyer sur des orientations de tourisme médical.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg/960px-WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg",
+      "source": "Google News",
+      "url": "https://www.insider.ph",
+      "tags": [
+        "Robotique médicale",
+        "Chirurgie",
+        "Philippines",
+        "Santé"
+      ],
+      "timestamp": "2026-04-20T08:00:00Z"
+    },
+    {
+      "id": "art-20260421-18",
+      "title": "Samsung annonce une nouvelle CX retail basée sur la 3D, les avatars et les robots humanoïdes",
+      "summary": "La récente vitrine CX de Samsung a rendu explicite ce qui était évoqué depuis un an : la pile d'expérience retail est reconstruite autour d'interfaces spatiales 3D, d'avatars représentant les clients et de robots humanoïdes comme personnel d'accueil. L'entreprise a présenté les humanoïdes comme complémentaires — et non substituts — des associés humains, en mettant l'accent sur l'orientation, la recherche d'inventaire et la couverture en dehors des heures ouvrables. Pour l'industrie du robot de service, c'est l'un des signaux les plus clairs à ce jour que les humanoïdes grand public vont bientôt connaître des pilotes retail sérieux.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg/960px-Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg",
+      "source": "Google News",
+      "url": "https://www.cxtoday.com",
+      "tags": [
+        "Samsung",
+        "Retail",
+        "Humanoïde",
+        "CX"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-19",
+      "title": "Coco Robotics et BlindSquare s'associent pour rendre la livraison sur trottoir accessible",
+      "summary": "Coco Robotics s'est associé à l'application de navigation assistive BlindSquare pour diffuser les positions des robots de livraison sur trottoir dans l'environnement audio de BlindSquare, afin que les piétons aveugles et malvoyants puissent détecter et contourner les robots en temps réel. L'initiative comble une lacune croissante en matière d'accessibilité à mesure que les flottes de livraison sur trottoir s'étendent à plus de villes, où les robots silencieux et bas ont suscité des plaintes des défenseurs du handicap. C'est un exemple notable d'un opérateur de robotique traitant l'accessibilité comme un produit plutôt que comme une arrière-pensée.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Coco Robotics",
+        "Accessibilité",
+        "Livraison sur trottoir",
+        "BlindSquare"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-20",
+      "title": "PDG de Plus One Robotics : les capitaux dépassent la capacité robotique réelle",
+      "summary": "Le PDG de Plus One Robotics, Erik Nieves, a exprimé un avis prudent sur le cycle actuel de financement de la robotique, soutenant que les capitaux affluent dans la robotique plus vite que la technologie sous-jacente ne mûrit réellement. Son point : les déploiements en conditions réelles vivent ou meurent toujours sur la fiabilité, la disponibilité et les objectifs de cadence de production — non sur les vidéos de démo ou les annonces de modèles de fondation — et l'écart entre la promesse et le système déployable commence à se voir dans les rétrospectives clients. C'est un contrepoint ancré au cycle de battage humanoïde qui remplit les gros titres de cette semaine.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1sr51rr/ceo_on_capital_pouring_into_robotics_faster_than/",
+      "tags": [
+        "Analyse sectorielle",
+        "Plus One Robotics",
+        "Investissement",
+        "Commentaire"
+      ],
+      "timestamp": "2026-04-20T20:00:00Z"
+    }
+  ]
+}

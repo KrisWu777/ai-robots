@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-22",
+  "featured": {
+    "id": "featured-20260422",
+    "title": "RobCo dévoile le robot humanoïde « Autonomous Alfie » à Hannover Messe",
+    "summary": "L'entreprise allemande de robotique industrielle RobCo a lancé « Autonomous Alfie », un robot humanoïde conçu spécifiquement pour les ateliers de fabrication de taille moyenne plutôt que pour des démonstrations tape-à-l'œil. L'entreprise présente Alfie comme une plateforme abordable qui s'intègre aux lignes de production existantes aux côtés de la gamme de bras modulaires de RobCo, en prenant en charge des tâches comme l'alimentation de machines et le contrôle qualité. Cette révélation à Hannover Messe 2026 signale que les fournisseurs européens de robots industriels se précipitent pour répondre à la vague de concurrents humanoïdes chinois et américains visant les ateliers d'usine.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+    "source": "Robotics & Automation News",
+    "url": "https://roboticsandautomationnews.com/2026/04/20/robco-unveils-autonomous-alfie-humanoid-robot-for-industrial-automation-at-hannover-messe/100762/",
+    "tags": ["Humanoïde", "Automatisation industrielle", "Hannover Messe", "RobCo"],
+    "timestamp": "2026-04-20T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260422-01",
+      "title": "Skild AI acquiert l'activité d'automatisation robotique de Zebra Technologies",
+      "summary": "Skild AI, basée à Pittsburgh et connue pour son modèle fondamental polyvalent destiné aux robots, a acquis l'unité d'automatisation robotique de Zebra Technologies afin d'accélérer son déploiement dans les entrepôts. L'accord donne à Skild accès au logiciel de gestion de flotte de Zebra et à une base installée de robots mobiles autonomes dans la logistique. Les observateurs de l'industrie y voient le signe que les entreprises de robotique axées sur l'IA s'offrent les canaux matériels dont elles ont besoin pour passer à l'échelle commerciale.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/skild-ai-acquires-zebra-technologies-robotics-automation-business/",
+      "tags": ["Skild AI", "Zebra", "Acquisition", "Entrepôt"],
+      "timestamp": "2026-04-21T10:00:00Z"
+    },
+    {
+      "id": "art-20260422-02",
+      "title": "Neura Robotics et AWS s'associent pour déployer l'IA physique à grande échelle",
+      "summary": "La startup allemande de robots humanoïdes Neura Robotics a signé une collaboration stratégique avec Amazon Web Services pour faire fonctionner sa flotte de robots cognitifs sur l'infrastructure cloud d'AWS. L'accord couvre l'entraînement des modèles fondamentaux de Neura sur le silicium d'AWS et la diffusion en continu de la télémétrie des robots déployés pour un apprentissage continu. C'est un ancrage commercial notable pour Neura alors qu'elle monte en cadence la production de son humanoïde 4NE-1 avant les déploiements en usine promis plus tard en 2026.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/neura-robotics-and-amazon-web-services-enter-strategic-collaboration-to-accelerate-physical-ai-at-scale/",
+      "tags": ["Neura Robotics", "AWS", "IA physique", "Cloud"],
+      "timestamp": "2026-04-21T11:00:00Z"
+    },
+    {
+      "id": "art-20260422-03",
+      "title": "Agibot dévoile la nouvelle génération de robots à IA incarnée pour un déploiement en conditions réelles",
+      "summary": "Le fabricant chinois d'humanoïdes Agibot a dévoilé une nouvelle génération de robots à IA incarnée et de modèles fondamentaux destinés à un déploiement industriel et commercial à grande échelle. L'entreprise affirme que sa dernière plateforme va au-delà des démonstrations de laboratoire, avec du matériel et des logiciels optimisés pour des quarts d'usine 24/7 et des travaux logistiques. Ce lancement souligne la rapidité avec laquelle les entreprises chinoises d'humanoïdes passent du théâtre du prototype aux contrats de production.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-for-real-world-deployment/",
+      "tags": ["Agibot", "IA incarnée", "Humanoïde", "Chine"],
+      "timestamp": "2026-04-21T09:30:00Z"
+    },
+    {
+      "id": "art-20260422-04",
+      "title": "Les micro-usines robotiques du MIT s'attaquent à la pénurie de logements",
+      "summary": "Des chercheurs du MIT ont construit une micro-usine robotique capable de produire des composants de logements modulaires personnalisables dans une empreinte de la taille d'un conteneur maritime. Le système utilise un bras robotique mobile plus la vision par ordinateur pour découper, assembler et finir des panneaux structurels à partir de bois standard, avec pour objectif de déployer des usines directement près des chantiers de construction. Si elle est mise à l'échelle, l'approche pourrait réduire à la fois le coût et les émissions de transport des logements préfabriqués.",
+      "image": "https://news.mit.edu/sites/default/files/images/202604/mit-system-design.jpg",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/tackling-housing-shortage-robotic-microfactories-0421",
+      "tags": ["MIT", "Construction", "Micro-usine", "Recherche"],
+      "timestamp": "2026-04-21T14:00:00Z"
+    },
+    {
+      "id": "art-20260422-05",
+      "title": "La pince souple de Cornell cueille des fruits mûrs sans les abîmer",
+      "summary": "Des chercheurs de Cornell University ont mis au point une pince robotique souple équipée de capteurs à fibres optiques extensibles capables de juger la maturité au toucher, tout comme une main humaine. L'appareil a pu identifier des fraises et des tomates mûres avec une précision supérieure à 90 % tout en les manipulant assez délicatement pour éviter tout dommage. Ces travaux constituent une étape significative vers des robots agricoles capables de rivaliser enfin avec les cueilleurs humains sur les produits fragiles.",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/handle-with-care-soft-1.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html",
+      "tags": ["Robotique souple", "Agriculture", "Cornell", "Pinces"],
+      "timestamp": "2026-04-21T13:00:00Z"
+    },
+    {
+      "id": "art-20260422-06",
+      "title": "BMW déploie des robots humanoïdes sur ses lignes de production de VE pour réduire les coûts",
+      "summary": "BMW étend son utilisation de robots humanoïdes sur ses lignes de production de véhicules électriques pour réduire les coûts de fabrication alors que le constructeur fait face à la concurrence des véhicules électriques chinois moins chers. Les robots sont testés sur des tâches d'assemblage répétitives qui nécessitaient auparavant des dispositifs dédiés ou des opérateurs humains. Cette démarche fait suite à des pilotes similaires de Mercedes-Benz et indique que les humanoïdes passent des vidéos de démonstration à de véritables outils de réduction des coûts dans l'industrie automobile allemande.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Autoblog",
+      "url": "https://www.autoblog.com",
+      "tags": ["BMW", "Humanoïde", "VE", "Fabrication"],
+      "timestamp": "2026-04-21T15:00:00Z"
+    },
+    {
+      "id": "art-20260422-07",
+      "title": "Schaeffler et VinDynamics s'associent pour produire des robots humanoïdes",
+      "summary": "Le géant allemand des composants Schaeffler et la startup soutenue par le Vietnam VinDynamics ont annoncé une initiative conjointe pour produire en masse des robots humanoïdes destinés aux clients industriels en Asie du Sud-Est. Le partenariat associe l'expertise de Schaeffler en roulements et actionneurs de précision à l'intégration et à la pile logicielle de VinDynamics. Il marque l'une des premières véritables entreprises de fabrication d'humanoïdes ancrées au Vietnam, pays qui courtise agressivement les chaînes d'approvisionnement de la robotique.",
+      "image": "https://vir.com.vn/stores/news_dataimages/2026/042026/22/08/in_social/schaeffler-and-vindynamics-press-image20260422083623.jpg?randTime=1776830703",
+      "source": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/schaeffler-and-vindynamics-join-forces-for-humanoid-robot-production-151194.html",
+      "tags": ["Schaeffler", "VinDynamics", "Humanoïde", "Vietnam"],
+      "timestamp": "2026-04-21T16:00:00Z"
+    },
+    {
+      "id": "art-20260422-08",
+      "title": "Hyundai et DeepX construisent une plateforme d'IA commune pour la robotique",
+      "summary": "Hyundai Motor Group s'associe au concepteur de puces IA DeepX pour construire une plateforme logicielle d'IA commune à ses filiales de robotique, y compris Boston Dynamics. La plateforme fonctionnera sur les accélérateurs d'IA en périphérie de DeepX et visera à standardiser la perception et le contrôle sur les gammes de robots humanoïdes, quadrupèdes et logistiques de Hyundai. Il s'agit d'une tentative d'empêcher chaque unité commerciale de réinventer la roue et de resserrer la chaîne d'approvisionnement coréenne allant des puces IA aux robots.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "AI Business",
+      "url": "https://aibusiness.com/robotics/hyundai-deepx-partner-develop-ai-platform-robotics",
+      "tags": ["Hyundai", "DeepX", "Boston Dynamics", "IA en périphérie"],
+      "timestamp": "2026-04-21T08:00:00Z"
+    },
+    {
+      "id": "art-20260422-09",
+      "title": "Tesla Optimus accueille les coureurs au Boston Marathon",
+      "summary": "Tesla a déployé un robot humanoïde Tesla Optimus au Boston Marathon pour accueillir les coureurs, poser pour des photos et distribuer des gobelets d'eau près de la ligne d'arrivée. Cette apparition était un moment marketing délibéré avant la montée en cadence promise de la production d'Optimus plus tard cette année. Au-delà du spectacle des relations publiques, la sortie a mis en valeur l'équilibre amélioré du robot et sa planification de mouvement consciente de la foule dans des environnements véritablement imprévisibles et à fort trafic piétonnier.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Tesla", "Optimus", "Humanoïde", "Boston Marathon"],
+      "timestamp": "2026-04-20T20:00:00Z"
+    },
+    {
+      "id": "art-20260422-10",
+      "title": "Le robot humanoïde « Lightning » bat le record humain au semi-marathon de Beijing",
+      "summary": "Un robot humanoïde chinois surnommé « Lightning » a franchi la ligne d'arrivée du semi-marathon de Beijing plus rapidement que tout autre robot humanoïde de l'histoire enregistrée, devançant un peloton qui comprenait des concurrents précédents sujets aux chutes. Le robot a parcouru les 21 km par ses propres moyens avec des changements de batterie programmés, démontrant des améliorations de durabilité par rapport à la course de l'an dernier où plusieurs humanoïdes s'étaient écroulés devant les caméras. La prouesse sert aussi de référence pour l'endurance à la marche, un problème d'ingénierie plus difficile que les saltos arrière qui font la une.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "ExtremeTech",
+      "url": "https://www.extremetech.com",
+      "tags": ["Humanoïde", "Chine", "Locomotion", "Beijing"],
+      "timestamp": "2026-04-20T18:00:00Z"
+    },
+    {
+      "id": "art-20260422-11",
+      "title": "A&K Robotics lève 8 M$ CA pour déployer ses robots de mobilité aéroportuaire",
+      "summary": "A&K Robotics, basée à Vancouver, a clôturé un tour de financement de 8 millions de dollars canadiens pour étendre sa flotte de « micro-véhicules » autonomes conçus pour transporter les voyageurs à mobilité réduite à travers les terminaux aéroportuaires. L'entreprise est déjà en phase d'essais à l'aéroport international de Vancouver et affirme que ce nouveau financement accélérera les déploiements dans les hubs nord-américains. C'est un rappel que les marchés de niche des robots de service — et pas seulement les humanoïdes — attirent de véritables investissements en capital-risque.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Changi_Airport_Self_Driving_Bus.jpg/960px-Changi_Airport_Self_Driving_Bus.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/ak-robotics-raises-c8-million-to-build-autonomous-micro-vehicle-for-airports/100839/",
+      "tags": ["Financement", "Aéroports", "Mobilité", "Canada"],
+      "timestamp": "2026-04-21T12:00:00Z"
+    },
+    {
+      "id": "art-20260422-12",
+      "title": "Bubble Robotics lève 5 M$ pour construire « la main-d'œuvre autonome de l'océan »",
+      "summary": "La startup britannique Bubble Robotics est sortie de l'ombre avec un tour pré-amorçage de 5 millions de dollars mené par Episode 1 Ventures et Asterion Ventures pour développer des robots sous-marins autonomes destinés à l'inspection offshore, à l'aquaculture et à la surveillance marine. Les fondateurs, anciens d'Entrepreneurs First, affirment que leur approche en essaim remplace les bateaux équipés d'équipages coûteux pour les travaux sous-marins de routine. La robotique sous-marine est restée en retrait par rapport à ses cousines terrestres et aériennes, mais l'appétit des investisseurs semble évoluer.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mini_ROV_-_Manipulation_de_la_pince_dans_le_bassin_d%27essais_du_Centre_Ifremer_de_Brest_%28Ifremer_00780-89154_-_49048%29.jpg/960px-Mini_ROV_-_Manipulation_de_la_pince_dans_le_bassin_d%27essais_du_Centre_Ifremer_de_Brest_%28Ifremer_00780-89154_-_49048%29.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/bubble-robotics-raises-5-million-to-build-the-oceans-autonomous-workforce/100806/",
+      "tags": ["Financement", "Sous-marin", "Marine", "Essaim"],
+      "timestamp": "2026-04-21T10:30:00Z"
+    },
+    {
+      "id": "art-20260422-13",
+      "title": "Les fabricants chinois d'humanoïdes lorgnent RISC-V plutôt que Nvidia Jetson",
+      "summary": "Une vague de fournisseurs chinois de robots humanoïdes s'éloigne discrètement de la famille Jetson de Nvidia au profit de modules de calcul basés sur RISC-V, selon un rapport sur la chaîne d'approvisionnement de Digitimes. Ce mouvement est motivé par un mélange de contrôles à l'exportation américains, de pressions sur les coûts et d'un écosystème RISC-V national en pleine croissance autour d'entreprises comme StarFive et SiFive. Si la tendance se maintient, elle pourrait fragmenter la pile logicielle de la robotique et mettre la pression sur l'emprise de Nvidia sur le matériel d'IA en périphérie.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Digitimes",
+      "url": "https://www.digitimes.com",
+      "tags": ["RISC-V", "Nvidia", "Chine", "IA en périphérie"],
+      "timestamp": "2026-04-21T06:00:00Z"
+    },
+    {
+      "id": "art-20260422-14",
+      "title": "Le « Project Prometheus » de Jeff Bezos lève 10 Md$ pour l'IA physique",
+      "summary": "La startup furtive « Project Prometheus » de Jeff Bezos, âgée de cinq mois, est en train de clôturer un tour de financement rapporté de 10 milliards de dollars à une valorisation de 38 milliards de dollars, soutenu par JPMorgan et BlackRock. L'entreprise construirait des systèmes polyvalents d'« IA physique » combinant matériel de robotique et raisonnement basé sur des modèles fondamentaux. Si les chiffres se confirment, cela ferait de Project Prometheus l'un des paris d'IA physique les mieux capitalisés jamais tentés, visant directement OpenAI, Figure et 1X.",
+      "image": "https://external-preview.redd.it/KDru8BhyELzZ9JfZ18xo0EVnzVpS7vLP6C-eIJ_GU-A.jpeg?width=640&crop=smart&auto=webp&s=d32cf1de02f8952b1238eeb3552bb8a49a13432f",
+      "source": "Reddit r/artificial",
+      "url": "https://www.reddit.com/r/artificial/comments/1srwofc/jeff_bezoss_project_prometheus_is_raising_10b_at/",
+      "tags": ["Jeff Bezos", "IA physique", "Financement", "Startup"],
+      "timestamp": "2026-04-21T17:00:00Z"
+    },
+    {
+      "id": "art-20260422-15",
+      "title": "Un tribunal allemand donne raison à Teradyne et prononce une injonction contre Elite Robots",
+      "summary": "Un tribunal allemand a accordé à Teradyne Robotics une injonction préliminaire contre le fabricant chinois de cobots Elite Robots, invoquant une contrefaçon de brevet sur les mécanismes de sécurité des robots collaboratifs. La décision oblige Elite Robots à interrompre la vente de plusieurs modèles en Allemagne dans l'attente d'un procès complet. C'est la dernière salve d'une bataille de propriété intellectuelle de plus en plus intense entre les fournisseurs occidentaux établis de bras robotiques et les challengers chinois plus rapides et moins chers.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": ["Teradyne", "Elite Robots", "Brevets", "Cobots"],
+      "timestamp": "2026-04-21T09:00:00Z"
+    },
+    {
+      "id": "art-20260422-16",
+      "title": "Coco, le nouveau robot de livraison autonome de San Jose, arrive au centre-ville",
+      "summary": "San Jose a accueilli « Coco », une flotte de robots de livraison sur trottoir de couleur rose qui transportent de la nourriture et de petits colis à travers le centre-ville. Coco opère sous des permis municipaux avec une supervision humaine à distance, en prenant les commandes des restaurants et des magasins à proximité. Ce lancement fait de San Jose l'une des plus grandes villes américaines avec une flotte active de robots de livraison du dernier kilomètre sur trottoir, après des années de va-et-vient réglementaire à San Francisco et Los Angeles.",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/04/SJM-L-PIZARRO-COL-0422-01.jpg?w=1024&h=713",
+      "source": "The Mercury News",
+      "url": "https://www.mercurynews.com/2026/04/21/meet-coco-downtown-san-joses-new-autonomous-delivery-robot/",
+      "tags": ["Robots de livraison", "Trottoir", "San Jose", "Dernier kilomètre"],
+      "timestamp": "2026-04-21T19:00:00Z"
+    },
+    {
+      "id": "art-20260422-17",
+      "title": "Cadence et Nvidia étendent leur pacte pour l'ingénierie pilotée par l'IA et les jumeaux numériques",
+      "summary": "Cadence, leader des logiciels de conception de puces, étend son partenariat avec Nvidia pour intégrer directement l'IA générative et l'outillage de jumeau numérique dans sa suite d'ingénierie. L'accord étend l'utilisation existante de Nvidia Omniverse par Cadence pour couvrir la simulation de cellules robotiques, l'aménagement d'usine et les tests avec capteur dans la boucle. Pour les constructeurs de robots, cela signifie plus de validation de bout en bout des piles de perception et de contrôle avant même que tout matériel ne soit construit.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/PIA23828-MarsPreseveranceRover-Testing02-20200407.jpg/960px-PIA23828-MarsPreseveranceRover-Testing02-20200407.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/cadence-and-nvidia-expand-partnership-to-advance-ai-driven-engineering-and-digital-twins/",
+      "tags": ["Nvidia", "Cadence", "Jumeau numérique", "Simulation"],
+      "timestamp": "2026-04-21T07:00:00Z"
+    },
+    {
+      "id": "art-20260422-18",
+      "title": "UBTECH s'associe à Terra Robotics pour des déploiements humanoïdes en Europe",
+      "summary": "Le fabricant chinois d'humanoïdes UBTECH a signé un accord de distribution et d'intégration avec l'italien Terra Robotics pour déployer sa série Walker S chez des clients industriels européens. Le partenariat couvre les ventes, le service local et l'ingénierie d'application, avec des déploiements initiaux prévus dans l'automobile et la logistique. Il s'agit à ce jour de l'implantation européenne la plus concrète d'UBTECH alors que les clients occidentaux commencent à évaluer les humanoïdes chinois aux côtés des options locales.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "Gasgoo Auto News",
+      "url": "https://autonews.gasgoo.com",
+      "tags": ["UBTECH", "Terra Robotics", "Europe", "Humanoïde"],
+      "timestamp": "2026-04-21T05:00:00Z"
+    },
+    {
+      "id": "art-20260422-19",
+      "title": "La Chine remporte la course à la robotique humanoïde — littéralement",
+      "summary": "Une analyse de Straight Arrow News soutient que la Chine expédie désormais plus de robots humanoïdes que l'ensemble du marché américain réuni, portée par un fort soutien de l'État, une mise à l'échelle agressive de la fabrication et des chaînes d'approvisionnement de composants denses. Le rapport présente les humanoïdes comme une technologie stratégique où la stratégie de politique industrielle chinoise dépasse les rivaux américains tirés par le capital privé. La question reste ouverte de savoir si les entreprises américaines comme Figure, 1X et Tesla peuvent combler l'écart par la différenciation logicielle.",
+      "image": "https://san.com/wp-content/uploads/2026/04/Untitled-design-14.jpg",
+      "source": "Straight Arrow News",
+      "url": "https://san.com/cc/china-is-winning-the-humanoid-robotics-race-literally/",
+      "tags": ["Chine", "Humanoïde", "Géopolitique", "Industrie"],
+      "timestamp": "2026-04-21T14:30:00Z"
+    },
+    {
+      "id": "art-20260422-20",
+      "title": "QNX s'intègre à Nvidia IGX Thor pour des robots à IA critiques pour la sécurité",
+      "summary": "Le système d'exploitation temps réel QNX de BlackBerry a été intégré à la plateforme IGX Thor de Nvidia, offrant aux développeurs en robotique une pile pré-validée pour les déploiements d'IA critiques pour la sécurité dans les contextes médicaux, industriels et des véhicules autonomes. La combinaison associe le micro-noyau déterministe de QNX aux accélérateurs d'IA de Thor, en visant des certifications comme IEC 61508 et ISO 26262. Pour les constructeurs de robots chirurgicaux et de cobots, elle élimine une grosse partie du travail d'ingénierie des dossiers de sécurité.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/qnx-integrates-with-nvidia-igx-thor-to-accelerate-safety-critical-ai-deployment/",
+      "tags": ["QNX", "Nvidia", "Critique pour la sécurité", "Médical"],
+      "timestamp": "2026-04-21T06:30:00Z"
+    }
+  ]
+}

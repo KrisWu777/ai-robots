@@ -1,0 +1,320 @@
+{
+  "date": "2026-04-21",
+  "featured": {
+    "id": "featured-20260421",
+    "title": "ヒューマノイド「Lightning」、北京でハーフマラソン世界記録を更新",
+    "summary": "「Lightning」と名付けられたヒューマノイドロボットが、北京ハーフマラソンのゴールラインを約57分で通過し、人間の世界記録を約7分上回った。中国メーカーの二足歩行機20台が人間ランナーと並んでスタートラインに立った、耐久性における画期的なイベントとなった。バッテリー寿命、冷却、実世界での移動能力をストレステストすることを目的としたこのレースでは、途中で転倒したり分解したりする機体も多かったが、Lightningのピンと張り詰めた歩様と積極的なストライドは、初のロボットハーフマラソンから1年で物理AIがいかに急速に成熟したかを物語っている。アナリストは、この結果がヒューマノイドを舞台デモにとどまらず、より長時間の産業ミッションへと押し上げるだろうと指摘している。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+    "source": "The Verge",
+    "url": "https://www.theverge.com",
+    "tags": [
+      "ヒューマノイド",
+      "ロコモーション",
+      "中国",
+      "マイルストーン"
+    ],
+    "timestamp": "2026-04-20T18:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260421-01",
+      "title": "Skild AI、Zebra Technologiesのロボティクス自動化事業を買収",
+      "summary": "Skild AIは、Symmetry Fulfillmentオーケストレーションプラットフォームを含むZebra Technologiesのロボティクス自動化部門を買収し、単一の汎用制御レイヤーを中心に倉庫自動化を再構築することを目指す。取引の中心にあるのは同社の全身型AIソフトウェア「Skild Brain」で、ロボットの正確な形状を事前に知らなくても動作するよう設計されており、原則としてあらゆるアーム、AMR、ヒューマノイドが共有スキルライブラリを継承できる。この動きにより、物流業界最大級の導入済みフリートが基盤モデル型コントローラの下に集約される。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/skild-ai-acquires-zebra-technologies-robotics-automation-business/100769/",
+      "tags": [
+        "Skild AI",
+        "Zebra Technologies",
+        "倉庫自動化",
+        "買収"
+      ],
+      "timestamp": "2026-04-20T22:27:25Z"
+    },
+    {
+      "id": "art-20260421-02",
+      "title": "Agibot、実世界展開に向けた新型エンボディドAIロボットと基盤モデルを発表",
+      "summary": "2026年パートナーカンファレンスでAgibotは、「One」アーキテクチャと呼ぶものを中心に構築された新世代のエンボディドAIハードウェアと基盤モデルを展開し、ラボデモから大規模な産業・商業展開へのシフトを打ち出した。ラインナップは器用な両腕ヒューマノイドプラットフォームと、工場、物流、サービスシナリオに最適化された知覚-行動モデルを組み合わせる。これらの発表は、物理AIを大規模に製品化しようと競う中国のヒューマノイドメーカーの中でAgibotの地位を確立するものだ。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/agibot-unveils-new-generation-of-embodied-ai-robots-and-models-for-real-world-deployment/100781/",
+      "tags": [
+        "Agibot",
+        "エンボディドAI",
+        "基盤モデル",
+        "ヒューマノイド"
+      ],
+      "timestamp": "2026-04-21T04:57:15Z"
+    },
+    {
+      "id": "art-20260421-03",
+      "title": "RobCo、Hannover Messeで産業用途のヒューマノイド「Autonomous Alfie」を発表",
+      "summary": "ミュンヘンに本社を置くRobCoはHannover Messeで「Autonomous Alfie」を発表した。これは産業自動化に真っ向から狙いを定めたヒューマノイドで、特に固定セル型ロボティクスが歴史的につまずいてきた可変・繊細・入力変動の激しい作業を対象としている。RobCoはAlfieをレベル4産業自律性への一歩として位置づけ、ロボットが再教示なしで変動に対応できるとし、今回のローンチを協働ロボットと完全な工場用ヒューマノイドの間に新たなカテゴリーを切り開くものとしている。これは今週発表された、舞台ではなく現場を狙ったヒューマノイド発表の一つだ。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/robco-unveils-autonomous-alfie-humanoid-robot-for-industrial-automation-at-hannover-messe/100762/",
+      "tags": [
+        "RobCo",
+        "ヒューマノイド",
+        "Hannover Messe",
+        "産業自動化"
+      ],
+      "timestamp": "2026-04-20T21:18:07Z"
+    },
+    {
+      "id": "art-20260421-04",
+      "title": "NEURA RoboticsとAWS、物理AIをスケールさせる戦略提携を締結",
+      "summary": "NEURA RoboticsとAmazon Web Servicesは、AWSのクラウドと生成AIスタックを使ってNEURAの認知型ヒューマノイドプラットフォームを大規模に訓練、シミュレーション、展開することで「物理AI」を加速する戦略提携を発表した。提携はNEURAのNeuraverseスキルストアの共同市場投入、クラウドベースのフリート学習、AWSシミュレーションサービスとの統合をカバーする。これはヒューマノイドメーカーとハイパースケーラーとの間でこれまで公表された中で最大規模の連携の一つで、シミュレーションから実機までのパイプラインを掌握するというNvidiaの戦略を踏襲している。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Google News",
+      "url": "https://www.mycarrollcountynews.com",
+      "tags": [
+        "NEURA Robotics",
+        "AWS",
+        "物理AI",
+        "パートナーシップ"
+      ],
+      "timestamp": "2026-04-20T14:00:00Z"
+    },
+    {
+      "id": "art-20260421-05",
+      "title": "NvidiaとパートナーがHannover Messe 2026でAI駆動製造を展示",
+      "summary": "NvidiaはSiemens、SAP、ABB、Dassault Systèmes、Microsoftなどとともに大規模な産業AI展示をHannover Messeに投入し、デジタルツイン、ロボット基盤モデル、工場規模の推論にまたがるスタックを提案した。デモはIsaacとOmniverseを独立したラボではなく稼働中の生産ラインに持ち込むことに焦点を当て、既存工場の改修に重点を置いた。欧州の製造業者へのメッセージは明確だ:AIネイティブ工場はもはやパイロットではなく、調達対象である。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/20/nvidia-and-partners-showcase-ai-driven-manufacturing-systems-at-hannover-messe-2026/100766/",
+      "tags": [
+        "Nvidia",
+        "Hannover Messe",
+        "デジタルツイン",
+        "製造"
+      ],
+      "timestamp": "2026-04-20T21:37:09Z"
+    },
+    {
+      "id": "art-20260421-06",
+      "title": "Cornellの光ファイバー式ソフトグリッパー、熟れた果実を傷つけず摘み取る",
+      "summary": "Cornellの研究者らは、伸縮性のある光ファイバーセンサーを使ってイチゴの熟度を感じ取り、蔓から跡を残さずに摘み取るソフトロボットグリッパーを開発した。グリッパーは視覚ではなく触覚変形信号を通じて熟度を予測するため、日陰や汚れに騙されがちな色ベースのシステムを有用に補完する。この研究は、農業自動化で長年続くボトルネック、すなわち繊細で熟度にばらつきのある農産物を人間の品質と速度で収穫することを狙っている。",
+      "image": "https://scx1.b-cdn.net/csz/news/800a/2026/handle-with-care-soft-1.jpg",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-04-soft-robot-gripper-ripe-fruit.html",
+      "tags": [
+        "ソフトロボット",
+        "グリッパー",
+        "農業",
+        "Cornell"
+      ],
+      "timestamp": "2026-04-20T15:00:00Z"
+    },
+    {
+      "id": "art-20260421-07",
+      "title": "X-HumanoidのTien Kung 3.0、完全自律走行で北京ロボットウォリアーチャレンジを制覇",
+      "summary": "X-HumanoidのTien Kung 3.0は、遠隔操作もスクリプト化された経路もなく、オンボードスタックのみで障害物の多いコースを端から端まで走破し、完全自律で北京ロボットウォリアーチャレンジを制した。この勝利が注目されるのは、公開されているヒューマノイド「大会」の多くが依然として高レベルの判断を人間のオペレーターに頼っているからだ。Tien Kungの結果は、ロコモーションとマニピュレーションを同時にこなす無拘束の自律性に一つの目印を打ち立てた。北京ハーフマラソンと同じ週にあたり、中国のヒューマノイドハードウェアがデモから大会レベルの信頼性へと進化していることを裏付ける。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Google News",
+      "url": "https://au.finance.yahoo.com",
+      "tags": [
+        "X-Humanoid",
+        "Tien Kung",
+        "自律性",
+        "北京"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-08",
+      "title": "Pudu Robotics、オランダのパートナーシップでAIネイティブ洗浄乾燥機を欧州展開",
+      "summary": "Pudu Roboticsは、オランダのトップ業務用清掃会社の一つであるGom Schoonhoudenと提携し、AIネイティブのPUDU BG1大型洗浄乾燥ロボットを欧州で初めて導入した。この機械はオンボード知覚で施設を自動マッピングし、障害物を避けて経路を再計画し、自らドッキングする機能を持ち、業務用清掃における人手不足の痛点を狙っている。これは、中国のサービスロボットメーカーが直販ではなく現地運営パートナーを通じて欧州で規模拡大を図っている最新の兆候である。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Autonomous_cleaning_robot_by_FHI.jpg/960px-Autonomous_cleaning_robot_by_FHI.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/pudu-robotics-deploys-ai-powered-cleaning-robot-in-europe-through-partnership-with-gom/100775/",
+      "tags": [
+        "Pudu Robotics",
+        "サービスロボット",
+        "欧州",
+        "清掃"
+      ],
+      "timestamp": "2026-04-21T04:36:32Z"
+    },
+    {
+      "id": "art-20260421-09",
+      "title": "Nature:強化された屈曲性能とAI予測を備えたソフトロボット内視鏡",
+      "summary": "Natureに掲載された新しい論文は、高い柔軟性を持つ屈曲部と、内部センサー信号から先端の姿勢を予測するAIモデルを組み合わせたソフトロボット内視鏡を記述しており、複雑な解剖構造を進む外科医の認知的負荷を減らすことを目指している。チームは、位置推定精度を保ちながら従来の剛性リンク設計よりも大幅に小さい曲率半径を報告しており、消化管の低侵襲介入における重要な障壁に対応する。この研究は、柔軟なハードウェアと学習された固有受容感覚を組み合わせた最近のソフト外科ロボット論文の一つである。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/New_Da_Vinci_Xi.jpg/960px-New_Da_Vinci_Xi.jpg",
+      "source": "Google News",
+      "url": "https://www.nature.com",
+      "tags": [
+        "ソフトロボット",
+        "医療",
+        "内視鏡",
+        "研究"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-10",
+      "title": "CadenceとNvidia、AI駆動エンジニアリングとデジタルツインで提携拡大",
+      "summary": "CadenceとNvidiaは長年の提携関係を拡張し、AI、物理ベースのシミュレーション、デジタルツイン技術を半導体設計、ロボティクス、ハイパースケールAIインフラにまたがるエンジニアリングワークフローにより深く組み込む。この提携はCadenceのEDAとシステム設計IPをNvidiaのアクセラレーテッドコンピューティングと組み合わせ、翌朝ではなく設計セッション内で走らせられるほど高速なシミュレーションループを求めるエンジニアを狙っている。あらゆる産業ソフトウェアベンダーがやがてAI顧客になるというNvidiaの姿勢を補強するものだ。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Generative_Drone_Design.stl/960px-Generative_Drone_Design.stl.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/21/cadence-and-nvidia-expand-partnership-to-advance-ai-driven-engineering-and-digital-twin-technologies/100772/",
+      "tags": [
+        "Cadence",
+        "Nvidia",
+        "デジタルツイン",
+        "EDA"
+      ],
+      "timestamp": "2026-04-21T04:25:08Z"
+    },
+    {
+      "id": "art-20260421-11",
+      "title": "QNX、Nvidia IGX Thorと統合し安全クリティカルAIを加速",
+      "summary": "BlackBerryのQNXリアルタイムOSがNvidiaの新しいIGX Thorプラットフォームと統合され、医療機器、産業コントローラー、自律機械における安全クリティカルなAI展開を真正面から狙う。この組み合わせにより、Thorの高演算AI推論がQNXの決定論的スケジューラと機能安全認証の枠組みの下に入る。AIモデルがハードリアルタイムのアクチュエーションを駆動するのと同じボードに移行する中、顧客が求めていた組み合わせだ。エッジAIスタックは高速でありかつ認証可能でなければならず、どちらか一方では足りないという賭けである。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Google News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "QNX",
+        "Nvidia",
+        "安全クリティカル",
+        "エッジAI"
+      ],
+      "timestamp": "2026-04-20T16:00:00Z"
+    },
+    {
+      "id": "art-20260421-12",
+      "title": "NCS、AGIBOT、HZTCと提携しAPAC全域にヒューマノイドを展開",
+      "summary": "シンガポールに拠点を置くNCSは、AGIBOTおよびHZTCと契約を結び、NCSのシステムインテグレーションのフットプリントをAGIBOTのハードウェアとHZTCのフリート運用ツールと組み合わせて、アジア太平洋全域でヒューマノイドロボティクスを展開する。この提携は、ヒューマノイド能力を求めながら統合負担は避けたい物流、ホスピタリティ、商業不動産の顧客を狙っている。APACのヒューマノイド成長が、直接顧客向けのパイロットではなく、エンタープライズITチャネルを通じてますます流れていることを示している。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Google News",
+      "url": "https://www.thefastmode.com",
+      "tags": [
+        "NCS",
+        "AGIBOT",
+        "APAC",
+        "ヒューマノイド"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-13",
+      "title": "Milvus Robotics、重量物搬送向けフォークリフト型AMR「SEIT F1500S」を発売",
+      "summary": "Milvus RoboticsはSEIT F1500Sを発売した。1,500 kgの積載能力を持つフォークリフト型の自律移動ロボットで、倉庫や軽工業の重量物搬送を狙う。この機械はEUROパレットクラスの荷物をカウンターバランス式リフトで扱い、オンボードSLAMナビゲーションと人-ロボット共有フロア向けの安全等級センサーを備える。AMRを従来スタンドオン型フォークリフトが担ってきた役割へとさらに押し進めるもので、イントラロジスティクスの中でオペレーター不足が最も深刻な領域を突く。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg/960px-Vector3DHD_autonomous_mobile_robot_and_EnZone_wireless_charging.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Milvus Robotics",
+        "AMR",
+        "フォークリフト",
+        "イントラロジスティクス"
+      ],
+      "timestamp": "2026-04-20T13:00:00Z"
+    },
+    {
+      "id": "art-20260421-14",
+      "title": "Tesla、Optimusをボストンマラソンに投入",
+      "summary": "TeslaはOptimusヒューマノイドをボストンマラソンのコースに投入すると発表した。台本のない地形でバッテリー、熱管理、ロコモーションを実証するための、増え続けるロボット耐久デモリストに新たに加わるものだ。この挑戦は中国のヒューマノイドが北京で人間のハーフマラソン世界記録を破った翌日に行われ、物理AIを巡る米中対立の物語をさらに鋭くしている。TeslaはOptimusがコース内でどの役割を果たすのか—完走エントリーなのか、ペース区間なのか、影のサポートなのか—を明らかにしていないが、このイベントは故障モードについて注視されることになるだろう。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Google News",
+      "url": "https://www.teslarati.com",
+      "tags": [
+        "Tesla",
+        "Optimus",
+        "ヒューマノイド",
+        "Boston Marathon"
+      ],
+      "timestamp": "2026-04-20T17:00:00Z"
+    },
+    {
+      "id": "art-20260421-15",
+      "title": "Flexiv、Hannover Messe 2026で適応型ロボティクスを披露",
+      "summary": "FlexivはHannover Messeで最新の適応型ロボティクスシステムを実演し、研磨、挿入、仕上げといった接触の多い作業を、従来のアームに必要な治具やティーチング時間なしで扱う力制御アームを前面に押し出した。ライブデモでは力-トルク制御と学習されたスキルモデルを組み合わせ、同じアームが部品バリアントの間を即座に切り替えられることを示した。高多品種少量生産へ移行する欧州の製造業者にとって、売り文句は切替回数の削減と、本当に可変な作業により多くのロボット時間を回すことだ。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Google News",
+      "url": "https://www.aerospacemanufacturinganddesign.com",
+      "tags": [
+        "Flexiv",
+        "力制御",
+        "Hannover Messe",
+        "協働ロボット"
+      ],
+      "timestamp": "2026-04-20T11:00:00Z"
+    },
+    {
+      "id": "art-20260421-16",
+      "title": "USCのMaja Matarić:社会支援ロボティクスを開拓した教授",
+      "summary": "IEEE Spectrumが、社会支援ロボティクスという分野—物理的な操作ではなく社会的相互作用を通じて個別化された療法とケアを提供するロボット—を発明する手助けをしたUSC教授Maja Matarićを特集した。この記事は、2005年に分野の初期定義を構築することから、脳卒中リハビリ、自閉症療法、高齢者ケアにロボットを展開するまでの彼女の歩みをたどる。ハードウェアのスペクタクル循環への有用な対抗軸であり、最も価値あるロボティクスは最速でも最強でもないことを読者に思い出させる。",
+      "image": "https://spectrum.ieee.org/media-library/a-smiling-blonde-woman-poses-with-a-humanoid-robotic-torso-wearing-a-usc-sweatshirt.jpg?id=60890895&width=1200&height=600&coordinates=0%2C0%2C0%2C0",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/socially-assistive-robotics",
+      "tags": [
+        "USC",
+        "社会支援ロボティクス",
+        "ヘルスケア",
+        "プロフィール"
+      ],
+      "timestamp": "2026-04-20T12:00:00Z"
+    },
+    {
+      "id": "art-20260421-17",
+      "title": "フィリピン、国内初のロボット白内障手術に成功",
+      "summary": "フィリピンの外科医らは、ロボット支援プラットフォームを使ってサブミリメートル精度で水晶体の破砕と交換を誘導し、国内で初めてロボット白内障手術を完遂した。このマイルストーンは、白内障の待機リストが歴史的に長かった主要都市圏の教育病院を超えて、眼科の提供範囲を拡大する道を開く。医療ツーリズムの紹介に頼るのではなく、ロボット手術を現地化しようという東南アジアのより広い動きと呼応する。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg/960px-WBAMC_first_in_DoD_to_use_robot_for_surgery_160426-A-EK666-506.jpg",
+      "source": "Google News",
+      "url": "https://www.insider.ph",
+      "tags": [
+        "医療ロボット",
+        "手術",
+        "フィリピン",
+        "ヘルスケア"
+      ],
+      "timestamp": "2026-04-20T08:00:00Z"
+    },
+    {
+      "id": "art-20260421-18",
+      "title": "Samsung、3D・アバター・ヒューマノイドを基盤にした新たな小売CXを示唆",
+      "summary": "Samsungの最近のCXショーケースは、この1年ほのめかされてきたことを明確にした:小売体験のスタックは、3D空間インターフェース、顧客を代表するアバター、そして店頭スタッフとしてのヒューマノイドロボットを中心に再構築されつつある。同社はヒューマノイドを人間の店員の代替ではなく補完として位置づけ、道案内、在庫検索、営業時間外対応に焦点を当てた。サービスロボット業界にとっては、消費者向けヒューマノイドが本格的な小売パイロットに入ろうとしている最も明確なシグナルの一つだ。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg/960px-Artificial_Intelligence_%28AI%29_and_Robotics_exhibition_at_the_Heinz_Nixdorf_MuseumsForum.jpg",
+      "source": "Google News",
+      "url": "https://www.cxtoday.com",
+      "tags": [
+        "Samsung",
+        "小売",
+        "ヒューマノイド",
+        "CX"
+      ],
+      "timestamp": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": "art-20260421-19",
+      "title": "Coco RoboticsとBlindSquareが提携、歩道配送のアクセシビリティを向上",
+      "summary": "Coco Roboticsは、支援ナビゲーションアプリのBlindSquareと提携し、歩道配送ロボットの位置情報をBlindSquareのオーディオ環境に放送することで、視覚障害者や弱視の歩行者がリアルタイムでロボットを検知して迂回できるようにした。この動きは、静かで背の低いロボットが障害者擁護団体から苦情を受けてきた中、歩道配送フリートがより多くの都市へ拡大するにつれて広がるアクセシビリティのギャップに対処するものだ。ロボティクス運営者がアクセシビリティを後付けではなくプロダクトとして扱う注目すべき例である。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Google News",
+      "url": "https://www.prnewswire.com",
+      "tags": [
+        "Coco Robotics",
+        "アクセシビリティ",
+        "歩道配送",
+        "BlindSquare"
+      ],
+      "timestamp": "2026-04-20T09:00:00Z"
+    },
+    {
+      "id": "art-20260421-20",
+      "title": "Plus One Robotics CEO:資本が実際のロボティクス能力を追い越している",
+      "summary": "Plus One Robotics CEOのErik Nieves氏は、現在のロボティクス資金調達サイクルに警鐘を鳴らし、資本が基礎技術が実際に成熟するよりも速くロボティクスに流れ込んでいると論じた。彼の主張はこうだ:実世界の展開は依然として信頼性、稼働時間、生産率目標によって生き死にが決まる—デモ動画や基盤モデルの発表ではない—そして約束と展開可能システムとのギャップが顧客の事後検証で現れ始めている。今週のヘッドラインを埋めるヒューマノイドの誇大広告サイクルへの地に足のついた反論である。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "Reddit r/robotics",
+      "url": "https://www.reddit.com/r/robotics/comments/1sr51rr/ceo_on_capital_pouring_into_robotics_faster_than/",
+      "tags": [
+        "業界分析",
+        "Plus One Robotics",
+        "投資",
+        "コメンタリー"
+      ],
+      "timestamp": "2026-04-20T20:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-17",
+  "featured": {
+    "id": "featured-20260417",
+    "title": "Boston Dynamics na Google DeepMind wamfundisha Spot kufikiri kwa kutumia Gemini Robotics",
+    "summary": "Boston Dynamics imeunganisha muundo msingi wa Gemini Robotics wa Google DeepMind kwenye jukwaa lake la ukaguzi la Spot, hivyo kumruhusu roboti huyo wa miguu minne kuelewa amri za lugha ya kawaida na kupanga kazi za hatua nyingi kwa kujitegemea. Matokeo yake ni roboti anayeweza kutafakari mazingira yasiyomjulisha — kwa mfano, kuamua jinsi ya kuleta kitu au kujirudisha baada ya jaribio lililoshindikana — badala ya kutekeleza mipango migumu iliyotengenezwa mapema. Muunganiko huu ni hatua kubwa kuelekea AI iliyojumuishwa kwenye miili ya kimwili kwa madhumuni ya jumla kwa ajili ya ukaguzi wa viwanda, usafirishaji na huduma za uwandani, na unatoa dokezo la jinsi muundo msingi utakavyoanza kufanya kazi ndani ya vifaa vya kibiashara vya roboti.",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+    "tags": ["Boston Dynamics", "Google DeepMind", "Muundo Msingi", "Spot"],
+    "timestamp": "2026-04-14T19:45:01Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260417-01",
+      "title": "Physical Intelligence yazindua π0.7: Ubongo wa roboti unaoshughulikia kazi ambazo haukufundishwa",
+      "summary": "Kampuni changa ya roboti Physical Intelligence imetoa π0.7, muundo msingi wa kizazi kipya unaoweza kuwaelekeza roboti kukamilisha kazi ambazo mfumo haukufundishwa wazi. Kampuni inauelezea kama hatua ya awali lakini yenye maana kuelekea ubongo wa roboti wa madhumuni ya jumla, na video za onyesho zinaonyesha mikono na vidhibiti vya mkono vinavyozoea jikoni, madawati na hatua mpya za kuunganisha vifaa. Uzinduzi huu unawasha tena mashindano kati ya PI, Google DeepMind na Nvidia kuhusu nani atakayeweka msingi wa tabaka la uendeshaji wa AI ya kimwili.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-12.22.07-PM.png?resize=1200,589",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "tags": ["Physical Intelligence", "Muundo Msingi", "Roboti wa Jumla"],
+      "timestamp": "2026-04-16T20:26:44Z"
+    },
+    {
+      "id": "art-20260417-02",
+      "title": "Siemens, Nvidia na Humanoid waileta AI ya kimwili kwenye shughuli za viwandani",
+      "summary": "Siemens imeweka roboti Alpha mwenye magurudumu HMND 01 wa Humanoid, aliyejengwa juu ya safu ya AI ya kimwili ya Nvidia, katika majaribio ya moja kwa moja kwenye mojawapo ya viwanda vyake vya elektroniki — mara ya kwanza kampuni hizo tatu kuonyesha pamoja roboti mwenye umbo la binadamu akiendesha usafirishaji halisi wa viwandani. Roboti huyo alisafirisha vipuri kwa kujitegemea kati ya vituo vya kazi, akashughulikia uhamisho wa masanduku, na akarekebisha njia zake akizunguka wafanyakazi. Siemens iliita jaribio hilo 'hatua muhimu ya kihistoria' ya kugeuza AI ya kimwili kutoka video za onyesho kuwa uhalisia wa utengenezaji.",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/siemens-humanoid-nvidia-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/siemens-nvidia-and-humanoid-bring-physical-ai-humanoid-robots-into-factory-operations/100681/",
+      "tags": ["Siemens", "Nvidia", "Humanoid", "Uendeshaji Otomatiki wa Viwanda"],
+      "timestamp": "2026-04-16T12:45:12Z"
+    },
+    {
+      "id": "art-20260417-03",
+      "title": "Path Robotics yazindua Rove: Mshikaji wa vyuma wa miguu minne anayeendeshwa na AI ya kimwili",
+      "summary": "Path Robotics imeonyesha Rove, mfumo wa kulehemu unaosafiri unaounganisha muundo wake wa AI ya kimwili Obsidian na jukwaa la roboti mwenye miguu minne — kimsingi, kufunga mshumaa wa kulehemu juu ya mbwa-roboti na kumwacha aendee kwenye maeneo ya kazi. Kampuni, inayojulikana kwa seli zake za kulehemu za roboti za kujitegemea, inasema Rove huruhusu watengenezaji kutumia uwezo wa kulehemu katika nafasi finyu sana au zisizo sawa kwa seli zilizowekwa kudumu. Uzinduzi ni miongoni mwa bidhaa za kwanza za kibiashara zinazounganisha usogezaji wa miguu na ujuzi maalum wa utengenezaji.",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/path-robotics-Rove-Weld-v2.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/path-robotics-unveils-mobile-robotic-welding-system-combining-ai-and-quadruped-mobility/100600/",
+      "tags": ["Path Robotics", "Kulehemu", "Roboti wa Miguu Minne", "Utengenezaji"],
+      "timestamp": "2026-04-16T14:30:43Z"
+    },
+    {
+      "id": "art-20260417-04",
+      "title": "Unitree yaanza kutuma roboti mwenye umbo la binadamu wa dola 6,800 — wa bei nafuu zaidi hadi sasa",
+      "summary": "Kampuni ya roboti ya Kichina Unitree imeanza mauzo ya rejareja ya roboti wake mwenye umbo la binadamu wa gharama ya chini kabisa, anayeanzia bei ya dola 6,800 — mabadiliko makubwa katika upatikanaji yanayoacha majukwaa pinzani ya Boston Dynamics, Figure na Apptronik nyuma kwa kiwango kikubwa. Mtindo huo unalenga watafiti, watengenezaji wa programu na wateja wa elimu, na Unitree pia imetangaza usafirishaji wa bure kwa Marekani. Hatua hiyo inaongeza shinikizo la bei kwa Tesla Optimus na programu nyinginezo za roboti za binadamu zinazolenga soko la karibu na mteja wa kawaida.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": ["Unitree", "Umbo la Binadamu", "Bei", "China"],
+      "timestamp": "2026-04-17T03:13:28Z"
+    },
+    {
+      "id": "art-20260417-05",
+      "title": "Jinsi roboti wanavyojifunza: historia fupi ya kisasa",
+      "summary": "MIT Technology Review inafuatilia mabadiliko katika utafiti wa roboti kutoka mikono iliyowekewa kanuni kwa mkono hadi sera zilizofunzwa kwa kiasi kikubwa na miundo misingi. Makala inahoji kwamba miaka mitano iliyopita imepunguza kwa kimyakimya umbali kati ya ndoto za awali za roboti wa madhumuni ya jumla na mikono finyu ya viwandani iliyotawala karne ya 20, huku timu za DeepMind, Physical Intelligence na maabara za vyuo vikuu zikikutana kwenye kanuni za mafunzo zinazoshirikishwa. Ni ramani muhimu ya jinsi uwanja ulivyofika kwa hakika kwenye hatua ya sasa ya AI ya kimwili.",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/robot.jpg?resize=1200,600",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "tags": ["Muundo Msingi", "Historia", "Kujifunza kwa Roboti"],
+      "timestamp": "2026-04-17T10:00:00Z"
+    },
+    {
+      "id": "art-20260417-06",
+      "title": "Digit ajifunza kuinua deadlift: Agility Robotics inaonyesha roboti mwenye umbo la binadamu akinyanyua uzito mzito",
+      "summary": "Kipindi cha hivi karibuni cha Video Friday cha IEEE Spectrum kinamweka Digit, wa Agility Robotics, akifanya deadlift kwa fimbo yenye uzito — onyesho kwamba udhibiti wa usawa na nguvu wa mwili mzima wa roboti huyu wa miguu miwili sasa unaweza kushughulikia mizigo mizito isiyo sawa. Vipande vingine vinaonyesha utafiti mpya wa usogeaji kutoka maabara za kielimu, vikisisitiza kwamba udhibiti wa mwili mzima kwa hali ya nguvu unahama haraka kutoka uigaji hadi kwenye vifaa halisi. Ni ushahidi mwingine kwamba roboti wa miguu wanakaribia mikono ya viwandani iliyowekwa kudumu kwa nguvu ghafi.",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=65564472&width=1200&height=600&coordinates=0%2C110%2C0%2C110",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robot-learning",
+      "tags": ["Agility Robotics", "Digit", "Umbo la Binadamu", "Usogeaji"],
+      "timestamp": "2026-04-17T15:00:01Z"
+    },
+    {
+      "id": "art-20260417-07",
+      "title": "Jabil yaeleza jinsi inavyopanga kupanua roboti wa umbo la binadamu kutoka mfano hadi uzalishaji",
+      "summary": "Mtengenezaji wa mkataba Jabil, katika mahojiano mapya, amewasilisha ramani yake ya kuzalisha kwa wingi roboti wa umbo la binadamu kwa wateja kama Apptronik — ikishughulikia ujenzi wa mnyororo wa ugavi, upataji wa vidhibiti vya mwendo, na kuhama kutoka mifano iliyounganishwa kwa mkono hadi uzalishaji wa laini. Kampuni inawaona roboti wa umbo la binadamu kama kitengo kikubwa kijacho ambapo ubora wa utengenezaji na mikondo ya gharama vitaamua washindi, kama ilivyofanyika kwa simu janja na magari ya umeme. Maoni haya yanatoa mwangaza wa nadra kwenye upande wa viwanda wa wimbi la roboti wa binadamu.",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/jabil-apptronik-collaboration-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/interview-jabil-on-scaling-humanoid-robots-from-prototype-to-production/100706/",
+      "tags": ["Jabil", "Apptronik", "Umbo la Binadamu", "Utengenezaji"],
+      "timestamp": "2026-04-16T16:23:33Z"
+    },
+    {
+      "id": "art-20260417-08",
+      "title": "Skild AI yanunua biashara ya uendeshaji otomatiki wa roboti ya Zebra Technologies",
+      "summary": "Kampuni changa ya roboti inayotumia muundo msingi Skild AI imenunua biashara ya uendeshaji otomatiki wa roboti ya Zebra Technologies, hivyo kumwezesha kampuni hiyo changa kupata msingi wa wateja wa ghala na usafirishaji uliojengwa, utaalamu wa uwekaji wa uwandani, na vifaa vilivyoko tayari. Mkataba huu unaunganisha kwa wima malengo ya Skild ya ubongo wa jumla wa roboti na njia halisi ya kuingia sokoni katika utekelezaji wa oda na usafirishaji wa kampuni — mojawapo ya sekta chache za roboti zenye utayari uliothibitika wa kulipa. Masharti kamili hayakutangazwa.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Business Wire",
+      "url": "https://www.businesswire.com",
+      "tags": ["Skild AI", "Zebra Technologies", "Roboti wa Ghala", "Muungano na Ununuzi"],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260417-09",
+      "title": "Agibot yapanga kupanua uzalishaji wa roboti wa binadamu nchini China mara kadhaa",
+      "summary": "Mtengenezaji wa roboti wa umbo la binadamu mwenye makao makuu Shanghai Agibot alimwambia Nikkei Asia kwamba anapanga kupanua uwezo wa uzalishaji mara kadhaa zaidi, kwani mahitaji kutoka kwa wateja wa viwandani na taasisi za utafiti yanazidi uzalishaji wake wa sasa. Kampuni tayari ina vitengo vya G2 vya umbo la binadamu kwenye sakafu ya viwanda nchini China, na inasukuma mbele kuelekea uchumi wa uzalishaji wa wingi unaofanana na ule unaobadilisha minyororo ya ugavi ya magari ya umeme ya Kichina. Mpango huu unaimarisha jinsi watengenezaji wa Kichina wanavyopanuka kwa ukali dhidi ya wapinzani wa Marekani ambao bado wako kwenye uzalishaji mdogo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com",
+      "tags": ["Agibot", "Umbo la Binadamu", "China", "Uzalishaji wa Wingi"],
+      "timestamp": "2026-04-17T08:49:00Z"
+    },
+    {
+      "id": "art-20260417-10",
+      "title": "Roboti wa G2 wa Agibot wawekwa kwenye sakafu ya kiwanda cha China",
+      "summary": "Interesting Engineering inaripoti kwamba roboti wa G2 wa Agibot — waliowekewa vidhibiti vya AI iliyojumuishwa mwilini — sasa wanafanya kazi halisi za laini ya uzalishaji katika kiwanda cha utengenezaji nchini China, ikiwa ni pamoja na kushughulikia vipuri na ukaguzi. Utekelezaji huu ni miongoni mwa visa vya kwanza vinavyoweza kuthibitishwa vya roboti wa binadamu wa Kichina wanaofanya kazi za kudumu za viwandani, badala ya maonyesho yaliyoandikwa awali. Unaongezea ripoti ya Nikkei ya upanuaji na kuimarisha hoja ya roboti wa binadamu wa Kichina kutangulia katika utekelezaji wa kibiashara.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Agibot", "G2", "Uendeshaji Otomatiki wa Viwanda", "AI Iliyojumuishwa Mwilini"],
+      "timestamp": "2026-04-15T11:06:00Z"
+    },
+    {
+      "id": "art-20260417-11",
+      "title": "Tesla yachunguza uzalishaji wa roboti wa binadamu Optimus katika Gigafactory ya Shanghai",
+      "summary": "Tesla inachunguza iwapo kujenga roboti wa binadamu Optimus katika Gigafactory yake ya Shanghai, kulingana na TechNode, kampuni ikitaka kutumia minyororo ya ugavi ya Kichina ya vidhibiti vya mwendo, masanduku ya giya, na sumaku ambazo tayari zinalisha watengenezaji wa roboti wa binadamu wa eneo hilo. Laini ya Shanghai itamwweka Optimus pembeni na mitandao ile ile ya vipengele inayowasukuma Unitree, Agibot na Fourier, huku ikiepuka miundo ya gharama ya Marekani. Uamuzi wowote wa mwisho utapima hadi kiwango gani Tesla iko tayari kutenganisha utengenezaji wa roboti wa binadamu na uwepo wake nchini Marekani.",
+      "image": "https://technode.com/wp-content/uploads/2022/07/131403118_m的副本-1-e1657706210717.jpg",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/04/17/tesla-considers-humanoid-robot-production-at-shanghai-gigafactory/",
+      "tags": ["Tesla", "Optimus", "Shanghai", "Utengenezaji"],
+      "timestamp": "2026-04-17T02:13:37Z"
+    },
+    {
+      "id": "art-20260417-12",
+      "title": "Roboti wa binadamu wa Siemens akamilisha majaribio ya usafirishaji katika kiwanda cha uzalishaji",
+      "summary": "Makala tofauti ya Engineering.com inathibitisha kwamba Siemens imekamilisha mfululizo uliopangwa wa majaribio ya usafirishaji kwa kutumia roboti wake wa binadamu aliyewekwa hivi karibuni, yanayohusisha usafirishaji wa pallet, ushughulikiaji wa vikapu, na seli za kazi zilizoratibiwa kati ya binadamu na roboti. Majaribio yaliyofanikiwa yanafungua njia kwa utekelezaji mpana ndani ya kiwanda na yatasaidia kuongoza jinsi Siemens itakavyouza vifurushi vya uendeshaji otomatiki 'walio tayari kwa roboti wa binadamu' kwa watengenezaji wengine. Pamoja na onyesho la safu ya Nvidia, inamuweka Siemens kama mmojawapo wa nanga za viwandani zenye uaminifu mkubwa wa AI ya kimwili.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/humanoid-robot-completes-logistics-trials-at-siemens-plant/",
+      "tags": ["Siemens", "Umbo la Binadamu", "Usafirishaji", "Viwanda"],
+      "timestamp": "2026-04-17T13:24:52Z"
+    },
+    {
+      "id": "art-20260417-13",
+      "title": "Accenture yawekeza katika General Robotics ili kupanua utekelezaji wa AI ya kimwili",
+      "summary": "Kampuni kubwa ya ushauri Accenture imechukua hisa ya kimkakati katika General Robotics, hatua iliyoundwa ili kuharakisha utekelezaji wa biashara wa roboti wa binadamu na mifumo ya AI ya kimwili kati ya wateja wa viwandani wa Accenture. Mkataba unaunganisha vifaa na programu za General Robotics na uwezo wa ushirikiano wa mifumo wa Accenture — mfano unaofanana na ule ambao Accenture ilitumia katika mawimbi ya mwanzo ya wingu na AI ya uzalishaji. Wachambuzi wanaisoma kama ishara kwamba wanunuzi wa Fortune 500 wanaanza kuichukulia uendeshaji otomatiki wa roboti wa binadamu kama kipengele halisi cha bajeti.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": ["Accenture", "General Robotics", "Uwekezaji", "Biashara"],
+      "timestamp": "2026-04-15T00:00:00Z"
+    },
+    {
+      "id": "art-20260417-14",
+      "title": "Beijing yaandaa nusu-marathon ya roboti wa binadamu kwa Alibaba, Honor na timu za kimataifa",
+      "summary": "Beijing inaandaa wiki hii nusu-marathon ya roboti wa binadamu yenye timu kutoka Alibaba, Honor, Unitree na washiriki wengine wa kimataifa, mashindano yakitumika kama jaribio la shinikizo kwa vidhibiti vya AI iliyojumuishwa mwilini na mifumo ya betri kwenye kilomita 21 nzima. Waandalizi wanasema ni uwanja mkubwa zaidi ulijawahi kukusanyika kwa usogeaji endelevu wa roboti wa binadamu. Zaidi ya burudani, tukio linazalisha data nadra za kulinganisha kuhusu uvumilivu, hali za kushindwa, na tabia ya joto ya roboti wa binadamu wa kiwango cha uzalishaji wa leo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260417VL216/humanoid-robot-robotics-data-revenue-2026.html",
+      "tags": ["Umbo la Binadamu", "Marathoni", "Beijing", "Alibaba"],
+      "timestamp": "2026-04-15T23:39:06Z"
+    },
+    {
+      "id": "art-20260417-15",
+      "title": "Roboti wa binadamu wa China wafikia kasi ya mbio karibu na Usain Bolt",
+      "summary": "Oddity Central inaripoti kwamba roboti wengi wa binadamu wa Kichina sasa wamenaswa wakikimbia kwa kasi karibu na wakimbiaji wa kibinadamu wa daraja la juu, na jukwaa moja likafikia kwa muda mfupi kasi inayolingana na mwendo wa mbio wa Usain Bolt. Vipande vya video vinaonyesha jinsi udhibiti wa miguu kwa hali ya nguvu umepiga hatua — kwa kiasi kikubwa kupitia sera za kujifunza kwa nguvu zilizofunzwa katika uigaji. Ingawa uvumilivu na utulivu kwa kasi hizo bado ni maswali wazi, video zinabadilisha matarajio kuhusu kile roboti wa miguu miwili wanaweza kufanya kimwili.",
+      "image": "https://www.odditycentral.com/wp-content/uploads/2026/04/fastest-humanoid-robot2-1.webp",
+      "source": "Oddity Central",
+      "url": "https://www.odditycentral.com/news/chinas-humanoid-robots-are-now-as-fast-as-usain-bolt.html",
+      "tags": ["Umbo la Binadamu", "Mbio Fupi", "Usogeaji", "China"],
+      "timestamp": "2026-04-17T12:14:04Z"
+    },
+    {
+      "id": "art-20260417-16",
+      "title": "Roboti wa binadamu atumiwa kuwafukuza ngurue pori kutoka mitaa ya Warsaw",
+      "summary": "Mamlaka za Poland zimejaribu roboti wa binadamu kusaidia kuwafukuza ngurue pori kutoka eneo la mji wa Warsaw, ambapo wanyama hawa wamekuwa wakiingia mara kwa mara kwenye mitaa na mbuga. Roboti huyo, jukwaa la kibiashara la umbo la binadamu lililoundwa na vizuizi vya sauti na programu ya usogezaji, alitembea kwenye mipaka ya wilaya zilizoathirika ili kuwasukuma ngurue kuelekea kwenye korido za kijani bila kuwadhuru. Ni mfano wa kipekee — lakini wa maana — wa roboti wa binadamu kutumika katika majukumu ya manispaa na usimamizi wa wanyamapori nje ya kiwanda.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Financial Times",
+      "url": "https://www.ft.com",
+      "tags": ["Umbo la Binadamu", "Wanyamapori", "Warsaw", "Roboti wa Mijini"],
+      "timestamp": "2026-04-17T04:00:32Z"
+    },
+    {
+      "id": "art-20260417-17",
+      "title": "Saudi Arabia yaongeza kasi katika mbio za kimataifa za kupanua roboti wa binadamu",
+      "summary": "Arab News inaripoti kwamba Saudi Arabia inaongeza uwekezaji unaoungwa mkono na serikali katika roboti wa umbo la binadamu kama sehemu ya msukumo wake wa mseto wa viwanda wa Vision 2030, na ushirikiano mpya, vituo vya utafiti, na utekelezaji uliopangwa wa majaribio katika usafirishaji na ukarimu. Ufalme unajitafutia nafasi kama kituo cha Mashariki ya Kati cha AI ya kimwili, kwa jinsi kama ulivyotafuta uwezo wa vituo vya data mapema zaidi katika muongo. Matangazo hayo yanasisitiza mbio za kimataifa za pande tatu kati ya Marekani, China na mitaji ya Ghuba.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com",
+      "tags": ["Saudi Arabia", "Umbo la Binadamu", "Vision 2030", "Sera"],
+      "timestamp": "2026-04-16T20:33:48Z"
+    },
+    {
+      "id": "art-20260417-18",
+      "title": "PIA Automation yazindua kitengo cha biashara cha AI iliyojumuishwa mwilini na roboti wa binadamu",
+      "summary": "Kampuni ya uendeshaji otomatiki wa utengenezaji PIA Automation imeanzisha kitengo maalum cha biashara cha AI iliyojumuishwa mwilini na roboti wa binadamu, ikiashiria kwamba waunganishaji wa uendeshaji otomatiki wa muda mrefu hawauoni tena roboti wa binadamu kama mada ya utafiti ya mbali. Kitengo kipya kitaunganisha utaalamu wa PIA wa ujenzi wa laini na vifaa vya umbo la binadamu kutoka kwa washirika wa nje na safu za programu zilizorekebishwa kwa ajili ya wateja wa anga, magari, na elektroniki za kawaida. Ni alama nyingine kwamba kuingia kwa roboti wa binadamu kunaingia katika njia za kawaida za viwandani.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "citybiz",
+      "url": "https://www.citybiz.co",
+      "tags": ["PIA Automation", "AI Iliyojumuishwa Mwilini", "Umbo la Binadamu", "Viwanda"],
+      "timestamp": "2026-04-14T22:25:32Z"
+    },
+    {
+      "id": "art-20260417-19",
+      "title": "Wapiga violin waigiza midahalo ya mbili wakiwa wamevaa mifupa ya roboti",
+      "summary": "Utafiti mpya uliochapishwa na The Debrief uliwaweka wapiga violin wa kitaalamu katika mifupa ya nje ya roboti nyepesi na kuwataka wapige midahalo ya wapiga wawili, ukifichua ufahamu wa kushangaza kuhusu jinsi wapiga wanavyoratibu miendo midogo na kushirikiana ishara za muda. Watafiti walitumia vitambuzi vya mifupa hiyo kukadiria uhusiano kati ya washirika — kimsingi wakipima 'mtiririko' kati ya wanamuziki. Zaidi ya kipengele cha udadisi, kazi hiyo inaelekeza kwa matumizi ya muda karibu ya mifupa saidizi ya nje katika tiba ya mwili, elimu ya muziki, na mafunzo ya ujuzi wa mwendo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org",
+      "tags": ["Mifupa ya Nje", "Roboti Saidizi", "Utafiti", "Muziki"],
+      "timestamp": "2026-04-17T12:33:27Z"
+    },
+    {
+      "id": "art-20260417-20",
+      "title": "Uchoraji wa ramani wa viwango vingi unaboresha ufanisi wa uchunguzi wa roboti huru",
+      "summary": "Watafiti wamechapisha mbinu mpya ya uchoraji ramani wa viwango vingi inayoruhusu roboti huru wa mwendo kuchunguza mazingira yasiyofahamika kwa kasi zaidi kuliko kwa ramani zenye kiwango kimoja. Siri: kuhifadhi taarifa za jumla katika maeneo ya wazi na taarifa za kina tu karibu na vikwazo au maeneo ya maamuzi, hivyo kupunguza gharama za kumbukumbu huku ukilinda ubora wa uongozaji. Matokeo yanaonyesha faida kubwa za ufanisi kwa kazi za utafutaji na uokoaji, ghala, na roboti za sayari — maeneo ambayo kila dakika ya uchunguzi ni muhimu.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": ["SLAM", "Uongozaji Huru", "Utafiti", "Uchoraji Ramani"],
+      "timestamp": "2026-04-17T00:11:00Z"
+    }
+  ]
+}

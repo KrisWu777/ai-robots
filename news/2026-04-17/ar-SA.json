@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-17",
+  "featured": {
+    "id": "featured-20260417",
+    "title": "Boston Dynamics وGoogle DeepMind يعلّمان Spot التفكير عبر Gemini Robotics",
+    "summary": "دمجت شركة Boston Dynamics نموذج Gemini Robotics الأساسي من Google DeepMind في منصة التفتيش Spot، مما يمكّن الروبوت الرباعي من تفسير الأوامر باللغة الطبيعية والتخطيط لمهام متعددة الخطوات بشكل مستقل. نتيجة ذلك روبوت قادر على التفكير في بيئات غير مألوفة — على سبيل المثال، تحديد كيفية إحضار غرض ما أو التعافي بعد محاولة فاشلة — بدلاً من تنفيذ نصوص برمجية جامدة. يمثّل هذا الدمج خطوة كبيرة نحو ذكاء اصطناعي تجسيدي عام الاستخدام في التفتيش الصناعي واللوجستيات وخدمات الميدان، ويتنبأ بقرب وصول النماذج الأساسية إلى أجهزة الروبوتات التجارية.",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+    "tags": ["Boston Dynamics", "Google DeepMind", "النماذج الأساسية", "Spot"],
+    "timestamp": "2026-04-14T19:45:01Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260417-01",
+      "title": "Physical Intelligence تكشف عن π0.7: دماغ روبوتي ينجز مهامًا لم يتعلّمها",
+      "summary": "أصدرت شركة Physical Intelligence الناشئة في مجال الروبوتات نموذجها الأساسي من الجيل التالي π0.7، القادر على توجيه الروبوتات لإنجاز مهام لم يُدرَّب عليها النظام صراحةً من قبل. تضع الشركة النموذج كخطوة مبكرة لكنها مهمة نحو دماغ روبوتي عام الغرض، وتظهر مقاطع العرض التوضيحي أذرعًا ومعالِجات متنقلة تتكيف مع مطابخ ومكاتب ومشاهد تجميع غير مألوفة. يعيد الإطلاق إشعال السباق بين PI وGoogle DeepMind وNvidia حول من سيحدد الطبقة التشغيلية للذكاء الاصطناعي الفيزيائي.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-12.22.07-PM.png?resize=1200,589",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "tags": ["Physical Intelligence", "النماذج الأساسية", "الروبوتات العامة"],
+      "timestamp": "2026-04-16T20:26:44Z"
+    },
+    {
+      "id": "art-20260417-02",
+      "title": "Siemens وNvidia وHumanoid يُدخِلون الذكاء الاصطناعي الفيزيائي إلى عمليات المصانع",
+      "summary": "أخضعت Siemens روبوت Alpha ذا العجلات HMND 01 من شركة Humanoid والمبني على حزمة الذكاء الاصطناعي الفيزيائي من Nvidia، لتجارب حية في أحد مصانع الإلكترونيات — وهي المرة الأولى التي تعرض فيها الشركات الثلاث معًا روبوتًا بشريّ الشكل يشغّل لوجستيات صناعية حقيقية. نقل الروبوت القطع ذاتيًا بين محطات العمل، وتعامل مع تبادل الحاويات، وعدّل مساراته حول العمال البشر. وصفت Siemens التجربة التجريبية بأنها «معلم تاريخي» في تحويل الذكاء الاصطناعي الفيزيائي من مقاطع الفيديو إلى واقع التصنيع.",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/siemens-humanoid-nvidia-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/siemens-nvidia-and-humanoid-bring-physical-ai-humanoid-robots-into-factory-operations/100681/",
+      "tags": ["Siemens", "Nvidia", "Humanoid", "الأتمتة الصناعية"],
+      "timestamp": "2026-04-16T12:45:12Z"
+    },
+    {
+      "id": "art-20260417-03",
+      "title": "Path Robotics تطلق Rove: روبوت لحام رباعي الأرجل يعمل بالذكاء الاصطناعي الفيزيائي",
+      "summary": "كشفت Path Robotics عن Rove، نظام لحام متنقل يجمع نموذج Obsidian للذكاء الاصطناعي الفيزيائي مع منصة روبوت رباعي الأرجل — عمليًا، تُثبَّت شعلة لحام على ظهر روبوت كلب وتُترك تتجول في مواقع العمل. تقول الشركة المعروفة بخلايا اللحام الروبوتية الذاتية إن Rove يتيح للمصنّعين نشر طاقة لحام في مساحات ضيقة جدًا أو غير منتظمة يصعب فيها تركيب خلايا ثابتة. يمثّل الإطلاق أحد أوائل المنتجات التجارية التي تجمع بين التنقل باستخدام الأرجل ومهارة تصنيعية متخصصة.",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/path-robotics-Rove-Weld-v2.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/path-robotics-unveils-mobile-robotic-welding-system-combining-ai-and-quadruped-mobility/100600/",
+      "tags": ["Path Robotics", "اللحام", "رباعي الأرجل", "التصنيع"],
+      "timestamp": "2026-04-16T14:30:43Z"
+    },
+    {
+      "id": "art-20260417-04",
+      "title": "Unitree تبدأ شحن روبوت بشري بسعر 6,800 دولار — الأرخص في تاريخها",
+      "summary": "بدأت شركة الروبوتات الصينية Unitree بيع أرخص روبوتاتها البشرية بالتجزئة انطلاقًا من سعر 6,800 دولار — قفزة في القدرة على التحمل تجعل المنصات المنافسة من Boston Dynamics وFigure وApptronik أغلى بمقدار رتبة كاملة. يستهدف الطراز الباحثين والمطورين والعملاء في قطاع التعليم، كما أعلنت Unitree عن شحن مجاني إلى الولايات المتحدة. تزيد هذه الخطوة من ضغط الأسعار على Tesla Optimus وغيره من برامج الروبوتات البشرية التي تستهدف السوق القريبة من المستهلك.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": ["Unitree", "روبوت بشري", "التسعير", "الصين"],
+      "timestamp": "2026-04-17T03:13:28Z"
+    },
+    {
+      "id": "art-20260417-05",
+      "title": "كيف تتعلّم الروبوتات: تاريخ معاصر موجز",
+      "summary": "يتتبع MIT Technology Review تحوّل أبحاث الروبوتات من الأذرع المبرمَجة يدويًا إلى سياسات مُتعلَّمة على نطاق واسع ونماذج أساسية. يقول المقال إن السنوات الخمس الماضية ضيّقت بهدوء المسافة بين الأحلام المبكرة لروبوتات عامة الغرض والأذرع الصناعية الضيقة التي سيطرت على القرن العشرين، مع تقارب فرق DeepMind وPhysical Intelligence ومختبرات الجامعات نحو وصفات تدريب مشتركة. إنها خريطة مفيدة لكيف وصل هذا المجال فعلًا إلى لحظة الذكاء الاصطناعي الفيزيائي الراهنة.",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/robot.jpg?resize=1200,600",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "tags": ["النماذج الأساسية", "التاريخ", "تعلّم الروبوتات"],
+      "timestamp": "2026-04-17T10:00:00Z"
+    },
+    {
+      "id": "art-20260417-06",
+      "title": "Digit يتعلّم الرفعة المميتة: Agility Robotics تعرض روبوتها البشري وهو يرفع أوزانًا ثقيلة",
+      "summary": "تُبرز حلقة Video Friday الأخيرة من IEEE Spectrum روبوت Digit من Agility Robotics وهو يؤدي الرفعة المميتة بقضيب مُحمَّل — عرض يوضّح أن التحكم في التوازن والقوة لكامل جسم هذا الروبوت ثنائي الأرجل قادر الآن على التعامل مع أحمال ثقيلة غير متماثلة. تغطّي مقاطع إضافية أبحاثًا جديدة في الحركة من مختبرات أكاديمية، مؤكدةً أن المناولة الديناميكية لكامل الجسم تنتقل سريعًا من المحاكاة إلى الأجهزة. دليل إضافي على أن الروبوتات البشرية ذات الأرجل تضيّق الفجوة مع الأذرع الصناعية الثابتة من حيث القوة الخام.",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=65564472&width=1200&height=600&coordinates=0%2C110%2C0%2C110",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robot-learning",
+      "tags": ["Agility Robotics", "Digit", "روبوت بشري", "الحركة"],
+      "timestamp": "2026-04-17T15:00:01Z"
+    },
+    {
+      "id": "art-20260417-07",
+      "title": "Jabil تشرح خطتها لتوسيع إنتاج الروبوتات البشرية من النموذج الأولي إلى الإنتاج",
+      "summary": "في مقابلة جديدة، قدّمت شركة التصنيع بالعقود Jabil خريطة طريقها لإنتاج الروبوتات البشرية بكميات كبيرة لعملاء مثل Apptronik — شاملةً بناء سلسلة التوريد وتوريد المحركات والانتقال من النماذج الأولية المجمّعة يدويًا إلى الإنتاج على الخطوط. تُصنِّف الشركة الروبوتات البشرية باعتبارها الفئة الكبرى التالية التي ستُحدِّد فيها جودة التصنيع ومنحنيات التكلفة هوية الفائزين، تمامًا كما فعلت في الهواتف الذكية والسيارات الكهربائية. تقدّم التصريحات نظرة نادرة من الداخل على الجانب الصناعي من موجة الروبوتات البشرية.",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/jabil-apptronik-collaboration-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/interview-jabil-on-scaling-humanoid-robots-from-prototype-to-production/100706/",
+      "tags": ["Jabil", "Apptronik", "روبوت بشري", "التصنيع"],
+      "timestamp": "2026-04-16T16:23:33Z"
+    },
+    {
+      "id": "art-20260417-08",
+      "title": "Skild AI تستحوذ على نشاط الأتمتة الروبوتية التابع لـ Zebra Technologies",
+      "summary": "استحوذت الشركة الناشئة Skild AI، المتخصصة في الروبوتات المبنية على النماذج الأساسية، على نشاط الأتمتة الروبوتية لدى Zebra Technologies، مما يمنح الشركة الفتية وصولًا إلى قاعدة عملاء راسخة في المستودعات واللوجستيات، وخبرة نشر ميدانية، وأجهزة جاهزة للتشغيل. تدمج الصفقة عموديًا طموحات Skild بشأن دماغ روبوتي عام الاستخدام مع قناة تسويق واقعية في تنفيذ الطلبات واللوجستيات المؤسسية — أحد القطاعات الروبوتية القليلة التي أثبتت استعدادًا حقيقيًا للدفع. لم تُكشف الشروط الكاملة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Business Wire",
+      "url": "https://www.businesswire.com",
+      "tags": ["Skild AI", "Zebra Technologies", "روبوتات المستودعات", "عمليات الاستحواذ"],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260417-09",
+      "title": "Agibot تخطط لتوسيع إنتاج الروبوتات البشرية في الصين أضعافًا مضاعفة",
+      "summary": "قالت شركة Agibot المصنّعة للروبوتات البشرية ومقرّها شنغهاي لـ Nikkei Asia إنها تخطط لرفع طاقة إنتاجها أضعافًا، مع تجاوز الطلب من العملاء الصناعيين ومعاهد البحث مستوى إنتاجها الحالي. تمتلك الشركة بالفعل وحدات G2 البشرية في مصانع داخل الصين، وتتقدم نحو اقتصاد إنتاج ضخم يشبه ذلك الذي يعيد رسم سلاسل توريد السيارات الكهربائية الصينية. تؤكد الخطة حجم التوسع العدواني للمصنّعين الصينيين للروبوتات البشرية مقارنة بالمنافسين الأمريكيين الذين لا يزالون في الدفعات الصغيرة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com",
+      "tags": ["Agibot", "روبوت بشري", "الصين", "الإنتاج الضخم"],
+      "timestamp": "2026-04-17T08:49:00Z"
+    },
+    {
+      "id": "art-20260417-10",
+      "title": "روبوتات G2 من Agibot تنتشر في أرضية مصنع صيني",
+      "summary": "ينقل Interesting Engineering أن روبوتات Agibot البشرية G2 — المزوّدة بوحدات تحكم بذكاء اصطناعي تجسيدي — باتت تؤدي مهام حقيقية على خط الإنتاج في منشأة تصنيع صينية، بما في ذلك مناولة القطع والفحص. يُعدّ هذا الانتشار من أوائل الحالات القابلة للتحقّق لروبوتات بشرية مصنوعة في الصين تمارس عملًا صناعيًا مستدامًا بدلًا من عروض محكومة بالسيناريو. وهو يكمّل ما أوردته Nikkei عن التوسع ويعزّز سردية تقدّم الروبوتات الصينية في النشر التجاري.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Agibot", "G2", "الأتمتة الصناعية", "الذكاء الاصطناعي التجسيدي"],
+      "timestamp": "2026-04-15T11:06:00Z"
+    },
+    {
+      "id": "art-20260417-11",
+      "title": "Tesla تدرس إنتاج روبوتات Optimus البشرية في مصنع شنغهاي العملاق",
+      "summary": "بحسب TechNode، تدرس Tesla إنتاج روبوتات Optimus البشرية في مصنعها العملاق بشنغهاي، إذ تسعى الشركة للاستفادة من سلاسل التوريد الصينية للمحركات وعلب التروس والمغناطيس التي تمدّ أصلًا مصنّعي الروبوتات البشرية المحليين. خط في شنغهاي سيضع Optimus إلى جوار الشبكات نفسها من المكوّنات التي تغذّي Unitree وAgibot وFourier، مع تحاشي هياكل التكلفة الأمريكية. سيختبر أي قرار نهائي مدى استعداد Tesla لفصل تصنيع روبوتاتها البشرية عن موطئ قدمها في الولايات المتحدة.",
+      "image": "https://technode.com/wp-content/uploads/2022/07/131403118_m的副本-1-e1657706210717.jpg",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/04/17/tesla-considers-humanoid-robot-production-at-shanghai-gigafactory/",
+      "tags": ["Tesla", "Optimus", "شنغهاي", "التصنيع"],
+      "timestamp": "2026-04-17T02:13:37Z"
+    },
+    {
+      "id": "art-20260417-12",
+      "title": "روبوت Siemens البشري يكمل تجارب لوجستية في مصنع إنتاج",
+      "summary": "يؤكد تقرير منفصل لموقع Engineering.com أن Siemens أنجزت مجموعة منظّمة من التجارب اللوجستية باستخدام روبوتها البشري المنشور حديثًا، شاملةً نقل المنصات ومناولة الحاويات والتنسيق بين خلايا عمل بشرية-روبوتية مختلطة. تنجح هذه التجارب في تمهيد الطريق لانتشار أوسع داخل المصنع، وسترشد Siemens في كيفية تسويق باقات أتمتة «جاهزة للروبوتات البشرية» لصانعين آخرين. إلى جانب العرض القائم على حزمة Nvidia، تُموضع Siemens كواحدة من أكثر الركائز الصناعية مصداقيةً للذكاء الاصطناعي الفيزيائي.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/humanoid-robot-completes-logistics-trials-at-siemens-plant/",
+      "tags": ["Siemens", "روبوت بشري", "اللوجستيات", "الصناعة"],
+      "timestamp": "2026-04-17T13:24:52Z"
+    },
+    {
+      "id": "art-20260417-13",
+      "title": "Accenture تستثمر في General Robotics لتوسيع نشر الذكاء الاصطناعي الفيزيائي",
+      "summary": "استحوذت عملاق الاستشارات Accenture على حصة استراتيجية في General Robotics، في خطوة تهدف إلى تسريع عمليات النشر المؤسسي لروبوتات بشرية وأنظمة ذكاء اصطناعي فيزيائي لدى عملاء Accenture الصناعيين. تجمع الصفقة أجهزة وبرمجيات General Robotics مع قدرات Accenture على التكامل التقني — وهو نمط يعكس ما فعلته Accenture في موجات سابقة من الحوسبة السحابية والذكاء الاصطناعي التوليدي. يقرأه المحللون كإشارة إلى أن مشتري Fortune 500 بدأوا يتعاملون مع أتمتة الروبوتات البشرية كبند ميزانية حقيقي.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": ["Accenture", "General Robotics", "الاستثمار", "المؤسسات"],
+      "timestamp": "2026-04-15T00:00:00Z"
+    },
+    {
+      "id": "art-20260417-14",
+      "title": "بكين تستضيف نصف ماراثون للروبوتات البشرية بمشاركة Alibaba وHonor وفرق عالمية",
+      "summary": "تنظّم بكين هذا الأسبوع نصف ماراثون للروبوتات البشرية تشارك فيه فرق من Alibaba وHonor وUnitree ومتنافسين عالميين آخرين، مع استخدام السباق كاختبار إجهاد لوحدات التحكم بالذكاء الاصطناعي التجسيدي وأنظمة البطاريات على كامل مسافة 21 كيلومترًا. يقول المنظّمون إنه أكبر ميدان جُمِع حتى الآن لحركة روبوتات بشرية متواصلة. إلى جانب عنصر الإبهار، يُنتج الحدث بيانات مقارنة نادرة عن التحمّل وأوضاع الفشل والسلوك الحراري للروبوتات البشرية الحالية بدرجة إنتاج.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260417VL216/humanoid-robot-robotics-data-revenue-2026.html",
+      "tags": ["روبوت بشري", "ماراثون", "بكين", "Alibaba"],
+      "timestamp": "2026-04-15T23:39:06Z"
+    },
+    {
+      "id": "art-20260417-15",
+      "title": "الروبوتات البشرية الصينية تبلغ سرعات عَدْو قريبة من Usain Bolt",
+      "summary": "يفيد موقع Oddity Central بأن عدة روبوتات بشرية صينية صُوّرت وهي تعدو بسرعات تقترب من سرعات عدّائي النخبة، إذ بلغت إحدى المنصات لحظيًا وتيرة مماثلة لإيقاع سباق Usain Bolt. تُظهر المقاطع مدى تقدّم التحكم الديناميكي بالأرجل — ويعود الفضل إلى حد بعيد لسياسات التعلم المعزّز المدرَّبة في بيئات المحاكاة. ورغم أن التحمّل والاستقرار عند تلك السرعات يبقى سؤالًا مفتوحًا، تُعيد اللقطات رسم التوقعات بشأن ما يمكن للروبوتات ذات الساقين فعله جسديًا.",
+      "image": "https://www.odditycentral.com/wp-content/uploads/2026/04/fastest-humanoid-robot2-1.webp",
+      "source": "Oddity Central",
+      "url": "https://www.odditycentral.com/news/chinas-humanoid-robots-are-now-as-fast-as-usain-bolt.html",
+      "tags": ["روبوت بشري", "العَدْو السريع", "الحركة", "الصين"],
+      "timestamp": "2026-04-17T12:14:04Z"
+    },
+    {
+      "id": "art-20260417-16",
+      "title": "نشر روبوت بشري لإبعاد الخنازير البرية عن شوارع وارسو",
+      "summary": "جرّبت السلطات البولندية روبوتًا بشريًا للمساعدة في إبعاد الخنازير البرية عن وسط وارسو، حيث تتوغّل هذه الحيوانات بشكل متزايد في الشوارع والحدائق. سار الروبوت، وهو منصة بشرية تجارية مزوّدة بوسائل ردع صوتية وبرمجيات تنقّل، حول محيط الأحياء المتضررة لدفع الخنازير نحو الممرات الخضراء دون إيذائها. مثال غريب — لكنه دالّ — على استخدام الروبوتات البشرية في أدوار بلدية وإدارة حياة برية خارج إطار المصنع.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Financial Times",
+      "url": "https://www.ft.com",
+      "tags": ["روبوت بشري", "الحياة البرية", "وارسو", "الروبوتات الحضرية"],
+      "timestamp": "2026-04-17T04:00:32Z"
+    },
+    {
+      "id": "art-20260417-17",
+      "title": "السعودية تسرّع وتيرتها في السباق العالمي لتوسيع روبوتات الهيئة البشرية",
+      "summary": "تنقل Arab News أن المملكة العربية السعودية تكثّف الاستثمار الحكومي في مجال الروبوتات البشرية ضمن استراتيجية التنويع الصناعي لرؤية 2030، مع شراكات جديدة ومراكز أبحاث ومواقع نشر تجريبية مخططة في اللوجستيات والضيافة. تضع المملكة نفسها كمركز شرق أوسطي للذكاء الاصطناعي الفيزيائي، بطريقة مشابهة لما سعت إليه في سعة مراكز البيانات مطلع العقد. تُحدّد الإعلانات ملامح السباق العالمي ثلاثي الأطراف بين الولايات المتحدة والصين ورأس مال الخليج.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com",
+      "tags": ["المملكة العربية السعودية", "روبوت بشري", "رؤية 2030", "السياسات"],
+      "timestamp": "2026-04-16T20:33:48Z"
+    },
+    {
+      "id": "art-20260417-18",
+      "title": "PIA Automation تنشئ قسمًا لأعمال الذكاء الاصطناعي التجسيدي والروبوتات البشرية",
+      "summary": "أنشأت شركة PIA Automation للأتمتة التصنيعية قسمًا أعمال متخصصًا بالذكاء الاصطناعي التجسيدي والروبوتات البشرية، مشيرةً إلى أن مُدمجي الأتمتة الراسخين لم يعودوا يعتبرون الروبوتات البشرية موضوعًا بحثيًا بعيدًا. ستجمع الوحدة الجديدة خبرة PIA في بناء الخطوط مع أجهزة بشرية من شركاء خارجيين وحزم برمجية مصمَّمة لعملاء الطيران والسيارات والإلكترونيات الاستهلاكية. إنها إشارة إضافية إلى أن تبنّي الروبوتات البشرية يتسلل إلى القنوات الصناعية التقليدية.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "citybiz",
+      "url": "https://www.citybiz.co",
+      "tags": ["PIA Automation", "الذكاء الاصطناعي التجسيدي", "روبوت بشري", "الصناعة"],
+      "timestamp": "2026-04-14T22:25:32Z"
+    },
+    {
+      "id": "art-20260417-19",
+      "title": "عازفو كمان يؤدون ثنائيات وهم يرتدون هياكل خارجية روبوتية",
+      "summary": "وضعت دراسة جديدة غطّاها موقع The Debrief عازفي كمان محترفين في هياكل خارجية روبوتية خفيفة وجعلتهم يعزفون ثنائيات، كاشفةً عن رؤى مفاجئة حول كيفية تنسيق العازفين لحركاتهم الدقيقة ومشاركتهم لإشارات التوقيت. استخدم الباحثون مستشعرات الهيكل الخارجي لقياس التزامن بين الشريكين — أي قياس «الإيقاع المشترك» بين الموسيقيين من الناحية العملية. بعيدًا عن عامل الفضول، يشير العمل إلى استخدامات قريبة للهياكل الخارجية المساعِدة في العلاج الطبيعي والتعليم الموسيقي وتدريب المهارات الحركية.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org",
+      "tags": ["الهيكل الخارجي", "الروبوتات المساعِدة", "البحث", "الموسيقى"],
+      "timestamp": "2026-04-17T12:33:27Z"
+    },
+    {
+      "id": "art-20260417-20",
+      "title": "خرائط متعددة الدقة ترفع كفاءة استكشاف الروبوتات المستقلة",
+      "summary": "نشر باحثون نهجًا جديدًا للخرائط متعددة الدقة يسمح للروبوتات المتنقلة المستقلة باستكشاف بيئات مجهولة بشكل أسرع بكثير من الخرائط ذات الدقة الموحدة. الحيلة: تخزين تفاصيل خشنة في المناطق المفتوحة وتفاصيل دقيقة فقط قرب العوائق أو نقاط القرار، مع إبقاء كلفة الذاكرة منخفضة والحفاظ على جودة الملاحة. تُظهر النتائج مكاسب كفاءة ذات مغزى في أحمال عمل البحث والإنقاذ والمستودعات وجوالات الكواكب — مجالات تُحتسب فيها كل دقيقة من الاستكشاف.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": ["SLAM", "الملاحة المستقلة", "البحث", "رسم الخرائط"],
+      "timestamp": "2026-04-17T00:11:00Z"
+    }
+  ]
+}

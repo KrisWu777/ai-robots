@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-17",
+  "featured": {
+    "id": "featured-20260417",
+    "title": "Boston Dynamics攜手Google DeepMind,讓Spot用Gemini Robotics「會思考」",
+    "summary": "Boston Dynamics將Google DeepMind的Gemini Robotics基礎模型接入其Spot巡檢四足平台,使機器狗能理解自然語言指令,並自主規劃多步驟任務。結果是,Spot可以在陌生環境中進行推理——例如思考如何取回物品,或在失敗後自我恢復——而非僅依照固定腳本執行。此次整合標誌著通用具身AI在工業巡檢、物流與現場服務領域邁出關鍵一步,也預示著基礎模型即將進入商用機器人硬體。",
+    "image": "https://spectrum.ieee.org/media-library/photo-of-yellow-boston-dynamics-robot-dog-using-its-arm-to-load-laundry-into-a-white-basket.png?id=65521323&width=1200&height=600&coordinates=0%2C60%2C0%2C60",
+    "source": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/boston-dynamics-spot-google-deepmind",
+    "tags": ["Boston Dynamics", "Google DeepMind", "基礎模型", "Spot"],
+    "timestamp": "2026-04-14T19:45:01Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260417-01",
+      "title": "Physical Intelligence發表π0.7:能完成「沒教過」任務的機器人大腦",
+      "summary": "機器人新創Physical Intelligence發表新一代基礎模型π0.7,可直接指揮機器人完成系統從未明確訓練過的任務。公司將其定位為邁向通用機器人大腦早期但關鍵的一步,示範影片顯示機械臂與行動操作平台能適應陌生的廚房、辦公桌與組裝情境。此次發表重新點燃了PI、Google DeepMind與Nvidia之間,關於誰將定義物理AI運行層的激烈競爭。",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-12.22.07-PM.png?resize=1200,589",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "tags": ["Physical Intelligence", "基礎模型", "通用機器人"],
+      "timestamp": "2026-04-16T20:26:44Z"
+    },
+    {
+      "id": "art-20260417-02",
+      "title": "Siemens、Nvidia與Humanoid攜手,將物理AI帶進工廠現場",
+      "summary": "Siemens在其中一座電子工廠,讓基於Nvidia物理AI堆疊打造的Humanoid公司HMND 01輪式Alpha機器人完成實地試運轉——這是三家公司首次聯手展示人形機器人處理真實工業物流。機器人自主在工位之間搬運零件、處理週轉箱,並在作業員周圍動態調整路徑。Siemens將此次試點稱為物理AI從展示影片走向製造業現實的「里程碑」。",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/siemens-humanoid-nvidia-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/siemens-nvidia-and-humanoid-bring-physical-ai-humanoid-robots-into-factory-operations/100681/",
+      "tags": ["Siemens", "Nvidia", "Humanoid", "工廠自動化"],
+      "timestamp": "2026-04-16T12:45:12Z"
+    },
+    {
+      "id": "art-20260417-03",
+      "title": "Path Robotics推出Rove:由物理AI驅動的四足焊接機器人",
+      "summary": "Path Robotics發表Rove,一款將其Obsidian物理AI模型與四足機器人平台結合的移動焊接系統——相當於把焊槍裝在機器狗身上,讓它自行在工地行走作業。這家以機器人焊接工作站聞名的公司表示,Rove讓製造商得以在固定焊接單元無法容納的狹窄或不規則空間中部署焊接產能。本次發表是少數將腿式移動與專業製造技能結合的商用產品之一。",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/path-robotics-Rove-Weld-v2.png",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/path-robotics-unveils-mobile-robotic-welding-system-combining-ai-and-quadruped-mobility/100600/",
+      "tags": ["Path Robotics", "焊接", "四足機器人", "製造業"],
+      "timestamp": "2026-04-16T14:30:43Z"
+    },
+    {
+      "id": "art-20260417-04",
+      "title": "Unitree開賣6,800美元人形機器人——史上最便宜版本",
+      "summary": "中國機器人公司Unitree啟動其史上最低價人形機器人零售業務,起價6,800美元——這一價位較Boston Dynamics、Figure、Apptronik等競爭平台低了一個數量級,帶來親民度上的質變。該型號面向研究人員、開發者與教育客戶,Unitree還宣布對美免運費。此舉將加大Tesla Optimus等瞄準消費級周邊市場的人形機器人計畫的價格壓力。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": ["Unitree", "人形機器人", "定價", "中國"],
+      "timestamp": "2026-04-17T03:13:28Z"
+    },
+    {
+      "id": "art-20260417-05",
+      "title": "機器人如何學習:一部簡短的當代史",
+      "summary": "MIT Technology Review梳理了機器人研究從硬寫程式機械臂轉向大規模學習策略與基礎模型的歷程。文章指出,過去五年已悄悄拉近早期通用機器人夢想與20世紀主導工廠的專用工業臂之間的距離,DeepMind、Physical Intelligence及各大學實驗室的團隊如今正圍繞共通的訓練配方形成共識。這是一份理解當下物理AI時刻由何而來的實用地圖。",
+      "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/robot.jpg?resize=1200,600",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "tags": ["基礎模型", "歷史", "機器人學習"],
+      "timestamp": "2026-04-17T10:00:00Z"
+    },
+    {
+      "id": "art-20260417-06",
+      "title": "Digit學會硬舉:Agility Robotics展示人形機器人舉起重物",
+      "summary": "IEEE Spectrum最新一期Video Friday重點介紹Agility Robotics的Digit完成加重槓鈴硬舉——顯示這台雙足人形機器人的全身平衡與力控能力,已足以處理不對稱的重型負載。其他片段還涵蓋學術實驗室的新運動控制研究,凸顯出動態全身操作正快速從模擬走向硬體。這又一次證明,腿式人形機器人在純粹力量指標上正追趕固定工業臂。",
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=65564472&width=1200&height=600&coordinates=0%2C110%2C0%2C110",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/robot-learning",
+      "tags": ["Agility Robotics", "Digit", "人形機器人", "運動控制"],
+      "timestamp": "2026-04-17T15:00:01Z"
+    },
+    {
+      "id": "art-20260417-07",
+      "title": "Jabil詳解如何將人形機器人從原型推進量產",
+      "summary": "代工大廠Jabil在最新訪談中公開為Apptronik等客戶大規模生產人形機器人的路線圖——涵蓋供應鏈建構、致動器採購,以及從手工組裝原型到產線生產的轉換路徑。該公司將人形機器人視為下一個由製造品質與成本曲線決定勝負的重大品類,一如過去在智慧型手機與電動車上的走法。此番發言為人形浪潮的工業化端提供了罕見的內部視角。",
+      "image": "https://roboticsandautomationnews.com/wp-content/uploads/2026/04/jabil-apptronik-collaboration-1.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/16/interview-jabil-on-scaling-humanoid-robots-from-prototype-to-production/100706/",
+      "tags": ["Jabil", "Apptronik", "人形機器人", "製造業"],
+      "timestamp": "2026-04-16T16:23:33Z"
+    },
+    {
+      "id": "art-20260417-08",
+      "title": "Skild AI收購Zebra Technologies機器人自動化業務",
+      "summary": "基礎模型機器人新創Skild AI已收購Zebra Technologies的機器人自動化業務,讓這家年輕公司取得成熟的倉儲物流客戶基礎、實地部署經驗與現成硬體。交易將Skild通用機器人大腦的企圖心,與履約與企業物流領域的實戰級市場通路垂直打通——這是少數幾個已被驗證願意付費的機器人細分市場。交易金額並未完全揭露。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "Business Wire",
+      "url": "https://www.businesswire.com",
+      "tags": ["Skild AI", "Zebra Technologies", "倉儲機器人", "併購"],
+      "timestamp": "2026-04-15T21:44:01Z"
+    },
+    {
+      "id": "art-20260417-09",
+      "title": "Agibot計畫在中國大幅擴產人形機器人",
+      "summary": "總部位於上海的人形機器人廠商Agibot告訴《日經亞洲》,公司計畫將產能提升數倍,因工業客戶與研究機構的需求已超出現有產量。Agibot的G2人形機器人已進入中國工廠現場,公司正朝著類似中國電動車供應鏈的量產經濟學目標推進。該計畫進一步印證,中國人形機器人廠商的擴張速度遠超仍處於小批量生產的美國對手。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com",
+      "tags": ["Agibot", "人形機器人", "中國", "量產"],
+      "timestamp": "2026-04-17T08:49:00Z"
+    },
+    {
+      "id": "art-20260417-10",
+      "title": "Agibot G2人形機器人進駐中國工廠產線",
+      "summary": "Interesting Engineering報導指出,搭載具身AI控制器的Agibot G2人形機器人已在中國某製造工廠承擔實際產線任務,包含零件搬運與檢驗。這是少數可驗證的中國自研人形機器人進行持續工業作業(而非腳本化演示)的案例之一。此則部署消息呼應了日經針對產能擴張的報導,進一步強化中國人形機器人在商用化落地上領先一步的敘事。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_06.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Agibot", "G2", "工廠自動化", "具身AI"],
+      "timestamp": "2026-04-15T11:06:00Z"
+    },
+    {
+      "id": "art-20260417-11",
+      "title": "Tesla研議在上海超級工廠生產Optimus人形機器人",
+      "summary": "據TechNode報導,Tesla正評估是否在上海超級工廠生產Optimus人形機器人,公司希望藉此接入中國已在為本土人形機器人廠商供貨的致動器、減速機與磁鐵供應鏈。上海產線將讓Optimus與Unitree、Agibot、Fourier共用同一套零組件網絡,同時避開美國的成本結構。最終決策將檢驗Tesla願意讓人形機器人製造在多大程度上脫離美國本土佈局。",
+      "image": "https://technode.com/wp-content/uploads/2022/07/131403118_m的副本-1-e1657706210717.jpg",
+      "source": "TechNode",
+      "url": "https://technode.com/2026/04/17/tesla-considers-humanoid-robot-production-at-shanghai-gigafactory/",
+      "tags": ["Tesla", "Optimus", "上海", "製造業"],
+      "timestamp": "2026-04-17T02:13:37Z"
+    },
+    {
+      "id": "art-20260417-12",
+      "title": "Siemens人形機器人完成工廠物流試運行",
+      "summary": "Engineering.com另一則報導證實,Siemens已用新部署的人形機器人完成一整套結構化物流試點任務,涵蓋棧板搬運、料盒處理,以及與作業員協作的混合工作單元。試運行通過後,將為更廣泛的廠內導入鋪路,並影響Siemens如何向其他製造商推銷「人形就緒」的自動化方案。結合先前與Nvidia聯手的展示,Siemens被視為物理AI最具可信度的工業落腳點之一。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/humanoid-robot-completes-logistics-trials-at-siemens-plant/",
+      "tags": ["Siemens", "人形機器人", "物流", "工業"],
+      "timestamp": "2026-04-17T13:24:52Z"
+    },
+    {
+      "id": "art-20260417-13",
+      "title": "Accenture入股General Robotics,加速物理AI企業級導入",
+      "summary": "顧問大廠Accenture對General Robotics進行策略性入股,目標是加速人形與物理AI系統在Accenture工業客戶中的規模化部署。該交易把General Robotics的軟硬體與Accenture的系統整合能力綁在一起——與其在雲端與生成式AI浪潮的打法如出一轍。分析師認為,這一動作標誌著《財富》500大買家開始把人形自動化視為真正的預算項目。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Assembly Magazine",
+      "url": "https://www.assemblymag.com",
+      "tags": ["Accenture", "General Robotics", "投資", "企業級"],
+      "timestamp": "2026-04-15T00:00:00Z"
+    },
+    {
+      "id": "art-20260417-14",
+      "title": "北京舉辦人形半程馬拉松,Alibaba、Honor等全球隊伍參賽",
+      "summary": "北京本週舉辦一場人形機器人半程馬拉松,參賽隊伍來自Alibaba、Honor、Unitree及其他全球廠商,賽事將被視為考驗具身AI控制器與電池系統在全程21公里下的極限壓力測試。主辦單位表示,這是人形機器人持續運動至今規模最大的參賽陣容。除了賽事本身的話題性,比賽也將產出當今量產級人形機器人在續航、失效模式與熱行為方面罕見的橫向對比資料。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260417VL216/humanoid-robot-robotics-data-revenue-2026.html",
+      "tags": ["人形機器人", "馬拉松", "北京", "Alibaba"],
+      "timestamp": "2026-04-15T23:39:06Z"
+    },
+    {
+      "id": "art-20260417-15",
+      "title": "中國人形機器人衝刺速度逼近Usain Bolt",
+      "summary": "Oddity Central報導,多款中國人形機器人已被拍到以逼近頂尖短跑選手的速度衝刺,其中一款平台甚至短暫達到與Usain Bolt比賽節奏相近的速度。這些影像顯示動態腿式控制能力已大幅躍進——主要得力於在模擬環境中訓練的強化學習策略。雖然高速下的續航與穩定性仍是待解課題,但此段畫面重新改寫了外界對雙足機器人物理極限的認知。",
+      "image": "https://www.odditycentral.com/wp-content/uploads/2026/04/fastest-humanoid-robot2-1.webp",
+      "source": "Oddity Central",
+      "url": "https://www.odditycentral.com/news/chinas-humanoid-robots-are-now-as-fast-as-usain-bolt.html",
+      "tags": ["人形機器人", "衝刺", "運動控制", "中國"],
+      "timestamp": "2026-04-17T12:14:04Z"
+    },
+    {
+      "id": "art-20260417-16",
+      "title": "華沙以人形機器人驅趕闖入街道的野豬",
+      "summary": "波蘭當局試點使用人形機器人幫忙驅離華沙市區的野豬——這些動物近來愈發頻繁地闖入街道與公園。該台搭載音訊威嚇與移動軟體的商用人形機器人沿受影響街區巡視,將野豬引導至綠色廊道而不加以傷害。這是人形機器人走出工廠、接下市政與野生動物管理等非典型角色的有趣而具代表性的案例。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Financial Times",
+      "url": "https://www.ft.com",
+      "tags": ["人形機器人", "野生動物", "華沙", "城市機器人"],
+      "timestamp": "2026-04-17T04:00:32Z"
+    },
+    {
+      "id": "art-20260417-17",
+      "title": "沙烏地加速投入全球人形機器人競賽",
+      "summary": "Arab News報導,沙烏地阿拉伯正加碼國家主導的人形機器人投資,將其納入「2030願景」產業多元化戰略,並啟動新合作計畫、研究中心以及物流與旅宿業的試點部署。該國正把自己定位為中東物理AI樞紐,策略與此前投入資料中心建設如出一轍。相關公告讓美、中、波灣資本三方角力的全球格局更加鮮明。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/AI_Humans_and_Robots.jpg",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com",
+      "tags": ["沙烏地阿拉伯", "人形機器人", "2030願景", "政策"],
+      "timestamp": "2026-04-16T20:33:48Z"
+    },
+    {
+      "id": "art-20260417-18",
+      "title": "PIA Automation成立具身AI與人形機器人事業部",
+      "summary": "製造自動化廠商PIA Automation成立了專責的具身AI與人形機器人事業部,顯示老牌自動化整合商已不再把人形機器人視為遙遠的研究課題。新部門將結合PIA的產線建置專長、外部合作夥伴提供的人形硬體,以及面向航太、汽車與消費電子客戶的客製化軟體堆疊。又一個訊號:人形機器人的採用正滲入傳統工業通路。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "citybiz",
+      "url": "https://www.citybiz.co",
+      "tags": ["PIA Automation", "具身AI", "人形機器人", "工業"],
+      "timestamp": "2026-04-14T22:25:32Z"
+    },
+    {
+      "id": "art-20260417-19",
+      "title": "小提琴家穿機器人外骨骼合奏二重奏",
+      "summary": "The Debrief報導的一項新研究,讓職業小提琴家穿上輕量化機器人外骨骼演奏二重奏,揭示演奏者如何協調微動作並共享節拍線索。研究人員利用外骨骼上的感測器量化搭檔之間的「同步化」——實際上是在量測音樂家之間的「默契」。除了好奇心驅動的話題性,這項研究也指向輔助型外骨骼在物理治療、音樂教育與運動技能訓練中的近期應用。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "The Debrief",
+      "url": "https://thedebrief.org",
+      "tags": ["外骨骼", "輔助機器人", "研究", "音樂"],
+      "timestamp": "2026-04-17T12:33:27Z"
+    },
+    {
+      "id": "art-20260417-20",
+      "title": "多解析度地圖提升自主機器人探索效率",
+      "summary": "研究人員發表一種新的多解析度地圖方法,讓自主行動機器人在未知環境中的探索速度顯著優於採用一致解析度的地圖。關鍵在於:在空曠區域僅儲存粗略資訊,僅在障礙物或決策點附近保留精細細節,在壓低記憶體開銷的同時仍保有導航品質。結果顯示,在搜救、倉儲與行星探勘等每一分鐘探索都至關重要的場景中,效率都有實質性提升。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/960px-NASA_Mars_Rover.jpg",
+      "source": "AZoRobotics",
+      "url": "https://www.azorobotics.com",
+      "tags": ["SLAM", "自主導航", "研究", "地圖建構"],
+      "timestamp": "2026-04-17T00:11:00Z"
+    }
+  ]
+}
