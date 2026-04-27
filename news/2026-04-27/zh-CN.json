@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-27",
+  "featured": {
+    "id": "featured-20260427",
+    "title": "索尼Project Ace乒乓球机器人击败职业选手——机器人技术转折点",
+    "summary": "索尼发布了Project Ace乒乓球机器人,评测人员表示其水平已超过大多数职业人类选手。该系统在超高速持拍机械臂上以1000赫兹频率运行已学习策略,实时跟踪球的旋转和落点,并以顶尖选手都难以回击的速度和角度击球。分析人士认为,这次演示标志着高速视觉引导操控的转折点——消费和工业机器人处理动态对抗任务所需的同一套闭环控制技术栈。",
+    "image": "https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-in-front-of-it.png?width=1200",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com",
+    "tags": ["索尼", "操控", "视觉", "体育机器人"],
+    "timestamp": "2026-04-24T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260427-01",
+      "title": "宇树G1人形机器人震撼演绎溜冰、空翻与旋转",
+      "summary": "中国公司宇树(Unitree)发布了G1人形机器人的新视频,展示其完成轮滑、空中翻腾与旋转踢腿的连续动作——这套动作在一年前对商用双足机器人来说还被视为不可能。该视频在中外科技渠道广泛传播,体现了全身强化学习控制器的快速成熟。宇树在继续以低价击败西方人形机器人厂商的同时,也在缩小敏捷性差距。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["宇树", "人形机器人", "运动控制", "中国"],
+      "timestamp": "2026-04-24T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-02",
+      "title": "人形机器人在北京半程马拉松中打破人类世界纪录",
+      "summary": "双足人形机器人首次在封闭赛道上以基本自主的方式完成21.1公里的北京半程马拉松,用时快于现行人类世界纪录。同时举办的北京机器人赛事吸引了十余家中国开发商参赛,既有抢眼的胜利,也有几场极为壮观的失败——包括一台人形机器人冲入赛道围栏。该活动已成为长时间运动稳定性、电池能量密度与热管理的年度压力测试。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "SingularityHub",
+      "url": "https://singularityhub.com",
+      "tags": ["人形机器人", "运动控制", "中国", "耐力"],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-03",
+      "title": "X1:首个同时使用人形机器人与无人机的多机器人救援团队",
+      "summary": "研究人员发布了X1——据称是首个将人形机器人与空中无人机协同调度的搜救平台。无人机从高空绘制倒塌建筑地图,同时双足机器人物理进入废墟布置传感器并救出被困者。共享世界模型让两种模态在烟雾和低光等单机系统失效的条件下互相校正感知。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Earth.com",
+      "url": "https://www.earth.com",
+      "tags": ["搜救", "多机器人", "无人机", "人形机器人"],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-04",
+      "title": "小鹏汽车CEO:人形机器人将于2026年底实现量产",
+      "summary": "小鹏汽车创始人何小鹏宣布,该电动车企将于2026年底开始量产其Iron人形机器人,同时第二代飞行汽车也在研发中。他将人形机器人、飞行汽车与智能电动车描述为一套共享的技术栈——传感器、控制器和端到端神经网络一次构建、跨形态部署。小鹏加入了特斯拉、比亚迪和小米等车企,将人形机器人从实验室推向生产线。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "AASTOCKS",
+      "url": "http://www.aastocks.com",
+      "tags": ["小鹏", "人形机器人", "量产", "中国"],
+      "timestamp": "2026-04-27T04:00:00Z"
+    },
+    {
+      "id": "art-20260427-05",
+      "title": "新控制软件防止机械臂关节卡死",
+      "summary": "一种新的运动规划算法能够检测并避开让多关节机械臂在任务中卡死的自碰撞和奇异位姿配置。在标准6自由度和7自由度机械臂上测试,该控制器无需工程师手动调参关节限位即可使机械臂摆脱卡死——缩短重新规划时间并扩大可用工作空间。这项工作解决了工业操控中最古老的故障模式之一。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": ["操控", "控制", "研究"],
+      "timestamp": "2026-04-26T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-06",
+      "title": "五角大楼斥资2400万美元推进军用人形机器人",
+      "summary": "美国国防部已拨款2400万美元,加速为军事后勤、检查和前沿作战基地任务研发人形机器人。该项目明确选择引入商用人形机器人平台——而非定制军用设计——理由是中美商用人形机器人厂商的能力正在快速提升。官员表示,瓶颈在于自主性和任务续航,而非硬件本身。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/US_Army_powered_armor.jpg/960px-US_Army_powered_armor.jpg",
+      "source": "WIBC",
+      "url": "https://wibc.com",
+      "tags": ["国防", "人形机器人", "政策", "五角大楼"],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-07",
+      "title": "Melody人形机器人掌握39自由度,实现逼真临场感",
+      "summary": "新款人形机器人Melody首次亮相,具备39个独立驱动自由度——包括精细的面部和手部关节——目标是远程临场与服务场景而非工业作业。额外的自由度让Melody能生成自然的微动作,降低长时间人机交互中的恐怖谷效应。团队认为,社交机器人的瓶颈一直是表现力而非算力。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["人形机器人", "社交机器人", "驱动器"],
+      "timestamp": "2026-04-24T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-08",
+      "title": "新型电子皮肤让机械手在突破性测试中获得触觉",
+      "summary": "研究人员演示了一种可拉伸的电子皮肤,让类似假肢的机械手能实时区分纹理、压力和剪切力。基准测试中,机械手仅凭触觉就识别出从未见过的物体,精度可与基于视觉的系统媲美。这项工作弥合了机器人灵巧性与触觉感知之间长期存在的差距——这是可靠家用操控的前提条件。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jet_gripper_air-flow.jpg/960px-Jet_gripper_air-flow.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["电子皮肤", "触觉感知", "灵巧性", "研究"],
+      "timestamp": "2026-04-24T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-09",
+      "title": "Star Robotics发布Watchbot 2自主安保机器人",
+      "summary": "Star Robotics发布Watchbot 2——新一代自主巡逻机器人,具备更强导航能力与更长续航。该平台在4月16日的直播活动中推出,面向周界安保、仓库监控和基础设施检查场景,以按需移动感知取代固定摄像头网络。公司表示车载AI现在可在本地完成入侵者分类,减少对云端链路的依赖。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/star-robotics-unveils-new-security-robot-with-improved-autonomy-and-navigation/",
+      "tags": ["安保机器人", "自主性", "监控"],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-10",
+      "title": "PAL Robotics将在ICRA 2026上发布新款操控机器人",
+      "summary": "西班牙PAL Robotics将在IEEE ICRA 2026大会上发布一款新型移动操控平台,同时现场演示现有的TIAGo和Kangaroo系列。新系统面向正在构建基础模型控制器的研究实验室——提供标准化的机械臂、夹爪和传感器套件,让团队可以专注于策略学习而非硬件集成。ICRA 2026将于5月中旬举行,预计到场人数创纪录。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/pal-robotics-to-debut-new-manipulation-robot-at-icra-2026/",
+      "tags": ["PAL Robotics", "ICRA 2026", "操控"],
+      "timestamp": "2026-04-24T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-11",
+      "title": "绿的谐波兄弟晋升亿万富豪,机器人关节需求激增",
+      "summary": "绿的谐波(Leaderdrive)背后的中国兄弟——机器人关节中精密谐波减速器的制造商——随着人形机器人需求将订单推至高位,晋升为亿万富豪。谐波减速器一直是机器人驱动的瓶颈,历来由日本的Harmonic Drive Systems主导;Leaderdrive的崛起标志着上游供应链发生了重大转变。分析人士认为,本十年人形机器人是精密齿轮最大的新增客户群。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": ["供应链", "人形机器人", "中国", "驱动器"],
+      "timestamp": "2026-04-27T02:00:00Z"
+    },
+    {
+      "id": "art-20260427-12",
+      "title": "Path Robotics发布移动焊接系统,自动化重工业",
+      "summary": "俄亥俄州的Path Robotics发布一款移动自主焊接系统,可驶向大型钢结构并在无需针对部件编程的情况下完成高质量焊接。该平台将3D扫描、焊接路径规划和实时焊缝跟踪整合到足够小的占地空间,可部署于造船厂和建筑工地。此举瞄准美国工业长期难以填补的熟练焊工严重短缺。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Ohio Tech News",
+      "url": "https://www.ohiotechnews.com",
+      "tags": ["焊接", "制造", "移动操控"],
+      "timestamp": "2026-04-24T15:00:00Z"
+    },
+    {
+      "id": "art-20260427-13",
+      "title": "报告:深圳主导中国蓬勃发展的机器人产业",
+      "summary": "《南华早报》的分析记录了深圳如何成为中国机器人产业无可争议的中心——密集的供应链、集中的风险投资以及国内最高密度的人形机器人和工业机器人创业公司。这座城市占据了中国机器人产量创纪录增长中不成比例的份额。高管们表示,最难复制的优势是与电池、电机和半导体供应商的近距离。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": ["中国", "供应链", "产业", "深圳"],
+      "timestamp": "2026-04-26T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-14",
+      "title": "人形机器人会走会说——但仍在硬活上失误",
+      "summary": "一份冷静的产业调查指出,尽管演示视频令人惊艳,商用人形机器人在所销售的任务上仍然失败:可靠的包裹分拣、非结构化抓取和长时间无人干预运行。该文汇编了几家未具名仓库试点的失败数据,人形机器人的吞吐量落后专用移动操控机器人一个数量级。病毒演示与生产经济性之间的差距依然很大。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com",
+      "tags": ["人形机器人", "产业分析", "仓库"],
+      "timestamp": "2026-04-25T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-15",
+      "title": "AthenaZero发布可抛接球的双手协作机器人",
+      "summary": "创业公司AthenaZero发布了一款高速双臂操控机器人,能够连续抛接球——这是对快速协调双手控制的出色基准。抛接需要视觉、规划和电机指令之间亚毫秒级同步,是机器人技术中最具挑战性的实时控制问题之一。此次演示让AthenaZero跻身押注双手灵巧性作为下一波工业浪潮的少数几家公司之列。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg",
+      "source": "TechEBlog",
+      "url": "https://www.techeblog.com",
+      "tags": ["双臂", "操控", "创业公司"],
+      "timestamp": "2026-04-25T13:00:00Z"
+    },
+    {
+      "id": "art-20260427-16",
+      "title": "腿式机器人十年回顾:Ghost Robotics亮相机器人峰会",
+      "summary": "在2026机器人峰会上,Ghost Robotics以一场回顾演讲纪念其四足机器人开发十周年,涵盖了Vision 60平台从大学研究项目发展为美国国防部供应商的全过程。公司追溯了续航、负载和自主堆栈的改进,并预告了下一代腿式平台。业界将这场会议视为跨厂商四足机器人成熟度的基准。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Big_dog_military_robots.jpg/960px-Big_dog_military_robots.jpg",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": ["四足机器人", "Ghost Robotics", "腿式机器人"],
+      "timestamp": "2026-04-26T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-17",
+      "title": "普渡机器人在达拉斯设立美国总部",
+      "summary": "中国服务机器人厂商普渡机器人(Pudu Robotics)在达拉斯启用美国总部,标志着其向美国餐饮和酒店机器人市场的重大推进。该设施将处理普渡PuduBot和BellaBot系列的销售、支持和本地化——这两个系列已在亚洲连锁餐厅广泛部署。此举正值美国监管机构加强对中国机器人进口的审查。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": ["普渡机器人", "服务机器人", "美国市场"],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-18",
+      "title": "IEEE Video Friday:乒乓球、ICRA预览与四足机器人集群",
+      "summary": "IEEE Spectrum的每周Video Friday集锦涵盖索尼Project Ace乒乓球机器人、ICRA 2026预览、苏黎世联邦理工学院(ETH)的一篇新四足机器人集群研究论文,以及近期软体机器人发表的亮点。该栏目仍是学术和产业机器人成果最具关注度的周度脉搏,本期作品异常多元,涵盖商业与实验室级演示。读者得到的是一份带注释的播放列表,而不是单一头条。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
+      "tags": ["索尼", "研究", "IEEE"],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-19",
+      "title": "Flex与Teradyne Robotics深化合作,规模化智能自动化",
+      "summary": "代工制造商Flex与Teradyne Robotics——Universal Robots和MiR的母公司——扩大合作,将协作机械臂和自主移动机器人部署到Flex全球工厂网络。这笔交易将协作机器人和AMR定位为电子制造产线自动化的默认层,取代在产品代际之间无法重配置的定制固定自动化。两家公司将需求上升归因于制造回流潮。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": ["协作机器人", "AMR", "制造", "Teradyne"],
+      "timestamp": "2026-04-25T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-20",
+      "title": "北京半程马拉松:人形机器人冲入赛道围栏",
+      "summary": "并非每台参赛机器人都跑到了终点:北京机器人半程马拉松中一台人形机器人偏离赛道、冲入赛道围栏,在社交媒体招来嘲讽的同时也让中国监管机构再度提出安全质疑。事件凸显出即便是冠军平台,在传感器条件或光照意外变化时仍然脆弱。此外,据报道澳门一名女性在商场人形机器人演示中受到惊吓住院,为近期公共场所的机器人事故名单再添一例。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com",
+      "tags": ["人形机器人", "安全", "中国"],
+      "timestamp": "2026-04-26T09:00:00Z"
+    }
+  ]
+}

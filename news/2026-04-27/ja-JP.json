@@ -1,0 +1,309 @@
+{
+  "date": "2026-04-27",
+  "featured": {
+    "id": "featured-20260427",
+    "title": "ソニーのProject Ace卓球ロボットがプロを撃破——ロボティクスの転換点",
+    "summary": "ソニーは卓球ロボット「Project Ace」を発表した。試用者によれば、多くのプロ選手を上回る腕前で打ち合うという。超高速のラケットアームで学習済みポリシーを1,000Hzで走らせ、ボールの回転と落下点をリアルタイムに追跡し、トップ選手でも返球が難しい速度と角度でショットを放つ。アナリストは、このデモを高速のビジョン誘導マニピュレーションにおける転換点と見ている——動的・対戦的タスクに消費者向け・産業用ロボットが必要とする、同じクローズドループ制御スタックだ。",
+    "image": "https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-in-front-of-it.png?width=1200",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com",
+    "tags": [
+      "ソニー",
+      "マニピュレーション",
+      "ビジョン",
+      "スポーツロボティクス"
+    ],
+    "timestamp": "2026-04-24T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260427-01",
+      "title": "Unitree G1ヒューマノイド、ワイルドなデモでスケーティング・宙返り・回転を披露",
+      "summary": "中国企業Unitreeは、ヒューマノイドG1がローラースケート、空中宙返り、回転キックを披露する新しいビデオを公開した。1年前までは商用の二足歩行機には不可能と見られていた一連の動的動作である。クリップは中国および海外のテック系チャンネルで広く共有され、全身強化学習コントローラが急速に成熟していることを示している。Unitreeは西側のヒューマノイドメーカーを価格で出し抜きつつ、俊敏性の差も縮めている。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Unitree",
+        "ヒューマノイド",
+        "ロコモーション",
+        "中国"
+      ],
+      "timestamp": "2026-04-24T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-02",
+      "title": "ヒューマノイドが北京ハーフマラソンで人類世界記録を更新",
+      "summary": "二足歩行ヒューマノイドとして初めて、北京ハーフマラソンの21.1kmを現行の人類世界記録より速く、閉鎖コースでほぼ自律走行により完走した。併催された北京ロボティクスレースには10社超の中国勢が参加し、目立つ勝利だけでなく派手な失敗もいくつか出た——コースの柵に突っ込んだヒューマノイドもいた。このイベントは長距離ロコモーションの安定性、電池密度、熱管理の年次ストレステストとなっている。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "SingularityHub",
+      "url": "https://singularityhub.com",
+      "tags": [
+        "ヒューマノイド",
+        "ロコモーション",
+        "中国",
+        "耐久性"
+      ],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-03",
+      "title": "X1:ヒューマノイドとドローンを同時に使う初のマルチロボット救助チーム",
+      "summary": "研究者らは、ヒューマノイドと空中ドローンを同時に運用する初の実働型マルチロボット捜索救助プラットフォームとしてX1を発表した。ドローンが上空から倒壊した建物をマッピングする一方、二足歩行機が物理的に瓦礫に進入してセンサーを設置し、被災者を救出する。共有の世界モデルにより、2つのモダリティが煙や低照度——単一エージェントでは機能しない条件——で互いの知覚を補正し合える。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Earth.com",
+      "url": "https://www.earth.com",
+      "tags": [
+        "捜索救助",
+        "マルチロボット",
+        "ドローン",
+        "ヒューマノイド"
+      ],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-04",
+      "title": "XPENG CEO:ヒューマノイドロボットを2026年末までに量産",
+      "summary": "XPENG創業者のHe Xiaopeng氏は、EVメーカーとしてのXPENGが2026年末までにヒューマノイドロボット「Iron」の量産を開始し、第2世代の空飛ぶクルマも開発中だと発表した。彼はヒューマノイド、空飛ぶクルマ、インテリジェントEVを同じ技術スタックとして位置づけた——センサー、コントローラ、エンドツーエンドのニューラルネットを一度作り、複数のフォームファクタに展開する。XPENGはTesla、BYD、Xiaomiとともにヒューマノイドロボティクスを研究室の外へ押し出す自動車メーカーの一角となった。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "AASTOCKS",
+      "url": "http://www.aastocks.com",
+      "tags": [
+        "XPENG",
+        "ヒューマノイド",
+        "量産",
+        "中国"
+      ],
+      "timestamp": "2026-04-27T04:00:00Z"
+    },
+    {
+      "id": "art-20260427-05",
+      "title": "新制御ソフト、ロボットアームの関節ジャムを防止",
+      "summary": "新しい運動計画アルゴリズムが、多関節ロボットアームをタスク中に頻繁にロックさせる自己衝突や特異点の構成を検出・回避する。6・7自由度の標準マニピュレータで検証され、エンジニアが従来手動で調整する関節リミットなしでアームが詰まり姿勢から抜け出せる——再計画時間を短縮し、使える作業空間を広げる。産業マニピュレーションで最も古い故障モードの一つに取り組む成果だ。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "マニピュレーション",
+        "制御",
+        "研究"
+      ],
+      "timestamp": "2026-04-26T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-06",
+      "title": "米国防総省、現代戦向けヒューマノイドに2,400万ドルを投入",
+      "summary": "米国防総省は、軍事物流、点検、前方作戦基地業務向けのヒューマノイドロボット開発を加速するために2,400万ドルを拠出した。このプログラムは、特注軍用設計ではなく商用ヒューマノイドプラットフォームを明示的に両用パイロットへ取り込み、中国および米国の商用メーカーの急速な性能向上を根拠として挙げている。当局者によれば、ハードウェアではなく自律性と任務継続性がボトルネックだという。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/US_Army_powered_armor.jpg/960px-US_Army_powered_armor.jpg",
+      "source": "WIBC",
+      "url": "https://wibc.com",
+      "tags": [
+        "防衛",
+        "ヒューマノイド",
+        "政策",
+        "ペンタゴン"
+      ],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-07",
+      "title": "Melody:39自由度で生きた存在感を実現するヒューマノイド",
+      "summary": "新しいヒューマノイドプラットフォーム「Melody」は、顔や手の細かな関節を含む39個の独立駆動自由度でデビューする。狙いは産業作業ではなく、テレプレゼンスとサービス分野だ。追加のDOFにより、Melodyは自然な微細動作を生み出し、長時間の対人インタラクションにおける不気味の谷効果を軽減する。チームは、ソーシャルロボティクスのボトルネックは計算力ではなく表現力だと主張する。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "ヒューマノイド",
+        "ソーシャルロボティクス",
+        "アクチュエータ"
+      ],
+      "timestamp": "2026-04-24T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-08",
+      "title": "新型電子スキン、画期的試験でロボットハンドに触覚を与える",
+      "summary": "研究者らは、義肢型ロボットハンドに質感、圧力、せん断力をリアルタイムで識別させる伸縮性電子スキンを実証した。ベンチマークでは、未知の物体を触覚信号のみで識別し、視覚ベースのシステムと同等の精度を達成。ロボットの器用さと触覚的認識の長年のギャップを埋める成果で、信頼できる家庭内マニピュレーションの前提となる。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jet_gripper_air-flow.jpg/960px-Jet_gripper_air-flow.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "電子スキン",
+        "触覚センサ",
+        "器用さ",
+        "研究"
+      ],
+      "timestamp": "2026-04-24T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-09",
+      "title": "Star Robotics、自律警備ロボ「Watchbot 2」を発表",
+      "summary": "Star Roboticsは、ナビゲーションと点検持続時間を向上させた次世代の自律巡回ロボット「Watchbot 2」を投入した。4月16日のライブ配信イベントで発表され、周囲警備、倉庫監視、インフラ点検向けに位置づけられ、固定カメラ網をオンデマンドの移動センシングに置き換える。オンボードAIが侵入者分類をローカルで処理するようになり、クラウド接続への依存が減ったという。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/star-robotics-unveils-new-security-robot-with-improved-autonomy-and-navigation/",
+      "tags": [
+        "警備ロボット",
+        "自律性",
+        "監視"
+      ],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-10",
+      "title": "PAL Robotics、ICRA 2026で新マニピュレーションロボットを発表へ",
+      "summary": "スペインのPAL Roboticsは、IEEE ICRA 2026で新しいモバイルマニピュレーションプラットフォームを披露し、既存のTIAGoおよびKangarooシリーズのライブデモも行う。新システムは基盤モデル制御器を構築する研究室向けで、標準化されたアーム、グリッパー、センサーパッケージを提供し、チームがハードウェア統合ではなくポリシー学習に集中できるようにする。ICRA 2026は5月中旬に開催され、記録的な来場が見込まれる。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/pal-robotics-to-debut-new-manipulation-robot-at-icra-2026/",
+      "tags": [
+        "PAL Robotics",
+        "ICRA 2026",
+        "マニピュレーション"
+      ],
+      "timestamp": "2026-04-24T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-11",
+      "title": "Leaderdrive兄弟、ロボット関節需要急増で億万長者に",
+      "summary": "ロボット関節で使われる精密調和減速機のメーカーLeaderdriveの中国人兄弟が、ヒューマノイド需要で受注残が急増する中、ビリオネアとなった。調和減速機はロボットのアクチュエーションで長年のボトルネックであり、歴史的には日本のHarmonic Drive Systemsが支配してきた。Leaderdriveの台頭は上流サプライチェーンの大きな転換を示す。アナリストは、今後10年の精密ギアリング最大の新顧客セグメントとしてヒューマノイドを挙げる。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": [
+        "サプライチェーン",
+        "ヒューマノイド",
+        "中国",
+        "アクチュエータ"
+      ],
+      "timestamp": "2026-04-27T02:00:00Z"
+    },
+    {
+      "id": "art-20260427-12",
+      "title": "Path Robotics、重工業自動化の移動式溶接システムを発表",
+      "summary": "オハイオ州のPath Roboticsは、大型鋼構造物に近づき、部品個別のプログラミングなしに高品質な溶接を施す移動式自律溶接システムを発表した。このプラットフォームは3Dスキャン、溶接経路計画、リアルタイムのシートラッキングを十分小さな筐体にまとめ、造船所や建設現場にも展開できる。米国産業が埋めきれていない熟練溶接工の深刻な人手不足を狙う。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Ohio Tech News",
+      "url": "https://www.ohiotechnews.com",
+      "tags": [
+        "溶接",
+        "製造",
+        "モバイルマニピュレーション"
+      ],
+      "timestamp": "2026-04-24T15:00:00Z"
+    },
+    {
+      "id": "art-20260427-13",
+      "title": "レポート:深圳が中国のロボティクス産業を席巻",
+      "summary": "South China Morning Postの分析は、深圳が中国ロボティクス産業の揺るぎない中心となっていることを示す——濃密なサプライチェーン、集中したベンチャー資金、そして国内で最も高いヒューマノイドおよび産業用ロボットスタートアップの密度。今年の中国ロボティクス生産の記録的伸びのうち、深圳は不釣り合いに大きなシェアを占める。経営層は、電池・モータ・半導体サプライヤとの近接を最も模倣しにくい優位だと語る。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "中国",
+        "サプライチェーン",
+        "産業",
+        "深圳"
+      ],
+      "timestamp": "2026-04-26T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-14",
+      "title": "ヒューマノイドは歩けて話せる——だが難しい仕事では今も取りこぼす",
+      "summary": "冷静な業界調査は、派手なデモ動画にもかかわらず、商用ヒューマノイドが販売対象である作業で今も失敗していると指摘する——信頼できる荷物仕分け、非構造化のピックアンドプレース、人手介入なしの長時間稼働。記事は匿名の倉庫パイロットの故障データをまとめており、ヒューマノイドは目的特化型のモバイルマニピュレータよりスループットで1桁劣る。バイラルなデモと量産経済性の差はなお大きい。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com",
+      "tags": [
+        "ヒューマノイド",
+        "産業分析",
+        "倉庫"
+      ],
+      "timestamp": "2026-04-25T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-15",
+      "title": "AthenaZero、両手ジャグリング可能なバイマニュアルロボをデビュー",
+      "summary": "スタートアップAthenaZeroは、ボールを連続ジャグリングできる高速両手マニピュレータを披露した——素早く協調した両手制御のベンチマークとして印象的だ。ジャグリングにはビジョン、計画、モータ指令間のサブミリ秒同期が必要で、ロボティクスで最も厳しいリアルタイム制御問題の一つである。このデモは、AthenaZeroを次の産業波として両手器用さに賭ける少数の企業群に位置づける。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg",
+      "source": "TechEBlog",
+      "url": "https://www.techeblog.com",
+      "tags": [
+        "バイマニュアル",
+        "マニピュレーション",
+        "スタートアップ"
+      ],
+      "timestamp": "2026-04-25T13:00:00Z"
+    },
+    {
+      "id": "art-20260427-16",
+      "title": "脚型ロボット10年:Robotics SummitでのGhost Roboticsレトロスペクティブ",
+      "summary": "2026 Robotics Summitで、Ghost Roboticsは四足ロボ開発10周年を、Vision 60プラットフォームが大学研究プロジェクトから米国防総省のサプライヤに至る歩みを振り返るレトロスペクティブで記念した。同社は耐久性、ペイロード、自律スタックの改善をたどり、次世代の脚型プラットフォームも予告した。業界はこのセッションをベンダー横断の四足成熟度の代理指標として読み解く。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Big_dog_military_robots.jpg/960px-Big_dog_military_robots.jpg",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "四足",
+        "Ghost Robotics",
+        "脚型ロボット"
+      ],
+      "timestamp": "2026-04-26T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-17",
+      "title": "Pudu Robotics、ダラスに米国本社を開設",
+      "summary": "中国のサービスロボットメーカーPudu Roboticsはダラスに米国本社を開設し、外食・ホスピタリティ向け米国市場への本格参入を示した。施設はアジアのレストランチェーンで広く展開されているPuduBotとBellaBotシリーズの販売、サポート、ローカライズを担う。動きは、米国規制当局による中国ロボティクス輸入への厳しい注視のさなかに起きた。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Pudu Robotics",
+        "サービスロボット",
+        "米国市場"
+      ],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-18",
+      "title": "IEEE Video Friday:卓球、ICRAプレビュー、四足群",
+      "summary": "IEEE Spectrum毎週のVideo FridayまとめはソニーのProject Ace卓球ロボに加え、ICRA 2026のプレビュー、ETHチューリッヒからの四足群に関する新論文、最近のソフトロボティクス論文のハイライトを取り上げる。このコラムは学術・産業ロボティクス成果の週次パルスとして最も視聴されており、今号は商用とラボ級デモが例外的に広く混在する。読者は単一の見出しではなく注釈付きプレイリストを得る。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
+      "tags": [
+        "ソニー",
+        "研究",
+        "IEEE"
+      ],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-19",
+      "title": "FlexとTeradyne Robotics、スマート自動化拡大で提携を深化",
+      "summary": "受託製造大手FlexとTeradyne Robotics——Universal RobotsとMiRの親会社——は、Flexのグローバル工場網に協働ロボットアームと自律移動ロボットを展開するため提携を拡大した。本件はコボットとAMRを電子機器製造のデフォルトなライン自動化層として位置づけ、製品世代間で再構成できない特注の固定自動化を置き換える。両社は国内回帰製造需要の高まりを原動力に挙げる。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "コボット",
+        "AMR",
+        "製造",
+        "Teradyne"
+      ],
+      "timestamp": "2026-04-25T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-20",
+      "title": "北京ハーフマラソンでヒューマノイドがフェンスに激突",
+      "summary": "すべてのロボット走者がゴールに辿り着けたわけではない——北京のロボットハーフマラソンに出場した一体のヒューマノイドがコースを外れてフェンスに突っ込み、SNSで揶揄を浴びると同時に中国規制当局から新たな安全性の疑問も呼んだ。事件は、チャンピオンクラスのプラットフォームでも、センサー条件や照明が突然変わると脆いままであることを浮き彫りにした。別件では、マカオの商業施設でヒューマノイドのデモに驚いた女性が入院したと報じられ、公共空間でのロボット事故リストが増えつつある。",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com",
+      "tags": [
+        "ヒューマノイド",
+        "安全",
+        "中国"
+      ],
+      "timestamp": "2026-04-26T09:00:00Z"
+    }
+  ]
+}

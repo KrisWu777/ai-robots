@@ -1,0 +1,309 @@
+{
+  "date": "2026-04-27",
+  "featured": {
+    "id": "featured-20260427",
+    "title": "Sony का Project Ace ping-pong robot professionals को हराया — robotics में turning point",
+    "summary": "Sony ने Project Ace पेश किया, एक table tennis robot जो testers के अनुसार ज़्यादातर human professionals से ऊँचे level पर खेलता है। एक ultra-fast paddle-arm पर 1,000 Hz पर learned policy चलाते हुए, यह system गेंद के spin और placement को real time में track करता है और ऐसी speed व angles पर shots मारता है जिन्हें top players भी return नहीं कर पाते। Analysts इस demo को high-speed, vision-guided manipulation का turning point मानते हैं — वही closed-loop control stack जिसकी consumer और industrial robots को dynamic, adversarial tasks के लिए ज़रूरत होगी।",
+    "image": "https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-in-front-of-it.png?width=1200",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com",
+    "tags": [
+      "Sony",
+      "Manipulation",
+      "Vision",
+      "Sports Robotics"
+    ],
+    "timestamp": "2026-04-24T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260427-01",
+      "title": "Unitree G1 humanoid ने skating, flips और spins के wild demo से stun किया",
+      "summary": "Chinese firm Unitree ने अपने G1 humanoid का एक नया video जारी किया जिसमें वह roller-skating, mid-air flips और spinning kicks कर रहा है — ऐसी dynamic movements का sequence जो एक साल पहले commercial biped के लिए असंभव माना जाता था। यह clip Chinese और international tech channels पर widely share हुआ और whole-body reinforcement-learning controllers की तेज़ maturation दिखाता है। Unitree price पर Western humanoid makers को पीछे छोड़ते हुए agility gap भी कम कर रहा है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Unitree",
+        "Humanoid",
+        "Locomotion",
+        "China"
+      ],
+      "timestamp": "2026-04-24T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-02",
+      "title": "Humanoid robot ने Beijing half-marathon में human world record तोड़ा",
+      "summary": "पहली बार किसी bipedal humanoid ने closed course पर largely autonomous mode में Beijing half-marathon के 21.1 km को मौजूदा human world record से तेज़ पूरा किया। साथ चल रही Beijing Robotics Race ने एक दर्जन से ज़्यादा Chinese developers को आकर्षित किया और headline-worthy wins व कई spectacular failures — जिनमें एक humanoid का fencing से टकराना शामिल है — produce कीं। Event अब long-horizon locomotion stability, battery density और thermal management का annual stress test बन गया है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "SingularityHub",
+      "url": "https://singularityhub.com",
+      "tags": [
+        "Humanoid",
+        "Locomotion",
+        "China",
+        "Endurance"
+      ],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-03",
+      "title": "मिलिए X1 से: humanoids और drones को एक साथ use करने वाली पहली multi-robot rescue team",
+      "summary": "Researchers ने X1 unveil किया है, जिसे पहला operational multi-robot search-and-rescue platform बताया गया है जो humanoids और aerial drones को simultaneously task करता है। Drones ऊपर से collapsed structures को map करते हैं जबकि bipedal units physically rubble में घुसकर sensors लगाते हैं और survivors को extract करते हैं। एक shared world model दोनों modalities को smoke और low-light में एक-दूसरे के perception को cross-correct करने देता है — ऐसी conditions जो single-agent systems को defeat कर देती हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Earth.com",
+      "url": "https://www.earth.com",
+      "tags": [
+        "Search and Rescue",
+        "Multi-Robot",
+        "Drones",
+        "Humanoid"
+      ],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-04",
+      "title": "XPENG CEO: 2026 के अंत तक humanoid robots का mass production",
+      "summary": "XPENG के founder He Xiaopeng ने announce किया कि यह EV maker 2026 के अंत तक अपने Iron humanoid robot का mass production शुरू करेगा, साथ ही second-generation flying car भी development में है। उन्होंने humanoids, flying cars और intelligent EVs को एक shared technology stack के रूप में frame किया — sensors, controllers और end-to-end neural networks एक बार build होते हैं और अलग-अलग form factors में deploy किए जाते हैं। XPENG Tesla, BYD और Xiaomi के साथ उन automakers में शामिल हो गया जो humanoid robotics को lab से बाहर ले जा रहे हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "AASTOCKS",
+      "url": "http://www.aastocks.com",
+      "tags": [
+        "XPENG",
+        "Humanoid",
+        "Manufacturing",
+        "China"
+      ],
+      "timestamp": "2026-04-27T04:00:00Z"
+    },
+    {
+      "id": "art-20260427-05",
+      "title": "New control software robotic arms को joints jam करने से रोकता है",
+      "summary": "एक नया motion-planning algorithm उन self-collision और singularity configurations को detect करके avoid करता है जो multi-joint robotic arms को task के बीच routinely lock up कर देते हैं। Standard 6- और 7-DOF manipulators पर tested, यह controller arms को jammed poses से बाहर रखता है, बिना हाथ से tune किए गए joint limits के जिन पर engineers आम तौर पर depend करते हैं — re-planning time घटाता है और usable workspace बढ़ाता है। यह work industrial manipulation के सबसे पुराने failure modes में से एक को address करता है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "Manipulation",
+        "Control",
+        "Research"
+      ],
+      "timestamp": "2026-04-26T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-06",
+      "title": "Pentagon ने modern warfare के लिए humanoid robots पर $24M दिया",
+      "summary": "US Department of Defense ने military logistics, inspection और forward-operating-base tasks के लिए humanoid robot development को accelerate करने के लिए $24 million commit किए हैं। Program explicitly commercial humanoid platforms को — bespoke military designs के बजाय — dual-use pilots में pull करता है, और reason के रूप में Chinese व US commercial humanoid makers की तेज़ capability gains देता है। Officials के अनुसार bottleneck autonomy और mission endurance में है, hardware में नहीं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/US_Army_powered_armor.jpg/960px-US_Army_powered_armor.jpg",
+      "source": "WIBC",
+      "url": "https://wibc.com",
+      "tags": [
+        "Defense",
+        "Humanoid",
+        "Policy",
+        "Pentagon"
+      ],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-07",
+      "title": "Melody humanoid ने lifelike presence के लिए 39 degrees of freedom master किए",
+      "summary": "Melody नाम का एक नया humanoid platform 39 independently actuated degrees of freedom के साथ debut करता है — जिसमें detailed facial और hand articulation शामिल है — जिसका target tele-presence और service roles हैं, industrial work नहीं। Extra DOFs Melody को natural micro-movements produce करने देते हैं जो sustained human interaction में uncanny-valley effect reduce करते हैं। Team का argue है कि social robotics expressiveness से bottleneck रहा है, compute से नहीं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Humanoid",
+        "Social Robotics",
+        "Actuators"
+      ],
+      "timestamp": "2026-04-24T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-08",
+      "title": "New e-skin ने breakthrough test में robotic hand को sense of touch दिया",
+      "summary": "Researchers ने एक stretchable electronic skin demonstrate की है जो prosthetic-style robotic hand को textures, pressure और shear forces को real time में distinguish करने देती है। Benchmarks में hand ने केवल tactile signals से ऐसी objects identify कीं जो उसने पहले नहीं देखी थीं, और accuracy vision-based systems के बराबर निकली। यह work robotic dexterity और haptic awareness के बीच की पुरानी gap को close करता है — reliable household manipulation के लिए एक prerequisite।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jet_gripper_air-flow.jpg/960px-Jet_gripper_air-flow.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "E-Skin",
+        "Tactile Sensing",
+        "Dexterity",
+        "Research"
+      ],
+      "timestamp": "2026-04-24T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-09",
+      "title": "Star Robotics ने Watchbot 2 autonomous security robot unveil किया",
+      "summary": "Star Robotics ने Watchbot 2 launch किया है, एक next-generation autonomous patrol robot जिसमें improved navigation और लंबी duration inspection capabilities हैं। 16 April को livestreamed event में introduce किया गया, यह platform perimeter security, warehouse surveillance और infrastructure inspection के लिए positioned है, जहाँ यह static camera networks को mobile, on-demand sensing से replace करता है। Company का कहना है कि onboard AI अब intruder classification locally handle करता है, जिससे cloud links पर reliance घटती है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/star-robotics-unveils-new-security-robot-with-improved-autonomy-and-navigation/",
+      "tags": [
+        "Security Robot",
+        "Autonomy",
+        "Surveillance"
+      ],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-10",
+      "title": "PAL Robotics ICRA 2026 में नया manipulation robot debut करेगा",
+      "summary": "Spain की PAL Robotics IEEE ICRA 2026 में एक नया mobile manipulation platform unveil करेगी, साथ ही अपनी existing TIAGo और Kangaroo lines के live demos भी दिखाएगी। नया system उन research labs के लिए है जो foundation-model controllers build कर रहे हैं — standardized arms, grippers और sensor packages offer करता है ताकि teams hardware integration के बजाय policy learning पर focus कर सकें। ICRA 2026 मई mid में होगा और record attendance expected है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/pal-robotics-to-debut-new-manipulation-robot-at-icra-2026/",
+      "tags": [
+        "PAL Robotics",
+        "ICRA 2026",
+        "Manipulation"
+      ],
+      "timestamp": "2026-04-24T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-11",
+      "title": "Leaderdrive brothers billionaire बने, robot-joint demand surge",
+      "summary": "Robot joints में use होने वाले precision harmonic reducers के maker Leaderdrive के पीछे Chinese brothers billionaire बन गए हैं, क्योंकि humanoid-robot demand उनके order book को बढ़ा रही है। Harmonic reducers robotic actuation में लंबे समय से bottleneck रहे हैं, और historically Japan की Harmonic Drive Systems का dominance रहा है; Leaderdrive का rise upstream supply chain में significant shift mark करता है। Analysts humanoids को इस decade में precision gearing के largest नए customer segment के रूप में देखते हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": [
+        "Supply Chain",
+        "Humanoid",
+        "China",
+        "Actuators"
+      ],
+      "timestamp": "2026-04-27T02:00:00Z"
+    },
+    {
+      "id": "art-20260427-12",
+      "title": "Path Robotics ने heavy industry को automate करने के लिए mobile welding system unveil किया",
+      "summary": "Ohio-based Path Robotics ने एक mobile autonomous welding system launch किया है जो बड़ी steel structures के पास roll up करके part-specific programming के बिना high-quality welds lay down करता है। यह platform 3D scanning, weld-path planning और real-time seam tracking को इतने छोटे footprint में combine करता है कि shipyards और construction sites पर deploy किया जा सके। यह move skilled welding में critical labor shortage को target करता है जिसे US industry close नहीं कर पाई है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Ohio Tech News",
+      "url": "https://www.ohiotechnews.com",
+      "tags": [
+        "Welding",
+        "Manufacturing",
+        "Mobile Manipulation"
+      ],
+      "timestamp": "2026-04-24T15:00:00Z"
+    },
+    {
+      "id": "art-20260427-13",
+      "title": "Report: Shenzhen China के booming robotics sector पर dominate करता है",
+      "summary": "South China Morning Post का analysis document करता है कि कैसे Shenzhen China के robotics industry का undisputed center बन गया है — dense supply chain, concentrated venture funding और देश में humanoid व industrial robot startups का highest density। यह city इस साल China के record robotics output growth में disproportionate share रखता है। Executives का कहना है कि battery, motor और semiconductor suppliers से proximity सबसे hard-to-replicate advantage है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "China",
+        "Supply Chain",
+        "Industry",
+        "Shenzhen"
+      ],
+      "timestamp": "2026-04-26T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-14",
+      "title": "Humanoids walk और talk कर सकते हैं — पर hard stuff में अब भी fumble करते हैं",
+      "summary": "एक sober industry survey argue करता है कि dazzling demo videos के बावजूद commercial humanoids उन्हीं tasks पर fail हो रहे हैं जिनके लिए वे sold हो रहे हैं: reliable package sorting, unstructured pick-and-place, बिना human intervention के multi-hour uptime। यह piece कुछ unnamed warehouse pilots के failure data को compile करती है जहाँ humanoids throughput में purpose-built mobile manipulators से एक order of magnitude पीछे हैं। Viral demos और production economics के बीच gap अब भी wide है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com",
+      "tags": [
+        "Humanoid",
+        "Industry Analysis",
+        "Warehouse"
+      ],
+      "timestamp": "2026-04-25T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-15",
+      "title": "AthenaZero ने two-handed bimanual robot debut किया जो juggle कर सकता है",
+      "summary": "Startup AthenaZero ने एक high-speed bimanual manipulator unveil किया है जो balls को continuously juggle कर सकता है — fast, coordinated two-handed control के लिए impressive benchmark। Juggling में vision, planning और motor commands के बीच sub-millisecond timing चाहिए, और यह robotics में सबसे demanding real-time control problems में से एक है। यह demo AthenaZero को उन कुछ companies में रखता है जो bimanual dexterity पर next industrial wave के रूप में bet कर रही हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg",
+      "source": "TechEBlog",
+      "url": "https://www.techeblog.com",
+      "tags": [
+        "Bimanual",
+        "Manipulation",
+        "Startup"
+      ],
+      "timestamp": "2026-04-25T13:00:00Z"
+    },
+    {
+      "id": "art-20260427-16",
+      "title": "10 साल के legged robots: Ghost Robotics ने Robotics Summit में retrospective की",
+      "summary": "2026 Robotics Summit में Ghost Robotics ने एक दशक के quadruped development को retrospective से mark किया, जिसमें Vision 60 platform के एक university research project से US Department of Defense supplier तक के evolution को cover किया। Company ने endurance, payload और autonomy stack में improvements trace किए और अपने next-generation legged platform की झलक दिखाई। Session को industry vendors में quadruped maturity का proxy मानकर read करती है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Big_dog_military_robots.jpg/960px-Big_dog_military_robots.jpg",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Quadruped",
+        "Ghost Robotics",
+        "Legged Robots"
+      ],
+      "timestamp": "2026-04-26T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-17",
+      "title": "Pudu Robotics ने Dallas में US headquarters खोला",
+      "summary": "Chinese service-robot maker Pudu Robotics ने Dallas में अपना US headquarters inaugurate किया है, जो American market for food-service and hospitality robots में बड़े push का signal है। यह facility Pudu के PuduBot और BellaBot lines की sales, support और localization handle करेगी, जो Asian restaurant chains में पहले से widely deployed हैं। यह move US regulators द्वारा Chinese robotics imports पर intense scrutiny के बीच आया है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Pudu Robotics",
+        "Service Robots",
+        "US Market"
+      ],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-18",
+      "title": "IEEE Video Friday: Ping-Pong, ICRA Preview और Swarm Quadrupeds",
+      "summary": "IEEE Spectrum का weekly Video Friday roundup Sony के Project Ace ping-pong robot के साथ ICRA 2026 preview, ETH Zurich से swarm-of-quadrupeds का नया research paper और हाल के soft-robotics publications की highlights cover करता है। यह column academic और industry robotics output का most-watched weekly pulse बना हुआ है, और इस edition में commercial और lab-grade demos का unusually wide mix है। Readers को single headline नहीं, बल्कि annotated playlist मिलती है।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
+      "tags": [
+        "Sony",
+        "Research",
+        "IEEE"
+      ],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-19",
+      "title": "Flex और Teradyne Robotics ने intelligent automation scale करने के लिए partnership deepen की",
+      "summary": "Contract manufacturer Flex और Teradyne Robotics — जो Universal Robots और MiR की owner है — ने अपनी partnership expand की है ताकि Flex के global factory network में collaborative arms और autonomous mobile robots deploy कर सकें। यह deal cobots और AMRs को electronics manufacturing के लिए default line-automation layer के रूप में position करती है, और ऐसी bespoke fixed automation की जगह लेती है जिसे product generations के बीच reconfigure नहीं किया जा सकता। दोनों companies rising demand for on-shore manufacturing को driver बताती हैं।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Cobots",
+        "AMR",
+        "Manufacturing",
+        "Teradyne"
+      ],
+      "timestamp": "2026-04-25T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-20",
+      "title": "Humanoid robot ने Beijing half-marathon के दौरान fence में crash किया",
+      "summary": "हर robot runner finish line तक नहीं पहुँचा: Beijing robot half-marathon का एक humanoid entrant course से veer off होकर course fencing में crash हो गया, जिसने social-media पर ridicule और Chinese regulators से fresh safety questions दोनों draw किए। यह incident highlight करता है कि champion platforms भी brittle हैं जब sensor conditions या lighting unexpectedly shift हो जाए। Separately, Macau में एक woman को कथित तौर पर mall demonstration में humanoid से startled होने के बाद hospitalise किया गया, public-space robot mishaps की बढ़ती list में एक और जुड़ गया।",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com",
+      "tags": [
+        "Humanoid",
+        "Safety",
+        "China"
+      ],
+      "timestamp": "2026-04-26T09:00:00Z"
+    }
+  ]
+}

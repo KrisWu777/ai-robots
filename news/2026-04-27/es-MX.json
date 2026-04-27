@@ -1,0 +1,309 @@
+{
+  "date": "2026-04-27",
+  "featured": {
+    "id": "featured-20260427",
+    "title": "El robot de ping-pong Project Ace de Sony derrota a profesionales: un parteaguas en robótica",
+    "summary": "Sony presentó Project Ace, un robot de tenis de mesa que, según los evaluadores, juega por encima del nivel de la mayoría de los profesionales. Corriendo una política aprendida a 1.000 Hz en un brazo ultrarrápido con pala, el sistema sigue en tiempo real el efecto y la caída de la pelota y lanza tiros con velocidades y ángulos difíciles de devolver incluso para los mejores jugadores. Analistas ven la demostración como un parteaguas para la manipulación guiada por visión a alta velocidad: la misma pila de control en lazo cerrado que robots de consumo e industriales necesitarán para tareas dinámicas y adversarias.",
+    "image": "https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-in-front-of-it.png?width=1200",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com",
+    "tags": [
+      "Sony",
+      "Manipulación",
+      "Visión",
+      "Robótica Deportiva"
+    ],
+    "timestamp": "2026-04-24T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260427-01",
+      "title": "El humanoide Unitree G1 asombra con patinaje, volteretas y giros en una demo alucinante",
+      "summary": "La empresa china Unitree publicó un nuevo video de su humanoide G1 patinando, dando volteretas en el aire y giros con patadas, una secuencia de movimientos dinámicos que hace un año se consideraba imposible para un bípedo comercial. El clip, ampliamente compartido en canales tecnológicos chinos e internacionales, demuestra la rápida maduración de los controladores de aprendizaje por refuerzo de cuerpo entero. Unitree sigue bajando precios frente a los fabricantes occidentales mientras cierra la brecha de agilidad.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Unitree",
+        "Humanoide",
+        "Locomoción",
+        "China"
+      ],
+      "timestamp": "2026-04-24T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-02",
+      "title": "Un humanoide rompe el récord mundial humano en el medio maratón de Pekín",
+      "summary": "Por primera vez un humanoide bípedo completó los 21,1 km del medio maratón de Pekín más rápido que el récord mundial humano vigente, corriendo mayormente de forma autónoma en un circuito cerrado. La Carrera Robótica de Pekín atrajo a más de una docena de participantes chinos y produjo tanto triunfos destacados como varios fallos espectaculares, incluido un humanoide que chocó contra la valla. El evento se ha vuelto una prueba anual de estabilidad de locomoción, densidad energética y manejo térmico.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "SingularityHub",
+      "url": "https://singularityhub.com",
+      "tags": [
+        "Humanoide",
+        "Locomoción",
+        "China",
+        "Resistencia"
+      ],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-03",
+      "title": "Conoce X1: el primer equipo multi-robot de rescate con humanoides y drones a la vez",
+      "summary": "Investigadores presentaron X1, descrito como la primera plataforma operativa de búsqueda y rescate multi-robot que coordina humanoides y drones aéreos simultáneamente. Los drones mapean estructuras colapsadas desde lo alto mientras los bípedos ingresan físicamente entre escombros para colocar sensores y rescatar sobrevivientes. Un modelo del mundo compartido permite que ambas modalidades corrijan mutuamente su percepción en humo y poca luz, condiciones que vencen a sistemas de un solo agente.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Earth.com",
+      "url": "https://www.earth.com",
+      "tags": [
+        "Búsqueda y Rescate",
+        "Multi-Robot",
+        "Drones",
+        "Humanoide"
+      ],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-04",
+      "title": "CEO de XPENG: producción masiva de humanoides para fines de 2026",
+      "summary": "El fundador de XPENG, He Xiaopeng, anunció que la automotriz eléctrica iniciará la producción en masa de su robot humanoide Iron a finales de 2026, con un auto volador de segunda generación también en desarrollo. Enmarcó humanoides, autos voladores y vehículos eléctricos inteligentes como una misma pila tecnológica: sensores, controladores y redes neuronales de extremo a extremo construidas una vez y desplegadas en distintas formas. XPENG se suma a Tesla, BYD y Xiaomi entre las automotrices que sacan la robótica humanoide del laboratorio.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "AASTOCKS",
+      "url": "http://www.aastocks.com",
+      "tags": [
+        "XPENG",
+        "Humanoide",
+        "Manufactura",
+        "China"
+      ],
+      "timestamp": "2026-04-27T04:00:00Z"
+    },
+    {
+      "id": "art-20260427-05",
+      "title": "Nuevo software de control evita que los brazos robóticos se traben en sus articulaciones",
+      "summary": "Un nuevo algoritmo de planificación de movimiento detecta y evita las configuraciones de autocolisión y singularidad que rutinariamente bloquean brazos robóticos de varias articulaciones durante una tarea. Probado en manipuladores estándar de 6 y 7 grados de libertad, el controlador mantiene a los brazos fuera de poses atascadas sin los límites articulares afinados a mano que suelen usarse, reduciendo el tiempo de replanificación y ampliando el espacio de trabajo útil. El trabajo aborda uno de los modos de falla más antiguos en la manipulación industrial.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "Manipulación",
+        "Control",
+        "Investigación"
+      ],
+      "timestamp": "2026-04-26T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-06",
+      "title": "El Pentágono respalda con 24 mdd el impulso de humanoides para la guerra moderna",
+      "summary": "El Departamento de Defensa de EE. UU. comprometió 24 millones de dólares para acelerar el desarrollo de robots humanoides en logística militar, inspección y tareas en bases de operaciones avanzadas. El programa incorpora explícitamente plataformas humanoides comerciales, en vez de diseños militares a la medida, en pilotos de doble uso, citando los rápidos avances de fabricantes comerciales chinos y estadounidenses. Funcionarios dicen que la autonomía y la resistencia de misión siguen siendo los cuellos de botella, no el hardware.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/US_Army_powered_armor.jpg/960px-US_Army_powered_armor.jpg",
+      "source": "WIBC",
+      "url": "https://wibc.com",
+      "tags": [
+        "Defensa",
+        "Humanoide",
+        "Política",
+        "Pentágono"
+      ],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-07",
+      "title": "Melody: humanoide con 39 grados de libertad para una presencia realista",
+      "summary": "Una nueva plataforma humanoide llamada Melody debuta con 39 grados de libertad accionados de forma independiente, incluida articulación fina de cara y manos, orientada a telepresencia y servicio más que a trabajo industrial. Los grados adicionales permiten producir micro-movimientos naturales que reducen el efecto del valle inquietante en interacciones prolongadas. El equipo argumenta que la robótica social ha estado limitada por la expresividad, no por el cómputo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Humanoide",
+        "Robótica Social",
+        "Actuadores"
+      ],
+      "timestamp": "2026-04-24T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-08",
+      "title": "Nueva piel electrónica da sentido del tacto a una mano robótica en prueba pionera",
+      "summary": "Investigadores demostraron una piel electrónica elástica que permite a una mano robótica tipo prótesis distinguir texturas, presión y fuerzas cortantes en tiempo real. En pruebas, la mano identificó objetos nunca vistos solo por señales táctiles, igualando la precisión de sistemas basados en visión. El trabajo cierra una brecha histórica entre destreza robótica y conciencia háptica, requisito para una manipulación doméstica confiable.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jet_gripper_air-flow.jpg/960px-Jet_gripper_air-flow.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Piel Electrónica",
+        "Sensor Táctil",
+        "Destreza",
+        "Investigación"
+      ],
+      "timestamp": "2026-04-24T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-09",
+      "title": "Star Robotics presenta Watchbot 2, robot de seguridad autónomo",
+      "summary": "Star Robotics lanzó Watchbot 2, un robot de patrulla autónomo de nueva generación con mejor navegación y mayor autonomía de inspección. Presentado en un evento en vivo el 16 de abril, la plataforma apunta a seguridad perimetral, vigilancia de almacenes e inspección de infraestructuras, reemplazando redes estáticas de cámaras con detección móvil bajo demanda. La empresa afirma que la IA a bordo ahora clasifica intrusos localmente, reduciendo la dependencia de enlaces en la nube.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/star-robotics-unveils-new-security-robot-with-improved-autonomy-and-navigation/",
+      "tags": [
+        "Robot de Seguridad",
+        "Autonomía",
+        "Vigilancia"
+      ],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-10",
+      "title": "PAL Robotics presentará un nuevo robot de manipulación en ICRA 2026",
+      "summary": "La española PAL Robotics presentará una nueva plataforma de manipulación móvil en IEEE ICRA 2026, junto con demostraciones en vivo de sus líneas TIAGo y Kangaroo. El nuevo sistema apunta a laboratorios que construyen controladores basados en modelos fundacionales, ofreciendo brazos, pinzas y sensores estandarizados para que los equipos se enfoquen en aprender políticas y no en integración de hardware. ICRA 2026 se realizará a mediados de mayo y se espera asistencia récord.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/pal-robotics-to-debut-new-manipulation-robot-at-icra-2026/",
+      "tags": [
+        "PAL Robotics",
+        "ICRA 2026",
+        "Manipulación"
+      ],
+      "timestamp": "2026-04-24T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-11",
+      "title": "Los hermanos de Leaderdrive se vuelven multimillonarios con el boom de articulaciones robóticas",
+      "summary": "Los hermanos chinos detrás de Leaderdrive, fabricante de reductores armónicos de precisión usados en articulaciones de robots, se volvieron multimillonarios a medida que la demanda de humanoides dispara su cartera de pedidos. Los reductores armónicos han sido un cuello de botella en la actuación robótica, dominados históricamente por Harmonic Drive Systems de Japón; el ascenso de Leaderdrive marca un cambio relevante en la cadena de suministro. Los analistas ubican a los humanoides como el mayor nuevo segmento cliente para engranajes de precisión esta década.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": [
+        "Cadena de Suministro",
+        "Humanoide",
+        "China",
+        "Actuadores"
+      ],
+      "timestamp": "2026-04-27T02:00:00Z"
+    },
+    {
+      "id": "art-20260427-12",
+      "title": "Path Robotics lanza sistema móvil de soldadura para automatizar la industria pesada",
+      "summary": "Con sede en Ohio, Path Robotics lanzó un sistema autónomo de soldadura móvil que se acerca a grandes estructuras de acero y deposita cordones de alta calidad sin programación específica por pieza. La plataforma combina escaneo 3D, planificación de trayectoria y seguimiento de costura en tiempo real en un tamaño compacto, desplegable en astilleros y obras. El movimiento apunta a la escasez crítica de soldadores calificados que la industria estadounidense no ha podido resolver.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Ohio Tech News",
+      "url": "https://www.ohiotechnews.com",
+      "tags": [
+        "Soldadura",
+        "Manufactura",
+        "Manipulación Móvil"
+      ],
+      "timestamp": "2026-04-24T15:00:00Z"
+    },
+    {
+      "id": "art-20260427-13",
+      "title": "Shenzhen domina el próspero sector robótico de China, según informe",
+      "summary": "Un análisis del South China Morning Post documenta cómo Shenzhen se ha convertido en el centro indiscutido de la industria robótica china, combinando cadena de suministro densa, capital de riesgo concentrado y la mayor densidad de startups de humanoides y robots industriales del país. La ciudad concentra una cuota desproporcionada del crecimiento récord de producción robótica china este año. Los ejecutivos citan la cercanía a proveedores de baterías, motores y semiconductores como la ventaja más difícil de replicar.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "China",
+        "Cadena de Suministro",
+        "Industria",
+        "Shenzhen"
+      ],
+      "timestamp": "2026-04-26T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-14",
+      "title": "Los humanoides caminan y hablan, pero siguen fallando en lo difícil",
+      "summary": "Una sobria encuesta de la industria sostiene que, pese a los deslumbrantes videos de demo, los humanoides comerciales siguen fallando en las mismas tareas por las que se venden: clasificación confiable de paquetes, pick-and-place no estructurado y horas de operación sin intervención humana. El artículo reúne datos de fallas en pilotos de almacén anónimos donde los humanoides quedan un orden de magnitud por debajo de manipuladores móviles dedicados en rendimiento. La brecha entre el video viral y la economía de producción sigue siendo amplia.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com",
+      "tags": [
+        "Humanoide",
+        "Análisis de Industria",
+        "Almacén"
+      ],
+      "timestamp": "2026-04-25T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-15",
+      "title": "AthenaZero debuta con robot bimanual que hace malabares",
+      "summary": "La startup AthenaZero presentó un manipulador bimanual de alta velocidad capaz de hacer malabares con pelotas de manera continua, un benchmark impresionante para el control coordinado a dos manos. El malabarismo exige sincronización sub-milisegundo entre visión, planificación y comandos motores, y es uno de los problemas de control en tiempo real más exigentes de la robótica. La demo ubica a AthenaZero entre un pequeño grupo de empresas que apuestan por la destreza bimanual como próxima ola industrial.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg",
+      "source": "TechEBlog",
+      "url": "https://www.techeblog.com",
+      "tags": [
+        "Bimanual",
+        "Manipulación",
+        "Startup"
+      ],
+      "timestamp": "2026-04-25T13:00:00Z"
+    },
+    {
+      "id": "art-20260427-16",
+      "title": "10 años de robots con patas: retrospectiva de Ghost Robotics en Robotics Summit",
+      "summary": "En el Robotics Summit 2026, Ghost Robotics marcó una década de desarrollo de cuadrúpedos con una retrospectiva que cubre la evolución de su plataforma Vision 60, desde un proyecto universitario hasta convertirse en proveedor del Departamento de Defensa de EE. UU. La empresa trazó mejoras en autonomía, carga útil y pila de software, y adelantó su próxima generación de plataforma con patas. La sesión se lee en la industria como un indicador de la madurez cuadrúpeda en todos los fabricantes.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Big_dog_military_robots.jpg/960px-Big_dog_military_robots.jpg",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Cuadrúpedo",
+        "Ghost Robotics",
+        "Robots con Patas"
+      ],
+      "timestamp": "2026-04-26T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-17",
+      "title": "Pudu Robotics abre su sede de EE. UU. en Dallas",
+      "summary": "El fabricante chino de robots de servicio Pudu Robotics inauguró su sede estadounidense en Dallas, marcando un fuerte empuje al mercado estadounidense de robots para comedor y hospitalidad. La instalación manejará ventas, soporte y localización para las líneas PuduBot y BellaBot, ya ampliamente desplegadas en cadenas de restaurantes asiáticas. El movimiento ocurre en medio de un intenso escrutinio regulatorio sobre las importaciones de robótica china en EE. UU.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Pudu Robotics",
+        "Robots de Servicio",
+        "Mercado EE. UU."
+      ],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-18",
+      "title": "IEEE Video Friday: ping-pong, anticipo de ICRA y enjambres cuadrúpedos",
+      "summary": "El resumen semanal Video Friday de IEEE Spectrum cubre el robot de ping-pong Project Ace de Sony junto con un anticipo de ICRA 2026, un nuevo paper de enjambres cuadrúpedos del ETH Zurich y lo más destacado de publicaciones recientes de robótica blanda. La columna sigue siendo el pulso semanal más visto de la producción académica e industrial, y esta edición muestra una mezcla inusualmente amplia de demos comerciales y de laboratorio. Los lectores reciben una lista comentada, más que un solo titular.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
+      "tags": [
+        "Sony",
+        "Investigación",
+        "IEEE"
+      ],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-19",
+      "title": "Flex y Teradyne Robotics profundizan su alianza para escalar la automatización inteligente",
+      "summary": "El fabricante por contrato Flex y Teradyne Robotics —propietaria de Universal Robots y MiR— ampliaron su alianza para desplegar brazos colaborativos y robots móviles autónomos en la red global de fábricas de Flex. El acuerdo posiciona a cobots y AMR como la capa de automatización por defecto en manufactura electrónica, reemplazando automatización fija a medida que no puede reconfigurarse entre generaciones de producto. Ambas empresas citan la creciente demanda de manufactura local como motor.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Cobots",
+        "AMR",
+        "Manufactura",
+        "Teradyne"
+      ],
+      "timestamp": "2026-04-25T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-20",
+      "title": "Un humanoide choca contra la valla durante el medio maratón de Pekín",
+      "summary": "No todos los robots llegaron a la meta: un humanoide del medio maratón robótico de Pekín se desvió del trazado y atravesó la valla, atrayendo tanto burlas en redes como nuevas dudas de seguridad por parte de reguladores chinos. El incidente subraya lo frágiles que siguen siendo incluso las plataformas campeonas cuando cambian inesperadamente las condiciones de los sensores o la iluminación. Por separado, una mujer en Macao habría sido hospitalizada tras asustarse con un humanoide en un centro comercial, sumando otro caso a la creciente lista de incidentes robóticos en espacios públicos.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com",
+      "tags": [
+        "Humanoide",
+        "Seguridad",
+        "China"
+      ],
+      "timestamp": "2026-04-26T09:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "date": "2026-04-27",
+  "featured": {
+    "id": "featured-20260427",
+    "title": "Roboti wa Ping-Pong wa Sony Project Ace Wamshinda Wataalamu — Hatua ya Mageuzi katika Roboti",
+    "summary": "Sony imefunua Project Ace, roboti ya tenisi ya meza ambayo, kulingana na wakaguzi, inacheza juu ya kiwango cha wataalamu wengi wa binadamu. Mfumo huendesha sera iliyojifunzwa kwa 1,000 Hz kwenye mkono wenye bats wa kasi sana, unafuatilia mzunguko na eneo la mpira kwa wakati halisi na kupiga mishale kwa kasi na pembe ngumu kurudishwa hata kwa wachezaji wa juu. Wachambuzi wanaona maonyesho haya kuwa hatua ya mageuzi kwa uendeshaji wa kasi kubwa unaoongozwa na maono — safu ile ile ya udhibiti wa mzunguko wa kufungwa ambayo roboti za watumiaji na za viwandani zitaihitaji kwa kazi zenye nguvu na zenye ushindani.",
+    "image": "https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-in-front-of-it.png?width=1200",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com",
+    "tags": [
+      "Sony",
+      "Uendeshaji",
+      "Maono",
+      "Roboti za Michezo"
+    ],
+    "timestamp": "2026-04-24T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260427-01",
+      "title": "Mwanadamu Bandia Unitree G1 Ashangaza Kwa Kuteleza, Kurudi-Anga na Kuzunguka",
+      "summary": "Kampuni ya Kichina Unitree imetoa video mpya ya roboti yake ya Mwanadamu Bandia G1 ikiwa inateleza kwa roli, ikifanya kurudi-anga na mateke ya kuzunguka — mfululizo wa miendo yenye nguvu ambao ulionekana kutowezekana kwa roboti ya miguu miwili ya kibiashara mwaka mmoja uliopita. Klipu imesambazwa sana kwenye vituo vya teknolojia vya Kichina na kimataifa, na inaonyesha ukomavu wa haraka wa vidhibiti vya kujifunza kwa uimarishaji kwa mwili mzima. Unitree inaendelea kuwapiga wazalishaji wa Magharibi kwa bei huku ikifunga pengo la ustadi.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Unitree",
+        "Mwanadamu Bandia",
+        "Kutembea",
+        "China"
+      ],
+      "timestamp": "2026-04-24T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-02",
+      "title": "Roboti ya Mwanadamu Bandia Yavunja Rekodi ya Dunia ya Binadamu Katika Nusu-Marathon ya Beijing",
+      "summary": "Kwa mara ya kwanza, roboti ya mwanadamu bandia yenye miguu miwili imekamilisha kilomita 21.1 za nusu-marathon ya Beijing kwa kasi zaidi ya rekodi ya sasa ya dunia ya binadamu, ikikimbia kwa kiasi kikubwa kwa kujitegemea kwenye kozi iliyofungwa. Mashindano ya Roboti ya Beijing yaliyoambatana yalivutia timu zaidi ya kumi na mbili za Kichina na kuzaa matokeo ya kuvutia pamoja na kushindwa kwa kustaajabisha — pamoja na roboti iliyogonga uzio. Tukio limekuwa jaribio la mwaka la mkazo kwa uthabiti wa kutembea wa muda mrefu, msongamano wa betri na usimamizi wa joto.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "SingularityHub",
+      "url": "https://singularityhub.com",
+      "tags": [
+        "Mwanadamu Bandia",
+        "Kutembea",
+        "China",
+        "Uvumilivu"
+      ],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-03",
+      "title": "Tambulisha X1: Timu ya Kwanza ya Roboti Nyingi ya Uokoaji Inayotumia Roboti za Binadamu na Ndege Zisizo na Rubani Kwa Pamoja",
+      "summary": "Watafiti wameonyesha X1, inayoelezwa kama jukwaa la kwanza la utendaji la utafutaji na uokoaji wa roboti nyingi linalofanya kazi na roboti za binadamu na ndege zisizo na rubani kwa wakati mmoja. Ndege huzinachora majengo yaliyoporomoka kutoka juu wakati roboti za miguu miwili zikiingia kimwili ndani ya vifusi kuweka sensor na kuokoa walionusurika. Mfano wa pamoja wa ulimwengu unaruhusu mifumo hii miwili kurekebisha mitazamo yao katika moshi na mwanga hafifu — hali zinazoshinda mifumo ya ajenti mmoja.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Earth.com",
+      "url": "https://www.earth.com",
+      "tags": [
+        "Utafutaji na Uokoaji",
+        "Roboti Nyingi",
+        "Ndege Zisizo na Rubani",
+        "Mwanadamu Bandia"
+      ],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-04",
+      "title": "Mtendaji Mkuu wa XPENG: Roboti za Mwanadamu Bandia Zitazalishwa Kwa Wingi Mwishoni mwa 2026",
+      "summary": "Mwanzilishi wa XPENG, He Xiaopeng, alitangaza kwamba mtengenezaji huyo wa magari ya umeme ataanza uzalishaji wa wingi wa roboti yake ya mwanadamu bandia Iron mwishoni mwa 2026, huku gari la pili la kizazi cha kuruka pia likiwa katika maendeleo. Alieleza mwanadamu bandia, magari ya kuruka na magari ya umeme ya akili kama safu moja ya teknolojia — sensor, vidhibiti na mitandao ya neva iliyojengwa mara moja na kupelekwa katika miundo tofauti. XPENG imejiunga na Tesla, BYD na Xiaomi miongoni mwa watengenezaji magari wanaotoa roboti za mwanadamu bandia kutoka maabarani.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "AASTOCKS",
+      "url": "http://www.aastocks.com",
+      "tags": [
+        "XPENG",
+        "Mwanadamu Bandia",
+        "Utengenezaji",
+        "China"
+      ],
+      "timestamp": "2026-04-27T04:00:00Z"
+    },
+    {
+      "id": "art-20260427-05",
+      "title": "Programu Mpya ya Udhibiti Inazuia Mikono ya Roboti Isikwame Kwenye Viungo",
+      "summary": "Algorithmu mpya ya kupanga mwendo inagundua na kuepuka miundo ya mgongano wa ndani na umoja ambayo mara kwa mara inafunga mikono ya roboti yenye viungo vingi wakati wa kazi. Kidhibiti kilijaribiwa kwenye viendelezi vya kawaida vya digrii 6 na 7 za uhuru, na kinaweka mikono mbali na mikao iliyokwama bila mipaka ya viungo iliyorekebishwa kwa mkono ambayo wahandisi kawaida hutegemea — kupunguza muda wa kupanga upya na kuongeza nafasi ya kazi inayoweza kutumiwa. Kazi hii inashughulikia mojawapo ya njia za zamani zaidi za kushindwa katika uendeshaji wa viwandani.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "Uendeshaji",
+        "Udhibiti",
+        "Utafiti"
+      ],
+      "timestamp": "2026-04-26T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-06",
+      "title": "Pentagon Yatumia Dola Milioni 24 Kuendeleza Roboti za Mwanadamu Bandia kwa Vita vya Kisasa",
+      "summary": "Idara ya Ulinzi ya Marekani imetenga dola milioni 24 kwa ajili ya kuharakisha maendeleo ya roboti za mwanadamu bandia katika masuala ya kijeshi ya vifaa, ukaguzi na kazi za vituo vya operesheni vya mbele. Mpango unajumuisha waziwazi majukwaa ya mwanadamu bandia ya kibiashara — badala ya miundo maalum ya kijeshi — katika majaribio ya matumizi mawili, ukitaja maendeleo ya kasi ya uwezo kutoka kwa watengenezaji wa kibiashara wa Kichina na Kimarekani. Maafisa wanasema kwamba uhuru na uvumilivu wa misheni ndiyo vikwazo, siyo vifaa.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/US_Army_powered_armor.jpg/960px-US_Army_powered_armor.jpg",
+      "source": "WIBC",
+      "url": "https://wibc.com",
+      "tags": [
+        "Ulinzi",
+        "Mwanadamu Bandia",
+        "Sera",
+        "Pentagon"
+      ],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-07",
+      "title": "Melody: Roboti ya Mwanadamu Bandia Imeimudu Digrii 39 za Uhuru Kwa Kuonekana Halisi",
+      "summary": "Jukwaa jipya la mwanadamu bandia linaloitwa Melody linafanya uzinduzi na digrii 39 za uhuru zinazoendeshwa kwa kujitegemea — ikiwa ni pamoja na mienendo ya uso na mikono — lililokusudiwa kwa uwepo wa mbali na majukumu ya huduma badala ya kazi za viwandani. Digrii za ziada zinairuhusu Melody kuzalisha mienendo midogo ya asili inayopunguza athari ya bonde geni katika mawasiliano marefu ya kibinadamu. Timu inabishana kwamba roboti za kijamii zimezuiwa na uwezo wa kujieleza, siyo hesabu.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Mwanadamu Bandia",
+        "Roboti za Kijamii",
+        "Viungishi"
+      ],
+      "timestamp": "2026-04-24T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-08",
+      "title": "Ngozi Mpya ya Kielektroniki Inaipa Mkono wa Roboti Hisia ya Kugusa Katika Jaribio la Mafanikio",
+      "summary": "Watafiti wameonyesha ngozi ya kielektroniki inayoweza kunyooshwa inayoruhusu mkono wa roboti wa aina ya bandia kutofautisha mazingira, shinikizo na nguvu za kukata kwa wakati halisi. Katika vigezo vya kipimo, mkono ulitambua vitu ambavyo haukuwahi kuviona kwa kutegemea dalili za kugusa pekee, ukifanana na usahihi wa mifumo ya kutumia maono. Kazi hii inaziba pengo la muda mrefu kati ya ustadi wa roboti na ufahamu wa haptiki — sharti la uendeshaji wa kuaminika wa nyumbani.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jet_gripper_air-flow.jpg/960px-Jet_gripper_air-flow.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Ngozi ya Kielektroniki",
+        "Hisia za Kugusa",
+        "Ustadi",
+        "Utafiti"
+      ],
+      "timestamp": "2026-04-24T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-09",
+      "title": "Star Robotics Yazindua Watchbot 2, Roboti ya Ulinzi Isiyojitegemea",
+      "summary": "Star Robotics imezindua Watchbot 2, roboti ya kizazi kipya ya doria inayojitegemea yenye mfumo bora wa uongozaji na uwezo wa ukaguzi wa muda mrefu. Ilizinduliwa katika tukio la matangazo ya moja kwa moja mnamo tarehe 16 Aprili, jukwaa limewekwa kwa ulinzi wa mzunguko, ufuatiliaji wa maghala na ukaguzi wa miundombinu, ikibadilisha mitandao ya kamera zilizo tulivu na hisia za kusonga kwa mahitaji. Kampuni inasema akili bandia iliyowekwa sasa inashughulikia uainishaji wa watuhumiwa kwa ndani, kupunguza utegemezi wa viungo vya wingu.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/star-robotics-unveils-new-security-robot-with-improved-autonomy-and-navigation/",
+      "tags": [
+        "Roboti ya Ulinzi",
+        "Uhuru",
+        "Ufuatiliaji"
+      ],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-10",
+      "title": "PAL Robotics Itaonyesha Roboti Mpya ya Uendeshaji Katika ICRA 2026",
+      "summary": "Kampuni ya Kihispania PAL Robotics itaonyesha jukwaa jipya la uendeshaji wa kusonga katika IEEE ICRA 2026, pamoja na maonyesho ya moja kwa moja ya safu zake za sasa za TIAGo na Kangaroo. Mfumo mpya umekusudiwa kwa maabara za utafiti zinazojenga vidhibiti vya mfano wa msingi — ukitoa mikono ya kawaida, viungishi na paketi za sensor ili timu ziweze kuzingatia kujifunza sera badala ya ujumuishaji wa vifaa. ICRA 2026 itafanyika katikati ya Mei na inatarajia mahudhurio ya rekodi.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/pal-robotics-to-debut-new-manipulation-robot-at-icra-2026/",
+      "tags": [
+        "PAL Robotics",
+        "ICRA 2026",
+        "Uendeshaji"
+      ],
+      "timestamp": "2026-04-24T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-11",
+      "title": "Ndugu wa Leaderdrive Wawa Mabilionea Kutokana na Kuongezeka kwa Mahitaji ya Viungo vya Roboti",
+      "summary": "Ndugu wa Kichina wanaoendesha Leaderdrive, mtengenezaji wa vipunguzaji vya harmonia vinavyotumika katika viungo vya roboti, wamekuwa mabilionea wakati mahitaji ya roboti za mwanadamu bandia yanaendesha daftari lao la oda kwa juu. Vipunguzaji vya harmonia vimekuwa kikwazo cha muda mrefu katika uendeshaji wa roboti, kihistoria vimeshikiwa na Harmonic Drive Systems ya Japani; kuinuka kwa Leaderdrive kunaashiria mabadiliko makubwa katika mnyororo wa usambazaji wa juu. Wachambuzi wanaiona mwanadamu bandia kama sekta kubwa mpya ya wateja kwa viendeshi vya usahihi katika muongo huu.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": [
+        "Mnyororo wa Usambazaji",
+        "Mwanadamu Bandia",
+        "China",
+        "Viungishi"
+      ],
+      "timestamp": "2026-04-27T02:00:00Z"
+    },
+    {
+      "id": "art-20260427-12",
+      "title": "Path Robotics Yazindua Mfumo wa Kulehemu wa Kusonga kwa Kujiongoza Kiotomati kwa Viwanda Vizito",
+      "summary": "Kampuni ya Path Robotics iliyoko Ohio imezindua mfumo wa kulehemu unaojitegemea wa kusonga unaojongea hadi kwenye miundombinu mikubwa ya chuma na kuweka mishono ya hali ya juu bila programu maalum ya sehemu. Jukwaa linaunganisha uchunguzi wa 3D, upangaji wa njia ya kulehemu na ufuatiliaji wa mshono kwa wakati halisi katika sehemu ndogo ya kutosha kuwekwa kwenye bustani za meli na maeneo ya ujenzi. Hatua hiyo inalenga upungufu mkubwa wa wachomeleaji wenye ujuzi ambao viwanda vya Marekani havijaweza kuujaza.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Ohio Tech News",
+      "url": "https://www.ohiotechnews.com",
+      "tags": [
+        "Kulehemu",
+        "Utengenezaji",
+        "Uendeshaji wa Kusonga"
+      ],
+      "timestamp": "2026-04-24T15:00:00Z"
+    },
+    {
+      "id": "art-20260427-13",
+      "title": "Ripoti: Shenzhen Yatawala Sekta ya Roboti ya China Inayokua Kwa Kasi",
+      "summary": "Uchambuzi wa South China Morning Post unathibitisha jinsi Shenzhen ilivyokuwa kituo kisichopingika cha sekta ya roboti ya China — ikichanganya mnyororo mzito wa usambazaji, ufadhili wa venture uliokolea na msongamano mkubwa zaidi wa wauzaji wa mwanadamu bandia na wa viwandani nchini. Mji huo unachukua sehemu isiyo ya usawa ya ukuaji wa rekodi wa uzalishaji wa roboti wa Kichina mwaka huu. Wakurugenzi wanataja ukaribu wa wauzaji wa betri, motor na semikonduktori kama faida ngumu zaidi kuiga.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "China",
+        "Mnyororo wa Usambazaji",
+        "Viwanda",
+        "Shenzhen"
+      ],
+      "timestamp": "2026-04-26T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-14",
+      "title": "Roboti za Mwanadamu Bandia Zinaweza Kutembea na Kuzungumza — Lakini Bado Zinashindwa Kwenye Ngumu",
+      "summary": "Utafiti wa kiasi wa kisekta unasema kuwa licha ya video za maonyesho zinazopendeza, roboti za mwanadamu bandia za kibiashara bado zinashindwa katika kazi zile zile zinazouziwa: upangaji wa kuaminika wa vifurushi, kuchukua na kuweka bila muundo, masaa mengi ya kazi bila kuingilia kati kwa mwanadamu. Kipande kinakusanya data ya kushindwa kutoka kwa majaribio ya maghala yasiyotajwa ambapo roboti za mwanadamu bandia zinazidiwa na uendeshaji wa kusonga maalumu kwa mpangilio wa ukubwa. Pengo kati ya maonyesho ya virusi na uchumi wa uzalishaji bado ni kubwa.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com",
+      "tags": [
+        "Mwanadamu Bandia",
+        "Uchambuzi wa Viwanda",
+        "Ghala"
+      ],
+      "timestamp": "2026-04-25T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-15",
+      "title": "AthenaZero Yaanza na Roboti ya Mikono Miwili Inayoweza Kutupa Mipira Kiustadi",
+      "summary": "Kampuni changa AthenaZero imefunua mkono wa kuendesha wa mikono miwili wa kasi kubwa unaoweza kutupa mipira mfululizo — kigezo cha kuvutia cha udhibiti wa kasi na wa mikono miwili ulioratibiwa. Kutupa mipira kunahitaji usawazishaji chini ya milisekunde kati ya maono, upangaji na amri za motor, na ni mojawapo ya matatizo magumu zaidi ya udhibiti wa wakati halisi katika roboti. Maonyesho yanaweka AthenaZero ndani ya kundi dogo la kampuni zinazoweka dau kwenye ustadi wa mikono miwili kama wimbi la viwanda linalofuata.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg",
+      "source": "TechEBlog",
+      "url": "https://www.techeblog.com",
+      "tags": [
+        "Mikono Miwili",
+        "Uendeshaji",
+        "Kampuni Changa"
+      ],
+      "timestamp": "2026-04-25T13:00:00Z"
+    },
+    {
+      "id": "art-20260427-16",
+      "title": "Miaka 10 ya Roboti za Miguu: Kumbukumbu ya Ghost Robotics Katika Mkutano wa Roboti",
+      "summary": "Katika Mkutano wa Roboti wa 2026, Ghost Robotics iliadhimisha muongo mmoja wa maendeleo ya robot wa miguu minne kwa kumbukumbu iliyofunika mabadiliko ya jukwaa lake la Vision 60 kutoka mradi wa utafiti wa chuo kikuu hadi mtoa huduma kwa Idara ya Ulinzi ya Marekani. Kampuni ilifuatilia uboreshaji wa uvumilivu, uwezo wa kubeba na safu ya uhuru, na ilitangulia jukwaa lake la kizazi kijacho la miguu. Sekta inasoma kikao kama kipimo cha ukomavu wa miguu minne katika wauzaji wote.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Big_dog_military_robots.jpg/960px-Big_dog_military_robots.jpg",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "Miguu Minne",
+        "Ghost Robotics",
+        "Roboti za Miguu"
+      ],
+      "timestamp": "2026-04-26T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-17",
+      "title": "Pudu Robotics Yafungua Makao Makuu ya Marekani Huko Dallas",
+      "summary": "Kampuni ya Kichina ya roboti za huduma Pudu Robotics imezindua makao yake makuu ya Marekani mjini Dallas, ikiashiria msukumo mkubwa katika soko la Marekani la roboti za huduma ya chakula na ukarimu. Kituo hicho kitashughulikia mauzo, msaada na uwekaji wa ndani kwa safu za Pudu za PuduBot na BellaBot, ambazo tayari zinatumika kwa wingi katika minyororo ya migahawa ya Asia. Hatua hiyo inakuja wakati wa uchunguzi mkali wa wakaguzi wa Marekani juu ya uagizaji wa roboti za Kichina.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Pudu Robotics",
+        "Roboti za Huduma",
+        "Soko la Marekani"
+      ],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-18",
+      "title": "IEEE Video Friday: Ping-Pong, Mtazamo wa ICRA na Makundi ya Miguu Minne",
+      "summary": "Muhtasari wa kila wiki wa Video Friday wa IEEE Spectrum unahusu roboti ya ping-pong ya Sony Project Ace pamoja na mtazamo wa awali wa ICRA 2026, karatasi mpya ya utafiti ya kundi la roboti wa miguu minne kutoka ETH Zurich na vipengele muhimu kutoka machapisho ya hivi karibuni ya roboti laini. Safu inabaki kama nabidhi ya kila wiki inayotazamwa zaidi ya matokeo ya kitaaluma na viwanda, na toleo hili lina mchanganyiko wa kipekee wa maonyesho ya kibiashara na ya maabara. Wasomaji wanapata orodha ya kucheza iliyoandikwa maelezo badala ya kichwa kimoja.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
+      "tags": [
+        "Sony",
+        "Utafiti",
+        "IEEE"
+      ],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-19",
+      "title": "Flex na Teradyne Robotics Wazidisha Ushirikiano Wao Kupanua Otomatiki ya Akili",
+      "summary": "Mtengenezaji wa kandarasi Flex na Teradyne Robotics — mmiliki wa Universal Robots na MiR — wameongeza ushirikiano wao kupeleka mikono ya ushirikiano na roboti za kusonga zinazojitegemea kwenye mtandao wa kiwanda wa dunia wa Flex. Mpango unaweka cobots na AMR kama safu chaguo-msingi ya uotomatiki wa laini kwa utengenezaji wa elektroniki, ukibadilisha otomatiki ya kudumu iliyotengenezwa maalum ambayo haiwezi kupangwa upya kati ya vizazi vya bidhaa. Kampuni zote mbili zinataja kuongezeka kwa mahitaji ya utengenezaji wa ndani kama kichocheo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Cobots",
+        "AMR",
+        "Utengenezaji",
+        "Teradyne"
+      ],
+      "timestamp": "2026-04-25T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-20",
+      "title": "Roboti ya Mwanadamu Bandia Yagonga Uzio Wakati wa Nusu-Marathon ya Beijing",
+      "summary": "Si kila roboti mshindani ilifika mstari wa mwisho: roboti moja ya mwanadamu bandia katika nusu-marathon ya roboti ya Beijing ilitoka kwenye njia na kuvunja uzio wa kozi, ikichochea kejeli kwenye mitandao ya kijamii na maswali mapya ya usalama kutoka kwa wakaguzi wa Kichina. Tukio linaonyesha jinsi hata majukwaa mabingwa yanavyobaki dhaifu wakati hali za sensor au mwanga zinapobadilika ghafla. Kwa pande nyingine, mwanamke mmoja huko Macau inaripotiwa amelazwa hospitalini baada ya kushtushwa na roboti ya mwanadamu bandia katika maonyesho ya duka la maduka, akiongezewa kwenye orodha inayokua ya matukio ya roboti katika maeneo ya umma.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com",
+      "tags": [
+        "Mwanadamu Bandia",
+        "Usalama",
+        "China"
+      ],
+      "timestamp": "2026-04-26T09:00:00Z"
+    }
+  ]
+}

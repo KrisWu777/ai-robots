@@ -1,0 +1,309 @@
+{
+  "date": "2026-04-27",
+  "featured": {
+    "id": "featured-20260427",
+    "title": "روبوت تنس الطاولة Project Ace من سوني يهزم المحترفين — نقطة تحول في الروبوتات",
+    "summary": "كشفت سوني عن Project Ace، روبوت تنس طاولة يقول المُجربون إنه يلعب بمستوى يفوق معظم المحترفين من البشر. يشغّل النظام سياسة تعلّم بمعدل 1000 هرتز على ذراع فائقة السرعة تحمل مضرباً، ويتتبع دوران الكرة وموضعها في الزمن الحقيقي وينفّذ ضربات بسرعات وزوايا يصعب على النخبة إعادتها. يرى المحللون أن العرض يشكّل نقطة تحول للتلاعب الموجّه بالرؤية عالي السرعة — وهي نفس حزمة التحكم في الحلقة المغلقة التي ستحتاجها الروبوتات الاستهلاكية والصناعية للمهام الديناميكية والتنافسية.",
+    "image": "https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-in-front-of-it.png?width=1200",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com",
+    "tags": [
+      "سوني",
+      "التلاعب",
+      "الرؤية",
+      "الروبوتات الرياضية"
+    ],
+    "timestamp": "2026-04-24T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260427-01",
+      "title": "الروبوت الإنساني Unitree G1 يبهر بالتزلج والشقلبات والدورانات في عرض مذهل",
+      "summary": "نشرت شركة Unitree الصينية فيديو جديداً لروبوتها الإنساني G1 وهو يتزلج ويؤدي شقلبات هوائية وركلات دائرية — تسلسل من الحركات الديناميكية كان يُعدّ مستحيلاً على ثنائي الأرجل التجاري قبل عام. انتشر المقطع على نطاق واسع في القنوات التقنية الصينية والدولية، ويُظهر النضج السريع لوحدات تحكم التعلم المعزز للجسم الكامل. تواصل Unitree تقديم أسعار أقل من المنافسين الغربيين مع تقليص فارق الرشاقة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "Unitree",
+        "روبوت إنساني",
+        "الحركة",
+        "الصين"
+      ],
+      "timestamp": "2026-04-24T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-02",
+      "title": "روبوت إنساني يكسر الرقم العالمي البشري في نصف ماراثون بكين",
+      "summary": "للمرة الأولى، أنهى روبوت إنساني ثنائي الأرجل 21.1 كم من نصف ماراثون بكين بزمن أسرع من الرقم العالمي البشري الحالي، مع ركض شبه مستقل على مسار مغلق. جذب سباق بكين الروبوتي أكثر من عشرة فرق صينية، وأنتج انتصارات لافتة وعدة إخفاقات مدوية — من بينها روبوت إنساني اصطدم بسياج المسار. أصبح الحدث اختباراً سنوياً لاستقرار الحركة وكثافة البطارية وإدارة الحرارة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "SingularityHub",
+      "url": "https://singularityhub.com",
+      "tags": [
+        "روبوت إنساني",
+        "الحركة",
+        "الصين",
+        "التحمل"
+      ],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-03",
+      "title": "تعرّف على X1: أول فريق إنقاذ متعدد الروبوتات يستخدم البشريين والطائرات المسيرة معاً",
+      "summary": "كشف باحثون عن X1، الذي يُوصف بأنه أول منصة بحث وإنقاذ متعددة الروبوتات تعمل بها الروبوتات الإنسانية والطائرات المسيرة في آنٍ واحد. تَمسح الطائرات المسيرة المباني المنهارة من الأعلى بينما يدخل ثنائيو الأرجل فعلياً إلى الأنقاض لوضع مستشعرات وإنقاذ الناجين. يتيح نموذج عالمي مشترك للنمطين تصحيح إدراك كلٍّ منهما للآخر في ظروف الدخان وضعف الإضاءة التي تُعطّل الأنظمة أحادية العامل.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Earth.com",
+      "url": "https://www.earth.com",
+      "tags": [
+        "البحث والإنقاذ",
+        "تعدد الروبوتات",
+        "الطائرات المسيرة",
+        "روبوت إنساني"
+      ],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-04",
+      "title": "الرئيس التنفيذي لـ XPENG: إنتاج جماعي للروبوتات الإنسانية بنهاية 2026",
+      "summary": "أعلن مؤسس XPENG، He Xiaopeng، أن شركة السيارات الكهربائية ستبدأ الإنتاج الجماعي لروبوتها الإنساني Iron بنهاية 2026، مع تطوير سيارة طائرة من الجيل الثاني. صاغ الروبوتات الإنسانية والسيارات الطائرة والسيارات الكهربائية الذكية كحزمة تقنية مشتركة — مستشعرات ومتحكمات وشبكات عصبية طرفية تُبنى مرة واحدة وتُنشر عبر أشكال متعددة. تنضم XPENG إلى Tesla وBYD وXiaomi بين صانعي السيارات الذين يخرجون روبوتات الشكل البشري من المختبر.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "AASTOCKS",
+      "url": "http://www.aastocks.com",
+      "tags": [
+        "XPENG",
+        "روبوت إنساني",
+        "التصنيع",
+        "الصين"
+      ],
+      "timestamp": "2026-04-27T04:00:00Z"
+    },
+    {
+      "id": "art-20260427-05",
+      "title": "برنامج تحكم جديد يمنع الأذرع الروبوتية من احتباس مفاصلها",
+      "summary": "يكتشف خوارزم تخطيط حركة جديد ويتجنّب تكوينات التصادم الذاتي وحالات التفرد التي تتسبب عادةً في تعطّل الأذرع الروبوتية متعددة المفاصل أثناء المهمة. اختُبر المتحكم على مناولات قياسية بـ6 و7 درجات حرية، ويُبقي الأذرع بعيدة عن الوضعيات المحتبسة دون الحدود المفصلية المضبوطة يدوياً التي يعتمدها المهندسون عادة — ما يقلّل وقت إعادة التخطيط ويوسّع حيز العمل المستفاد. يعالج البحث أحد أقدم أنماط الفشل في التلاعب الصناعي.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": [
+        "التلاعب",
+        "التحكم",
+        "البحث"
+      ],
+      "timestamp": "2026-04-26T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-06",
+      "title": "البنتاغون يدعم الروبوتات الإنسانية للحروب الحديثة بـ24 مليون دولار",
+      "summary": "خصّصت وزارة الدفاع الأميركية 24 مليون دولار لتسريع تطوير الروبوتات الإنسانية في اللوجستيات العسكرية والتفتيش ومهام القواعد المتقدمة. يدمج البرنامج صراحةً منصات إنسانية تجارية — بدلاً من تصاميم عسكرية خاصة — ضمن تجارب مزدوجة الاستخدام، مستشهداً بالقفزات السريعة في القدرات لدى صُنّاع الروبوتات التجارية الصينيين والأميركيين. يقول المسؤولون إن الاختناق في الاستقلالية واستدامة المهمة، وليس في العتاد.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/US_Army_powered_armor.jpg/960px-US_Army_powered_armor.jpg",
+      "source": "WIBC",
+      "url": "https://wibc.com",
+      "tags": [
+        "الدفاع",
+        "روبوت إنساني",
+        "السياسة",
+        "البنتاغون"
+      ],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-07",
+      "title": "Melody: روبوت إنساني يتقن 39 درجة حرية لحضور يشبه الإنسان",
+      "summary": "تدخل منصة إنسانية جديدة باسم Melody مرحلة الظهور الأول مع 39 درجة حرية مُحركة باستقلال — بما فيها مفصلة دقيقة للوجه واليدين — موجّهة إلى الحضور عن بُعد والخدمة لا للعمل الصناعي. تسمح الدرجات الإضافية لـMelody بإنتاج حركات دقيقة طبيعية تقلل أثر الوادي الغريب في التفاعلات المطولة. يرى الفريق أن الروبوتات الاجتماعية محدودة بالتعبيرية، لا بالحوسبة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "روبوت إنساني",
+        "الروبوتات الاجتماعية",
+        "المحركات"
+      ],
+      "timestamp": "2026-04-24T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-08",
+      "title": "جلد إلكتروني جديد يمنح اليد الروبوتية حاسة اللمس في اختبار رائد",
+      "summary": "أثبت باحثون جدوى جلد إلكتروني قابل للتمدد يتيح ليد روبوتية شبيهة بالأطراف الصناعية التمييز بين الملمس والضغط وقوى القصّ في الزمن الحقيقي. وفي الاختبارات، تعرّفت اليد على أشياء لم ترها من قبل اعتماداً على الإشارات اللمسية فقط، وبدقة تعادل الأنظمة المعتمدة على الرؤية. يسدّ العمل فجوة طويلة الأمد بين البراعة الروبوتية والإدراك اللمسي — شرط مسبق للتلاعب المنزلي الموثوق.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jet_gripper_air-flow.jpg/960px-Jet_gripper_air-flow.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": [
+        "جلد إلكتروني",
+        "الاستشعار اللمسي",
+        "البراعة",
+        "البحث"
+      ],
+      "timestamp": "2026-04-24T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-09",
+      "title": "Star Robotics تكشف Watchbot 2، روبوت الأمن المستقل",
+      "summary": "أطلقت Star Robotics الجيل الجديد من روبوت الدوريات المستقل Watchbot 2 بقدرات ملاحة محسّنة وتفتيش أطول. قُدّمت المنصة خلال حدث مباشر في 16 أبريل، وتستهدف الأمن المحيطي ومراقبة المستودعات وتفتيش البنية التحتية، مستبدلةً شبكات الكاميرات الثابتة باستشعار متحرك حسب الطلب. تقول الشركة إن الذكاء الاصطناعي المحمول يقوم الآن بتصنيف المتسللين محلياً، ما يقلل الاعتماد على روابط السحابة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/star-robotics-unveils-new-security-robot-with-improved-autonomy-and-navigation/",
+      "tags": [
+        "روبوت الأمن",
+        "الاستقلالية",
+        "المراقبة"
+      ],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-10",
+      "title": "PAL Robotics تكشف روبوت تلاعب جديد في ICRA 2026",
+      "summary": "ستكشف PAL Robotics الإسبانية عن منصة تلاعب متحركة جديدة في IEEE ICRA 2026، إلى جانب عروض حية لخطَّي TIAGo وKangaroo الحاليَّين. يستهدف النظام الجديد مختبرات البحث التي تبني متحكمات مبنية على نماذج أساسية — عبر توفير أذرع وقابضات وحزم مستشعرات موحّدة حتى تركّز الفرق على تعلّم السياسات بدل تكامل العتاد. يُعقد ICRA 2026 في منتصف مايو، ويُتوقع حضور قياسي.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/pal-robotics-to-debut-new-manipulation-robot-at-icra-2026/",
+      "tags": [
+        "PAL Robotics",
+        "ICRA 2026",
+        "التلاعب"
+      ],
+      "timestamp": "2026-04-24T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-11",
+      "title": "شقيقا Leaderdrive يصبحان من المليارديرات مع ازدهار مفاصل الروبوتات",
+      "summary": "أصبح الشقيقان الصينيان المالكان لـLeaderdrive، مصنّعة مخفّضات التناغم الدقيقة المستخدمة في مفاصل الروبوتات، من المليارديرات مع ارتفاع الطلب على الروبوتات الإنسانية. شكّلت مخفّضات التناغم طويلاً عنق زجاجة في التشغيل الروبوتي وتاريخياً سيطرت عليها Harmonic Drive Systems اليابانية؛ ويمثل صعود Leaderdrive تحولاً مهمّاً في سلسلة التوريد. يرى المحللون أن الروبوتات الإنسانية هي أكبر شريحة عملاء جديدة لتروس الدقة خلال هذا العقد.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": [
+        "سلسلة التوريد",
+        "روبوت إنساني",
+        "الصين",
+        "المحركات"
+      ],
+      "timestamp": "2026-04-27T02:00:00Z"
+    },
+    {
+      "id": "art-20260427-12",
+      "title": "Path Robotics تكشف نظام لحام متحرك لأتمتة الصناعات الثقيلة",
+      "summary": "أطلقت Path Robotics ومقرها أوهايو نظام لحام مستقل متحرك يقترب من الهياكل الفولاذية الكبيرة ويضع لحامات عالية الجودة دون برمجة خاصة بكل قطعة. تدمج المنصة المسح ثلاثي الأبعاد وتخطيط مسار اللحام وتتبّع الخط في الزمن الحقيقي في حجم صغير يكفي للانتشار في أحواض السفن ومواقع البناء. تستهدف الخطوة نقصاً حاداً في عمالة اللحام الماهرة عجزت الصناعة الأميركية عن سدّه.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Ohio Tech News",
+      "url": "https://www.ohiotechnews.com",
+      "tags": [
+        "اللحام",
+        "التصنيع",
+        "التلاعب المتنقل"
+      ],
+      "timestamp": "2026-04-24T15:00:00Z"
+    },
+    {
+      "id": "art-20260427-13",
+      "title": "تقرير: شنتشن تهيمن على قطاع الروبوتات الصيني المزدهر",
+      "summary": "يوثّق تحليل في South China Morning Post كيف أصبحت شنتشن المركز الذي لا يُنازع لصناعة الروبوتات الصينية — بجمعها سلسلة توريد كثيفة ورأس مال مخاطر مركّز وأكبر كثافة من شركات الروبوتات الإنسانية والصناعية الناشئة في البلاد. تستأثر المدينة بحصة غير متناسبة من النمو القياسي لإنتاج الروبوتات الصيني هذا العام. يشير المسؤولون إلى أن القرب من مورّدي البطاريات والمحركات وأشباه الموصلات هو الميزة الأصعب في التقليد.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": [
+        "الصين",
+        "سلسلة التوريد",
+        "الصناعة",
+        "شنتشن"
+      ],
+      "timestamp": "2026-04-26T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-14",
+      "title": "الروبوتات الإنسانية تمشي وتتكلم — لكنها تخفق في الأصعب",
+      "summary": "يقول مسح صناعي موضوعي إنه على الرغم من فيديوهات العرض المذهلة، لا تزال الروبوتات الإنسانية التجارية تفشل في المهام نفسها التي تُباع من أجلها: الفرز الموثوق للطرود والالتقاط والوضع في بيئات غير منظمة وتشغيل ساعات طويلة دون تدخل بشري. يُجمّع المقال بيانات إخفاق من تجارب مستودعات دون تسميتها، حيث تتأخر الروبوتات الإنسانية بمرتبة كاملة عن المناولات المتحركة المخصصة في الإنتاجية. لا تزال الفجوة بين الفيديو المنتشر واقتصاديات الإنتاج واسعة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com",
+      "tags": [
+        "روبوت إنساني",
+        "تحليل الصناعة",
+        "المستودع"
+      ],
+      "timestamp": "2026-04-25T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-15",
+      "title": "AthenaZero تُطلق روبوتاً ثنائي الأيدي يُجيد الشعوذة بالكرات",
+      "summary": "كشفت الشركة الناشئة AthenaZero عن مناوِل ثنائي الأيدي عالي السرعة قادر على الشعوذة المستمرة بالكرات — معيار مبهر للتحكم المنسّق بكلتا اليدين. تتطلب الشعوذة تزامناً بأقل من ميلي ثانية بين الرؤية والتخطيط وأوامر المحركات، وهي من أصعب مشاكل التحكم في الزمن الحقيقي في الروبوتات. يضع العرض AthenaZero ضمن مجموعة صغيرة من الشركات المراهنة على البراعة الثنائية كموجة صناعية قادمة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg",
+      "source": "TechEBlog",
+      "url": "https://www.techeblog.com",
+      "tags": [
+        "ثنائي الأيدي",
+        "التلاعب",
+        "شركة ناشئة"
+      ],
+      "timestamp": "2026-04-25T13:00:00Z"
+    },
+    {
+      "id": "art-20260427-16",
+      "title": "10 سنوات من الروبوتات ذات الأرجل: استعادة Ghost Robotics في قمة الروبوتات",
+      "summary": "في قمة Robotics Summit 2026، احتفلت Ghost Robotics بعقد من تطوير الروبوتات الرباعية باستعراض لمسيرة منصة Vision 60 من مشروع جامعي إلى مورّد لوزارة الدفاع الأميركية. رصدت الشركة تحسينات في التحمّل والحمولة وحزمة الاستقلالية، ولمّحت إلى منصتها القادمة ذات الأرجل. تقرأ الصناعة الجلسة باعتبارها مؤشراً على نضج الرباعيات عبر المورّدين.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Big_dog_military_robots.jpg/960px-Big_dog_military_robots.jpg",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": [
+        "رباعي الأرجل",
+        "Ghost Robotics",
+        "الروبوتات ذات الأرجل"
+      ],
+      "timestamp": "2026-04-26T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-17",
+      "title": "Pudu Robotics تفتتح مقرها الأميركي في دالاس",
+      "summary": "افتتحت شركة Pudu Robotics الصينية لروبوتات الخدمة مقرها الأميركي في دالاس، في مؤشر على دفعة كبيرة نحو السوق الأميركية لروبوتات المطاعم والضيافة. ستتولى المنشأة المبيعات والدعم والتوطين لخطَّي PuduBot وBellaBot، المنتشرَين على نطاق واسع في سلاسل المطاعم الآسيوية. تأتي الخطوة وسط تدقيق حاد من الجهات التنظيمية الأميركية على واردات الروبوتات الصينية.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "Pudu Robotics",
+        "روبوتات الخدمة",
+        "السوق الأميركية"
+      ],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-18",
+      "title": "IEEE Video Friday: تنس الطاولة ومعاينة ICRA وأسراب رباعية الأرجل",
+      "summary": "تغطي القائمة الأسبوعية Video Friday من IEEE Spectrum روبوت تنس الطاولة Project Ace من سوني، ومعاينة ICRA 2026، وورقة بحثية جديدة عن أسراب روبوتية رباعية من ETH Zurich، وأبرز ما صدر مؤخراً في الروبوتات اللينة. تبقى الزاوية النبض الأسبوعي الأكثر متابعة للإنتاج الأكاديمي والصناعي، وتقدّم هذه النسخة مزيجاً واسعاً بشكل غير معتاد من العروض التجارية والمختبرية. يحصل القراء على قائمة تشغيل معلَّقة لا على عنوان واحد.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
+      "tags": [
+        "سوني",
+        "البحث",
+        "IEEE"
+      ],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-19",
+      "title": "Flex وTeradyne Robotics توسّعان الشراكة لتوسيع الأتمتة الذكية",
+      "summary": "وسّعت شركة التصنيع بالتعاقد Flex وشركة Teradyne Robotics — المالكة لـUniversal Robots وMiR — شراكتهما لنشر أذرع تعاونية وروبوتات متحركة مستقلة عبر شبكة مصانع Flex العالمية. تضع الصفقة الـ«كوبوت» والـ AMR طبقة الأتمتة الافتراضية لتصنيع الإلكترونيات، بديلاً عن الأتمتة الثابتة المخصَّصة التي يصعب إعادة تكوينها بين أجيال المنتجات. تستند الشركتان إلى تصاعد الطلب على التصنيع المحلي محرّكاً للصفقة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": [
+        "الكوبوت",
+        "AMR",
+        "التصنيع",
+        "Teradyne"
+      ],
+      "timestamp": "2026-04-25T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-20",
+      "title": "روبوت إنساني يصطدم بالسياج خلال نصف ماراثون بكين",
+      "summary": "لم يصل كل روبوت إلى خط النهاية: انحرف روبوت إنساني في نصف ماراثون بكين الروبوتي عن المسار واخترق سياج الحواجز، فأثار السخرية على وسائل التواصل وأعاد طرح أسئلة السلامة من الجهات التنظيمية الصينية. يُبرز الحادث هشاشة حتى المنصات البطلة حين تتغير ظروف المستشعرات أو الإضاءة بشكل مفاجئ. وفي خبر منفصل، أُفيد بإدخال امرأة في ماكاو إلى المستشفى بعد ذعرها من روبوت إنساني في عرض داخل مركز تجاري، ما يضيف حادثاً جديداً إلى قائمة متنامية من حوادث الروبوتات في الأماكن العامة.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com",
+      "tags": [
+        "روبوت إنساني",
+        "السلامة",
+        "الصين"
+      ],
+      "timestamp": "2026-04-26T09:00:00Z"
+    }
+  ]
+}

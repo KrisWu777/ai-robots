@@ -1,0 +1,215 @@
+{
+  "date": "2026-04-27",
+  "featured": {
+    "id": "featured-20260427",
+    "title": "Sony's Project Ace Ping-Pong Robot Beats the Pros — A Robotics Turning Point",
+    "summary": "Sony has unveiled Project Ace, a table-tennis robot that reviewers say plays at a level above most professional humans. Running a learned policy at 1,000 Hz on an ultra-fast paddle-wielding arm, the system tracks the ball's spin and placement in real time and delivers shots with speeds and angles top players struggle to return. Analysts see the demo as a turning point for high-speed, vision-guided manipulation — the same closed-loop control stack that consumer and industrial robots will need to handle dynamic, adversarial tasks.",
+    "image": "https://spectrum.ieee.org/media-library/robotic-arm-with-paddle-and-an-orange-ping-pong-ball-hovering-in-front-of-it.png?width=1200",
+    "source": "TechRadar",
+    "url": "https://www.techradar.com",
+    "tags": ["Sony", "Manipulation", "Vision", "Sports Robotics"],
+    "timestamp": "2026-04-24T12:00:00Z"
+  },
+  "articles": [
+    {
+      "id": "art-20260427-01",
+      "title": "Unitree G1 Humanoid Stuns With Skating, Flips and Spins in Wild Demo",
+      "summary": "Chinese firm Unitree released a new video of its G1 humanoid performing roller-skating, mid-air flips and spinning kicks — a sequence of dynamic movements that would have been considered impossible for a commercial biped just a year ago. The clip, widely shared across Chinese and international tech channels, demonstrates the rapid maturation of whole-body reinforcement-learning controllers. Unitree continues to undercut Western humanoid makers on price while closing the agility gap.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Humanoider-Roboter-DASA.JPG/960px-Humanoider-Roboter-DASA.JPG",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Unitree", "Humanoid", "Locomotion", "China"],
+      "timestamp": "2026-04-24T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-02",
+      "title": "Humanoid Robot Beats Human World Record at Beijing Half-Marathon",
+      "summary": "For the first time a bipedal humanoid has completed the 21.1 km Beijing half-marathon faster than the standing human world record, running largely autonomously on a closed course. The accompanying Beijing Robotics Race attracted more than a dozen entries from Chinese developers and produced both headline-grabbing wins and several spectacular failures — including a humanoid that crashed into fencing. The event has become an annual stress test for long-horizon locomotion stability, battery density and thermal management.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ameca_Generation_1.jpg",
+      "source": "SingularityHub",
+      "url": "https://singularityhub.com",
+      "tags": ["Humanoid", "Locomotion", "China", "Endurance"],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-03",
+      "title": "Meet X1: First Multi-Robot Rescue Team Using Humanoids and Drones Together",
+      "summary": "Researchers have unveiled X1, described as the first operational multi-robot search-and-rescue platform that tasks humanoids and aerial drones simultaneously. Drones map collapsed structures from above while bipedal units physically enter rubble to place sensors and extract survivors. A shared world model lets the two modalities cross-correct each other's perception in smoke and low-light conditions that defeat single-agent systems.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Humanoid_robot_at_Science_Square_Tsukuba.jpg/960px-Humanoid_robot_at_Science_Square_Tsukuba.jpg",
+      "source": "Earth.com",
+      "url": "https://www.earth.com",
+      "tags": ["Search and Rescue", "Multi-Robot", "Drones", "Humanoid"],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-04",
+      "title": "XPENG CEO: Humanoid Robots to Hit Mass Production by End of 2026",
+      "summary": "XPENG founder He Xiaopeng announced the EV maker will begin mass production of its Iron humanoid robot by the end of 2026, with a second-generation flying car also in development. He framed humanoids, flying cars and intelligent EVs as a shared technology stack — sensors, controllers and end-to-end neural networks built once and deployed across form factors. XPENG joins Tesla, BYD and Xiaomi among automakers moving humanoid robotics out of the lab.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/3d-printed-humanoid-robot-manav-mumbai-techfest-2015.jpg",
+      "source": "AASTOCKS",
+      "url": "http://www.aastocks.com",
+      "tags": ["XPENG", "Humanoid", "Manufacturing", "China"],
+      "timestamp": "2026-04-27T04:00:00Z"
+    },
+    {
+      "id": "art-20260427-05",
+      "title": "New Control Software Prevents Robotic Arms From Jamming Their Joints",
+      "summary": "A new motion-planning algorithm detects and avoids the self-collision and singularity configurations that routinely lock up multi-joint robotic arms mid-task. Tested on standard 6- and 7-DOF manipulators, the controller keeps arms out of jammed poses without the hand-tuned joint limits engineers usually rely on — cutting re-planning time and expanding the usable workspace. The work addresses one of the oldest failure modes in industrial manipulation.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/UR16e_robot_arm.png/960px-UR16e_robot_arm.png",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com",
+      "tags": ["Manipulation", "Control", "Research"],
+      "timestamp": "2026-04-26T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-06",
+      "title": "Pentagon Backs $24M Humanoid Robot Push for Modern Warfare",
+      "summary": "The US Department of Defense has committed $24 million to accelerate humanoid robot development for military logistics, inspection and forward-operating-base tasks. The program explicitly pulls commercial humanoid platforms — rather than bespoke military designs — into dual-use pilots, citing the rapid capability gains coming out of Chinese and US commercial humanoid makers. Officials say autonomy and mission endurance, not hardware, remain the bottlenecks.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/US_Army_powered_armor.jpg/960px-US_Army_powered_armor.jpg",
+      "source": "WIBC",
+      "url": "https://wibc.com",
+      "tags": ["Defense", "Humanoid", "Policy", "Pentagon"],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-07",
+      "title": "Melody Humanoid Masters 39 Degrees of Freedom for Lifelike Presence",
+      "summary": "A new humanoid platform called Melody debuts with 39 independently actuated degrees of freedom — including detailed facial and hand articulation — aimed at tele-presence and service roles rather than industrial work. The extra DOFs let Melody produce natural micro-movements that reduce the uncanny-valley effect in sustained human interaction. The team argues that social robotics has been bottlenecked by expressiveness, not compute.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg/960px-Halodi_Robotics%27_Perception_Engineer_With_a_Humanoid_Collaborative_Robot.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["Humanoid", "Social Robotics", "Actuators"],
+      "timestamp": "2026-04-24T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-08",
+      "title": "New E-Skin Gives Robotic Hand a Sense of Touch in Breakthrough Test",
+      "summary": "Researchers have demonstrated a stretchable electronic skin that lets a prosthetic-style robotic hand distinguish textures, pressure and shear forces in real time. In benchmarks the hand identified objects it had never seen purely through tactile signals, matching the accuracy of vision-based systems. The work closes a long-standing gap between robotic dexterity and haptic awareness — a prerequisite for reliable household manipulation.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Jet_gripper_air-flow.jpg/960px-Jet_gripper_air-flow.jpg",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com",
+      "tags": ["E-Skin", "Tactile Sensing", "Dexterity", "Research"],
+      "timestamp": "2026-04-24T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-09",
+      "title": "Star Robotics Unveils Watchbot 2 Autonomous Security Robot",
+      "summary": "Star Robotics has launched Watchbot 2, a next-generation autonomous patrol robot with improved navigation and longer-duration inspection capabilities. Introduced at a livestreamed event on April 16, the platform is positioned for perimeter security, warehouse surveillance and infrastructure inspection where it replaces static camera networks with mobile, on-demand sensing. The company says onboard AI now handles intruder classification locally, reducing reliance on cloud links.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/960px-Autonomous_patrol_robot_in_Singapore.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/star-robotics-unveils-new-security-robot-with-improved-autonomy-and-navigation/",
+      "tags": ["Security Robot", "Autonomy", "Surveillance"],
+      "timestamp": "2026-04-24T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-10",
+      "title": "PAL Robotics to Debut New Manipulation Robot at ICRA 2026",
+      "summary": "Spain's PAL Robotics will unveil a new mobile manipulation platform at IEEE ICRA 2026, alongside live demos of its existing TIAGo and Kangaroo lines. The new system is aimed at research labs building foundation-model controllers — offering standardized arms, grippers and sensor packages so teams can focus on policy learning rather than hardware integration. ICRA 2026 runs in mid-May and is expected to draw record attendance.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com/2026/04/24/pal-robotics-to-debut-new-manipulation-robot-at-icra-2026/",
+      "tags": ["PAL Robotics", "ICRA 2026", "Manipulation"],
+      "timestamp": "2026-04-24T12:00:00Z"
+    },
+    {
+      "id": "art-20260427-11",
+      "title": "Leaderdrive Brothers Join Billionaire Ranks as Robot-Joint Demand Surges",
+      "summary": "The Chinese brothers behind Leaderdrive, a maker of precision harmonic reducers used in robot joints, have become billionaires as humanoid-robot demand drives their order book through the roof. Harmonic reducers are a long-standing bottleneck in robotic actuation, historically dominated by Japan's Harmonic Drive Systems; Leaderdrive's rise marks a significant shift in the upstream supply chain. Analysts peg humanoids as the single largest new customer segment for precision gearing this decade.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sunderland_University_Experimental_Robot_Arm.jpg/960px-Sunderland_University_Experimental_Robot_Arm.jpg",
+      "source": "VnExpress International",
+      "url": "https://e.vnexpress.net",
+      "tags": ["Supply Chain", "Humanoid", "China", "Actuators"],
+      "timestamp": "2026-04-27T02:00:00Z"
+    },
+    {
+      "id": "art-20260427-12",
+      "title": "Path Robotics Unveils Mobile Welding System to Automate Heavy Industry",
+      "summary": "Ohio-based Path Robotics has launched a mobile autonomous welding system that rolls up to large steel structures and lays down high-quality welds without part-specific programming. The platform combines 3D scanning, weld-path planning and real-time seam tracking in a footprint small enough to deploy on shipyards and construction sites. The move targets a critical labor shortage in skilled welding that US industry has struggled to close.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Collaborative_Robot_Cobot.png",
+      "source": "Ohio Tech News",
+      "url": "https://www.ohiotechnews.com",
+      "tags": ["Welding", "Manufacturing", "Mobile Manipulation"],
+      "timestamp": "2026-04-24T15:00:00Z"
+    },
+    {
+      "id": "art-20260427-13",
+      "title": "Shenzhen Dominates China's Booming Robotics Sector, Report Finds",
+      "summary": "A South China Morning Post analysis documents how Shenzhen has become the undisputed center of China's robotics industry — combining a dense supply chain, concentrated venture funding and the highest density of humanoid and industrial robot startups anywhere in the country. The city accounts for a disproportionate share of China's record robotics output growth this year. Executives cite proximity to battery, motor and semiconductor suppliers as the hardest-to-replicate advantage.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Autonomous_Mobile_Robot_AMR.png",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com",
+      "tags": ["China", "Supply Chain", "Industry", "Shenzhen"],
+      "timestamp": "2026-04-26T08:00:00Z"
+    },
+    {
+      "id": "art-20260427-14",
+      "title": "Humanoids Can Walk and Talk — But Still Fumble the Hard Stuff",
+      "summary": "A sober industry survey argues that despite dazzling demo videos, commercial humanoids still fail at the very tasks they're being sold for: reliable package sorting, unstructured pick-and-place, multi-hour uptime without human intervention. The piece compiles failure data from warehouse pilots at several unnamed deployments where humanoids lag purpose-built mobile manipulators by an order of magnitude in throughput. The gap between viral demos and production economics remains wide.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/TOCABI_black_3200px.jpg/960px-TOCABI_black_3200px.jpg",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com",
+      "tags": ["Humanoid", "Industry Analysis", "Warehouse"],
+      "timestamp": "2026-04-25T09:00:00Z"
+    },
+    {
+      "id": "art-20260427-15",
+      "title": "AthenaZero Debuts Two-Handed Bimanual Robot That Can Juggle",
+      "summary": "Startup AthenaZero has unveiled a high-speed bimanual manipulator that can juggle balls continuously — an impressive benchmark for fast, coordinated two-handed control. Juggling requires sub-millisecond timing between vision, planning and motor commands, and is one of the most demanding real-time control problems in robotics. The demo positions AthenaZero alongside a small group of companies betting on bimanual dexterity as the next industrial wave.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_11.jpg",
+      "source": "TechEBlog",
+      "url": "https://www.techeblog.com",
+      "tags": ["Bimanual", "Manipulation", "Startup"],
+      "timestamp": "2026-04-25T13:00:00Z"
+    },
+    {
+      "id": "art-20260427-16",
+      "title": "10 Years of Legged Robots: Ghost Robotics Retrospective at Robotics Summit",
+      "summary": "At the 2026 Robotics Summit, Ghost Robotics marked a decade of quadruped development with a retrospective covering its Vision 60 platform's evolution from a university research project to a US Department of Defense supplier. The company traced improvements in endurance, payload and autonomy stack, and previewed its next-generation legged platform. The session has become a benchmark industry reads as a proxy for quadruped maturity across vendors.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Big_dog_military_robots.jpg/960px-Big_dog_military_robots.jpg",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com",
+      "tags": ["Quadruped", "Ghost Robotics", "Legged Robots"],
+      "timestamp": "2026-04-26T10:00:00Z"
+    },
+    {
+      "id": "art-20260427-17",
+      "title": "Pudu Robotics Opens US Headquarters in Dallas",
+      "summary": "Chinese service-robot maker Pudu Robotics has inaugurated its US headquarters in Dallas, signaling a major push into the American market for food-service and hospitality robots. The facility will handle sales, support and localization for Pudu's PuduBot and BellaBot lines, which are already widely deployed in Asian restaurant chains. The move comes amid intense scrutiny of Chinese robotics imports by US regulators.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dax_Delivery_Robot_with_Groceries.jpg/960px-Dax_Delivery_Robot_with_Groceries.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": ["Pudu Robotics", "Service Robots", "US Market"],
+      "timestamp": "2026-04-24T14:00:00Z"
+    },
+    {
+      "id": "art-20260427-18",
+      "title": "IEEE Video Friday: Ping-Pong, ICRA Preview and Swarm Quadrupeds",
+      "summary": "IEEE Spectrum's weekly Video Friday roundup covers Sony's Project Ace ping-pong robot alongside an ICRA 2026 preview, a new swarm-of-quadrupeds research paper from ETH Zurich and highlights from recent soft-robotics publications. The column remains the most-watched weekly pulse of academic and industry robotics output, and this week's edition draws an unusually wide mix of commercial and lab-grade demos. Readers get an annotated playlist rather than a single headline system.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg/960px-Hybrid_Assistive_Limb%2C_CYBERDYNE.jpg",
+      "source": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/video-friday-ping-pong-robot",
+      "tags": ["Sony", "Research", "IEEE"],
+      "timestamp": "2026-04-24T16:00:00Z"
+    },
+    {
+      "id": "art-20260427-19",
+      "title": "Flex and Teradyne Robotics Deepen Partnership to Scale Intelligent Automation",
+      "summary": "Contract manufacturer Flex and Teradyne Robotics — owner of Universal Robots and MiR — have expanded their partnership to deploy collaborative arms and autonomous mobile robots across Flex's global factory network. The deal positions cobots and AMRs as the default line-automation layer for electronics manufacturing, replacing bespoke fixed automation that can't be reconfigured between product generations. Both companies cite rising demand for on-shore manufacturing as the driver.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg/960px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_14.jpg",
+      "source": "Robotics & Automation News",
+      "url": "https://roboticsandautomationnews.com",
+      "tags": ["Cobots", "AMR", "Manufacturing", "Teradyne"],
+      "timestamp": "2026-04-25T11:00:00Z"
+    },
+    {
+      "id": "art-20260427-20",
+      "title": "Humanoid Robot Crashes Into Fence During Beijing Half-Marathon",
+      "summary": "Not every robot runner made it to the finish line: one humanoid entrant in the Beijing robot half-marathon veered off course and crashed through course fencing, drawing both social-media ridicule and fresh safety questions from Chinese regulators. The incident highlights how even champion platforms remain brittle when sensor conditions or lighting shift unexpectedly. Separately, a woman in Macau was reportedly hospitalised after being startled by a humanoid in a mall demonstration, adding to a growing list of public-space robot mishaps.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Humanoid_Robot.webp/960px-Humanoid_Robot.webp.png",
+      "source": "Yahoo News UK",
+      "url": "https://uk.news.yahoo.com",
+      "tags": ["Humanoid", "Safety", "China"],
+      "timestamp": "2026-04-26T09:00:00Z"
+    }
+  ]
+}
