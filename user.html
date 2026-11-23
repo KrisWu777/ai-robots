@@ -1,0 +1,419 @@
+<!doctype html>
+<!--
+  Bus Puzzle（com.fundays.buspuzzle）用户协议（Terms of Use）展示页。
+  来源：busjam_rea/clone/terms.html。Android 工程 busjam_rea/android/app/build.gradle 把它打包进 APK 的 www/terms.html（versionName 1.18.0）。
+  英文部分为原文；中文部分为译文。本文件不依赖外部资源，可直接双击打开。
+-->
+<html lang="en" data-lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#173554">
+  <title>Terms of Use · Bus Puzzle</title>
+  <style>
+    :root {
+      font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", Arial, sans-serif;
+      color-scheme: light;
+      color: #26364b;
+      background: #173554;
+    }
+    * { box-sizing: border-box; }
+    html { min-height: 100%; background: #173554; }
+    body {
+      min-height: 100%;
+      margin: 0;
+      background:
+        radial-gradient(circle at 8% 3%, rgba(111, 201, 255, 0.32), transparent 28rem),
+        linear-gradient(180deg, #173554, #102944);
+      color: #26364b;
+      -webkit-tap-highlight-color: transparent;
+    }
+    button, a { font: inherit; }
+    a { color: #1767b0; text-underline-offset: 3px; }
+    a:focus-visible, button:focus-visible { outline: 4px solid #ffcc33; outline-offset: 3px; }
+
+    html[data-lang="zh"] [data-view="en"],
+    html:not([data-lang="zh"]) [data-view="zh"] { display: none; }
+
+    .legal-page {
+      width: min(100%, 820px);
+      min-height: 100dvh;
+      margin: 0 auto;
+      padding: max(14px, env(safe-area-inset-top)) 14px max(28px, env(safe-area-inset-bottom));
+    }
+
+    .legal-top {
+      min-height: 58px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 13px;
+      color: #fff;
+      font-size: 19px;
+      font-weight: 900;
+      letter-spacing: 0.3px;
+    }
+    .legal-brand { display: flex; align-items: center; gap: 11px; }
+    .legal-logo {
+      width: 40px;
+      height: 40px;
+      display: grid;
+      place-items: center;
+      border: 3px solid #1d2733;
+      border-radius: 13px;
+      background: #ffcc33;
+      box-shadow: 0 4px 0 #1d2733;
+      font-size: 21px;
+    }
+
+    .lang-switch {
+      display: inline-flex;
+      padding: 3px;
+      border: 3px solid #1d2733;
+      border-radius: 14px;
+      background: #fff;
+      box-shadow: 0 4px 0 #1d2733;
+    }
+    .lang-switch button {
+      min-width: 64px;
+      min-height: 36px;
+      padding: 4px 12px;
+      border: 0;
+      border-radius: 10px;
+      background: transparent;
+      color: #1d2733;
+      font-size: 15px;
+      font-weight: 800;
+      cursor: pointer;
+    }
+    .lang-switch button[aria-pressed="true"] { background: #1d2733; color: #fff; }
+
+    .legal-card {
+      overflow: hidden;
+      border: 4px solid #1d2733;
+      border-radius: 24px;
+      background: #fff;
+      box-shadow: 0 8px 0 #1d2733, 0 22px 44px rgba(0, 0, 0, 0.25);
+    }
+    .legal-card > header {
+      padding: 28px clamp(20px, 6vw, 54px) 24px;
+      background: linear-gradient(135deg, #fff5c8, #ffe17a);
+      border-bottom: 3px solid #1d2733;
+    }
+    .legal-kicker {
+      margin: 0 0 7px;
+      color: #c64b2d;
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: 2.4px;
+    }
+    h1 { margin: 0; color: #1d2733; font-size: clamp(34px, 8vw, 54px); line-height: 1.05; }
+    .legal-date { margin: 12px 0 0; color: #5d6878; font-size: 14px; }
+    .legal-note {
+      margin: 12px 0 0;
+      color: #6b5a1e;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+
+    section { padding: 23px clamp(20px, 6vw, 54px) 2px; }
+    h2 { margin: 0 0 10px; color: #1d2733; font-size: 21px; line-height: 1.25; }
+    p, li { font-size: 16px; line-height: 1.75; }
+    [data-view="en"] p, [data-view="en"] li { line-height: 1.65; }
+    p { margin: 0 0 13px; }
+    ul { margin: 0 0 15px; padding-left: 24px; }
+    li + li { margin-top: 5px; }
+    code {
+      padding: 2px 6px;
+      border-radius: 6px;
+      background: #eef4fa;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.88em;
+      overflow-wrap: anywhere;
+    }
+
+    .legal-footer {
+      margin-top: 30px;
+      padding: 24px clamp(20px, 6vw, 54px) 30px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 14px 22px;
+      border-top: 2px solid #dce3eb;
+    }
+    .legal-footer a.legal-swap {
+      min-height: 48px;
+      display: inline-flex;
+      align-items: center;
+      padding: 9px 18px;
+      border: 3px solid #1d2733;
+      border-radius: 14px;
+      background: #3fc45a;
+      box-shadow: 0 4px 0 #1d2733;
+      color: #fff;
+      font-weight: 900;
+      text-decoration: none;
+    }
+    .legal-footer a.legal-swap:active { translate: 0 3px; box-shadow: 0 1px 0 #1d2733; }
+    .legal-footer span { color: #5d6878; font-size: 14px; }
+
+    @media (max-width: 430px) {
+      .legal-page { padding-left: 9px; padding-right: 9px; }
+      .legal-top { font-size: 17px; }
+      .lang-switch button { min-width: 54px; padding: 4px 9px; }
+      .legal-card { border-radius: 20px; }
+      p, li { font-size: 15px; }
+    }
+
+    @media print {
+      html, body { background: #fff; }
+      .legal-page { width: 100%; padding: 0; }
+      .legal-top, .legal-footer { display: none; }
+      .legal-card { box-shadow: none; border-width: 2px; }
+      section { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+  <main class="legal-page">
+    <nav class="legal-top" aria-label="Page navigation">
+      <span class="legal-brand"><span class="legal-logo" aria-hidden="true">🚌</span>Bus Puzzle</span>
+      <span class="lang-switch" role="group" aria-label="Language / 语言">
+        <button type="button" data-set-lang="zh" aria-pressed="false" lang="zh-CN">中文</button>
+        <button type="button" data-set-lang="en" aria-pressed="true">English</button>
+      </span>
+    </nav>
+
+    <!-- ======================= 中文译文 ======================= -->
+    <article class="legal-card" data-view="zh" lang="zh-CN">
+      <header>
+        <p class="legal-kicker">BUS PUZZLE</p>
+        <h1>用户协议</h1>
+        <p class="legal-date">生效日期：2026 年 11 月 2 日</p>
+        <p class="legal-note">本页中文为译文。Bus Puzzle 应用内打包的是英文原文（Terms of Use），可点击右上角“English”查看。</p>
+      </header>
+
+      <section>
+        <h2>1. 接受本协议</h2>
+        <p>本用户协议（“本协议”）适用于你下载和使用由 Fundays（“我们”）提供的 <strong>Bus Puzzle</strong>（包名 <code>com.fundays.buspuzzle</code>，“本应用”）。下载或使用本应用，即表示你同意本协议。如果你不同意，请不要使用本应用。</p>
+      </section>
+
+      <section>
+        <h2>2. 使用资格</h2>
+        <p>只有在适用于你的法律允许的情况下，你才可以使用本应用。如果当地法律要求取得父母或法定监护人的许可，你必须在使用本应用前取得该许可。</p>
+      </section>
+
+      <section>
+        <h2>3. 使用许可</h2>
+        <p>在遵守本协议的前提下，Fundays 授予你一项有限的、个人的、非独占的、不可转让的、可撤销的许可，允许你在自己拥有或控制的设备上安装和使用本应用，用于非商业娱乐。</p>
+        <p>你不得出售、出租、再许可、分发本应用，或以其他方式将其用于商业用途。除非适用法律明确允许，你不得对本应用进行逆向工程、绕过其安全控制，或基于本应用制作衍生作品。</p>
+      </section>
+
+      <section>
+        <h2>4. 游戏进度与虚拟物品</h2>
+        <p>本应用可能提供虚拟金币、星星、道具、已解锁地图和其他游戏物品。这些物品只存在于本应用内，没有货币价值，不能兑换为金钱，也不能转让。</p>
+        <p>进度和设置只存储在你的设备上。如果你重置游戏、清除本应用存储、卸载本应用、更换设备，或本地存储不可用，这些数据可能会丢失。我们不提供云端恢复。</p>
+      </section>
+
+      <section>
+        <h2>5. 当前服务</h2>
+        <p>游戏内容打包在本地，本应用没有用户账号、广告，也没有真实货币购买。首次启动时的用户协议与隐私政策提示被接受后，Firebase Analytics 和 Crashlytics 会使用网络，用于汇总的使用情况统计和稳定性报告。未来的功能可能受额外条款约束，这些条款会在生效前向你展示。</p>
+      </section>
+
+      <section>
+        <h2>6. 可接受的使用</h2>
+        <p>你同意不会：</p>
+        <ul>
+          <li>将本应用用于违法、欺诈或有害目的；</li>
+          <li>干扰本应用的运行或安全；</li>
+          <li>删除所有权、版权或许可声明；</li>
+          <li>冒称与 Fundays 有关联；或</li>
+          <li>未经书面许可，将本应用或其素材用于商业用途。</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>7. 知识产权</h2>
+        <p>本应用（包括其原创软件、视觉设计、游戏内容和音频设计）归 Fundays 或其许可方所有，受适用的知识产权法律保护。开源组件仍受其各自许可证约束；随本应用分发的相关声明继续适用。</p>
+      </section>
+
+      <section>
+        <h2>8. 隐私</h2>
+        <p>我们的<a href="隐私政策.html" data-swap>《隐私政策》</a>说明了本地存储、通知，以及首次启动提示被接受后，通过 Firebase Analytics 和 Crashlytics 处理的有限的使用数据、崩溃数据、ANR 数据和技术数据。</p>
+      </section>
+
+      <section>
+        <h2>9. 更新与可用性</h2>
+        <p>我们可能更新、修改、暂停或终止本应用的全部或部分内容。我们不承诺每项功能都会一直可用，也不承诺本应用能在所有设备或未来的操作系统版本上运行。</p>
+      </section>
+
+      <section>
+        <h2>10. 免责声明</h2>
+        <p>在适用法律允许的最大范围内，本应用按“现状”和“现有”提供，不附带任何明示、默示或法定的保证。本协议中的任何内容均不排除依法不能排除的保证或消费者权利。</p>
+      </section>
+
+      <section>
+        <h2>11. 责任限制</h2>
+        <p>在适用法律允许的最大范围内，对于因使用或无法使用本应用而导致的间接、附带、特殊、后果性或惩罚性损害，或游戏进度、数据、利润或机会的损失，Fundays 不承担责任。在法律不允许限制责任的情况下，本限制不适用。</p>
+      </section>
+
+      <section>
+        <h2>12. 终止</h2>
+        <p>你可以随时卸载本应用以停止使用。如果你严重违反本协议，我们可以终止本协议授予的许可。按其性质应在终止后继续有效的条款，将继续有效。</p>
+      </section>
+
+      <section>
+        <h2>13. 本协议的变更</h2>
+        <p>我们可能会更新本协议，以反映本应用、法律或我们做法的变化。发布更新时，上方的生效日期会随之修改。在法律允许的范围内，更新后继续使用本应用，即表示你接受修订后的协议。</p>
+      </section>
+
+      <section>
+        <h2>14. 适用法律与强制性权利</h2>
+        <p>本协议受适用法律约束，不限制你根据所在国家或地区的消费者保护法享有的任何强制性权利。</p>
+      </section>
+
+      <section>
+        <h2>15. 联系方式</h2>
+        <p>开发者：<strong>Fundays</strong>。</p>
+        <p>如对本协议有疑问，请使用 Bus Puzzle 在 Google Play 商店页面上展示的开发者联系邮箱。</p>
+      </section>
+
+      <footer class="legal-footer">
+        <a class="legal-swap" href="隐私政策.html" data-swap>查看隐私政策</a>
+        <span>Bus Puzzle · Fundays</span>
+      </footer>
+    </article>
+
+    <!-- ======================= English original ======================= -->
+    <article class="legal-card" data-view="en" lang="en">
+      <header>
+        <p class="legal-kicker">BUS PUZZLE</p>
+        <h1>Terms of Use</h1>
+        <p class="legal-date">Effective date: November 2, 2026</p>
+      </header>
+
+      <section>
+        <h2>1. Acceptance of These Terms</h2>
+        <p>These Terms of Use (“Terms”) govern your download and use of <strong>Bus Puzzle</strong>, package name <code>com.fundays.buspuzzle</code> (the “App”), provided by Fundays (“we,” “us,” or “our”). By downloading or using the App, you agree to these Terms. If you do not agree, do not use the App.</p>
+      </section>
+
+      <section>
+        <h2>2. Eligibility</h2>
+        <p>You may use the App only if doing so is permitted under the laws that apply to you. If local law requires permission from a parent or legal guardian, you must obtain that permission before using the App.</p>
+      </section>
+
+      <section>
+        <h2>3. License to Use the App</h2>
+        <p>Subject to these Terms, Fundays grants you a limited, personal, non-exclusive, non-transferable, revocable license to install and use the App for non-commercial entertainment on devices you own or control.</p>
+        <p>You may not sell, rent, sublicense, distribute, or commercially exploit the App. You may not reverse engineer, bypass security controls, or create derivative works from the App except where applicable law expressly permits those activities.</p>
+      </section>
+
+      <section>
+        <h2>4. Game Progress and Virtual Items</h2>
+        <p>The App may provide virtual coins, stars, boosters, unlocked maps, and other gameplay items. These items exist only inside the App, have no monetary value, cannot be redeemed for money, and are not transferable.</p>
+        <p>Progress and settings are stored only on your device. They may be lost if you reset the game, clear App storage, uninstall the App, replace your device, or if local storage becomes unavailable. We do not provide cloud recovery.</p>
+      </section>
+
+      <section>
+        <h2>5. Current Service</h2>
+        <p>The gameplay content is bundled locally and the App has no user accounts, advertising, or purchases for real money. After the first-run Terms and Privacy notice is accepted, Firebase Analytics and Crashlytics use network access for aggregate usage measurement and stability reporting. Future features may be governed by additional terms presented before they apply.</p>
+      </section>
+
+      <section>
+        <h2>6. Acceptable Use</h2>
+        <p>You agree not to:</p>
+        <ul>
+          <li>use the App for unlawful, fraudulent, or harmful purposes;</li>
+          <li>interfere with the App’s operation or security;</li>
+          <li>remove ownership, copyright, or license notices;</li>
+          <li>misrepresent yourself as affiliated with Fundays; or</li>
+          <li>use the App or its assets commercially without written permission.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>7. Intellectual Property</h2>
+        <p>The App, including its original software, visual design, game content, and audio design, is owned by Fundays or its licensors and is protected by applicable intellectual-property laws. Open-source components remain subject to their own licenses; notices distributed with the App continue to apply.</p>
+      </section>
+
+      <section>
+        <h2>8. Privacy</h2>
+        <p>Our <a href="隐私政策.html" data-swap>Privacy Policy</a> explains local storage, notifications, and the limited usage, crash, ANR, and technical data processed through Firebase Analytics and Crashlytics after the first-run notice is accepted.</p>
+      </section>
+
+      <section>
+        <h2>9. Updates and Availability</h2>
+        <p>We may update, modify, suspend, or discontinue all or part of the App. We do not promise that every feature will remain available or that the App will work on every device or future operating-system version.</p>
+      </section>
+
+      <section>
+        <h2>10. Disclaimer</h2>
+        <p>To the maximum extent permitted by applicable law, the App is provided “as is” and “as available,” without warranties of any kind, whether express, implied, or statutory. Nothing in these Terms excludes warranties or consumer rights that cannot legally be excluded.</p>
+      </section>
+
+      <section>
+        <h2>11. Limitation of Liability</h2>
+        <p>To the maximum extent permitted by applicable law, Fundays will not be liable for indirect, incidental, special, consequential, or punitive damages, or for loss of game progress, data, profits, or opportunities resulting from use of or inability to use the App. This limitation does not apply where liability cannot legally be limited.</p>
+      </section>
+
+      <section>
+        <h2>12. Termination</h2>
+        <p>You may stop using the App at any time by uninstalling it. We may terminate the license granted by these Terms if you materially violate them. Provisions that by their nature should survive termination will remain in effect.</p>
+      </section>
+
+      <section>
+        <h2>13. Changes to These Terms</h2>
+        <p>We may update these Terms to reflect changes to the App, law, or our practices. The effective date above will be revised when an update is published. Continued use after an update means you accept the revised Terms where permitted by law.</p>
+      </section>
+
+      <section>
+        <h2>14. Applicable Law and Mandatory Rights</h2>
+        <p>These Terms are subject to applicable law. They do not limit any mandatory rights you have under the consumer-protection laws of your country or region.</p>
+      </section>
+
+      <section>
+        <h2>15. Contact</h2>
+        <p>Developer: <strong>Fundays</strong>.</p>
+        <p>For questions about these Terms, use the developer contact email displayed on the Google Play store listing for Bus Puzzle.</p>
+      </section>
+
+      <footer class="legal-footer">
+        <a class="legal-swap" href="隐私政策.html" data-swap>Privacy Policy</a>
+        <span>Bus Puzzle · Fundays</span>
+      </footer>
+    </article>
+  </main>
+
+  <script>
+    (function () {
+      var TITLES = { zh: '用户协议 · Bus Puzzle', en: 'Terms of Use · Bus Puzzle' };
+      var root = document.documentElement;
+
+      // English by default; ?lang=zh opens the Chinese translation.
+      function setLang(lang) {
+        if (lang !== 'zh') lang = 'en';
+        root.setAttribute('data-lang', lang);
+        root.lang = lang === 'en' ? 'en' : 'zh-CN';
+        document.title = TITLES[lang];
+        document.querySelectorAll('[data-set-lang]').forEach(function (b) {
+          b.setAttribute('aria-pressed', String(b.getAttribute('data-set-lang') === lang));
+        });
+        document.querySelectorAll('a[data-swap]').forEach(function (a) {
+          a.setAttribute('href', a.getAttribute('href').split('?')[0] + '?lang=' + lang);
+        });
+      }
+
+      var fromUrl = null;
+      try { fromUrl = new URLSearchParams(location.search).get('lang'); } catch (e) { /* old browser */ }
+      setLang(fromUrl || 'en');
+
+      document.querySelectorAll('[data-set-lang]').forEach(function (b) {
+        b.addEventListener('click', function () {
+          setLang(b.getAttribute('data-set-lang'));
+          window.scrollTo(0, 0);
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
