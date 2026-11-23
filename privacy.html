@@ -1,0 +1,417 @@
+<!doctype html>
+<!--
+  Bus Puzzle（com.fundays.buspuzzle）隐私政策展示页。
+  来源：busjam_rea/clone/privacy.html。Android 工程 busjam_rea/android/app/build.gradle 把它打包进 APK 的 www/privacy.html（versionName 1.18.0）。
+  英文部分为原文；中文部分为译文。本文件不依赖外部资源，可直接双击打开。
+-->
+<html lang="en" data-lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#173554">
+  <title>Privacy Policy · Bus Puzzle</title>
+  <style>
+    :root {
+      font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Microsoft YaHei", Arial, sans-serif;
+      color-scheme: light;
+      color: #26364b;
+      background: #173554;
+    }
+    * { box-sizing: border-box; }
+    html { min-height: 100%; background: #173554; }
+    body {
+      min-height: 100%;
+      margin: 0;
+      background:
+        radial-gradient(circle at 8% 3%, rgba(111, 201, 255, 0.32), transparent 28rem),
+        linear-gradient(180deg, #173554, #102944);
+      color: #26364b;
+      -webkit-tap-highlight-color: transparent;
+    }
+    button, a { font: inherit; }
+    a { color: #1767b0; text-underline-offset: 3px; }
+    a:focus-visible, button:focus-visible { outline: 4px solid #ffcc33; outline-offset: 3px; }
+
+    html[data-lang="zh"] [data-view="en"],
+    html:not([data-lang="zh"]) [data-view="zh"] { display: none; }
+
+    .legal-page {
+      width: min(100%, 820px);
+      min-height: 100dvh;
+      margin: 0 auto;
+      padding: max(14px, env(safe-area-inset-top)) 14px max(28px, env(safe-area-inset-bottom));
+    }
+
+    .legal-top {
+      min-height: 58px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 13px;
+      color: #fff;
+      font-size: 19px;
+      font-weight: 900;
+      letter-spacing: 0.3px;
+    }
+    .legal-brand { display: flex; align-items: center; gap: 11px; }
+    .legal-logo {
+      width: 40px;
+      height: 40px;
+      display: grid;
+      place-items: center;
+      border: 3px solid #1d2733;
+      border-radius: 13px;
+      background: #ffcc33;
+      box-shadow: 0 4px 0 #1d2733;
+      font-size: 21px;
+    }
+
+    .lang-switch {
+      display: inline-flex;
+      padding: 3px;
+      border: 3px solid #1d2733;
+      border-radius: 14px;
+      background: #fff;
+      box-shadow: 0 4px 0 #1d2733;
+    }
+    .lang-switch button {
+      min-width: 64px;
+      min-height: 36px;
+      padding: 4px 12px;
+      border: 0;
+      border-radius: 10px;
+      background: transparent;
+      color: #1d2733;
+      font-size: 15px;
+      font-weight: 800;
+      cursor: pointer;
+    }
+    .lang-switch button[aria-pressed="true"] { background: #1d2733; color: #fff; }
+
+    .legal-card {
+      overflow: hidden;
+      border: 4px solid #1d2733;
+      border-radius: 24px;
+      background: #fff;
+      box-shadow: 0 8px 0 #1d2733, 0 22px 44px rgba(0, 0, 0, 0.25);
+    }
+    .legal-card > header {
+      padding: 28px clamp(20px, 6vw, 54px) 24px;
+      background: linear-gradient(135deg, #fff5c8, #ffe17a);
+      border-bottom: 3px solid #1d2733;
+    }
+    .legal-kicker {
+      margin: 0 0 7px;
+      color: #c64b2d;
+      font-size: 13px;
+      font-weight: 900;
+      letter-spacing: 2.4px;
+    }
+    h1 { margin: 0; color: #1d2733; font-size: clamp(34px, 8vw, 54px); line-height: 1.05; }
+    .legal-date { margin: 12px 0 0; color: #5d6878; font-size: 14px; }
+    .legal-note {
+      margin: 12px 0 0;
+      color: #6b5a1e;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+
+    section { padding: 23px clamp(20px, 6vw, 54px) 2px; }
+    h2 { margin: 0 0 10px; color: #1d2733; font-size: 21px; line-height: 1.25; }
+    p, li { font-size: 16px; line-height: 1.75; }
+    [data-view="en"] p, [data-view="en"] li { line-height: 1.65; }
+    p { margin: 0 0 13px; }
+    ul { margin: 0 0 15px; padding-left: 24px; }
+    li + li { margin-top: 5px; }
+    code {
+      padding: 2px 6px;
+      border-radius: 6px;
+      background: #eef4fa;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 0.88em;
+      overflow-wrap: anywhere;
+    }
+
+    .legal-summary {
+      margin: 24px clamp(16px, 5vw, 44px) 8px;
+      padding: 20px 22px 8px;
+      border: 3px solid #1d2733;
+      border-radius: 17px;
+      background: #eaf7ff;
+      box-shadow: 0 4px 0 #1d2733;
+    }
+
+    .legal-footer {
+      margin-top: 30px;
+      padding: 24px clamp(20px, 6vw, 54px) 30px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 14px 22px;
+      border-top: 2px solid #dce3eb;
+    }
+    .legal-footer a.legal-swap {
+      min-height: 48px;
+      display: inline-flex;
+      align-items: center;
+      padding: 9px 18px;
+      border: 3px solid #1d2733;
+      border-radius: 14px;
+      background: #3fc45a;
+      box-shadow: 0 4px 0 #1d2733;
+      color: #fff;
+      font-weight: 900;
+      text-decoration: none;
+    }
+    .legal-footer a.legal-swap:active { translate: 0 3px; box-shadow: 0 1px 0 #1d2733; }
+    .legal-footer span { color: #5d6878; font-size: 14px; }
+
+    @media (max-width: 430px) {
+      .legal-page { padding-left: 9px; padding-right: 9px; }
+      .legal-top { font-size: 17px; }
+      .lang-switch button { min-width: 54px; padding: 4px 9px; }
+      .legal-card { border-radius: 20px; }
+      p, li { font-size: 15px; }
+    }
+
+    @media print {
+      html, body { background: #fff; }
+      .legal-page { width: 100%; padding: 0; }
+      .legal-top, .legal-footer { display: none; }
+      .legal-card, .legal-summary { box-shadow: none; }
+      .legal-card { border-width: 2px; }
+      section { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+  <main class="legal-page">
+    <nav class="legal-top" aria-label="Page navigation">
+      <span class="legal-brand"><span class="legal-logo" aria-hidden="true">🚌</span>Bus Puzzle</span>
+      <span class="lang-switch" role="group" aria-label="Language / 语言">
+        <button type="button" data-set-lang="zh" aria-pressed="false" lang="zh-CN">中文</button>
+        <button type="button" data-set-lang="en" aria-pressed="true">English</button>
+      </span>
+    </nav>
+
+    <!-- ======================= 中文译文 ======================= -->
+    <article class="legal-card" data-view="zh" lang="zh-CN">
+      <header>
+        <p class="legal-kicker">BUS PUZZLE</p>
+        <h1>隐私政策</h1>
+        <p class="legal-date">生效日期：2026 年 11 月 2 日</p>
+        <p class="legal-note">本页中文为译文。Bus Puzzle 应用内打包的是英文原文，可点击右上角“English”查看。</p>
+      </header>
+
+      <section>
+        <h2>1. 概述</h2>
+        <p>Fundays（“我们”）提供手机游戏 <strong>Bus Puzzle</strong>，包名 <code>com.fundays.buspuzzle</code>（“本应用”）。本隐私政策说明本应用如何处理信息。</p>
+        <p>游戏内容打包在本地。首次启动时的用户协议与隐私政策提示被接受后，本应用会使用 Google Analytics for Firebase 和 Firebase Crashlytics，按下文所述处理有限的使用数据、崩溃数据和技术数据。</p>
+      </section>
+
+      <section>
+        <h2>2. Firebase Analytics 和 Crashlytics 数据</h2>
+        <p>首次启动提示被接受后，Google Analytics for Firebase 可能自动收集应用实例标识符、应用生命周期事件和交互事件，以及应用版本、设备型号、操作系统版本、语言和大致地区等技术信息。</p>
+        <p>Firebase Crashlytics 可能收集崩溃和 ANR（应用无响应）的堆栈信息、线程和进程状态、应用和设备技术信息、Crashlytics 安装标识符和会话标识符，以及由 Analytics 提供的面包屑事件。WebView 渲染进程意外终止且被本应用处理时，本应用会把它记录为一次非致命的稳定性事件，记录中不包含访问的网址或用户内容。</p>
+        <p>本应用不会有意向 Firebase 发送姓名、电子邮件地址、账号信息、通讯录、照片、文件、支付信息、精确位置或用户输入的内容。广告 ID 收集和广告个性化信号均已关闭，不设置 Firebase 用户 ID，本应用也不提供用户账号或广告。</p>
+      </section>
+
+      <section>
+        <h2>3. 仅存储在你设备上的信息</h2>
+        <p>为运行游戏，本应用会在你的设备本地存储以下信息：</p>
+        <ul>
+          <li>关卡进度、已解锁地图、星星、连胜、虚拟金币和道具库存；</li>
+          <li>音频、画面渲染、通知授权和本地提醒的偏好设置；以及</li>
+          <li>一次性的新手教程和游戏状态标记。</li>
+        </ul>
+        <p>这些信息仅用于继续游戏和记住你的设置，通过 WebView 本地存储和 Android SharedPreferences 保存在本应用的私有存储中，不会发送到你的设备之外。</p>
+      </section>
+
+      <section>
+        <h2>4. 通知、后台任务和权限</h2>
+        <p>在 Android 13 及更高版本上，本应用只会在你第一次离开游戏、进入地图页面后请求通知权限。如果你允许，AndroidX WorkManager 会大约每两天安排一次设备本地提醒。Android 可能为节省电量而推迟后台任务。</p>
+        <p>提醒文字是在本地从应用内置的消息中选取的。点按提醒会打开本应用。你可以随时在 Android 通知设置中关闭提醒。</p>
+        <p>WorkManager 声明了用于安排和恢复后台任务的 Android 普通权限，包括唤醒锁、开机完成、网络状态和前台服务相关能力。本地提醒不使用网络，也不使用前台服务。</p>
+        <p>本应用为 Firebase Analytics 和 Crashlytics 声明了互联网和网络状态权限。WebView 中的游戏内容始终在本地运行，并会拦截内置游戏目录以外的请求；首次启动提示被接受后，只有原生 Firebase SDK 会使用网络。</p>
+      </section>
+
+      <section>
+        <h2>5. 服务提供商与数据共享</h2>
+        <p>Google 为向 Fundays 提供 Firebase 服务而处理 Analytics 和 Crashlytics 数据。我们不出售个人数据，不将 Firebase 用于广告，也不发送广告标识符或 Firebase 用户 ID。Google 可能使用分处理者，并依据其 Firebase、Crashlytics 和 Google Analytics 条款处理数据。</p>
+      </section>
+
+      <section>
+        <h2>6. 保留与删除</h2>
+        <p>本地游戏信息会一直保留在你的设备上，直到被删除。本应用首页上的重置功能可以删除游戏进度。如需删除本应用在本地存储的全部信息（包括偏好设置），请在 Android 设置中清除本应用的存储，或卸载本应用。</p>
+        <p>Analytics 和 Crashlytics 数据的保留期限取决于所关联的 Firebase 和 Google Analytics 项目中的设置。清除本应用存储或重新安装本应用后，本地安装标识符会被替换。如需就 Firebase 数据提出隐私请求，请通过 Google Play 商店页面上的地址联系 Fundays。</p>
+      </section>
+
+      <section>
+        <h2>7. 安全</h2>
+        <p>本地游戏信息保存在 Android 的应用私有存储中。Firebase Analytics 和 Crashlytics 数据通过加密的 HTTPS 连接传输。任何存储或传输方式都无法保证绝对安全，因此本应用把发给 Firebase 的数据限制在上述范围内，并关闭了广告标识符和个性化信号。</p>
+      </section>
+
+      <section>
+        <h2>8. 儿童隐私</h2>
+        <p>本应用不提供账号，也不要求儿童提交个人信息。只有在首次启动时的用户协议与隐私政策提示被接受后，Firebase Analytics 和 Crashlytics 才会启用。如果适用于儿童的法律要求额外的同意或限制，Fundays 必须在向这些用户提供本应用之前，相应地配置分发方式和 Firebase 数据收集。</p>
+      </section>
+
+      <section>
+        <h2>9. 跨境数据传输</h2>
+        <p>Firebase Analytics 和 Crashlytics 数据可能由 Google 及其分处理者在用户所在国家或地区以外处理。此类处理受适用的 Firebase 和 Google Analytics 条款以及数据传输保障措施约束。</p>
+      </section>
+
+      <section>
+        <h2>10. 本政策的变更</h2>
+        <p>如果本应用的功能或数据处理方式发生变化，我们可能会更新本隐私政策。发布更新时，上方的生效日期会随之修改。重大变更会通过应用内更新后的政策或其他法律要求的通知方式披露。</p>
+      </section>
+
+      <section>
+        <h2>11. 联系方式</h2>
+        <p>开发者：<strong>Fundays</strong>。</p>
+        <p>如有隐私问题，请使用 Bus Puzzle 在 Google Play 商店页面上展示的开发者联系邮箱。Google Play 商店页面应始终提供一个由 Fundays 负责查看的有效邮箱地址。</p>
+      </section>
+
+      <section class="legal-summary">
+        <h2>Google Play 数据安全摘要</h2>
+        <ul>
+          <li>收集的数据：<strong>应用活动、崩溃和 ANR 诊断信息、应用和设备信息，以及应用和会话的安装标识符</strong></li>
+          <li>共享的数据：<strong>由 Google 处理，用于提供 Analytics 和 Crashlytics 服务；最终分类需在 Play 管理中心核实</strong></li>
+          <li>用户账号：<strong>不提供</strong></li>
+          <li>广告数据：<strong>已关闭广告 ID 收集和广告个性化</strong></li>
+        </ul>
+      </section>
+
+      <footer class="legal-footer">
+        <a class="legal-swap" href="用户协议.html" data-swap>查看用户协议</a>
+        <span>Bus Puzzle · Fundays</span>
+      </footer>
+    </article>
+
+    <!-- ======================= English original ======================= -->
+    <article class="legal-card" data-view="en" lang="en">
+      <header>
+        <p class="legal-kicker">BUS PUZZLE</p>
+        <h1>Privacy Policy</h1>
+        <p class="legal-date">Effective date: November 2, 2026</p>
+      </header>
+
+      <section>
+        <h2>1. Overview</h2>
+        <p>Fundays (“we,” “us,” or “our”) provides the mobile game <strong>Bus Puzzle</strong>, package name <code>com.fundays.buspuzzle</code> (the “App”). This Privacy Policy explains how the App handles information.</p>
+        <p>The gameplay content is bundled locally. After the first-run Terms and Privacy notice is accepted, the App uses Google Analytics for Firebase and Firebase Crashlytics to process limited usage, crash, and technical data as described below.</p>
+      </section>
+
+      <section>
+        <h2>2. Firebase Analytics and Crashlytics Data</h2>
+        <p>After the first-run notice is accepted, Google Analytics for Firebase may automatically collect an app-instance identifier, app lifecycle and interaction events, and technical information such as the app version, device model, operating-system version, language, and general region.</p>
+        <p>Firebase Crashlytics may collect crash and ANR stack traces, thread and process state, app and device technical information, Crashlytics installation and session identifiers, and breadcrumb events supplied by Analytics. The App also records a handled WebView renderer termination as a non-fatal stability event without including the visited URL or user content.</p>
+        <p>The App does not intentionally send names, email addresses, account details, contacts, photos, files, payment information, precise location, or user-entered content to Firebase. Advertising-ID collection and ad-personalization signals are disabled, no Firebase user ID is set, and the App does not provide user accounts or advertising.</p>
+      </section>
+
+      <section>
+        <h2>3. Information Stored Only on Your Device</h2>
+        <p>To operate the game, the App stores the following information locally on your device:</p>
+        <ul>
+          <li>level progress, unlocked maps, stars, win streaks, virtual coins, and booster inventory;</li>
+          <li>audio, rendering, notification-consent, and local reminder preferences; and</li>
+          <li>one-time tutorial and gameplay status flags.</li>
+        </ul>
+        <p>This information is used only to resume the game and remember your settings. It is stored in the App’s private storage through WebView local storage and Android shared preferences. It is not sent off your device.</p>
+      </section>
+
+      <section>
+        <h2>4. Notifications, Background Work, and Permissions</h2>
+        <p>On Android 13 and later, the App asks for notification permission only after you first leave gameplay for the map screen. If you allow it, AndroidX WorkManager schedules an on-device reminder approximately every two days. Android may delay background work to preserve battery.</p>
+        <p>Reminder text is selected locally from messages bundled with the App. Tapping a reminder opens the App. You can disable reminders at any time in Android notification settings.</p>
+        <p>WorkManager declares normal Android permissions used to schedule and restore background work, including wake-lock, boot-completion, network-state, and foreground-service capabilities. The local reminder does not use the network or a foreground service.</p>
+        <p>The App declares Internet and network-state permissions for Firebase Analytics and Crashlytics. The WebView game content remains local and blocks requests outside the bundled game directory; only the native Firebase SDKs use network access after the first-run notice is accepted.</p>
+      </section>
+
+      <section>
+        <h2>5. Service Providers and Sharing</h2>
+        <p>Google processes Analytics and Crashlytics data to provide Firebase services for Fundays. We do not sell personal data, use Firebase for advertising, or send advertising identifiers or Firebase user IDs. Google may use subprocessors and process data according to its Firebase, Crashlytics, and Google Analytics terms.</p>
+      </section>
+
+      <section>
+        <h2>6. Retention and Deletion</h2>
+        <p>Local game information remains on your device until it is removed. The reset control on the App’s home screen deletes game progress. To delete all locally stored App information, including preferences, clear the App’s storage in Android settings or uninstall the App.</p>
+        <p>Analytics and Crashlytics data is retained according to the settings configured for the linked Firebase and Google Analytics project. Clearing App storage or reinstalling the App replaces its local installation identifiers. For privacy requests concerning Firebase data, contact Fundays using the address on the Google Play listing.</p>
+      </section>
+
+      <section>
+        <h2>7. Security</h2>
+        <p>Local game information remains in Android’s private application storage. Firebase Analytics and Crashlytics data is transmitted over encrypted HTTPS connections. No storage or transmission method is guaranteed to be completely secure, so the App limits Firebase to the data described above and disables advertising identifiers and personalization signals.</p>
+      </section>
+
+      <section>
+        <h2>8. Children’s Privacy</h2>
+        <p>The App does not provide accounts or ask children to submit personal information. Firebase Analytics and Crashlytics are enabled only after the first-run Terms and Privacy notice is accepted. If laws applicable to children require additional consent or restrictions, Fundays must configure distribution and Firebase collection accordingly before offering the App to those users.</p>
+      </section>
+
+      <section>
+        <h2>9. International Data Transfers</h2>
+        <p>Firebase Analytics and Crashlytics data may be processed by Google and its subprocessors in countries outside the user’s country. Such processing is governed by the applicable Firebase and Google Analytics terms and data-transfer safeguards.</p>
+      </section>
+
+      <section>
+        <h2>10. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy if the App’s features or data practices change. The effective date above will be revised when an update is published. Material changes will be disclosed through an updated in-app policy or another legally required notice.</p>
+      </section>
+
+      <section>
+        <h2>11. Contact</h2>
+        <p>Developer: <strong>Fundays</strong>.</p>
+        <p>For privacy questions, use the developer contact email displayed on the Google Play store listing for Bus Puzzle. The Google Play listing should always contain a current email address monitored by Fundays.</p>
+      </section>
+
+      <section class="legal-summary">
+        <h2>Google Play Data Safety Summary</h2>
+        <ul>
+          <li>Data collected: <strong>App activity, crash and ANR diagnostics, app/device information, and app/session installation identifiers</strong></li>
+          <li>Data shared: <strong>Processed by Google to provide Analytics and Crashlytics; verify the final Play Console classification</strong></li>
+          <li>User accounts: <strong>Not provided</strong></li>
+          <li>Advertising data: <strong>Advertising ID collection and ad personalization disabled</strong></li>
+        </ul>
+      </section>
+
+      <footer class="legal-footer">
+        <a class="legal-swap" href="用户协议.html" data-swap>Terms of Use</a>
+        <span>Bus Puzzle · Fundays</span>
+      </footer>
+    </article>
+  </main>
+
+  <script>
+    (function () {
+      var TITLES = { zh: '隐私政策 · Bus Puzzle', en: 'Privacy Policy · Bus Puzzle' };
+      var root = document.documentElement;
+
+      // English by default; ?lang=zh opens the Chinese translation.
+      function setLang(lang) {
+        if (lang !== 'zh') lang = 'en';
+        root.setAttribute('data-lang', lang);
+        root.lang = lang === 'en' ? 'en' : 'zh-CN';
+        document.title = TITLES[lang];
+        document.querySelectorAll('[data-set-lang]').forEach(function (b) {
+          b.setAttribute('aria-pressed', String(b.getAttribute('data-set-lang') === lang));
+        });
+        document.querySelectorAll('a[data-swap]').forEach(function (a) {
+          a.setAttribute('href', a.getAttribute('href').split('?')[0] + '?lang=' + lang);
+        });
+      }
+
+      var fromUrl = null;
+      try { fromUrl = new URLSearchParams(location.search).get('lang'); } catch (e) { /* old browser */ }
+      setLang(fromUrl || 'en');
+
+      document.querySelectorAll('[data-set-lang]').forEach(function (b) {
+        b.addEventListener('click', function () {
+          setLang(b.getAttribute('data-set-lang'));
+          window.scrollTo(0, 0);
+        });
+      });
+    })();
+  </script>
+</body>
+</html>
